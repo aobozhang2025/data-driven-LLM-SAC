@@ -1,0 +1,10 @@
+question
+synthesis of single atom Fe supported on N-doped carbon
+
+answer
+The catalyst is synthesized with the following:
+1. Fe(acac)3 (250 mg) was added to a solution of ethylenediamine (1.80 g) in carbon tetrachloride (4.00 g), followed by the addition of SBA-15 (0.80 g). (Caution:  this is an exothermic reaction with vigorous gas evolution.) 
+2. Condensation was allowed to proceed at 90 °C for 6 h, then the mixture was dried for 12 h at 120 °C, affording a solid residue.  
+3. The residue was carbonized (3 °C min-1, 2 h) at the desired temperature under flowing Ar 
+4. then treated with an aqueous solution containing 5 wt% HF in order to remove silica. 
+5. The suspension was filtered, washed 3 times with water and dried under vacuum at 100 °C.

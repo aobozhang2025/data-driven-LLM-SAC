@@ -1,0 +1,14 @@
+question
+Synthesis of the Co doped by N supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Co(OAc)2·4H2O
+
+The synthesis procedures are as followed:
+1. A 0.5 mmol portion of Co(OAc)2·4H2O (125 mg) was dissolved in 40 mL of ethanol. 
+2. An ethanol solution (10 mL) of 1,10-phenanthroline (Phen, 1.0 mmol, 180 mg) was added dropwise, and the reaction mixture was sonicated for 30 min. 
+3. Phen (90 mg) and Mg(OH)2 (4 g) were then added, and the reaction mixture was further sonicated for 30 min. The mixture was then refluxed at 60 °C for 4 h. 
+4. The ethanol solvent was removed by rotary evaporation, and the remaining solids were dried overnight in air and finely ground. 
+5. The powder was calcinated at 900 °C for 2 h under a nitrogen atmosphere (ramping rate: 2 °C/min). A black solid was obtained. 
+6. It was stirred in a 1 M HNO3 solution at room temperature for 2 h to remove the MgO support. 
+7. The solid was further washed with ultrapure water until the filtrate became neutral. The solid was dried in air at room temperature overnight.

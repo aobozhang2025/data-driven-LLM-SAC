@@ -1,0 +1,14 @@
+question
+The synthesis of single atom Pt supported on DG
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6·6H2O
+
+The support Defective Graphene (DG) is prepared as followed:
+1. the graphene was mixed with melamine (mass ratio is 1:2) 
+2. annealed at 700 oC for 2 h and then annealed at 1150 oC for 2 h with a ramp rate of 5 oC  under an atmosphere of nitrogen.  
+
+After the preparation of Defective Graphene (DG), the catalyst are synthesized as followed:
+1. DG (30 mg) was added in 30 mL ethanol in a 50 mL beaker, the beaker was placed into ultrasonic cleaning machine and then ultrasound at room  temperature for 1 h. 
+2. Then H2PtCl6·6H2O (0.9 mg) was added into the turbid liquid and lighted by the xenon lamp for 10 minutes
+3. after washing with deionized water for three times, the prepared sample was dried and Pt@DG was finally obtained.

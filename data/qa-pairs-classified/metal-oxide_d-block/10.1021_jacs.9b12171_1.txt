@@ -1,0 +1,15 @@
+question
+synthesis of single atom Rh supported on CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Rh(III)-acetylacetonate and support CeO2
+
+The support CeO2 is prepared as followed:
+calcination of Ce(NO3)3·6H2O (Sigma-Aldrich, 99.99%) in air at 623 K for 2 h. 
+
+After the support CeO2 is prepared, the catalyst is prepared as followed:
+1. Rh(III)-acetylacetonate (Sigma-Aldrich, 97%) was dissolved in acetone and impregnated on support CeO2 in a rotary evaporator (430 mbar, 313 K). 
+2. The solid was further dried at 353 K in an oven overnight and ground into a powder. 
+3. The resulting powder was calcined in an uncapped porcelain dish (50 mm diameter) at 1073 K under a stagnant air atmosphere for 10 h using a temperature ramp from RT of 2 K/min. 
+4. Finally, the catalyst was ground and sieved to retain particles in the 100−200 μm size range. 
+5. The metal content was adjusted to achieve a preset surface-specific Rh content (after the high-temperature annealing treatment) of 1.0 ± 0.2 Mat/nm2.

@@ -1,0 +1,20 @@
+question
+Preparation of single-Sn atom supported on carbon matrix
+
+answer
+The catalyst is prepared by impregnation with support 3D carbon
+
+The support 3D carbon is prepared as followed:
+1. HY zeolite was first heated to 600 °C under a dry N2 flow in a fused quartz reactor. 
+2. Then, a mixture of ethylene gas and N2 (volume ratio = 50:50) was passed through a water bubbler and fed into the zeolite bed at 600 °C for 30 min. 
+3. The gas flow was switched to dry N2 when carbon deposition was completed. 
+4. Afterwards, the temperature was increased to 950 °C and maintained there for 2 h. 
+5. The resulting product was washed in a 0.5 M HF/0.2 M HCl solution to release carbon from the template. 
+6. Finally, the as-prepared 3D carbon was dried in a vacuum oven for 24 h at 60 °C for further utilization.  
+
+After 3D carbon is prepared, the catalyst is synthesized as followed:
+1. 2 mmol SnBr2 and 2 mmol thiourea were added into a mixed solution containing 20 ml of oleic acid and 2.5 ml of oleyamine under magnetic stirring at 80 °C for 8 h (SnS2 precursor solution). 
+2. Meanwhile, 20 mg 3D carbon was dispersed into10 ml of isopropanol under magnetic stirring at room temperature, followed by addition into the SnS2 precursor solution under magnetic stirring at room temperature for 2 h. 
+3. Then, the obtained solution was transferred to a 100 ml Teflon-lined stainless steel autoclave to perform solvothermal reaction at 200 °C for 20 h. 
+4. After cooling down to room temperature, the solid product was washed with ethanol and deionized water, collected by centrifugation and dried in a vacuum oven for 24 h at 40 °C for further utilization
+5. The product was successively leached at 80 °C in 2 M HCl for 24 h to remove SnS2 nanosheets and unstable species (Sn1-O3G).

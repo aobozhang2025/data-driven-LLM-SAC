@@ -1,0 +1,15 @@
+question
+synthesis of single atom Ni supported on MgO
+
+answer
+The catalyst is synthesized by coprecipitation
+
+The synthesis procedures are as followed:
+1. The NixMg1−x(OH)2 precursors were synthesized by coprecipitation from a Ni and Mg nitrate solution (1 M in total) and a 1 M ammonia solution as precipitating agent, in an automated lab reactor. 
+2. The equimolar mixture was chosen (as opposed to the stoichiometric one) to avoid the formation of Mg,Ni(NH3)n. 
+3. While stirring at 300 r·  min−1, both solutions were dosed at a rate of 10 g·min−1 into deionized water (300 mL) at a controlled temperature of 60 °C. 
+4. The resulting solution was aged for 1 h before cooled to room temperature. 
+5. The pH electrode was calibrated at 25 °C with the buffer solutions pH = 7 and pH = 10 (Carl Roth ±0.02). 
+6. The pH increased strongly with the first drops of ammonia (pH = 9.3) but then remained constant throughout the whole synthesis and aging processes (around pH = 8.8). 
+7. The slurry was filtrated and the precipitate washed with deionized water until the conductivity was below 0.5 mS·cm−1. 
+8. The light green  solid was dried at 80 °C for 15 h with a heating ramp of 2 °C·min−1  and then calcined in a rotating furnace at 600 °C for 3 h in a flow of  100 mL·min−1 consisting of 21% O2 in argon with a heating ramp of 2  °C·min−1.

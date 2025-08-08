@@ -1,0 +1,13 @@
+question
+synthesis of single atom Pt supported on CeO2
+
+answer
+The catalyst is prepared impregnation with metal precursor tetraammineplatinum(II) nitrate and support CeO2
+
+The catalyst is prepared as followed:
+1. Commercial ceria (MEL) was calcined at 700 °C for 5 h to reduce the number of defect sites and trigger the formation of {111} facets
+2. First, 1 g ceria was placed in a batch reactor
+3. then 0.16 ml of a 25.8 × 10−3 M tetraammineplatinum(II) nitrate (99.995%, Sigma-Aldrich) aqueous solution was added and dried under reduced pressure for 20 min at 70 °C. 
+4. This step was repeated, until the desired weight loading of Pt was achieved. 
+5. the product was first calcined at 500 °C for 5 h and then hydrothermally (10% O2 and 10% H2O in N2) treated at 800 °C for 16 h. 
+6. The product was cooled in steam to ~200 °C, and then in 10% O2/N2 to room temperature.

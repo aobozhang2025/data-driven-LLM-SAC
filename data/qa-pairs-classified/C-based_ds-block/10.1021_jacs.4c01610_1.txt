@@ -1,0 +1,9 @@
+question
+Synthesis of single atom Cu supported on nitrogen-doped carbon nanocages, denoted by Cu1/hNCNC. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2
+
+The synthesis procedures are as followed:
+1. 20 mg of hNCNC was dispersed in 100 mL of distilled water, and then 3.2 mL of Cu(NO3)2  solution (0.125 mg of Cu mL−1) and 2.5 mg of 1,10-phenanthroline hydrate were added, followed by stirring at 70 °C for 10 h. 
+2. After filtration, repeated washing with water and ethanol, and drying, the solid was calcined at 600 °C for 2 h in Ar to obtain the control catalyst of Cu1/hNCNC.

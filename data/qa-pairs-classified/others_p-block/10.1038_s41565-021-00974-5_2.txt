@@ -1,0 +1,11 @@
+question
+synthesis of single atom Bi supported on Cu 
+
+answer
+The catalyst is prepared by impregnation with metal precursor Bi(NO3)3·5H2O
+
+The synthesis procedures are as followed:
+1. First, 515 mg CuCl2·2H2O and 170 mg Bi(NO3)3·5H2O were dissolved in 2 ml isopropanol in a vial. 
+2. Under bath sonication, 2 ml propylene oxide and 0.2 ml H2O were then successively added, forming a green gel. 
+3. The green gel was aged for 1 day and dried at 60 °C under vacuum overnight. 
+4. The Bi1Cu SAA catalyst was then formed in situ by reducing the Cu–Bi precursor at a constant current density of −500 mA cm−2 for 30 min in a standard three-electrode flow cell system supplied with CO2 gas, with 0.5 M KHCO3 as electrolyte.

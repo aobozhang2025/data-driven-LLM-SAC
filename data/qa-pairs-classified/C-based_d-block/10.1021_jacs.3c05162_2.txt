@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe doped by N supported on N-doped Carbon, denoted by FeN4C SAzyme
+
+answer
+The catalyst is synthesized with the following procedures:
+1. 6 g melamine, 1.5 g L-alanine  and 30 mg Iron trichloride hexahydrate were first grinded into a homogeneous precursor by ZrO2 mortar ball.
+2. Then, 10 mL mixed solution of ethanol and hydrochloric acid  (volume ratio 5:1) added. 
+3. The slurry continued to be grinded until the ethanol evaporated. 
+4. The mixture was dried in an  oven at 80 °C and ball milled again for 20 min. 
+5. Subsequently, the fine powder mixture was undergone a two-stage pyrolysis and carbonization process at the Ar atmosphere (first stage: from 20 °C to 550 °C, maintain at 550 °C for 2 h and then  heated to 800 °C for 120 min). The heating rate of the whole process at a rate of 2 °C/min. 
+6. After cooling down to room temperature, the product was leached in 6 M HCl to remove the unstable species.

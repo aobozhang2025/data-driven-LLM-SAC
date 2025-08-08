@@ -1,0 +1,19 @@
+question
+chemical properties of Indium (In)
+
+answer
+Indium (In), a soft, silvery-white post-transition metal, possesses a unique set of chemical properties that make it a compelling candidate for single-atom catalysis. With an electron configuration of [Kr] 4d¹⁰ 5s² 5p¹, indium primarily exhibits a +3 oxidation state, although a +1 state is also possible. This versatility in oxidation states is a key attribute in its catalytic activity.
+
+Indium is relatively stable in air and water but readily dissolves in acids. It can form various compounds, most notably indium(III) oxide (In₂O₃), a semiconductor material. Its ability to act as a Lewis acid, accepting electron pairs, is fundamental to its catalytic behavior, allowing it to activate substrate molecules.
+
+question
+chemical properties of Indium(III) nitrate (In(NO₃)₃·xH₂O)
+
+answer
+A widely used In precursor due to its good solubility in various solvents, which facilitates its uniform impregnation onto support materials. Upon heating, it decomposes to form indium oxide, and under controlled conditions with a suitable support (often nitrogen-doped carbon), it can yield isolated indium atoms.
+
+question
+chemical properties of Indium(III) chloride (InCl₃)
+
+answer
+Another common choice of In precursor, indium(III) chloride is a versatile Lewis acid catalyst in its own right. Its volatility can be exploited in certain deposition techniques. Similar to the nitrate, its interaction with the support during thermal treatment is crucial for achieving single-atom dispersion.

@@ -1,0 +1,14 @@
+question
+Synthesis of isolated Cu atom anchored by zinc oxide nanosphere
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O
+
+The synthesis procedures are as followed:
+1. 0.06 g of Cu(NO3)2·3H2O and 4.8 g of Zn(NO3)2·6H2O were dispersed in 16.2 mL of deionized water, and magnetically stirred at 70 °C for 5 min to prepare solution A. 
+2. Then 1.2 g of Na2CO3 were dispersed in 12 mL of deionized water, and magnetically stirred at 70 °C for 5 min to prepare solution B.
+3. Subsequently,  solution A was added dropwise to an empty beaker at a constant speed of 5 mL min-1 by a peristaltic pump. 
+4. Solution B was added dropwise to the beaker during the addition of solution A to control the pH of the mixed solution to 8. 
+5. After all solution A was added, the mixed solution continued to react in a 70 °C water bath for 1 hour, and then aged at room temperature for 2 h to obtain a precipitate. 
+6. Then the resulting precipitate was washed by deionized water and dried under vacuum at 90 °C overnight to obtain a precursor catalyst. 
+7. Finally, the as-prepared precursor catalyst was pyrolyzed at 400 °C in an air atmosphere in a muffle furnace for 3 h

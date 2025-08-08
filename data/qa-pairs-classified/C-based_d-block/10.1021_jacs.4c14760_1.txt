@@ -1,0 +1,11 @@
+question
+Synthesis of atomically dispersed metal Fe doped by N supported on Carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Iron(III) acetylacetonate
+
+The synthesis procedures are as followed:
+1. 0.054 g Iron(III) acetylacetonate and 0.408 g ZnCl2 were added into 30 mL FA under sonication for 0.5 h to obtain a homogeneous solution of 0.01 mol  L-1. 
+2. Then the Fe3+/FA solution was transferred into a 50 mL Teflon-lined  autoclave and heated at 180 °C for 12 h. 
+3. The resulting black product was purified with deionized water and ethanol 3 times respectively and dried at  60 °C overnight. 
+4. The dried black product with atomically dispersed Zn and Fe was placed in the ceramic boat and heated at 900 °C for 2 h in a tube furnace under flowing Ar.

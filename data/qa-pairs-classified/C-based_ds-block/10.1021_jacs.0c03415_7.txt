@@ -1,0 +1,10 @@
+question
+Preparation of single atom Cu doped by N supported on C, denoted by Cu SAC/NC
+
+answer
+1. 0.5 mL NH4OH solution was mixed with 20 mL ethanol and 45 mL deionized water under ultrasound treatment for 10 min. 
+2. Then 10.0 mL dopamine-HCl (200.0 mg) solution was injected. 
+3. After that, 4 mg CuCl in 5 mL H2O was injected and stirred for 24 h. 
+4. The product was obtained by centrifugation and washed with water for three times and dried at 60oC for 12 h. 
+5. Finally, the obtained power was annealed in nitrogen atmosphere at 900 oC for 3 h with a heating rate of 5°C min-1. 
+6. After cooling down to room temperature, Cu single atoms anchored in N-doped carbon (NC) can be obtained.

@@ -1,0 +1,19 @@
+question
+Synthesis of single atom Ru supported on UiO-66, denoted by Ru1/UiO-66 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3ꞏxH2O and support UiO-66.
+
+The support is prepared as followed:
+1. 1.64 g of ZrCl4, and 1.16 g of H2BDC were first added in 80 mL DMF. 
+2. Then, 3.5 mL HCl was successively dropped into the mixture, which was stirred constantly until all solid precursors completely dissolved.  
+3. The obtained mixture was transferred to a 200 mL of hydrothermal reaction vessel with Teflon liner, which was kept at 120 °C for 24 h under static conditions. 
+4. After cooling to room temperature, the solid MOFs were collected via high-speed centrifugation and thoroughly washed with DMF for three times, with 80 °C ultra-pure water for once and with acetone for three times. 
+5. Finally, the UiO-66 were freeze-dried for 12 h prior to experiments.  
+
+After the preparation of support UiO-66, the catalyst is synthesized by the following procedures:
+1. 0.6 g UiO-66 was added to a solution containing 30 mg RuCl3ꞏxH2O dissolved in 9 mL DMF. 
+2. The mixture was sonicated for 5 minutes. 
+3. The vials thread was sealed and heated in an 85 °C isothermal oven for 24  h. 
+4. The product was collected via high-speed centrifugation and thoroughly washed with DMF for three times, with 80 °C ultra-pure water for once and with acetone for three  times. 
+5. Finally, the Ru1/UiO-66 were freeze-dried for 12 h prior to experiments.

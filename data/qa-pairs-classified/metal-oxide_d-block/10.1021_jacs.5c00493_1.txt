@@ -1,0 +1,16 @@
+question
+Preparation of single atom Ir supported on LiCoO2, denoted by Ir-LiCoO2
+
+answer
+The catalyst is synthesized with precursor Ir supported on Co3O4.
+
+The precursor Ir supported on Co3O4 is prepared as followed:
+1. CoCO3 and H2IrCl6·6H2O were dissolved in deionized water to form a homogeneous mixture,  which was subsequently evaporated to dryness.
+2. The resulting mixture was annealed in air at 550 °C for 3 hours to produce a black powder. 
+3. The powder was washed with deionized water and then dried at  60 °C for 12 hours
+
+After the preparation of precursor Ir supported on Co3O4, the catalyst is synthesized as followed:
+1. Stoichiometric amounts of Ir-Co3O4 and Li2CO3 were mixed by ball milling for 30 minutes. 
+2. To compensate for lithium loss during hightemperature calcination, 5 wt% excess Li2CO3 was added. 
+3. The mixture was calcined in air at a heating  rate of 5 °C min−1 at 480 °C for 2 hours, followed by further calcination at 950 °C for 4 hours. 
+3. The powder was washed with deionized water and then dried at  60 °C for 12 hours

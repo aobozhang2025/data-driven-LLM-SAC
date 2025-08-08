@@ -1,0 +1,13 @@
+question
+Preparation of single atom Ru supported on WC, denoted by Ru SAs/MoCx
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3.
+
+The synthesis procedures are as followed:
+1. First, 330 mg (1 mmol) Na2MoO4·2H2O was dissolved in 10 ml deionized water. 
+2. Then, 0.5 mL RuCl3  solution (10 mg·mL-1) was added to the above solution dropwise with vigorous stirring for 2 h.  
+3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. 
+4. Ru-WO-DA precursor was obtained through centrifuged and dried at  60 °C. 
+5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.
+6. The black powder was collected and further ground into more uniform and finer samples

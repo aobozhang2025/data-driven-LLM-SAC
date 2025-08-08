@@ -1,0 +1,11 @@
+question
+Preparation of single atom Cu supported on g-C3N4, denoted by CuSA/g-C3N4
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O
+
+The synthesis procedures are as followed:
+1. 5 g of dicyandiamide and 0.5 g of glucose powder were suspended in 40 mL of deionized water, followed by adding 2 μL of 0.0125 M CuCl2·2H2O into the solution under magnetic stirring. 
+2. The suspended solution was stirred under 80 °C in an oil bath for approximately 4 h and further freeze-dried overnight. 
+3. The resultant powder was transferred into a quartz boat and placed in a saturated argon-filled gas tube furnace. 
+4. Then, the powder was heated from room temperature to 800 °C with a heating rate of 3 °C min−1 and further annealed at 800 °C for 2 h under an Ar flow.

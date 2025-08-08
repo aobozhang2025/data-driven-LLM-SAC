@@ -1,0 +1,8 @@
+question
+synthesis of single atom Rh supported on CeO2
+
+answer
+The catalyst is synthesized impregnation with metal precursor RhCl3 with the following procedures:
+1.  0.5 g of CeO2 was dispersed in 10 mL of ultrapure water, followed by the dropwise addition of 1 mL of ethylenediamine solution containing 5 mmol/L RhCl3.
+2. After stirring for 6 h, the mixture was filtered, washed three times with H2O, and then dried at 80 °C overnight.
+3. The obtained powder was calcined under N2 at 400 °C for 2 min.

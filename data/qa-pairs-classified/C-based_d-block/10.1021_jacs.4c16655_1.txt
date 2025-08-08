@@ -1,0 +1,9 @@
+question
+Synthesis of single atom Fe and single atom Se doped by N supported by Carbon
+
+answer
+The catalyst is synthesized by impregnation and freeze-drying with metal precursors FeCl2 and Se powders
+
+The synthesis process are as followed:
+1. FeCl2 (10 mg), Se powders (10 mg), glucose (0.8 g), DICY (0.2 g) were co-dissolved into 5 mL H2O. 
+2. After the freeze-drying, the pyrolysis of obtained powders at 900 °C under N2 flow with a heating rate of 5 °C min-1

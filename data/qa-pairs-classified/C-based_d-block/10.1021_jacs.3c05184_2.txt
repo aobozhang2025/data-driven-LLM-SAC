@@ -1,0 +1,8 @@
+question
+synthesis of single atom Co supported on N-doped Carbon
+
+answer
+The catalyst is synthesized with the following procedures:
+1. 1 g of melamine, 1 g of L-aspartic acid, 17.5 mg of Co(acac)3 were fully ground in a mortar until evenly mixed. 
+2. Then 7.5 mL of ethanol and 1.5 mL of 4 M HCl were added, and the obtained suspension was unceasingly ground until the solvent completely evaporated. 
+3. The obtained powder was calcined in a N2 atmosphere at 2.5 °C min−1 to 600 °C for 2 h  and at 5 °C min−1 to 800 °C for 90 min and then cooled down to room temperature

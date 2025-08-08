@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Fe doped by N and O supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FeCl2·4H2O
+
+The synthesis procedures are as followed:
+1. 2.5 mmol of FeCl2·4H2O (498 mg), and 1 g of 1,10-phenanthroline (5.6 mmol) were added in 100  mL of EtOH. 
+2. The mixture was then heated at 60 °C in an oil bath for 0.5 h. 
+3. Then, magnesium hydroxide (10 g) was added to the above mixture, which was stirred for another 2 h at 60 °C. 
+4. Next, the removal of ethanol was conducted by rotary evaporation at 60 °C to gain mixed solids. 
+5. Afterward, the solids were dried for 10 h under vacuum and finely ground. 
+6. At 700 °C, the powder was calcinated under a N2 atmosphere (5 °C/min) for 2 h to obtain a black solid. 
+7. In the HNO3 solution (4 M), the black solid was stirred at room temperature (rt) overnight to remove residual metal nanoparticles and MgO. 
+8. The obtained solid was washed with deionized (DI) water three times and ethanol one time, respectively. Finally, at 100 °C, the black solid was dried for 6 h.

@@ -1,0 +1,17 @@
+question
+Synthesis of etched atomically dispersed metal Fe doped by N supported on Carbon
+
+answer
+The catalyst is synthesized with precursor atomically dispersed metal Fe doped by N supported on Carbon
+
+The synthesis procedures for precursors are as followed:
+1. 0.054 g Iron(III) acetylacetonate and 0.408 g ZnCl2 were added into 30 mL FA under sonication for 0.5 h to obtain a homogeneous solution of 0.01 mol  L-1. 
+2. Then the Fe3+/FA solution was transferred into a 50 mL Teflon-lined  autoclave and heated at 180 °C for 12 h. 
+3. The resulting black product was purified with deionized water and ethanol 3 times respectively and dried at  60 °C overnight. 
+4. The dried black product with atomically dispersed Zn and Fe was placed in the ceramic boat and heated at 900 °C for 2 h in a tube furnace under flowing Ar.  
+
+After the precursor is prepared, the etching process is as followed:
+1. 100 mg prepared precursor was dispersed in the mixed solution of 25 mL deionized water and 25 mL ethanol under sonication for 1 h at 25 °C to obtain a homogeneous ink. 
+2. And 0.6 mL 30% H2O2 was added into the ink under stir for 0.5 h at 25 °C. 
+3.. Then the ink was transferred into a 50 mL Teflon-lined autoclave and heated at 110 °C for 3 h. 
+4. The resulting black product was purified with deionized water 3 times and dried in a vacuum freeze dryer overnight

@@ -1,0 +1,18 @@
+question
+Preparation of FePc supported on carbon nanotubes, denoted by FePc-CNT  
+
+answer
+The catalyst is synthesized by impregnation:
+
+FePc is first prepared as followed:
+1. Phthalic anhydride (1.18 g), urea (2.40 g), ammonium molybdate (23.68 mg), and iron chloride hexahydrate (648.05 mg) were mixed and ground evenly, and then placed into a round-bottom flask.  
+2. The mixture was stirred at 140 oC until molten followed by adding ammonium chloride (246.05 mg) and sodium carbonate (478.56 mg), heating and stirring for 30 min. 
+3. Subsequently, the reaction mixture was placed in a crucible and heated in a muffle furnace at 240 °C at a ramp rate of 5 °C  min-1 for 3 hours and then cooled down to room temperature. 
+4. The resulting sample was boiled in 1 M hydrochloric acid, deionized water, 1 M sodium hydroxide for 30 min consecutively and then filtered  until the filtrate was colorless and neutral. 
+5. Finally, the mixture was washed with DMF, ethanol and acetone successively until the filtrate was colorless, and then dried overnight in dark at 70 °C in a  vacuum oven. 
+
+The catalyst is synthesized as followed:
+1. CNT (100 mg) was dispersed in DMF (100 mL) under sonication for 30 min, followed by adding FePc (25 mg) and sonicated for another 30 min.
+2. The resulting mixture was stirred for 2 days at room temperature.  
+3. Subsequently, the precipitate was vacuum filtered and sequentially washed with DMF and ethanol until the filtrate was colorless. 
+4. Finally, the product was collected by freeze-drying.

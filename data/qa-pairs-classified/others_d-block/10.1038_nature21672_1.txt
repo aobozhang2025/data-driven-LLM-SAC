@@ -1,0 +1,16 @@
+question
+synthesis of 2% single atom Pt supported on β-Mo2C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6•6H2O and support β-Mo2C
+
+The support is prepared as followed:
+1. 0.8 g MoO3 was loaded in the quartz tube and carburized with a CH4/H2 mixture (100 ml min−1; 20/80 v/v), with the temperature being increased  at 5 °C min−1 to 300 °C, then at 1 °C min−1 to 700 °C. 
+2. After carburization at 700 °C for 2 hours, the sample was cooled to room temperature and passivated using a 0.5% O2/He gas mixture.
+
+After the support is prepared, the catalyst is synthesized as followed:
+1. The passivated β-Mo2C support was transferred to a deaerated, aqueous solution containing an appropriate amount of chloroplatinic acid (H2PtCl6•6H2O) to achieve the desired loading. 
+2. The slurry was stirred for 3 hours, dried using evaporation, and then transferred to a freeze dryer overnight to remove any moisture. 
+3. Before catalytic evaluation, the catalyst was activated with a CH4/H2 mixture (15/85 v/v). 
+4. The activation temperature program heated the sample to 300 °C and held it there for 1 hour. 
+5. The temperature was then increased to 590 °C  at a rate of 5 °C min−1 and held there for another 2 hours.

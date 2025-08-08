@@ -1,0 +1,14 @@
+question
+synthesis of single atom Ni supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni(NO3)2 and support ZIF-8
+
+The synthesis procedures are as followed:
+1. we dissolved 6.78 g of Zn(NO3)2·6 H2O and 7.87 g of 2-methylimidazole in 800 mL of methanol (CH3OH, ≥99.8%, Honeywell), heated the solution to 60 °C, and stirred for 24 h under reflux. 
+2. Next, we collected the ZIF-8 crystals by centrifugation and thoroughly washed them two times with methanol and once with ethanol. 
+3. The obtained crystals were dried in air at 60  °C and subjected to carbonization in Ar flow at 1000 °C for 1 h. At this temperature, most of the metallic Zn evaporates from the sample, leaving behind a porous (Zn)-N-doped carbon structure (denoted as N−C). 
+4. To remove all the crystalline (not single-atomic) Zn species from the N-C support, we performed an acid washing at room temperature using 20 wt% nitric-acid (HNO3, ≥ 65%, Carl Roth) over 24 h, followed by a thorough washing and vacuum filtration of the sample with ultrapure water (at least 3 × 600 mL) until the pH of the supernatant solution reached a value larger than 5. 
+5. 200 mg of N−C was added to a solution of 20 mL of 6 mM Ni(NO3)2 in isopropanol, the suspension was sonicated for 2 h in an ultrasonic bath at ∼30 to 40 °C and then stirred for another 2 h with a magnetic stirrer at room temperature. 
+6. the dried powder was subjected to another heat treatment in Ar flow at 700 °C. 
+7. then the powder was washed with ultrapure water, centrifuged, and dried in air at 60 °C.

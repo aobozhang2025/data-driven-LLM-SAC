@@ -1,0 +1,11 @@
+question
+synthesis of single atom Pd supported on TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor sodium tetrachloropalladate solution and support TiO2
+
+The synthesis procedures are as followed:
+1. 50 mg of TiO2 (commercial P25) was dispersed in 12.5 mL of ultra-pure water under sonication.
+2. Selected amounts of sodium tetrachloropalladate solution (34 mM) was added under stirring. 
+3. Following 30  min of stirring in Ar, the resultant solution was frozen with liquid nitrogen and irradiated via a 300 W xenon lamp for 4 min. 
+4. The products were washed 4 times with ultra-pure water and dried at room temperature (RT) under vacuum for 12 h.

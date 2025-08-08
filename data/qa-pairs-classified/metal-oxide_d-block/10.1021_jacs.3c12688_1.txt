@@ -1,0 +1,15 @@
+question
+Preparation of single atom Fe doped by 1,10-phenanthroline supported on α-Al2O3
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(OAc)2 and support α-Al2O3
+
+The synthesis procedures are as followed:
+1. Fe(OAc)2 (97.4 mg, 0.5 mmol) and 1,10-phenanthroline (1 mmol)  (Fe:phenanthroline = 1:2 molar ratio) were stirred in ethanol (20 mL) for approximately 20 minutes at room temperature. 
+2. Then the support nano α-Al2O3 (696 mg) was added and the mixture was stirred at 60 °C for 4 hours.  
+3. The ethanol was removed in vacuo and a reddish-brown sample was obtained. 
+4. The sample was grinded to a fine powder which was transferred into a ceramic crucible and then placed in the oven. 
+5. The oven was flushed with argon for 30 minutes. 
+6. Then the oven was heated to 700 °C at a rate of 10 °C per min, and held at 700 °C for 2 h under argon  atmosphere. 
+7. After heating the oven was switched off and cooled to room temperature. 
+During the whole process argon  was constantly passed through the oven.

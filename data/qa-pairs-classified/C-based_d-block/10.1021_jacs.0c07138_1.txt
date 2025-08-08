@@ -1,0 +1,13 @@
+question
+Synthesis of Pt single atoms supported by C particles with high sulfur content
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6·5.5H2O and support zeolite-templated carbons (ZTCs). 
+
+The synthesis procedures are as followed:
+1. The S-doped ZTCs were synthesized by chemical vapor deposition (CVD) of acetylene/H2S mixed gas on NaX zeolite at 823 K. 
+2. After CVD, the samples were heat-treated at 1073 K (2 K/min ramp) for 3 h under 80 mL/min 5% H2S/He to produce carbons with high sulfur content. 
+3. After cooling to room temperature, the resulting samples were etched with 800 mL of an HCl/HF (1.1/0.8 wt %) aqueous solution twice to remove the zeolite template. 
+4. Typically, 0.3 g of carbon was dispersed in 100 mL of deionized water containing 0.04 g of H2PtCl6·5.5H2O (5 wt % Pt loading). 
+5. The water was evaporated at 353 K under 300 mbar. 
+6. The resultant powder was further dried overnight in an oven at 353 K and subsequently reduced at 523 K for 3 h under a 200 mL/min H2 flow.

@@ -1,0 +1,11 @@
+question
+Preparation of single atom Pt doped by Polyoxometalate supported on active carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Pt(acac)2 and support active carbon (AC)
+
+The synthesis procedures are as followed:
+1. in a 15 mL centrifuge tube containing 0.9 g of AC, an Polyoxometalate (Phosphomolybdic acid (H3PMo12O40, PMA), phosphotungstic acid (H3PW12O40, PTA), silicomolybdic acid (H4SiMo12O40, SMA), or tungstosilicic acid (H4SiW12O40, STA) ) solution (54 μmol, 100 mg in 10 mL acetone) was introduced dropwise and mixed with AC by vigorous stirring (800 rpm for 5 h) and sonication (5 min). 
+2. Afterward, the sample was centrifuged at 8000 rpm for 3 min and dried in an oven at 70 °C for 0.5 h. 
+3. The same steps were applied for the loading of an equimolar amount of Pt(acac)2 (54 μmol, 0.017 g in 1 mL of acetone)  onto SMA-modified AC.
+4. Finally, the dried sample was reduced in 5% H2/N2 (gas flow rate: 100 mL/min) at 160 °C for 1 h.

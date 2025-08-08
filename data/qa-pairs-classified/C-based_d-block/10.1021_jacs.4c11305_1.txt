@@ -1,0 +1,19 @@
+question
+Preparation of single atom Pd supported on N and S doped Carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Pd/C and support precursor ZIF-8
+
+The support precursor ZIF-8 is prepared as followed:
+1. 1.069 mg Zn(NO3)2·6H2O was dissolved in a 15 ml DMF and methanol mixed solvent (large particle size, 200 nm in diameter: DMF/methanol =  1/4; small particle size, 50 nm in diameter: DMF/methanol = 4/1, volume ratio) in flask  A, and then stirred for 5 min to form a clear solution.
+2. 1.161 mg 2-methylimidazole was dissolved in 10 mL mixed solvent and stirred for 5 min to form a clear solution in flask B.
+3. Then, we added the contents of flask B dropwise into flask A at room temperature and maintained for 12 h without stirring. 
+4. The obtained white powder was washed by ethanol for 3 times and dried at 70 °C under vacuum.  
+
+After the preparation of support precursor, the catalyst is synthesized with the following procedures:
+1. 100 mg commercial Pd/C would be transferred to a ceramic boat and placed in a tube furnace 
+2. 300 mg sulfur powder was placed upwind from Pd/C. 
+3. The sample was heated at 600 °C with a heating rate of 5 °C·min-1 and kept for 2 h  under flowing nitrogen gas to ensure the Pd NPs were completely poisoned by sulfur 
+4. 50 mg prepared Pd-S/C was mixed with 200 mg ZIF-8 in 15 ml ethanol and stirred in an open flask at 75 °C until dried. 
+5. The mixture would be further grind to ensure its uniformity  (Pd-S/C/ZIF-8). 
+6. The mixture was transferred to a tube furnace, heated to 950 °C (heating rate of 5 °C · min-1) under flowing nitrogen gas, kept for 3 h, and then cooled to room temperature naturally.

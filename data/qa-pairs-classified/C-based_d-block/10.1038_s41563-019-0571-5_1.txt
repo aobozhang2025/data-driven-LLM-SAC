@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Co supported on N-doped graphene reduced at 500 C
+
+answer
+The catalyst is prepared by impregnation with metal precursor CoCl2·6H2O and support precursor graphene oxide (GO)
+
+The catalyst is prepared as followed:
+1. graphene oxide (GO) was washed with hydrochloric acid solution and acetone to remove the metal impurities (for example, manganese) that are left during the Hummers method of producing GO 
+2. It was then dried in an electric oven at 40 °C overnight. 
+3. 30 mg of acid-treated GO was dispersed in 30 ml of water. 
+4. CoCl2·6H2O was dispersed in water (3 mg ml−1) and 202 ul of the solution was added into the GO solution. 
+5. The mixed solution was sonicated for 1 h and then freeze-dried for 2 days. 
+6. The prepared metal-adsorbed GO foam was collected into an alumina crucible and then placed at the centre of a tube furnace. \
+7. With the continuous feeding of ammonia (50 sccm) and argon (150 sccm) gas, the furnace was heated up to 500 °C (ramping rate = 5 °C min−1) and held at 500 °C for 1 h, followed by natural cooling under a continuous flow of Ar (150 sccm). 
+8. The collected dark greyish catalyst was dispersed in isopropanol (1 mg ml−1) for further use.

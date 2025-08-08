@@ -1,0 +1,8 @@
+question
+The synthesis of Ru array supported on Co3O4
+
+answer
+The catalyst is synthesized with the following procedures:
+1. Firstly, 0.04 g of RuCl3 and 0.14 g of Co(NO3)2‧6H2O were ultrasonically dissolved into 10 mL of deionized water and the resulting solution was stirred for 1 hour to a achieve a homogeneous mixed solution. 
+2. Subsequently, a part of the mixed solution (20 μL)  was applied drop by drop to a pre-treated carbon paper. 
+3. After natural drying, the modified carbon paper was heated from room temperature to 300 oC at 5 oC min-1 in air, then held at 300 oC for 3  hours to obtain Ru array-Co3O4.

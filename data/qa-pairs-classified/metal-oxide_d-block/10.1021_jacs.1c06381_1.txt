@@ -1,0 +1,10 @@
+question
+synthesis of single atom Pt supported on Al2O3
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6·6H2O
+
+The synthesis procedures are as followed:
+1. 0.7455 g of H2PtCl6·6H2O was dispersed onto 100 g of Al2O3 support by solution mixing, and the mixture was kept overnight.  
+2. The resulted powder was sequentially dried at 60 and 120 °C for 6 h, respectively, and then calcined at 520 °C for another 2 h. 
+3. The aluminum oxide was in a nanoparticle morphology specially fabricated as the catalyst support with a specific surface area of 190−200 m2/g, a pore volume of 0.53−0.57 mL/g, and a bulk density of 0.54−0.58 g/ cm3.

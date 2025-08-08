@@ -1,0 +1,328 @@
+The catalyst is synthesized by impregnation with metal precursor MoCl5.
+
+The N-doped carbon (NC) is first prepared as followed:
+1. GLA (0.7-0.9 g) was mixed with SBA-15 (0.5 g) by gentle grinding to obtain SBA-15-Glu. 
+2. The SBA-15-Glu was heated to 600 °C (ramping  rate: 2 °C/min) and held there for 2 h, followed by cooling down to room temperature to obtain SBA-15-Glu-600. 
+3. Next, the SBA-15 template was removed by acid etching with dilute HF aqueous solution for 24 h. 
+4. Afterwards, the pH of the solution was adjusted to neutral (pH = 7.0). 
+5. NC-600 was produced by removing water under vacuum below 50 °C. 
+6. Finally, the as-prepared sample was calcined at 900 °C (ramping rate:  5 °C/min) for 2 hours in a tube furnace under Ar atmosphere to obtain NC.  
+
+After N-doped carbon is prepared, the catalyst is synthesized as followed:
+1. 20 mg of MoCl5 was dissolved in a solution comprising of ethanol (10 mL) and water (10 mL). 
+2. Subsequently, NC-600 suspension (10 mL,100 mg/mL)  was added, and the mixture was stirred for 12 hours. 
+3. The product was washed with  water and ethanol three times each, and then collected by freeze-drying to obtain NC-600-Mo. 
+4. Finally, the fine powder mixture was undergone a two-stage pyrolysis (first stage: from 25 to 600 °C at a ramping rate of 3 °C/min, maintain at 600  °C for 2 h; second stage: from 600 to 900 °C at a ramping rate of 2 °C/min, maintain at  900 °C for 90 min) in a tubular furnace under Ar atmosphere. 
+5. After cooling down to room temperature, the final product was collected named as Mo1-NC
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor FeCl3•6H2O
+
+The synthesis procedures are as followed:
+1. 2 mL Aniline (Sigma-Aldrich) was first dissolved in 500 mL of 0.5 M HCl solution. 
+2. metal precursors (6.05 g FeCl3•6H2O) were added into the solution and the solution was stirred for 15 min. 
+3. After homogenization, 5 g ammonium peroxydisulfate (APS, (NH4)2S2O8, Sigma-Aldrich) was dissolved in the solution, to act as an oxidant to form polyaniline, followed by adding 0.4 g of the pretreated carbon. 
+4. The carbon (Ketjen EC 600JC) was previously pretreated with a mixed acid solution consisting of 500 mL of 0.5 M HCl and 100 mL of 67% HNO3 for 7-8 h at 80-90°C, in order to remove metal residues possibly present. 
+5. The pre-treatment also functionalizes the carbon with N- and O-groups, favoring interaction with polyaniline.
+6. The polymer/carbon/metal suspension was stirred for 1 hour at room temperature, refluxed afterwards for 5 h at 80-90°C and then dried at 80 °C overnight with an oil bath. 
+7. The subsequent dried powder was ball milled for 20 min, pouring the powder inside a ZrO2 vial along with 10 ZrO2 beads of 5 mm diameter, at a rotation of 875 rpm. 
+8. The milled  powder was then pyrolyzed at 900 °C for 1 h in N2. 
+9. The quartz tube was purged with N2 for 2 h before ramping the temperature at 5 °C/min up to 900 °C. 
+10. The oven temperature was held at 900°C for 1 h under N2 flow, then let to cool down overnight under N2 flow. 
+11. The powder was then twice  acid leached for 7-8 h at 80-90°C in 1.0 M H2SO4  solution
+12. the powder was pyrolyzed again after each acid washing, with the same pyrolysis protocol as described above, except that the pyrolysis duration was increased to 3 h.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O
+
+The synthesis procedures are as followed:
+1. 4.3875 g NaCl, 416 mg glucose and 0.03 mmol CoCl2·6H2O were added into 25 mL DI and stirred for 1 h to ensure the homogeneous state of the solution. 
+2. The obtained mixture was freeze-dried for 48 h and then ground by agate mortar to form fine powder.  
+3. The powder was put in the middle of the tube furnace and flushed with argon gas (Ar) for at least 30 min to eliminate air thoroughly. 
+4. The tube furnace was heated at 500 °C with the ramp rate of  5 °C/min and kept for 4 hours under the ammonia gas (NH3) atmosphere (the flow rate of NH3 was  50 sccm). 
+5. Dissolve the calcination powder in 2000 mL water and stir overnight to remove NaCl template completely, then dried at 80 °C overnight. 
+6. Calcining the black powder under 850 °C by  controlling the heating rate 5 °C/min for 4 hours under the protection of Ar
+--------------------------------------
+The catalyst is synthesized by impregnation with precursor H2PtCl6
+
+The support N-doped carbon nanotubes denoted by N-CNT is prepared as followed:
+1. First, MnO2 nanowires as the template and oxidant were prepared by the hydrothermal method. 
+2. Then 200 mg of MnO2 nanowires were added into 100 mL deionized water  (DIW) (solution A). 
+3. Pyrrole (0.51 mL) and aniline (0.39 mL) were added into 100 mL  of 0.05 M H2SO4 solution (solution B). 
+4. The above two solutions were mixed under vigorous stirring. 
+5. After continuous stirring for 4 h, a black product was obtained, which  was further subjected to rinse with a large amount of DIW to remove the residuary Mn.  
+6. Lastly, the as-obtained product was heated to 920 °C for 2 h under N2 flow to yield the  N-CNTs.  
+
+the catalyst is synthesized as followed:
+1. The as-synthesized N-CNTs (40.0 mg) were first dispersed in 20 mL DIW under  ultrasonic vibration and magnetic stirring. 
+2. A H2PtCl6 solution (2.0 mg/mL in DIW) of  268 μL was next added dropwise into the N-CNTs dispersion under stirring at ambient temperature. 
+3. After continuous stirring overnight, the solid composite was separated from the suspension by vacuum filtration. 
+4. The recovered solid was then dried at 70 °C  for 12 h and reduced in 5% H2/Ar at 160 °C for 0.5 h with a heating rate of 5 °C min-1.
+--------------------------------------
+The catalyst is synthesized by the framework of ZIF-8 synthesis with metal precursor iron (III) nitrate nonahydrate
+
+The synthesis procedures are as followed:
+1. Zinc nitrate hexahydrate (0.84 g, 2.8 mmol), iron (III) nitrate nonahydrate (0.014 g, 0.034 mmol), and CTAB (0.028 g,  0.077 mmol) were dissolved in deionized water (28 mL) followed by sonication until a solution rich in foam was formed. This solution was labeled as A. 
+2. 2-methylimidazole (12.712 g, 0.15 mmol) was dissolved in deionized water (196 mL) under sonication to form a transparent solution B.
+3. Solution A was added dropwise into solution B under vigorous stirring. 
+4. The mixture was kept under stirring at room temperature for 12 hours. 
+5. Subsequently, the resulting pale yellow powder was collected via centrifugation, washed with deionized water for five times and then methanol for another five times to remove any physically adsorbed complexes, and dried in vacuum overnight. 
+6. The as-obtained powder (200 mg) was thoroughly grinded and placed in a porcelain boat, followed by thermal treatment at 900 °C for 2 h (ramping rate 5 °C  min-1) under flowing nitrogen.
+--------------------------------------
+The catalyst is prepared by impregnation with metal precursor CoCl2(PPh3)2 and support ZIF-8
+
+The support ZIF-8 is prepared as followed:
+1. Zn(NO3)2∙6H2O (1.069 g, 3.6 mmol) was dissolved in  20 mL methanol. 
+2. Then the solution was added into 20 mL of methanol containing 2-methyimidazole (1.161 g, 14.2 mmol). 
+3. After vigorously stirring for 5 minutes, the mixed solutions were transferred into a 50 mL Telfon-lined stainless-steel autoclave and subjected to treatment at 120 oC  for 4 h. The autoclave was cooled down to room temperature. 
+4. The solid products were collected by centrifugation and washed five times with methanol.
+5. Finally, the products were dried at 70 oC under vacuum overnight.  
+
+After the support ZIF-8 is prepared, the catalyst is synthesized as followed:
+1. ZIF-8 (100 mg) were dispersed in 30 mL methanol.  
+2. Subsequently, the solution was added to 20 mL of methanol containing CoCl2(PPh3)2 (10 mg). 
+3. The mixed solutions were vigorously stirred at 40 oC for 16 hours. Afterward, the mixture was cooled down to room temperature. 
+4. The solid products (Co-P/ZIF-8) were collected by centrifugation and  washed five times with methanol. 
+5. Finally, the Co-P/ZIF-8 was placed in a tube furnace and heated under argon gas flow (100 mL/min) at a heating rate of 5 oC/min to reach a temperature of 950 oC for 3 h after drying the products at 70 oC under vacuum overnight.
+--------------------------------------
+The catalyst is synthesized by impregnation and freeze-drying with metal precursor CoCl2·6H2O and support Graphene oxide (GO)
+
+The synthesis procedures are as followed:
+1. Graphene oxide (GO) suspension was prepared by mixing 100 mg of GO powder with 100 mL of deionized water and sonicating for 3 h to obtain a homogeneous dispersion.  
+2. CoCl2·6H2O (1 mL; 3 mg mL−1) aqueous solution was added dropwise into the GO suspension under vigorous sonication and sonicated for another 30 min, followed by rapid freezing in liquid nitrogen. 
+3. The precursor was freeze-dried at −70 °C. 
+4. The dried precursor was then heated at the rate of 20 °C min−1 to 750 °C under a gas flow of 150 sccm Ar + 50 sccm NH3 and kept at this  temperature for 1 h
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor MnCl2·4H2O
+
+The synthesis procedures are as followed:
+1. 4.3875 g NaCl, 416 mg glucose and 0.03 mmol MnCl2·4H2O were added into 25 mL DI and stirred for 1 h to ensure the homogeneous state of the solution. 
+2. The obtained mixture was freeze-dried for 48 h and then ground by agate mortar to form fine powder.  
+3. The powder was put in the middle of the tube furnace and flushed with argon gas (Ar) for at least 30 min to eliminate air thoroughly. 
+4. The tube furnace was heated at 500 °C with the ramp rate of  5 °C/min and kept for 4 hours under the ammonia gas (NH3) atmosphere (the flow rate of NH3 was  50 sccm). 
+5. Dissolve the calcination powder in 2000 mL water and stir overnight to remove NaCl template completely, then dried at 80 °C overnight. 
+6. Calcining the black powder under 850 °C by  controlling the heating rate 5 °C/min for 4 hours under the protection of Ar
+--------------------------------------
+The catalyst is prepared by impregnation with metal precursor FeCl3·6H2O and support N-doped carbon
+
+The support N-doped carbon is prepared as followed:
+1. ZnCl2 (0.1 M) and formamide (30 mL) were mixed and sonicated at room temperature for 30 min to form a homogeneous solution, 
+2. and then the mixture was transferred to an autoclave and heated at 180 °C for 12 h. 
+3. After cooling, the precursor was washed twice with methanol (30 mL), purified three times with deionized water (30  mL), and dried at 60 °C overnight. 
+4. The dried precursor was milled, transferred to a quartz boat, and heated to 920 °C for 2 h at a heating rate of 5 °C·min-1 under N2 flow protection (flow rate: 30 sccm)
+
+After the preparation of support N-doped carbon the cataylst is synthesized as followed:
+1. N-doped carbon material (50 mg) and FeCl3·6H2O (2.5 mM) were dispersed in 15 mL of DMF and sonicated for 1 h, respectively. 
+2. After mixing, the mixture was stirred at room temperature for 24 h, washed three times with DMF (30 mL), and dried at 80 °C for 12 h. 
+3. Finally,  it was heated under the protection of N2 (flow rate: 30 sccm) and kept at 900 °C for 2 h at a heating rate of 5 °C min-1
+--------------------------------------
+The catalyst is prepared impregnation with metal precursor Ni(NO3)2·6H2O
+
+The catalyst is prepared as followed:
+1. first featuring the polymerization of dicyanamide (by heating 10 g, under air, at 550 °C for 3 h, at a heating rate of 10 °C min−1) yielded gCNx,
+2. and the resultant yellow powder then subjected to another heating step in air, in which 750 mg of gCNx was calcined at 520 °C for 4.5 h, using a heating rate of 2 °C min−1, to afford the nCNx scaffold. 
+3. The following step involved the impregnation of the photoactive nanosheet support with the nickel single atoms; Ni(NO3)2·6H2O in water (140 mg, 14 ml) was added to nCNx (350 mg), followed by sonication, addition of NaBH4 (1.05 g dissolved in 5 ml of Millipore water), stirring, heating (12 h at 80 °C) and rapid microwave heating. 
+4. The resulting solid was filtered, washed and dried
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor IrCl3∙xH2O and support precursor nitrogen-doped graphene support (GO–NH2)
+
+The synthesis procedures are as followed:
+1. First, to prepare the nitrogen-doped graphene support (GO–NH2), GO (purchased from CYG and used as received) was mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 2 h before cooling to room temperature. 
+2. 1 gram of IrCl3∙xH2O (Alfa Aesar) was dissolved into 200 millilitres of DI water to prepare the IrCl3 stock solution with a concentration of ~5 milligrams per millilitre. 
+3. 7 millilitres of IrCl3 stock solution were added to ~30 millilitres of purified GO–NH2 solution (~30 milligrams of GO–NH2). 
+4. Then, the mixture solution was sonicated in ice water for 15 min, followed by being quickly frozen in liquid nitrogen. 
+5. After freeze drying, the as-prepared aerogel-like powder was mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and kept at the same temperature for another 2 h before cooling to room temperature. 
+6. Finally, the powder was collected.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor Ni(acac)2 and support 
+1. Firstly, 2.5 mL ammonia water (28%) was added into a mixture of 40 mL absolute ethanol and 12 mL deionized water and stirred for 15 min, followed by addition of 2.5 mL TEOS and stirring for another 1 h to obtain the suspension of silica spheres. 
+2. Then, 15 mg Ni(acac)2 and 2.5 mL of dopamine hydrochloride solution (1 mg·mL-1) was added to allow polymerization for 24 h. 
+3. The resulting silica spheres were isolated by centrifugation, dried under vacuum at 70 °C, and heated to 850 °C at a rate of  3 °C·min-1 over 3 h under an Ar flow. 
+4. After cooling to room temperature naturally, pyrolyzed spheres were etched by hydrofluoric acid (20 % wt.) for 12 h, collected by centrifugation, washed with water and ethanol, and finally dried under vacuum at 70 °C overnight
+--------------------------------------
+The catalyst is prepared by impregnation with metal precursor Fe(NO3)3·9H2O
+
+The synthesis procedures are as followed:
+1. 100 mg lyophilized BLG powder was dispersed in a mixture of 8.0 ml ethanol and 1.9 ml PEG200. 
+2. The dispersion was then subjected to argon bubbling for 30 min to remove the dissolved oxygen, followed by irradiation under a xenon lamp with an ultraviolet filter (250–380 nm, 27.9 mW cm−2, PLS-SXE300CUV) for 10 min to generate free radicals. 
+3. Subsequently, 0.1 ml of 108.21 mg ml−1 Fe(NO3)3·9H2O EDTA solution was added dropwise to the dispersion of BLG under magnetic stirring for 12 h at 25 °C. 
+4. samples were collected by centrifugation at 4 °C, 11,100g for 10 min, washed by ethanol (10.0 ml × 6) and resuspended in 5.0 ml deionized water (pH 2).
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor Ni(NO3)2·6H2O and support ZIF-8.
+
+The support ZIF-8 is prepared as followed:
+1. 558 mg Zn(NO3)2·6H2O was dissolved in 15 ml methanol, which was subsequently added into 15 ml methanol containing 616 mg 2-methylimidazole under ultrasound for10 min at room temperature. 
+2. The ZIF-8 was then grown at room temperature for 12 h. 
+3. The as-obtained precipitates were centrifuged and washed with methanol three times and dried in vacuum at 60 oC for overnight.  
+
+After the preparation of ZIF-8, the catalyst is synthesized as followed:
+1. 300 mg ZIF-8 was ultrasonic dispersed in 50 ml methanol for 30 min
+2. then 15 mg Ni(NO3)2·6H2O dissolved in 5 ml methanol added dropwise into above solution under vigorously stirring.  
+3. After 24 h stirring, the almost white product was centrifuged and washed with methanol three times and dried in vacuum at 60 oC for overnight.  
+4. the product was placed in a tube furnace and heated to 900 oC (heating rate 5 oC/min) for 60 minutes in a stream of N2
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%).
+
+The support porphyrin-based MOF, denoted by pMOF is prepared by the following procedures:
+1. 40 mg of zirconium chloride (ZrCl4) was first dissolved in the mixture solution containing 8 mL of N,N-dimethylformamide (DMF) and 0.8 mL of water (H2O). 
+2. Then, 800 mg of benzoic acid was added into the above solution, followed by stirring vigorously for 20 min,  producing a yellowish solution.
+3. Afterwards, 40 mg of 4,4′,4′′,4′′′-(Porphine-5,10,15,20tetrayl)tetrakis(benzoic acid) (TCPP) was introduced. 
+4. The mixture was stirred for another 20 min and transferred to a 50-mL autoclave, which was maintained at 120 °C for 24 h. 
+5. The solid product was collected by centrifuge and washed thoroughly by ethanol at least 3 times and dried in a vacuum oven overnight. 
+6. A powder in auburn color was collected for further utilizations.  
+
+The catalyst is synthesized by impregnation with metal precursor Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%):
+1. 80 mg of pMOF powder was weighed and dispersed in 16 mL of DMF with stirring. 
+2. 42 mg of Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%) was dissolved in 0.8 mL of H2O with ultrasonication. 
+3. The above solution was mixed and transferred to a 50-mL autoclave, followed by heating to 80 °C for 4 h. 
+4. Then, the product was collected by centrifuge and washed thoroughly by ethanol at least 3 times. 
+5. To remove impurities and residual solvents in the MOF channels, the  resulting Rh1/pMOF was soaked and rinsed with ethanol and acetone sequentially. 
+6. Finally, the solid product was collected by centrifuge and dried in a vacuum oven at 230 °C for 36 h. 
+7. To increase the Rh loading, the above synthetic process should be repeated at least 5 times.
+--------------------------------------
+The catalyst is synthesized by the framework of ZIF synthesis
+
+The synthesis procedures are as followed:
+1. 21.3 mg Fe(NO3)3·9H2O and 0.5 g 2-methylimidazole were dispersed in a solution containing 3 mL H2O by sonication, then mixed with 20 g NaCl. 
+2. Liquid nitrogen was rapidly transferred into the above mixture and vacuum-dried in a freeze dryer for 24 h to remove the water. 
+3. The power was put into a quartz oven after purging with Ar gas three times, then heated to 1000 °C for 4 h at the heating rate of 2 °C/min under flowing Ar gas and naturally cooled to room temperature. 
+4. The black product was filtered out for NaCl and then etched in HCl solution (0.5 M) removing unstable Fe species for 24 h, finally filtered many times with water to remove the residual ions and dried in vacuum at 70 °C for 24 h.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor FePc
+
+The synthesis procedures are as followed:
+1. carbon nanotubes (CNTs) (100 mg) and a certain amount of FePc powders were separately dispersed in DMF, and both solutions were ultrasonicated for 30 min. 
+2. Then the FePc DMF solution was added into the CNTs DMF solution dropwise under vigorous stirring. 
+3. The mixed suspension was sonicated for another 30 min and further stirred for 24 h at room temperature in dark. 
+4. Then the solid was separated via vacuum filtration, and washed with DMF for three times. 
+5. Finally, the Fe-CNTs was obtained after lyophilization for 24 h.
+--------------------------------------
+The catalyst is prepared by impregnation with metal precursor CoCl2 and template SiO2 nanoparticles
+
+The synthesis procedures are as followed:
+1. First, 1.0 g of o-phenylenediamine, 0.44 g of CoCl2 and 2.0 g of SiO2 nanoparticles (10–20 nm, Aldrich) templates were mixed together by using 20 ml 1.0 M HCl solution. 
+2. Then, the mixed solution was sonicated for 0.5 h and stirred for another 0.5 h. 
+3. Subsequently, 12 ml of 1.0 M HCl solution, which contains 3.0 g of ammonium peroxydisulfate, that is, (NH4)2S2O8, was added dropwise into the above mixed solution with vigorous stirring. 
+4. After polymerization in an ice bath for nearly one day, the mixture was dried using a rotary evaporator. 
+5. Then, the dried powder was annealed under Ar atmosphere at 800 °C for 2 h. 
+6. Finally, the product was treated by alkaline (2.0 M NaOH) and acid (2.0 M H2SO4) leaching successively to remove SiO2 nanoparticles templates and unstable Co-based species, respectively
+--------------------------------------
+The catalyst is synthesized by impregnation with precursor iron(III) acetylacetonate and support ZIF-8
+
+The synthesis procedures are as followed:
+1. 100 mg ZIF-8 powder was dispersed into 30 mL of ethanol. 
+2. The suspension was sonicated to form a homogeneous dispersion. 
+3. Ethanol containing 3.8 mg iron(III) acetylacetonate was added into the ZIF-8 dispersion under stirring. 
+4. The obtained suspension was stirred in the fume hood and naturally dried. 
+5. The dried powder was ground and placed into a porcelain boat, which was heated up to 900 °C for 3 h at a rate of 5 °C/min under Ar atmosphere. 
+6. After cooling down to the room temperature, the obtained black product was leached with 1 M HCl to remove metal particles and unstable species and successively washed using distilled water. 
+7. The as-obtained black solid was dried in vacuum at 70°C
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor Y(acac)3 and support ZIF-8
+
+The synthesis procedures are as followed:
+1. 1161 mg 2-methylimidazole was dissolved in 10 mL solution  (DMF/MeOH, 4:1) with stirring (solution A). 
+2. 1069 mg Zn(NO3)2·6H2O and 352 mg Y(acac)3 were dissolved in a mixture of DMF/MeOH (15 mL, 4:1) under ultrasound for 10 min to form a clear solution (solution B). 
+3. Solution A was subsequently added into solution B with vigorous stirring and then was kept static for 12 h at room temperature. 
+4. The obtained product was collected by centrifugation, and washed with methanol for three times, and finally dried at 60 °C under  vacuum.  
+5. The powder of Y(acac)3@ZIF-8 was placed in a tube furnace and heated to 950 °C (heating  rate 2.5 °C/min) for 3 h under a flowing atmosphere of Ar
+6. The product mixed with S (mass ratio: 1:2) was carefully ground by mortar and pestle, and then sealed in a quartz ampoule. 
+7. The Y SAs/NC-S composites were then obtained from a heating process: heat at 155 °C for 12 h with a ramping rate of 1 °C min−1  and then at 300 °C for 10 min (heating rate 10 °C /min) under flowing Ar.
+--------------------------------------
+The catatyst is synthesized by impregnation with metal precursor Pd(ii) acetylacetonate and support activated carbon
+
+The synthesis procedures are as followed:
+1. Activated carbon was initially ground to obtain a powder (150–200 mesh). 
+2. Pd(ii) acetylacetonate (Aldrich) was dissolved in the required solvent (2.7 ml). 
+3. The solution was then added dropwise, with stirring, to the activated carbon (0.99 g) to obtain a catalyst with a final metal loading of 1 wt.%. 
+4. The resulting powder was dried at a temperature 5–10 °C higher than the boiling point of the solvent used for 16 h under a flow of N2. 
+5. Wherever possible, extra dry solvents sealed under nitrogen were used.
+--------------------------------------
+The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase TiO2
+
+The catalyst is prepared as followed:
+1. Commercial anatase TiO2 (50 mg) was dispersed in 10 ml H2O in a 20 ml vial under sonication for 10 min. 
+2.  A fixed amount of H2PtCl6 (50.0, 37.5, 25.0 and 12.5 μl for Pt-DSA and 0.70, 0.60, 0.50 and 0.25 wt% TiO2, respectively) are diluted with H2O to make 1 ml of aqueous Pt precursor solutions.  
+3. The Pt precursor solution was purged with Ar gas for 10 min
+4. 0.5 ml of the Pt precursor solution was injected into the TiO2 dispersion and vigorously stirred. 
+5. After 20 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. 
+6. The product was dried in an electric oven at 50 °C overnight and used for the photocatalytic HER reaction.
+--------------------------------------
+The catalyst is prepared by impregnation with metal precursor chloroplatinic acid
+
+The synthesis procedures are as followed:
+1. an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO3)3·9H2O, 1 mol l−1) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. 
+2. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. 
+3. Before characterization and reactivity testing, the samples were reduced in 10% H2/He at 250 °C for 0.5 h.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor (NH3)4Pt(NO3)2 and support dealuminated zeolite Beta containing Fe:
+1. the H form of the Beta zeolite was prepared by calcining NH4-Beta zeolite (Alfa Aesar, SiO2:Al2O3 (25:1)) in static air at 823 K for 4 h. 
+2. Then, particles of the H-BEA zeolite were suspended in a concentrated nitric acid solution (13 M), stirred, and heated in an oil bath at 373 K for 20 h. 
+3. The solution was then filtered and washed with 2 L of deionized water until the pH became neutral. 
+4. Finally, the solid was dried overnight in static air at 373 K to obtain dealuminated BEA (DeAlBEA). 
+5. 0.0581 mL of an aqueous solution containing Fe(III) nitrate nanohydrate (Sigma-Aldrich, 99.99% traces metals basis) with precursor molar concentration of 0.097 mole/L was added dropwise to the 0.3 g of DeAlBEA with continuous grinding and mixing until the water evaporated. 
+6. The solid was then dried in a furnace for 2 h at 393 K, followed by grinding for 30 min and calcination in static air at 873 K for 6 h. 
+7. The molar ratio of Fe to the original Al removed from the zeolite Beta (Fe/Al0) was kept constant at 0.24. 
+8. an aqueous solution of (NH3)4Pt(NO3)2 (SigmaAldrich, ≥ 50% Pt) was added dropwise to 0.1 g of 0.24Fe-DeAlBEA, followed by drying at 353 K for 1 h, grinding for 30 min, and calcining in static air for 2 h at 623 K.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor PdCl2 and support porous CeO2
+
+The support porous CeO2 is prepared as followed:
+1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. 
+2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. 
+3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. 
+4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained
+
+After the preparation of porous CeO2, the catalyst is synthesized as followed:
+5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. 
+6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. 
+7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (PdCl2) was added. 
+8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA
+--------------------------------------
+The catalyst is prepared impregnation with metal precursor Rh (III) nitrate hydrate and support CeO2 nanorod
+
+The support CeO2 nanorod is prepared as followed:
+1. 1.736 g of Ce(NO3)3·6H2O (Aldrich, 99.99%) was dissolved in 10ml of deionized water then added dropwise to a concentrated NaOH solution, forming a mixed solution of Ce(NO3)3. 
+2. The concentrated NaOH solution was prepared by dissolving 19.2g of NaOH (Aldrich, >98%) in 70ml of deionized water. 
+3. Then, the mixed solution of Ce(NO3)3 was maintained under vigorous stirring for 30 min before being transferred to a Teflon-lined, stainless steel autoclave for hydrothermal treatment at 100°C for 24h. 
+4. Following hydrothermal synthesis, the autoclave was cooled to room temperature. 
+5. The yellow powder thus obtained was washed with deionized water until its pH became neutral. 
+6. Finally, the powder was dried at 60°C in air for 10h. 
+
+After the support CeO2 nanorod is prepared, the catalyst is synthesized as followed:
+1. 1.0 g of CeO2 nanorods was dispersed in 50 ml of deionized water. 
+2. The mixture was sonicated for 10 min and stirred at 400 r.p.m. for 1 h; at this stage it is termed CeO2 aqueous dispersion. 
+3. Then, 5.6 mg of Rh (III) nitrate hydrate (Aldrich, ~36% Rh basis), which provided ~2.0 mg of Rh metal, was weighed and dissolved in 20 ml of deionized water. 
+4. The prepared Rh salt solution was slowly introduced into the prepared CeO2 aqueous dispersion by syringe pump at a flow rate of 0.2 ml min–1 while the aqueous solution was being stirred, creating an aqueous mixture containing both Rh3+ and CeO2 nanorods. 
+5. This aqueous mixture of Rh3+ and ceria nanorods was continuously stirred for an additional 3 h. 
+6. The pH of the mixture was carefully adjusted to 9.5 by gradual introduction of ammonium hydroxide solution (Aldrich, 28%) while the aqueous mixture was being stirred, followed by continuous stirring for an additional 5 h. 
+7. The aqueous mixture was then centrifuged at 3,000 r.p.m. for 5 min, after which the upper layer was decanted. 
+8. The solid product thus obtained was dried at 60 °C in an oven overnight and calcined in a muffle furnace at 250 °C for 2 h
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor Rhodium(III) nitrate hydrate, Rh(NO3)3·2H2O (99.9%, Sigma-Aldrich) and support TiO2 nanopowder with primary particle size at 21 nm  or so (Titania, ≥99.95%, Aeroxide P25, Sigma-Aldrich)
+
+The synthesis procedures are as followed:
+1. 500 mg of TiO2 was mixed with 50 mL of deionized water through a vigorous stirring to form a white suspension. 
+2. A 3.0 mL Rh(NO3)3· 2H2O aqueous solution (2.84 × 10−3 mol/L) was introduced to the TiO2 suspension through a precise injection with a syringe pump while the solution was vigorously stirred. The nominal loading is 0.20 wt %. 
+3. The new suspension was continuously stirred for 2 h more to allow sufficient spontaneous adsorption of metal ions. 
+4. The pH value of the mixture was carefully adjusted to 9.5 by gradually introducing an ammonium hydroxide solution, followed by vigorous stirring for another 6 h in order to reach a steady equilibrium in solution. 
+5. Then, the prepared solution was centrifuged and then dried at 60 °C overnight with a following calcination in muffle furnace at 650 °C in air for 4 h.
+--------------------------------------
+The catalyst is synthesized by impregnation with metal precursor RhCl3 and support porous CeO2
+
+The support porous CeO2 is prepared as followed:
+1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. 
+2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. 
+3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. 
+4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained
+
+After the preparation of porous CeO2, the catalyst is synthesized as followed:
+5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. 
+6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. 
+7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (RhCl3) was added. 
+8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA
+--------------------------------------
+The catalyst is synthesized by the following procedures:
+1. 0.0355 mol Zn(NO3)2•6H2O (Macklin, 99.9%) and 0.045 mol CO(NH2)2 (Macklin, 99%) were dissolved in 60 ml deionized water.
+2. 0.1 mmol Mn(NO3)2 (Aladdin, 99%) was added with stirring. 
+3. It was then transferred into 100 ml Teflon-lined autoclaves and reacted at 140 °C for 3 hours. 
+4. After cooling to room temperature, the powder precipitate was filtered and washed three times with deionized water and ethanol and then dried at 60 °C for 12 hours. 
+5. At last, the powder was calcined in a muffle furnace at 500 °C for 3 h and the zinc oxide catalyst was obtained by naturally cooling. 

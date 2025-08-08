@@ -1,0 +1,12 @@
+question
+Synthesis of Ga-N5 atomic site on macroporous inverse-opal-type carbon nitride
+
+answer
+The catalyst is prepared impregnation with metal precursor gallium nitrate and template silica
+
+The catalyst is prepared as followed:
+1. First, 800 mg of dicyandiamide was mixed with 500 μl of gallium nitrate aqueous solution of 1.6 g l–1and ground evenly until the solution was nearly dry. 
+2. Then, the mixture was freeze-dried for 12 h. 
+3. Afterwards, the product (∼0.8 g) was mixed with silica templates (1.33 g), and calcined in argon at 520 °C with a ramp rate of 5 °C min−1 for 2 h.
+4. The product was further heated to 550 °C with a ramp rate of 5 °C min −1 and kept at 550 °C for another 2 h. 
+5. The as-obtained product was etched in NH4HF2 aqueous solution for 72 h to remove the silica template completely, before being washed with deionized water three times and dried under ambient conditions.

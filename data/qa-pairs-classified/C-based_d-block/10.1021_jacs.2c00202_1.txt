@@ -1,0 +1,14 @@
+question
+Synthesis of single atom Rh supported on a nanodiamond core and a graphitic shell, denoted by Rh1/ND@G
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RhCl3 and support nanodiamond core with graphitic shell
+
+The synthesis procedures are as followed:
+1. 1g ND@G was dispersed into 150 mL DI water in a 500 mL single-neck round-bottom flask, and the mixture was ultrasonically treated for 45 min to obtain a homogeneous suspension. 
+2. Then the pH value of ND@G suspension was adjusted to about 10 by dropping 0.5 M Na2CO3 aqueous solution. 
+3. After the preparation of the support solution, 1.96 g 0.2M RhCl3 aqueous solution was dissolved in 50 mL deionized water, and the  0.5 M Na2CO3 solution was added dropwisely to the as-prepared RhCl3 solution to adjust pH to about 6. 
+4. The as-prepared Rh solution was then injected into ND@G support suspension under magnetic stirring with a micro syringe pump. 
+5. The resulting slurry was subsequently stirred for 1 h at 80 oC and then quenched with water to room temperature. 
+6. After that, the precipitate was separated by suction filtration with 2.5 L DI water. 
+7. The sample was dried at 60  oC overnight.

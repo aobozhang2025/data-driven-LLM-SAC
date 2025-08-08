@@ -1,0 +1,15 @@
+question
+synthesis of single atom Ni supported on UiO-66-NH2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O and support UiO-66-NH2
+
+The support UiO-66-NH2 is prepared as followed:
+1. 186 mg (0.8 mmol) of ZrCl4 and 145 mg (0.8 mmol) of H2ATA were dissolved in 50 mL of DMF containing 6 mL of HOAc. 
+2. After adding 0.5 mL of H2O, the mixture was transferred into a 100 mL glass flask. 
+3. The flask was kept at 120 °C for 12 h under continuous stirring. 
+4. After being cooled to room temperature, the solid was isolated by centrifuging, and washed with DMF and acetone. 
+5. The as-synthesized UiO-66-NH2 was immersed in  the acetone to exchange DMF, followed by drying at 60 °C under a vacuum
+
+After the support UiO-66-NH2 is prepared, the catalyst is synthesized as followed:
+20 mg of UiO-66-NH2, 100 mg of  NiCl2·6H2O, and 3 mL of DMF were mixed in the glass vial and  heated at 85 °C with continuous stirring for 2 h.

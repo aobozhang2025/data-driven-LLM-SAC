@@ -1,0 +1,14 @@
+question
+synthesis of single atom Pd supported on TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor tetraamminepalladium(II) nitrate solution (TAPN, 10 wt % in H2O, Sigma-Aldrich) and support TiO2
+
+The synthesis process are as followed:
+1. The high surface area TiO2 (99.5% anatase, US Research Nanomaterials, Stock no. US3838) was crushed and sieved into a powder finer than 180 μm and dried overnight at 70 °C prior to use. 
+2. 75 mL of NH4OH aqueous solution (ACS reagent, 28.0−30.0% NH3 basis, Sigma-Aldrich) was mixed with 25 mL of DI water in a 200 mL Pyrex bottle. 
+3. Then 1g of the TiO2 was added to the solution while stirring (500 rpm), resulting in a final pH of 12.7. 
+4. Separately, 16.8 μL of tetraamminepalladium(II) nitrate solution (TAPN, 10 wt % in H2O, Sigma-Aldrich) was mixed with 25 mL of above-mentioned NH4OH aqueous solution and added to a syringe pump. 
+5. Twenty mL of the prepared TAPN solution in the syringe pump was injected into the Pyrex bottle (with TiO2 and NH4OH solution) slowly at a rate of 1.2 mL/h. 
+6. After all of the TAPN solution was injected, the solid phase with Pd/TiO2 was separated with the aqueous solution via centrifuging. 
+7. The Pd/TiO2 catalyst was then dried at 70 °C (5 °C/ min) for 6 h before being calcined at 600 °C (5 °C/min) for 4 h.

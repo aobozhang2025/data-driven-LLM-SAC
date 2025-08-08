@@ -1,0 +1,10 @@
+question
+synthesis of single atom Pt supported on Fe-O
+
+answer
+The catatyst is synthesized by impregnation with metal precursor chloroplatinic acid and support ferric nitrate
+
+The synthesis procedures are as followed:
+1. co-precipitation of an aqueous solution of chloroplatinic acid (H2PtCl6.6H2O,  7.59 × 10-2 mol l-1) and ferric nitrate (Fe(NO3)3.9H2O, 1 mol l-1) with sodium carbonate (Na2CO3, 1 mol l-1) at 50 C, with the pH value of the resulting solution controlled at about 8. 
+2. The recovered solid was dried at 60 C for five hours and calcined at 400 C for five hours. 
+3. the sample were reduced in 10% H2/He at 200 C for 0.5 hours.

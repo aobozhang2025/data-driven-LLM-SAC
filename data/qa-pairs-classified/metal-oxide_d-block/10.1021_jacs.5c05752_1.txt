@@ -1,0 +1,16 @@
+question
+Synthesis of single atom Ru supported on MnO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3 and support ε-MnO2 on carbon paper (CP)
+
+The support ε-MnO2 on carbon paper (CP) is prepared as followed:
+1. a piece of  1 cm × 1.5 cm carbon paper (CP) was hydrophilised in the mixture of H2SO4 and HNO3  (VH2SO4: VHNO3 = 3:1) for 1h. 2
+2. Then the pretreated CP was transferred into 50 mL aqueous solutions composed of 0.2 M Mn(CH3COO)2·4H2O and 0.1 M Na2SO4. 
+3. A  saturated calomel reference electrode (SCE) and graphite rod were used as reference  electrode and counter electrode, respectively. 
+4. An electrochemical potential range of −1.06 V to 1.46 V (vs. SCE) was examined through cyclic voltammetry over 40 cycles. Subsequently, the electrodes were rinsed and subjected to calcination at 220 °C in a muffle furnace for a duration of 6 hours. 
+
+After the preparation of support ε-MnO2 on carbon paper (CP), the catalyst is synthesized as followed:
+1. The ε-MnO2/CP was immersed in a solution of RuCl3 with a metal Ru concentration of 5 mg mL−1 for 3 minutes, then removed and dried under an infrared lamp for 3 minutes. 
+2. This process was repeated 3 times. 
+3. Finally, the sample was placed in a muffle furnace and calcined at 350 °C for 2 hours to obtain Ru loading of 2 wt% in Ru/MnO2.

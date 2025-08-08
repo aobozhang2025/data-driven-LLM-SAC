@@ -1,0 +1,10 @@
+question
+Preparation of single atom Ni supported on Cu2O nanowires
+
+answer
+The catalyst is prepared by impregnation with the following procedures:
+1. the Cu mesh (0.2 cm × 3.0 cm) was first cleaned by 0.5 M H2SO4, which was washed with ethanol. 
+2. Next, Cu(OH)2 NWs were grown on the Cu mesh by soaking in a mixed solution of 4.0 mL of 10.0 M NaOH, 2.0 mL of 1.0 M (NH4)2S2O8, and 9.0 mL of DI water for 20.0 min. 
+3. As follows, the Cu(OH)2 NWs were washed with DI water and dried at 60 °C for 1.0 h, which was soaked in 20.0 mM NiCl2 solution for 12.0 h to go through an ion exchange process subsequently. 
+4. After ion exchange, the Ni-doped Cu(OH)2 NWs were dried at 60 °C for 1.0 h, which was followed by thermal treatment under an air atmosphere at 200 °C to produce Ni-doped CuO NWs. 
+5. Finally, Ni1Cu SAAO were prepared by the electrochemical reduction of Ni-doped CuO NWs using CA at −0.45 V vs the RHE for 2.0 h in 1.0 M KOH with 0.1 M KNO3 electrolyte.

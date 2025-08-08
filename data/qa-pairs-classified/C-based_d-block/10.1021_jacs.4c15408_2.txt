@@ -1,0 +1,16 @@
+question
+Synthesis of single atom Fe doped by N supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor ferric nitrate templated by SiO2
+
+The template polydopamine-coated silica nanospheres denoted by SiO2@PDA, is first prepared as followed:
+1. Ethanol (96 mL) and deionized water (320 mL) were mixed with NH3·H2O (4 mL), 
+2. and then TEOS (4 mL) was added to form a uniform solution. 
+3. 32 mL of the  prepared 50 g/L PDA aqueous solution was added to the mixture and stirred for 24 h. 
+4. The obtained product was washed by centrifugation with ethanol and water, and then placed in a 60  oC oven under vacuum and collected 
+
+After the synthesis of template polydopamine-coated silica nanospheres, catalyst synthesis procedures are as followed:
+1. 200 mg SiO2@PDA was dispersed  evenly in 30 mL hexane, and a certain amount of ferric nitrate solution (50 g/L) was slowly  added, ultrasonically homogenized, and then stirred for 2 h. 
+2. The resulting mixture was centrifuged, washed, and placed in a 60 oC oven under vacuum to obtain its product SiO2@FeCo/PDA. 
+3. For Fe/NC, SiO2@Fe/PDA was annealed at 900 oC in an argon atmosphere  for 2 h, and 2 mol/L NaOH solution at 80 oC for 5 h and a 0.5 mol/L H2SO4 solution at 90 oC for 3 h were used to remove the SiO2 template and excess metal ions.

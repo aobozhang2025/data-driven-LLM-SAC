@@ -1,0 +1,10 @@
+question
+Preparation of single atom Co supported on CeO2, denoted by Co-CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support CeO2
+
+The synthesis procedures are as followed:
+1. Cobalt(II) acetate tetrahydrate (Sigma-Aldrich ≥ 98%, 124.5 mg, 0.5 mmol) and Cerium dioxide (CeO2, Macklin, ≥ 99%, 700 mg) were stirred in ethanol (40 mL), and the resulting mixture was refluxed for 4 hours. 
+2. After cooling down to room temperature and the removal of the ethanol solution by rotatory evaporation, the remained solid composite was dried at 80 °C under vacuum for 12 hours, which was then grinded to fine particles. 
+3. The ground powder was then heated to 800 °C with a rate of 10 °C/min, and then pyrolyzed at  800 °C for 2 hours under argon atmosphere.

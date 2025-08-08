@@ -1,0 +1,66 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on α-MoC",
+        "output": "The catalyst is synthesized by impregnation with precursor Cu(NO3)2•6H2O and support α-MoC\n\nThe support α-MoC is prepared as followed:\n1. Ammonium paramolybdate (MA, (NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co., Ltd. \n2. The grinded powder of MA was calcined in the muffle oven to 500 oC at the rate of 10  oC/min to synthesize the precursor MoO3. \n3. Then 0.8 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. \n4. The powder was heated to 700 oC in NH3 (100 ml /min;  pre-purified gas) at a rate of 5 oC/min and kept at 700 oC for 2 h. \n4. After the sample was cooled to room temperature, the gas was then switched to CH4/H2 mixture (100 ml/min; 20/80 v/v), and the temperature was increased to 700 oC/min at 5 oC/min and held at 700 oC /min for 2 h. \n5. Finally, the  sample was passivated at room temperature using a 0.5 % O2/He gas mixture. By elemental  analysis, the Mo/C ratio is around 1:0.8. \n\nAfter α-MoC is prepared, the catalyst is synthesized as followed:\n1. Appropriate amount of  Cu(NO3)2•6H2O precursors were loaded on passivated α-MoC support to obtain the desired loading.  \n2. The slurry was stirred for 3 h, dried using vacuum evaporation first, and then transferred to freeze dryer drying overnight. \n3. Before using for catalysis, the catalyst was pretreated with CH4/H2 mixture  (15/85 v/v) with the rate of 10 oC/min to 590 oC, holding at 590 oC for an hour."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Au supported on Ni2P Nanoparticles.",
+        "output": "The catalyst is prepared with metal precursor chloroiridium acid\n\nThe single atom Au on Ni12P5 Nanoparticles, denoted by AuSA-Ni12P5, is prepared as followed:\n1. First, 2 mmol of nickel acetylacetone and 20 mg of chloroauric acid were dissolved into 10 mL of OAm and 10 mL of ODE at 120 °C in an Ar-filled glovebox. \n2. The prepared transparent solution was heated to 220 °C and kept at this temperature for 1 h. \n3. Then, 8 mmol of TPP was added into the solution, and the solution was kept at 280 °C for 2 h before cooling to room temperature. \n4. The black powder was collected and washed several times with hexane and ethanol under spinning at 10 000 rpm for 5 min. \n5. The precipitate was then redispersed in ethanol and dried in air at 60 °C for 12 h.  \n\nAfter AuSA-Ni12P5 is prepared, the catalyst is synthesized as followed:\n1. First, as-prepared 20 mg of AuSA-Ni12P5 and 0.4 g of NaH2PO3 were mixed in a porcelain ark. \n2. The porcelain ark was placed in a tube furnace with flowing Ar. \n3. The tube furnace was heated to 300 °C at a rate of 5 °C/min and held for 2 h. \n4. After cooling to room temperature, the black powders were dried in air at 60 °C for 12 h. \n5. 20 mg of the as-prepared powder was placed into a tube furnace under Ar flow at atmospheric pressure. \n6. The powder was then heated to 350 °C for 1 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Au supported on RP, denoted by Au1/RP",
+        "output": "The catalyst is synthesized by impregnation with metal precursor HAuCl4 and support Red Phosphorus (RP) \n\nThe Red Phosphorus (RP) is prepared as followed:\n1. 1.5 g of commercial red P and 20 mL of ultrapure water was mixed and transferred to a 25 mL hydrothermal reactor. \n2. After the hydrothermal reaction 200 oC for 16 hours, the samples in the reactor are washed with ultrapure water and ethanol. \n3. Subsequently, the sample was dried in a vacuum oven at 80 oC overnight.  \n\nThe catalyst is synthesized after preparation of RP:\n1. RP (200 mg) and HAuCl4 (Mass percentage of Au: 0.1%, 0.5%, and 1%) were added with  25 mL methanol. \n2. Then, the mixture was sonicated for 30 minutes, then stirred at 300 rpm for 5 hours, and died by a freeze-drying process. \n3. The obtained solid sample was calcined in a tube furnace at 125 °C for 2 hours under an H2 atmosphere (2 mL/min),  and this sample is referred to as Au/RP."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on Ni-1,4-benzenedipyrazolate (BDP), denoted by Cu1Ni-BDP",
+        "output": "The catalyst is synthesized with the following procedures:\n1. 260 mg of Ni(AcO)2·4H2O and 30 mg of  Cu(AcO)2·H2O and 50 mg of PVP were dissolved in  8 mL of H2O. \n2. 200 mg of 1,4-bis(pyrazol-4-yl)benzene (H2BDP) was dissolved in 40 mL of DMF. \n3. The two solutions were mixed and sealed in a 100 mL Teflon-lined stainless-steel autoclave, and then stirred for  20 h at 150 °C. \n4. Upon cooling, the blue solid was collected by filtration and suspended in 50 mL of methanol for two days. \n5. The MOFs were then centrifuged and washed with ethanol/diethyl ether mixture,  and finally dried in vacuum oven for 12 h to yield 320 mg (75%) of product."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on Ni-BTP, denoted by Cu1Ni-BTP",
+        "output": "The catalyst is synthesized with the following procedures:\n1. 195 mg of Ni(AcO)2·4H2O, 25 mg of Cu(AcO)2·H2O, 30 mg of PVP and 165 mg of H3BTP were successively added into 20 mL of DMF. \n2. The mixture was ultrasonicated for 0.5 h, then sealed in a 100 mL Teflon-lined stainless-steel autoclave and stirred for 20 h at 160 °C. \n3. Upon cooling, the solid was collected by filtration and suspended in 50 mL of methanol for two days.  \n4. The MOFs were then centrifuged and washed with ethanol/diethyl ether mixture, and finally dried in vacuum oven for 12 h to obtain the product."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on SnS2, denoted by Cu1/SnS2",
+        "output": "The catalyst is synthsized with metal precursor CuCl25H2O\n\nThe synthesis procedures are as followed:\n1. 5 mg of CuCl25H2O,  211.2 mg of SnCl45H2O and 135.2 mg of thioacetamide were added to 25 mL of ethanol in a 50 mL Teflon-lined stainless-steel autoclave. \n2. The autoclave was properly sealed and maintained at 150 oC for 12 h. \n3. After reaction, the autoclave was cooled down naturally to room temperature, and the product was harvested by filtration, washed five times with ethanol and dried under vacuum at 70 oC overnight."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ag supported on CdS",
+        "output": "The catalyst is synthesized by impregnation with metal precursor AgNO3 and support CdS nanorods.\n\nThe support CdS nanorods are prepared as followed:\n1. Cd(NO3)2·4H2O (2 mmol) and thiourea (8 mmol) were dissolved in 20 mL of anhydrous ethylenediamine in a 50 mL breaker and magnetically stirred until the solids dissolved completely at room temperature. \n2. Then, the mixture was transferred to a 50 mL stainless Teflon-lined autoclave, tightly sealed, and placed in a 160 °C oven for 20 h. \n3. The system was then naturally cooled to room temperature. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), a yellow solid was obtained after being dried under vacuum at 60 °C for 12 h. \n\nAfter the support CdS nanorods are prepared, the catalyst is synthesized as followed:\n1. a certain amount of AgNO3 aqueous solution (11.1 mM) was added to a suspension of CdS (50 mg) dispersed in deionized water (50 mL).\n2. Then, the mixture was stirred for 24 h in the dark at room temperature and atmosphere. \n3. The resulting yellow slurry was slightly dark compared with pure CdS nanorods. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), Cd(Ag)S catalysts were obtained after being dried under vacuum at 60 °C for 12 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on CdS",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2 and support CdS nanorods.\n\nThe support CdS nanorods are prepared as followed:\n1. Cd(NO3)2·4H2O (2 mmol) and thiourea (8 mmol) were dissolved in 20 mL of anhydrous ethylenediamine in a 50 mL breaker and magnetically stirred until the solids dissolved completely at room temperature. \n2. Then, the mixture was transferred to a 50 mL stainless Teflon-lined autoclave, tightly sealed, and placed in a 160 °C oven for 20 h. \n3. The system was then naturally cooled to room temperature. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), a yellow solid was obtained after being dried under vacuum at 60 °C for 12 h. \n\nAfter the support CdS nanorods are prepared, the catalyst is synthesized as followed:\n1. a certain amount of Cu(NO3)2 aqueous solution (11.1 mM) was added to a suspension of CdS (50 mg) dispersed in deionized water (50 mL).\n2. Then, the mixture was stirred for 24 h in the dark at room temperature and atmosphere. \n3. The resulting yellow slurry was slightly dark compared with pure CdS nanorods. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), Cd(Cu)S catalysts were obtained after being dried under vacuum at 60 °C for 12 h."
+      }
+    ]
+  }
+]

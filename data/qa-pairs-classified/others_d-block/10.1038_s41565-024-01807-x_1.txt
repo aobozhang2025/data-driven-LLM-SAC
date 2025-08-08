@@ -1,0 +1,18 @@
+question
+Synthesis of single atom Ir supported on (Co,Fe)-OH/MI
+
+answer
+The catalyst is prepared by immersion
+
+The synthesis procedures are as followed:
+1. First, 2-methylimidazole (20 mmol, MI) was dissolved into deionized water (50 ml) to form a solution, denoted as solution A. 
+2. Cobalt nitrate (2.5 mmol, Co(NO3)2∙6H2O) was dissolved in deionized water (50 ml) to form another solution, denoted as solution B
+3. Then, solution B was poured into solution A to form solution C
+4. Next, Ni foam (1 × 2 cm2) was put into solution C
+5. After soaking for 6 h, the Co-MI (that is, Co-MOF) electrode was obtained. 
+6. Subsequently, the electrode was rinsed with deionized water.  
+7. A solution was prepared by dissolving cobalt nitrate (Co(NO3)2∙6H2O, 1 mmol), iron nitrate (Fe(NO3)3∙6H2O, 1 mmol) and an Ir3+ aqueous solution (7.14 mg ml−1, 350 μl) in a mixture of deionized water (20 ml) and ethylene glycol (10 ml). 
+8. The pH value of this solution was kept at ~4.5 by adding an appropriate amount of 2 mol l−1 NaOH. 
+9. Subsequently, the pre-prepared Co-MI electrode was immersed in this solution for 20 h. 
+10. Following immersion, the Ir1/(Co,Fe)-OH/MI was obtained and washed three times using deionized water. 
+11. The mass loading of the Ir1/(Co,Fe)-OH/MI catalyst loaded on Ni foam was 0.70 mg cm−2.

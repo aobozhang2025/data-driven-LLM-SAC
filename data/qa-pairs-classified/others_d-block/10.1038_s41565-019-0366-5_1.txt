@@ -1,0 +1,11 @@
+question
+synthesis of 0.25% single atom Pt supported on α-MoC
+
+answer
+The catalyst is prepared by impregnation with metal precursor chloroplatinic acid and support α-MoC
+
+The synthesis procedures are as followed:
+1. samples with 0.25 wt% Pt loading was passivated α-MoC
+2. The slurry was stirred for 2 h under Ar protection. 
+3. The liquid was removed using a rotary evaporator under vacuum at 35 °C. 
+4. Finally, the powder was put in a frozen dryer overnight to remove the residual moisture.

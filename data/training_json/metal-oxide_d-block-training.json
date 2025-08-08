@@ -1,0 +1,810 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Mn supported on Co3O4, denoted by Mn/Co3O4",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O\n\nThe synthesis procedures are as followed:\n1. CoCl2·6H2O (0.85 g), NaCl (0.34 g) and hexamethylenetetramine (2 g) were dispersed in the 200 mL aqueous solution containing 180 mL of H2O and 20 mL of ethanol. \n2. Then, a certain amount of MnCl2 was added to the above homogeneous solution under stirring, followed by conducting the oil bath under 90 °C for 3 h, next dried at 80 °C for 24 h. \n3. Finally,  the powder was calcined at 450 °C for 2 h with a heating rate of 5 °C/min in an air atmosphere"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Zr supported on SiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor zirconium (IV) acetylacetonate (Zr(acac)4) and support SiO2\n\nThe synthesis procedures are as followed:\n1. 50 mL cyclohexane was mixed with 16 mL IGEPAL® CO-630 and 2.0 mL aqueous ammonia solution in a three-neck flask and stirred for 10 min, followed by adding 50 mL cyclohexane containing 0.66 mmol zirconium (IV) acetylacetonate (Zr(acac)4), 2.0 mL tetramethyl orthosilicate (TMOS, 98%)  and 2.0 mL octadecyltrimethoxysilane (C18TMS, 90%). \n2. After being stirred for 1 h at 30°C, the solid  product was separated via centrifuging and washed thoroughly with ethanol. \n3. After drying at 80°C for 10  h, the sample was calcined in air for 2 h at 400°C"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Ir supported on TiO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2IrCl6 and support precursor anatase TiO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial anatase TiO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 2.2 mg of H2IrCl6 are diluted with H2O to make 1 ml of aqueous Ir precursor solutions. \n3. The TiO2 dispersion and Ir precursor solution were purged with Ar gas for 10 min. \n4. The TiO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the TiO2 dispersion turned bluish, 0.5 ml of the Ir precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ru supported on CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Ruthenium nitrosyl nitrate and support CeO2 nanoparticles\n\nThe synthesis procedures are as followed:\n1. Ceria nanoparticles were prepared from it by heating in a regular muffle furnace under static conditions at 600 oC for 5 hours. \n2. To prepare the loadings of Ru on ceria of 0.05, 0.1, 0.25, 0.5, 1, 1.5, and 2 wt%, the desired amount of Ru precursor solution was dissolved in the minimum amount of water (total volume approximately equivalent to the pore of volume ceria) and added with a micropipette to the desired amount of ceria while continuously stirring with the spatula to ensure uniformity. \n3. The obtained wetted powder was dried under N2 flow at 80 oC, and then calcined at 800 oC for 1 hour in a regular muffle furnace with a ramp rate of 5 oC/min. \n4. The as-prepared Ru/Ceria powders were pressed, crushed and sieved to 60-80 mesh, and subsequently used as catalysts."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ir supported on Al2O3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor IrCl3 and support Al2O3\n\nThe synthesis procedures are as followed:\n1. IrCl3 at the corresponding mass ratio in aqueous solution was diluted to 400 mL, then Al2O3 (2.0 g) was added.  \n2. After vigorous stirring for 24 h at room temperature, the obtained solid was separated by suction filtration and subsequently washed with water. \n3. After dried at 60 °C under vacuum for 24 h, the  sample was heated to 350 °C with a heating rate of 2 °Cmin–1, and kept at 350 °C for 2 h in flowing 5% H2 in argon gas and then for about 90 min naturally cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on SiO2",
+        "output": "The catalyst is prepared by impregnation with metal precursor H2PtCl6 and support SiO2\n\nThe synthesis procedures are as followed:\n1. H2PtCl6 solution (800 μl) of appropriate concentration was added to 1 g of hydrophilic SiO2 powder. \n2. The mixture was stirred until dry and further dried in a vacuum oven at 60 °C overnight. \n3. The catalyst was reduced at 350 °C for 2 h under 10% H2/90% Ar"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Pt supported by TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O)",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O)\n\nThe support TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O) is prepared by:\n1. a mixture of 1.0 g of Degussa P25 TiO2 and 2.0 g of NaBH4 was ground thoroughly for 0.5 h. \n2. The mixture was then heated in a tube furnace at 623 K for 1 h in a vacuum (< 2.0 Pa), followed by natural cooling to room temperature. \n3. The black powders obtained after the treatment were washed 6–8 times with deionized water and then dried in a vacuum oven. \n4. The BET surface area of the as-synthesized BT was measured to be 84.4 m2 g−1.  \n5. The as-synthesized BT (50 mg) was dispersed in the aqueous solution of hydrogen peroxide (5 M, 10 ml) and stirred for 1 h at 298 K. \n6. The suspension was filtered to obtain a precipitate, which was washed with deionized water and then dried in a vacuum oven at 353 K. \n7. The BET surface area of the as-synthesized BT-O was measured to be 98.3 m2 g−1.  \n\nAfter the support TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O) is prepared, the catalyst is synthesized as followed:\nPt was introduced via a wet impregnation of substrates (50 mg) with a certain concentration of H2PtCl6 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in vacuum (< 0.1 Pa). The prepared catalyst was stored in vacuum."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on CeO2.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3 and support porous CeO2\n\nThe support porous CeO2 is prepared as followed:\n1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. \n2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. \n3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. \n4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained\n\nAfter the preparation of porous CeO2, the catalyst is synthesized as followed:\n5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. \n6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. \n7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (RuCl3) was added. \n8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA\n\n(M = Ru, Rh, Pt, Pd)"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Mo supported on MgO, denoted by Mo1/MgO",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Na2MoO4\n\nThe synthesis procedures are as followed:\n1. Mg(NO3)2·6H2O (42.6 mmol) was dissolved in 40 ml deionized water forming solution A. \n2. NaOH (68.3 mmol) and Na2MoO4 (0.1  mmol) were dissolved in 40 ml deionized water forming solution B. \n3. Then, the as-prepared solution A and B were dropwise and simultaneously added to 80 ml deionized water under magnetic stirring  (~600 rpm), during which the pH of the mixed solution was kept at 8.5 by using a pH indicator.  \n4. After titration, the resulted liquid was stirred for another 12 h. \n5. After washing by centrifugation  (10000 rpm) with ethanol and water alternately for 4 times, the product (MgAl-(MoO42-)-LDHs)  was dried at 60 °C for 6 h in the oven and grinded to white powder.  \n6. Then, the as-prepared MgAl-(MoO42-)-LDHs were thermally reduced in H2/N2 (5% of H2)  atmosphere at 300 °C for 3 h in a tube furnace, and the Mo1Al/MgO powder was obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on CoAlO",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3·3H2O and support CoAlO\n\nThe support CoAlO is prepared as followed:\n1. cobalt nitrate (4.1384g, 14.22 mmol) and aluminum nitrate (2.6672g, 7.11 mmol) were ultrasonically dissolved in 20 mL of distilled water for 10 min and marked as solution A. \n2. NaOH 1.366 g was dissolved in 20 mL of distilled water to form solution B. \n3. Solutions A and B were added drop by drop into 40 mL of deionized water under vigorous stirring, and the pH was controlled at 8.5 ± 0.3 by adjusting the dropwise rate of solutions A and B. \n4. After the dropwise addition of solution A with residue, the reaction was stirred at room temperature for 16 h. \n5. The precipitates obtained were washed by centrifugation with water/ethanol twice, respectively, and dried. \n6. After grinding into homogeneous powder, the reaction was treated at 400 °C for 2h in a 5% H2/ Ar mixture with a heating rate of 5 °C/min. \n\nAfter the support CoAlO is prepared, the catalyst is synthesized with the following procedures:\n1. cobalt nitrate (4.1384g, 14.22 mmol) and aluminum nitrate (2.6672g, 7.11 mmol) were ultrasonically dissolved in 20 mL of distilled water for 10 min and marked as solution A. \n2. 100 μL RuCl3·3H2O solution (20 mg/mL) and 1.366 g NaOH dissolved in 19.9 mL distilled water (RuCl3·3H2O solution was prepared through ultrasonic dissolved ruthenium chloride trihydrate 20 mg in 1 mL distilled water) to form solution B. \n3. Solutions A and B were added drop by drop into 40 mL of deionized water under vigorous stirring, and the pH was controlled at 8.5 ± 0.3 by adjusting the dropwise rate of solutions A and B. \n4. After the dropwise addition of solution A with residue, the reaction was stirred at room temperature for 16 h. \n5. The precipitates obtained were washed by centrifugation with water/ethanol twice, respectively, and dried. \n6. After grinding into homogeneous powder, the reaction was treated at 400 °C for 2h in a 5% H2/ Ar mixture with a heating rate of 5 °C/min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Fe supported on ZSM-5 without TPA",
+        "output": "The catalyst is synthesized by seeded growth template-free method. \n\nZSM-5 seeds are first prepared:\n1. In the first step, 15 g of colloidal silica (Ludox HS40) was dissolved in 7 mL of a NaOH solution (1 M) under stirring at 100 °C for 1 h. \n2. A separate solution was prepared by dissolving 0.45 g of sodium aluminate in 7 mL of a NaOH solution (1 M). \n3. The two solutions were mixed to obtain a synthetic aluminosilicate gel with a molar composition of 4Na2O:1Al2O3:36SiO2:460H2O. \n4. The gel was stirred vigorously at 100 °C for 2 h and transferred to a stainless-steel autoclave for crystallization at 180 °C for 48 h. \n5. The obtained crystals were collected by filtration, washed with deionized water, and dried at 100 °C to produce the ZSM-5 seeds.  \n\nAfter ZSM-5 seed are prepared, the catalyst is synthesized with the following procedures:\n1. 15 g of colloidal silica (Ludox HS40) was dissolved in 7 mL of a NaOH solution (1 M) under stirring at 100 °C for 1 h. \n2. A separate solution was prepared by dissolving 0.45 g of sodium aluminate in 7 mL of a NaOH solution (1 M). \n3. The two solutions were mixed to obtain a synthetic aluminosilicate gel with a molar composition of 4Na2O:1Al2O3:36SiO2:460H2O. \n4.1.5 mL of an aqueous solution containing 0.165 g of iron oxalate (Fe loading: 0.40 wt% in the  final product) and 0.06 g of ZSM-5 seeds were added sequentially to the gel. \n5. After stirring for 30 min, the mixture was transferred to an autoclave for crystallization at 180 °C for 48 h. \n6. The obtained crystals were collected by filtration, washed with deionized water, and dried at 80 °C. \n7. ion exchange with ammonium nitrate followed by calcination in air at 550 °C for 6 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Mo supported on Al2O3, denoted by Mo1/Al2O3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Na2MoO4\n\nThe synthesis procedures are as followed:\n1. Al(NO3)3·9H2O (42.6 mmol) was dissolved in 40 ml deionized water forming solution A. \n2. NaOH (68.3 mmol) and Na2MoO4 (0.1  mmol) were dissolved in 40 ml deionized water forming solution B. \n3. Then, the as-prepared solution A and B were dropwise and simultaneously added to 80 ml deionized water under magnetic stirring  (~600 rpm), during which the pH of the mixed solution was kept at 8.5 by using a pH indicator.  \n4. After titration, the resulted liquid was stirred for another 12 h. \n5. After washing by centrifugation  (10000 rpm) with ethanol and water alternately for 4 times, the product (MgAl-(MoO42-)-LDHs)  was dried at 60 °C for 6 h in the oven and grinded to white powder.  \n6. Then, the as-prepared MgAl-(MoO42-)-LDHs were thermally reduced in H2/N2 (5% of H2)  atmosphere at 300 °C for 3 h in a tube furnace, and the Mo1Al/MgO powder was obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pd doped by O supported on Fe2O3, denoted by Pd1-O/Fe2O3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Na2PdCl6 and support Fe2O3\n\nThe synthesis procedures are as followed:\n1. α-Fe2O3 without specific facet expose was synthesized by co-precipitation of an aqueous solution of ferric nitrate (Fe(NO3)3 9H2O, 1 M) and  sodium carbonate (Na2CO3, 1 M) at 50 oC, with the pH value of the resulting solution controlled at  ~8. \n2. The recovered solid was filtrated and dried and finally calcined at 500 oC for 5 h. \n3.160 mg of Fe2O3 was suspended in a mixed solvent of 30 mL H2O and 10 mL methanol at room temperature. \n4. After Na2PdCl6 (0.02 M)  was added, the solution was degassed with Ar gas for 30 min and then irradiated for 3 h by Xe  lamp. \n5. Then the catalysts were centrifuged off, washed with water, and freeze-dried."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Fe doped by 1,10-phenanthroline supported on α-Al2O3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Fe(OAc)2 and support α-Al2O3\n\nThe synthesis procedures are as followed:\n1. Fe(OAc)2 (97.4 mg, 0.5 mmol) and 1,10-phenanthroline (1 mmol)  (Fe:phenanthroline = 1:2 molar ratio) were stirred in ethanol (20 mL) for approximately 20 minutes at room temperature. \n2. Then the support nano α-Al2O3 (696 mg) was added and the mixture was stirred at 60 °C for 4 hours.  \n3. The ethanol was removed in vacuo and a reddish-brown sample was obtained. \n4. The sample was grinded to a fine powder which was transferred into a ceramic crucible and then placed in the oven. \n5. The oven was flushed with argon for 30 minutes. \n6. Then the oven was heated to 700 °C at a rate of 10 °C per min, and held at 700 °C for 2 h under argon  atmosphere. \n7. After heating the oven was switched off and cooled to room temperature. \nDuring the whole process argon  was constantly passed through the oven."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Ni on support (CeO2-sheets or CeO2-Polyhedrons or CeO2-Rods or CeO2-Octahedrons)",
+        "output": "The support CeO2-Sheets is prepared by the followed procedure:\ncalcining Ammonium Cerium (IV) Nitrate at 650 oC for 2 h under air atmosphere\n\nThe support CeO2-Polyhedrons is prepared by the following procedures:\n1. 5.0 g of Ce(NO3)3·6H2O was dissolved in 100 mL of deionized water\n2. the solution was adjusted to pH 11.0 by the addition of NH4OH (3.4 M) under magnetic stirring at room temperature. \n3. The resulting gel mixture was washed with pure water, dried in an oven at 100 °C for 12 h, and calcined at 500 °C in air for 4 h.  \n\nThe support CeO2-Rods is prepared by the following procedures:\n1. 0.868 g of Ce(NO3)3·6H2O was dissolved in 5 mL of deionized water. \n2. After that, 15 g of NaOH was dissolved in 35 mL of deionized water and added dropwise to the above aqueous cerium nitrate solution. \n3. After stirring for 30 min at room temperature, the suspension was transferred to a 100 mL stainless steel autoclave and kept at 100 oC for 24 h. \n4. The product was then centrifugated and washed with ethanol and water for three times each and then dried at 60 oC in an oven. \n5. The final CeO2-Rods powder was ground before use.  \n\nThe support CeO2-Octahedrons is prepared by the following procedures:\n1. 0.87 g of Ce(NO3)3∙6H2O and 0.0076 g of Na3PO4 were dissolved in 80 mL of distilled water. \n2. After being stirred at room temperature for 0.5 h, the mixed solution was transferred into a Telflon-lined stainless steel autoclave and heated at 170 oC for 10 h. \n3. Then the precipitates were washed with distilled water and ethanol, then dried at 60 oC for 12 h and calcined at 350 oC for 3 h in air. \n\nThe catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O\n\nThe catalyst synthesis procedures are as followed:\n1. 0.0013 g NiCl2·6H2O and 0.5 g of CeO2-S were dispersed in 20 mL of deionized water and magnetically stirred for 24 h. \n2. Then the water was evaporated at 60 oC under vacuum. \n3. The resulting solid was respectively reduced at 450 oC for 2 h under a flowing 5% H2/Ar atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom metal Co tetrahedron coordinated supported on ZnO",
+        "output": "The catalyst is synthesized by the following procedures:\n1. 0.0355 mol Zn(NO3)2•6H2O (Macklin, 99.9%) and 0.045 mol CO(NH2)2 (Macklin, 99%) were dissolved in 60 ml deionized water.\n2. 0.1 mmol Co(NO3)2 (Aladdin, 99%) was added with stirring. \n3. It was then transferred into 100 ml Teflon-lined autoclaves and reacted at 140 °C for 3 hours. \n4. After cooling to room temperature, the powder precipitate was filtered and washed three times with deionized water and ethanol and then dried at 60 °C for 12 hours. \n5. At last, the powder was calcined in a muffle furnace at 500 °C for 3 h and the zinc oxide catalyst was obtained by naturally cooling. \n6. The obtained powder was calcined in a muffle furnace at 420 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 2% single atom Pt supported on TiO2",
+        "output": "These catalysts were synthesized using impregnation of precursor H2PtCl6•6H2O over commercial support TiO2\n\nThe synthesis procedures are as followed:\n1. The slurry was stirred for 3 hours in air to remove the liquid, using the rotary evaporator under vacuum at 35 °C. \n2. The material was dried at 120 °C for 3 hours, and then calcined in the muffle oven at 500 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on TiO2 nanorods array (NRAs)",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6\n\nThe synthesis procedures are as followed:\n1. First, the FTO glass substrates were ultrasonically cleaned in a mixed solution of acetone, deionized water, and absolute ethanol for 15 min each in sequence. \n2. In a typical synthesis, a piece of cleaned FTO substrate was placed in a 75 mL quartz vessel with the conductive surface of FTO facing down.\n3. Pristine TiO2 precursor solution was prepared by adding 0.005 mol of potassium titanium oxalate to a beaker containing 30 mL of concentrated hydrochloric acid (37 wt %) and 30 mL of deionized water. \n4. After being stirred for 20 min, the quartz vessel was sealed and further treated at 190 °C for 90 min at a heating rate of 15 °C min−1 and an initial pressure of 35 bar using argon gas in a single-chamber microwave synthesis workstation (Ultrawave, Milestone). \n5. After cooling down, the FTO substrate was taken out and rinsed with deionized water and anhydrous ethanol. \n6. The FTO substrate was then dried at 60 °C for 5 h in vacuum and kept in a muffle furnace at 450 °C for 120 min  (ramping rate = 5 °C min−1).  \n7. TiO2 NRAs were placed in 25 mL of CH3CN containing 1 mM H2PtCl6, and the solution was subjected to UV (365 nm) light irradiation for 60 min.\n8. Following irradiation, the product was CH3CN and water washing and drying."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ir supported on LiCoO2, denoted by Ir-LiCoO2",
+        "output": "The catalyst is synthesized with precursor Ir supported on Co3O4.\n\nThe precursor Ir supported on Co3O4 is prepared as followed:\n1. CoCO3 and H2IrCl6·6H2O were dissolved in deionized water to form a homogeneous mixture,  which was subsequently evaporated to dryness.\n2. The resulting mixture was annealed in air at 550 °C for 3 hours to produce a black powder. \n3. The powder was washed with deionized water and then dried at  60 °C for 12 hours\n\nAfter the preparation of precursor Ir supported on Co3O4, the catalyst is synthesized as followed:\n1. Stoichiometric amounts of Ir-Co3O4 and Li2CO3 were mixed by ball milling for 30 minutes. \n2. To compensate for lithium loss during hightemperature calcination, 5 wt% excess Li2CO3 was added. \n3. The mixture was calcined in air at a heating  rate of 5 °C min−1 at 480 °C for 2 hours, followed by further calcination at 950 °C for 4 hours. \n3. The powder was washed with deionized water and then dried at  60 °C for 12 hours"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Fe supported on Ru-O nanosheets",
+        "output": "The catalyst is synthesized with the following procedures:\n1. 8 mg Ru(acac)3, 0.35 mg Fe(acac)3 and 30 mg KBr were dissolved into the mixed solution of ethanol and deionized water under magnetic stirring.  \n2. The mixture solution was dried at 60 oC to obtain the mixed powder. \n3. The obtained powder was placed in an alumina boat and heated to 260 oC for 90 min under Air in a tube furnace and then naturally cooled to room temperature to obtain the representative samples. \n4. The as-obtained  products were washed several times with DI water-ethanol mixture."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 0.08% single atom Pt supported on Fe-O",
+        "output": "The catalyst is prepared by impregnation with metal precursor chloroplatinic acid\n\nThe synthesis procedures are as followed:\n1. an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO3)3·9H2O, 1 mol l−1) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. \n2. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. \n3. Before characterization and reactivity testing, the samples were reduced in 10% H2/He at 250 °C for 0.5 h18,27."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Fabrication of Ni coordinated by 4 N and 1 O supported by BiVO4",
+        "output": "The catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O (0.2 mmol)\n\nThe synthesis procedures are as followed:\n1. NiCl2·6H2O (0.2 mmol), Zn(OAc)2 (20 mmol), and melamine (20 mmol) were mixed into the solution of methanol (150 mL) and ethanol (20 mL). 2. After refluxing and drying, the supramolecular precursor was calcinated at 450−650 °C and then increased to 800−1100 °C under a flowing argon atmosphere. \n3. Under the acid washing and ultrasonication treatment, single-atomic Ni-N4 moiety was obtained. In comparison, single-atomic Fe-N4 and Co-N4 moieties were also fabricated through  the above process by use of FeCl3·6H2O and CoCl2·6H2O replacing  NiCl2·6H2O. As-prepared single-atomic Ni-N4, Fe-N4, and Co-N4 moieties were suspended in ethanol. \n4. As-synthesized 5, 15, 25, and 35 mL of Ni-N4 solution were spin-coated onto the surface of porous BiVO4 electrodes, resulting in the formation of Ni-N4/BiVO4 photoanodes by a versatile coupling strategy under the precise regulation of the content of Ni-N4 moiety. \n5. Then, Ni-N4-O moiety on BiVO4 photoanode (noted as Ni-N4-O/BiVO4) was produced by thermal treatment at 100−400 °C for a certain time under air atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ir supported on Co-O",
+        "output": "the catalyst is synthesized by impregnation with metal precursor sodium hexachloroiridate(III) hydrate (Na3IrCl6·xH2O)\n\nthe synthesis procedures are as followed:\n1. 580 mg of cobalt(II) nitrate hexahydrate (Co(NO3)2· 6H2O) was dissolved in 20 mL of deionized (DI) water containing 30 mg of hexadecyltrimethylammonium bromide (CTAB). \n2. Then, this solution was injected into 140 mL of aqueous solution with 9.08 g of 2-methylimidazole and stirred at room temperature for 60 min. 3. The purple precipitate was collected by centrifugation and washed with ethanol five times. the ZIF-67 nanocrystals was obtained\n4. 100 mg of ZIF-67 nanocrystals was dispersed in 50 mL of DI water\n5. then 9.5  mg (2 mmol L−1) of sodium hexachloroiridate(III) hydrate (Na3IrCl6·xH2O) were dissolved in 10 mL of DI water and added into the ZIF-67 solution slowly under stirring conditions. \n6. The reaction was quenched by centrifuging the suspension after 3 h\n7. the precipitate was collected and washed twice with DI water and three times with ethanol. \n8. The Ir0.06Co2.94O4 nanocrystals were obtained  after drying the precipitate at 60 °C overnight in a vacuum oven and pyrolyzed at 300 °C in air for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ni supported on MgO",
+        "output": "The catalyst is synthesized by coprecipitation\n\nThe synthesis procedures are as followed:\n1. The NixMg1−x(OH)2 precursors were synthesized by coprecipitation from a Ni and Mg nitrate solution (1 M in total) and a 1 M ammonia solution as precipitating agent, in an automated lab reactor. \n2. The equimolar mixture was chosen (as opposed to the stoichiometric one) to avoid the formation of Mg,Ni(NH3)n. \n3. While stirring at 300 r·  min−1, both solutions were dosed at a rate of 10 g·min−1 into deionized water (300 mL) at a controlled temperature of 60 °C. \n4. The resulting solution was aged for 1 h before cooled to room temperature. \n5. The pH electrode was calibrated at 25 °C with the buffer solutions pH = 7 and pH = 10 (Carl Roth ±0.02). \n6. The pH increased strongly with the first drops of ammonia (pH = 9.3) but then remained constant throughout the whole synthesis and aging processes (around pH = 8.8). \n7. The slurry was filtrated and the precipitate washed with deionized water until the conductivity was below 0.5 mS·cm−1. \n8. The light green  solid was dried at 80 °C for 15 h with a heating ramp of 2 °C·min−1  and then calcined in a rotating furnace at 600 °C for 3 h in a flow of  100 mL·min−1 consisting of 21% O2 in argon with a heating ramp of 2  °C·min−1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on MnO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3 and support ε-MnO2 on carbon paper (CP)\n\nThe support ε-MnO2 on carbon paper (CP) is prepared as followed:\n1. a piece of  1 cm × 1.5 cm carbon paper (CP) was hydrophilised in the mixture of H2SO4 and HNO3  (VH2SO4: VHNO3 = 3:1) for 1h. 2\n2. Then the pretreated CP was transferred into 50 mL aqueous solutions composed of 0.2 M Mn(CH3COO)2·4H2O and 0.1 M Na2SO4. \n3. A  saturated calomel reference electrode (SCE) and graphite rod were used as reference  electrode and counter electrode, respectively. \n4. An electrochemical potential range of −1.06 V to 1.46 V (vs. SCE) was examined through cyclic voltammetry over 40 cycles. Subsequently, the electrodes were rinsed and subjected to calcination at 220 °C in a muffle furnace for a duration of 6 hours. \n\nAfter the preparation of support ε-MnO2 on carbon paper (CP), the catalyst is synthesized as followed:\n1. The ε-MnO2/CP was immersed in a solution of RuCl3 with a metal Ru concentration of 5 mg mL−1 for 3 minutes, then removed and dried under an infrared lamp for 3 minutes. \n2. This process was repeated 3 times. \n3. Finally, the sample was placed in a muffle furnace and calcined at 350 °C for 2 hours to obtain Ru loading of 2 wt% in Ru/MnO2."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ir supported on MgAl2O4",
+        "output": "The catalyst is prepared impregnation with support MgAl2O4\n\nThe catalyst is prepared as followed:\n1. The MgAl2O4 support (Puralox MG 28, Sasol) was calcined at 500 °C for 4 h before impregnation. \n2. Deionized water (20 ml) was added to a Pyrex bottle and the pH was adjusted with nitric acid to 2.8. \n3. The Ir nitrate precursor (8.7 wt% Ir, Furuya Metal Co.) was added into the pH-adjusted solution. \n4. The MgAl2O4 support was then added into the solution while stirring. The final pH of the solution was 9.5. The nominal Ir weight loading was 0.0025%. \n5. After 12 h of stirring, the solution was filtered out and the solid sample was dried in air for 24 h at room temperature. \n6. The sample was then dried at 80 °C and 100 °C before calcination at 500 °C for 4 h. \n7. The Ir in the solution after filtration was measured by inductively coupled plasma atomic emission spectroscopy and no Ir was detected."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Pt supported on CeO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor CeO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial CeO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 5.4 mg of H2PtCl6 are diluted with H2O to make 1 ml of aqueous Pt precursor solutions. \n3. The CeO2 dispersion and Pt precursor solution were purged with Ar gas for 10 min. \n4. The CeO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the CeO2 dispersion turned bluish, 0.5 ml of the Pt precursor solution was injected into the CeO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Rh Supported on SrTiO3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Rh(NO3)3·xH2O\n\nThe synthesis procedures are as followed:\n1. 500 mg SrTiO3 prepared according to the above-mentioned hydrothermal synthesis was massed into an evaporation dish with 39.0 mg Rh(NO3)3·xH2O (∼14 mg Rh). \n2. 1.0 mL deionized water was added and mixed for 10 min with a glass rod until homogeneous. \n3. The solid was then dried at 363 K for 8 h. \n4. The powder was collected and calcined in air in a zirconia boat in a horizontal tube furnace (Carbolite) at 673 K (ramp rate = 3 K min−1) for 4 h.\n5. The collected solid was then heated in H2 (>99.99%, Airgas) at 573 K for 1 h to yield metallic Rh"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ru supported on Co3O4, denoted by Ru-Co3O4",
+        "output": "The catalyst is synthesized by impregnation with presurcor cobalt glycerol\n\nThe synthesis procedures are as followed:\n1. 1.0 g cobalt acetate tetra-hydrate was added into a 50  mL Teflon-lined autoclave containing 30 mL glycerol under 5 h magnetic stirring to give a  uniform slurry. \n2. Then the reactor was heated to 180 °C and maintained for 4 h. \n3. After that, the  obtained viscous mixture was washed with ethanol repeatedly and dried at 60 °C.  \n4. 50 mg of cobalt glycerol was stirred with 1 mM of RuCl3 alcohol solution for 14 h at room temperature\n5. washed by centrifugation, \n6. dried under vacuum and calcined at 300 °C for 4 h in air"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on CeO2, denoted by Pt/CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor tetraammineplatinum nitrate\n\nThe synthesis procedures are as followed:\n1. First, 300 mg of commercial CeO2 was depressed into 10 mL of deionized water under vigorous stirring. \n2. Afterwards, appropriate amount of tetraammineplatinum nitrate aqueous solution (20 mg/mL) was added to the suspension for the impregnation of CeO2. \n3. The impregnated catalysts were dried overnight at 80 °C in air.  \n4. Finally, the dried precursor was calcined in a muffle furnace at 800 °C for 6 hours with  a heating rate of 5 °C min-1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ru supported on self-pillared silicalite-1 zeolite (SP-S-1)",
+        "output": "the catalyst is synthesized by impregnation with metal precursor RuCl3 and support SP-S-1\n\nthe support self-pillared silicalite-1 zeolite (SP-S-1) is prepared as followed:\n1. 12.4 g of TBPOH solution was mixed with 3.3 g of DI water. \n2. After stirring for 10 min, 12.48 g of TEOS was added. \n3. The mixture was then stirred continuously for 6 h. \n4. The obtained clear solution was transferred into a 100 mL Teflon-lined stainless steel autoclave and crystallized at 115 °C for 2 days under static conditions. \n5. The solid product was then collected by the centrifugation and washed with water several times, and then dried at 80 °C in the oven. \n6. The sample was finally calcinated in the air at 550 oC for 6 h to remove the organic template.  \n\nafter the preparation of self-pillared silicalite-1 zeolite (SP-S-1), the catalyst is synthesized as followed:\n1. 435 mg calcinated SP-S-1 was impregnated with 0.1 mL of aqueous RuCl3 solution with certain concentrations. \n2. Then the sample was dried in the oven and then reduced in flowing hydrogen of 20 mL/min with linear heating to 400 °C for  2 h and then holding for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on CeO2",
+        "output": "The catalyst is synthesized impregnation with metal precursor RhCl3 with the following procedures:\n1.  0.5 g of CeO2 was dispersed in 10 mL of ultrapure water, followed by the dropwise addition of 1 mL of ethylenediamine solution containing 5 mmol/L RhCl3.\n2. After stirring for 6 h, the mixture was filtered, washed three times with H2O, and then dried at 80 °C overnight.\n3. The obtained powder was calcined under N2 at 400 °C for 2 min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ni supported on Cu2O nanowires",
+        "output": "The catalyst is prepared by impregnation with the following procedures:\n1. the Cu mesh (0.2 cm × 3.0 cm) was first cleaned by 0.5 M H2SO4, which was washed with ethanol. \n2. Next, Cu(OH)2 NWs were grown on the Cu mesh by soaking in a mixed solution of 4.0 mL of 10.0 M NaOH, 2.0 mL of 1.0 M (NH4)2S2O8, and 9.0 mL of DI water for 20.0 min. \n3. As follows, the Cu(OH)2 NWs were washed with DI water and dried at 60 °C for 1.0 h, which was soaked in 20.0 mM NiCl2 solution for 12.0 h to go through an ion exchange process subsequently. \n4. After ion exchange, the Ni-doped Cu(OH)2 NWs were dried at 60 °C for 1.0 h, which was followed by thermal treatment under an air atmosphere at 200 °C to produce Ni-doped CuO NWs. \n5. Finally, Ni1Cu SAAO were prepared by the electrochemical reduction of Ni-doped CuO NWs using CA at −0.45 V vs the RHE for 2.0 h in 1.0 M KOH with 0.1 M KNO3 electrolyte."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 and support TiO2\n\nThe synthesis procedures are as followed:\n1. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). \n2. Next, 300 mg of metal oxide supports, which are titania (P25, Degussa) was dispersed in 20 mL of ethanol. \n3. The two solutions were mixed with vigorous stirring and dried at 60 °C. \n4. The dried sample was calcined at 400 °C for 1 h in air"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on SiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 with the following procedures:\n1.  0.5 g of SiO2 was dispersed in 10 mL of ultrapure water, followed by the dropwise addition of 1 mL of ethylenediamine solution containing 5 mmol/L RhCl3.\n2. After stirring for 6 h, the mixture was filtered, washed three times with H2O, and then dried at 80 °C overnight.\n3. The obtained powder was calcined under N2 at 400 °C for 2 min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Ir supported on CeO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2IrCl6 and support precursor CeO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial CeO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 2.2 mg of H2IrCl6 are diluted with H2O to make 1 ml of aqueous Ir precursor solutions. \n3. The CeO2 dispersion and Ir precursor solution were purged with Ar gas for 10 min. \n4. The CeO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the CeO2 dispersion turned bluish, 0.5 ml of the Ir precursor solution was injected into the CeO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Pt on support (CeO2-sheets or CeO2-Polyhedrons or CeO2-Rods or CeO2-Octahedrons)",
+        "output": "The support CeO2-Sheets is prepared by the followed procedure:\n calcining Ammonium Cerium (IV) Nitrate at 650 oC for 2 h under air atmosphere\n\nThe support CeO2-Polyhedrons is prepared by the following procedures:\n1. 5.0 g of Ce(NO3)3·6H2O was dissolved in 100 mL of deionized water\n2. the solution was adjusted to pH 11.0 by the addition of NH4OH (3.4 M) under magnetic stirring at room temperature. \n3. The resulting gel mixture was washed with pure water, dried in an oven at 100 °C for 12 h, and calcined at 500 °C in air for 4 h.  \n\nThe support CeO2-Rods is prepared by the following procedures:\n1. 0.868 g of Ce(NO3)3·6H2O was dissolved in 5 mL of deionized water. \n2. After that, 15 g of NaOH was dissolved in 35 mL of deionized water and added dropwise to the above aqueous cerium nitrate solution. \n3. After stirring for 30 min at room temperature, the suspension was transferred to a 100 mL stainless steel autoclave and kept at 100 oC for 24 h. \n4. The product was then centrifugated and washed with ethanol and water for three times each and then dried at 60 oC in an oven. \n5. The final CeO2-Rods powder was ground before use.  \n\nThe support CeO2-Octahedrons is prepared by the following procedures:\n1. 0.87 g of Ce(NO3)3∙6H2O and 0.0076 g of Na3PO4 were dissolved in 80 mL of distilled water. \n2. After being stirred at room temperature for 0.5 h, the mixed solution was transferred into a Telflon-lined stainless steel autoclave and heated at 170 oC for 10 h. \n3. Then the precipitates were washed with distilled water and ethanol, then dried at 60 oC for 12 h and calcined at 350 oC for 3 h in air. \n\nThe catalyst is synthesized by impregnation with metal precursor H2PtCl6·6H2O\n\nThe catalyst synthesis procedures are as followed:\n1. 0.0013 g H2PtCl6·6H2O and 0.5 g of CeO2-S were dispersed in 20 mL of deionized water and magnetically stirred for 24 h. \n2. Then the water was evaporated at 60 oC under vacuum. \n3. The resulting solid was respectively reduced at 300 oC for 2 h under a flowing 5% H2/Ar atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on Al2O3",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6·6H2O\n\nThe synthesis procedures are as followed:\n1. 0.7455 g of H2PtCl6·6H2O was dispersed onto 100 g of Al2O3 support by solution mixing, and the mixture was kept overnight.  \n2. The resulted powder was sequentially dried at 60 and 120 °C for 6 h, respectively, and then calcined at 520 °C for another 2 h. \n3. The aluminum oxide was in a nanoparticle morphology specially fabricated as the catalyst support with a specific surface area of 190−200 m2/g, a pore volume of 0.53−0.57 mL/g, and a bulk density of 0.54−0.58 g/ cm3."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Rh Supported on γ-Al2O3 (0.2 wt % Rh/γAl2O3)",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Rh(NO3)3·xH2O\n\nThe synthesis procedures are as followed:\n1. An appropriate amount of Rh(NO3)3· xH2O precursor was dissolved in HPLC grade water with a volume greater than the pore volume of γ-Al2O3 (SASOL, 574101). \n2. The precursor solution was introduced to the dry γ-Al2O3 powder dropwise while stirring until a slurry was obtained, indicating that the pore volume of the Al2O3 had been filled. \n3. The slurry was then left to dry in an isothermal oven overnight at 373 K before being calcined in dry air at 723 K (ramp rate = 10 K min−1) for 4 h to remove precursor counterions."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Pt supported on ZnO",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase ZnO\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial ZnO was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 50 μl of H2PtCl6 are diluted with H2O to make 1 ml of aqueous Pt precursor solutions. \n3. The ZnO dispersion and Pt precursor solution were purged with Ar gas for 10 min. \n4. The ZnO dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the ZnO dispersion turned bluish, 0.5 ml of the Pt precursor solution was injected into the ZnO dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 2% single atom Pt supported on Al2O3",
+        "output": "These catalysts were synthesized using impregnation of precursor H2PtCl6•6H2O over commercial support Al2O3\n\nThe synthesis procedures are as followed:\n1. The slurry was stirred for 3 hours in air to remove the liquid, using the rotary evaporator under vacuum at 35 °C. \n2. The material was dried at 120 °C for 3 hours, and then calcined in the muffle oven at 500 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ni supported on MFI, denoted by Ni-MFI",
+        "output": "The catalyst is synthesized with metal precursor NiCl2\n\nThe synthesis procedures are as followed:\n1. 5.6 g of TEOS was added to a solution containing 9.69 g of a tetrapropylammonium hydroxide (TPAOH) aqueous solution (20 wt%), 1.0 g of urea, and 0.05 g of isopropyl alcohol.  \n2. Then, 3.15 mL of NiCl2 (0.09 M) solution was added to the mixture. \n3. After stirring for 30 min, the initial gel was transferred to an autoclave and crystallized at 180°C for 48 h. \n4. The resulting crystals were collected by filtration, washed three times with deionized water, and dried at 80°C to obtain the as-prepared Ni-MFI-HT. \n5. The asprepared Ni-MFI-HT was then reduced in a 10 vol% H2/Ar atmosphere at 600°C for 2  h"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Ir single atoms absorbed on NiO surface, denoted by Irads-NiO",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2IrCl6·xH2O and support NiO\n\nThe NiO support is prepared as followed:\n1. In a typical protocol, a CC substrate underwent a thorough cleansing process with nitric acid, followed by multiple rinses with deionized water and ethanol under ultrasonication. \n2. Subsequently, the CC was dried completely before the electrodeposition of Ni-LDH precursors onto its surface. \n3. This electrodeposition process occurred at −1.3 V vs Ag/AgCl for 10 min in an aqueous solution containing 0.1 M Ni(NO3)2·6H2O using a typical three-electrode electrochemical workstation. \n4. The resulting samples were subsequently washed with deionized water and ethanol and then dried at 60 °C overnight. \n5. the synthesized product underwent calcination at 350 °C for 3 h at a heating rate of 3 °C min−1 followed by natural cooling to room temperature\n\nAfter the preparation of NiO, the catalyst is synthesized as followed:\n1. the NiO support was immersed in an ethanolic solution containing H2IrCl6·xH2O (6 mg/mL) for 30 min, followed by drying in an oven.\n2. Subsequently, the sample underwent annealing in air at 350 °C for 2 h  with a heating rate of 5 °C min−1 (sample loading: 2 mg/cm2) to obtain Irads-NiO."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ta supported on Co3O4",
+        "output": "The catalyst is synthesized by impregnation:\n\nThe precursor CoA is prepared as followed:\n1. mix 30 mL of isopropanol and 8 mL of glycerol evenly\n2. add 291 mg of cobalt nitrate hexahydrate, continue stirring until the solution is clear, and transfer to a Teflon  lined stainless steel autoclave, sealed and maintained at 180 oC for 6 h. \n3. After cooling to room  temperature, the solid was obtained by centrifugation, washed three times with isopropanol, and dried in vacuum oven. \n\nAfter CoA is prepared, the catalyst is synthesized as followed:\n1. 0.1 g CoA was dispersed in 20 mL deionized water under ultrasound, dispersed evenly and transferred to a Teflon lined stainless steel autoclave, sealed and maintained at 160 oC for 3 h.  \n2. After cooling to room temperature, washed with deionized water and ethanol, and dried in vacuum oven. \n3. The 60 mg product was dispersed in 50 mL ethanol, and the ethanol solution containing a certain mass fraction Ta was added to the above solution.\n4. After ultrasonic uniformity, the solid substance was obtained by rotating evaporation at 50 oC. \n5. The solid substance was pyrolyzed in an air atmosphere at 200 oC for 2 h"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Co supported on CZ",
+        "output": "The catalyst is prepared impregnation with metal precursor Co(NO3)3⋅6H2O\n\nThe catalyst is prepared as followed:\n1. 0.8 g of Pluronic P123 (Sigma-Aldrich) and the desired ratio of Ce(NO3)3⋅6H2O (Sigma-Aldrich), ZrOCl2⋅8H2O (Sigma-Aldrich) and Co(NO3)2⋅6H2O (total amount of Co, Ce and Zr was 5 mmol) were added to 16 ml of ethanol. \n2. After stirring for at least 2 h at room temperature, the homogeneous sol was transferred to an oven at 40 °C. \n3. After 48 h of ageing, the gel product was dried at 100 °C for 24 h. \n4. Calcination was carried out in air by slowly increasing the temperature from room temperature to 500 °C at a rate of 1 °C min −1, followed by a dwell of 4 h at 500 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Pd supported on (Co0.95Mo0.05)3O4",
+        "output": "The catalyst is synthesized by impregnation with metal precursor palladium nitrate hydrate\n\nThe support (Co0.95Mo0.05)3O4 is prepared as followed:\n1. 2.365 g cobalt (II) acetate tetrahydrate (Aldrich, 99.9 %) was dissolved in a mixture of 10 mL ethylene glycol (Aldrich, 99.9%) and 20 mL deionized (DI) water to form a pink solution. \n2. Then, another 30 mL aqueous solution containing 1.06 g sodium carbonate (Aldrich, 99.9%) was introduced to the prepared pink solution of cobalt salt through a syringe pump at an injection rate of 0.30 mL/min while the pink solution was being stirred vigorously. \n3. The formation of the precipitate was observed while the solution of sodium carbonate was being injected. \n4. 0.103 g sodium molybdate dihydrate (Aldrich,  99.9%) was dissolved into deionized (DI) water, forming the solution of sodium molybdate  dihydrate. \n5. Upon the injection of the solution of sodium molybdate dihydrate to the precipitate, the formed mixture was stirred vigorously for another 3 hrs. \n6. Then the precipitate was separated through centrifugation and then washed with DI water. \n7. The obtained solid product was dried at 60 oC in air for 12 hrs, then grinded into powder and calcined at 350 oC in air for 4 hrs. \n\nAfter the preparation of support (Co0.95Mo0.05)3O4, the catalyst is synthesized as followed:\n1. 1.0 g of (Co0.95Mo0.05)3O4 black powder was dispersed in 50 mL DI water. The mixture was kept at stirring (350 rpm) for 1 hr. \n2. Then palladium nitrate hydrate with desired amount determined by the nominal loading of Pd was dissolved in water. \n3. Then, the prepared solution of palladium nitrate was injected into the aqueous solution containing well dispersed (Co0.95Mo0.05)3O4 black powder. \n4. After the injection, the solution was kept for being stirred for additional 3 hrs. \n5. Then an ammonia solution was added into the solution containing well dispersed black powder of (Co0.95Mo0.05)3O4 in a dropwise manner until the pH of the solution reached 9.5. After that, the solution was stirred for an additional 12 hrs. \n6. The solid component was collected after centrifugation (3000 rpm) for 5 min. \n7. Then, the collected solid component was dried  at 60 oC in air for 12 hrs and then calcinated at 350 oC in air to obtain the as-prepared catalyst"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Fe supported on CeO2, denoted by Fe/CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor iron nitrate\n\nThe synthesis procedures are as followed:\n1. First, 300 mg of commercial CeO2 was depressed into 10 mL of deionized water under vigorous stirring. \n2. Afterwards, appropriate amount of iron nitrate ethanol solution (10 mg/mL) was added to the suspension for the impregnation of CeO2. \n3. The impregnated catalysts were dried overnight at 80 °C in air.  \n4. Finally, the dried precursor was calcined in a muffle furnace at 800 °C for 6 hours with  a heating rate of 5 °C min-1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Pt single atom supported on TiO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase TiO2\n\nThe catalyst is prepared as followed:\n1. Commercial anatase TiO2 (50 mg) was dispersed in 10 ml H2O in a 20 ml vial under sonication for 10 min. \n2.  A fixed amount of H2PtCl6 (50.0, 37.5, 25.0 and 12.5 μl for Pt-DSA and 0.70, 0.60, 0.50 and 0.25 wt% TiO2, respectively) are diluted with H2O to make 1 ml of aqueous Pt precursor solutions.  \n3. The Pt precursor solution was purged with Ar gas for 10 min\n4. 0.5 ml of the Pt precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n5. After 20 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n6. The product was dried in an electric oven at 50 °C overnight and used for the photocatalytic HER reaction."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on CeO2",
+        "output": "The catalyst is prepared impregnation with metal precursor tetraammineplatinum(II) nitrate and support CeO2\n\nThe catalyst is prepared as followed:\n1. Commercial ceria (MEL) was calcined at 700 °C for 5 h to reduce the number of defect sites and trigger the formation of {111} facets\n2. First, 1 g ceria was placed in a batch reactor\n3. then 0.16 ml of a 25.8 × 10−3 M tetraammineplatinum(II) nitrate (99.995%, Sigma-Aldrich) aqueous solution was added and dried under reduced pressure for 20 min at 70 °C. \n4. This step was repeated, until the desired weight loading of Pt was achieved. \n5. the product was first calcined at 500 °C for 5 h and then hydrothermally (10% O2 and 10% H2O in N2) treated at 800 °C for 16 h. \n6. The product was cooled in steam to ~200 °C, and then in 10% O2/N2 to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Ir single atoms embedded on NiO surface, denoted by Iremb-NiO.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2IrCl6·xH2O and support Ni-LDH\n\nThe Ni-LDH support is prepared as followed:\n1. In a typical protocol, a CC substrate underwent a thorough cleansing process with nitric acid, followed by multiple rinses with deionized water and ethanol under ultrasonication. \n2. Subsequently, the CC was dried completely before the electrodeposition of Ni-LDH precursors onto its surface. \n3. This electrodeposition process occurred at −1.3 V vs Ag/AgCl for 10 min in an aqueous solution containing 0.1 M Ni(NO3)2·6H2O using a typical three-electrode electrochemical workstation. \n\nAfter the preparation of Ni-LDH, the catalyst is synthesized as followed:\n1. the Ni-LDH support was directly immersed in an ethanolic solution containing H2IrCl6·xH2O (6 mg/mL) for 30 min, followed by drying in an oven. \n2. Subsequently, the samples were calcined in air at 350 °C  for 3 h with a heating rate of 3 °C min−1 (sample loading: 2 mg/cm2) to obtain Iremb-NiO."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on Fe3O4",
+        "output": "the catalyst is synthesized by impregnation with precursor RhCl3 \n\nthe synthesis procedures are as followed:\n1. 9.995 g Fe3O4 was first dispersed to100 mL deionized water by rigorous stirring. \n2. Then, 1 mL aqueous solution of RhCl3 (5 mg Rh/mL) was added to the suspension and mixed for 12 hours at room temperature. \n3. An excess amount of urea (urea/[Rh] = 60 mol/mol) was further added into the suspension. \n4. The Rh3+ on the support was deposited with the help of urea hydrolysis at 363 K for 6 hours. \n5. The resulting precipitate was separated, washed (with deionized water), and dried (353 K, 12 hours). \n6. The as-prepared precipitate was calcined at 723 K for 5 hours with a ramping rate of 2 K/min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Pt single atom supported on hydrogenated TiO2, denoted by Pt-SA/hydrogenated TiO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase TiO2\n\nThe catalyst is prepared as followed:\n1. The commercial anatase TiO2 was reduced at 500 °C in a 10% H2/Ar atmosphere for 1 h. \n2. Then, 50 mg of the as-synthesized hydrogenated TiO2 was dispersed in 10 ml of H2O in a 20 ml vial under sonication for 10 min. \n3. Furthermore, 50 μl of H2PtCl6 was diluted with H2O to make 1.0 ml of an aqueous Pt precursor solution\n4. 0.5 ml of the Pt precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n5. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n6. The product was dried in an electric oven at 50 °C overnight and used for photocatalytic reactions and/or characterizations."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on SiO2",
+        "output": "The catalyst is prepared by impregnation with metal precursor tetraamine platinum nitrate (TAPN, Sigma-Aldrich) and support SiO2\n\nThe synthesis procedures are as followed:\n1. 2 g of spherical, nonporous SiO2 with an average particle size of 20−30 nm (USNano) was suspended in 100 mL of deionized water (Sigma-Aldrich) with magnetic stirring. \n2. The suspension was adjusted to pH 10 using an appropriate amount of NH4OH (Sigma-Aldrich), monitored by an electronic pH meter. \n3. After reaching pH 10, it was left stirring for 10 min, and 10 mL of a solution of tetraamine platinum nitrate (TAPN, Sigma-Aldrich) was added dropwise under vigorous stirring. \n4. The resulting suspension was left to stir for 30 min before increasing the temperature to 70 °C until all water evaporated from the dish. \n5. The collected solids were further dried at 120 °C overnight prior to calcination in a tube furnace at 600 °C for 6 h in 50 sccm dry air (Airgas)."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of Pt2+ ion supported on TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O)",
+        "output": "The catalyst synthesized by impregnation with metal precursor (Pt(NH3)4)(NO3)2 and support TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O)\n\nThe support is TiO2 reduced by NaBH4 (BT) oxidized by H2O2 (BT-O) prepared by:\n1. a mixture of 1.0 g of Degussa P25 TiO2 and 2.0 g of NaBH4 was ground thoroughly for 0.5 h. \n2. The mixture was then heated in a tube furnace at 623 K for 1 h in a vacuum (< 2.0 Pa), followed by natural cooling to room temperature. \n3. The black powders obtained after the treatment were washed 6–8 times with deionized water and then dried in a vacuum oven. \n4. The BET surface area of the as-synthesized BT was measured to be 84.4 m2 g−1.  \n5. The as-synthesized BT (50 mg) was dispersed in the aqueous solution of hydrogen peroxide (5 M, 10 ml) and stirred for 1 h at 298 K. \n6. The suspension was filtered to obtain a precipitate, which was washed with deionized water and then dried in a vacuum oven at 353 K. \n7. The BET surface area of the as-synthesized BT-O was measured to be 98.3 m2 g−1. \n\nAfter the support is prepared, the catalyst is synthesized by the followed:\nPt was introduced via a conventional wet impregnation of substrates (50 mg) with a certain concentration of (Pt(NH3)4)(NO3)2 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in a vacuum (<0.1 Pa). The prepared catalyst was stored in vacuum."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ru supported on self-pillared ZSM-5 zeolites ((SP-ZSM-5)",
+        "output": "the catalyst is synthesized by impregnation with metal precursor RuCl3 and support self-pillared ZSM-5 zeolites ((SP-ZSM-5)\n\nthe support self-pillared ZSM-5 zeolites ((SP-ZSM-5) is prepared as followed:\n1. Firstly, 12.4 g of TBPOH solution and 61 mg aluminum isopropoxide were added into 3.0 g of deionized water. \n2. After the following stirring for 10 min,  0.3 mL of 1 M NaOH solution was added into the solution. \n3.12.48 g of TEOS was then added and stirred continuously for 6 h. \n4. The resulted solution was transferred into a 100 mL Teflonlined stainless-steel autoclave and crystallized in the oven at 115 °C for 2 days under static conditions. \n5. The as-synthesized solid product was centrifuged, washed with DI water, and then dried at 80 °C in the oven, followed by calcination in air at 550 oC for 6 h to remove the organic template. The zeolite was obtained\n6. 1 g of calcined zeolite was added into 50 mL H2O and stirred at 70 oC for 2 h. \n7. The solid was centrifuged, washed once with deionized water, and then mixed with 50 mL 1 M  NH4NO3 aqueous solution with continuous stirring at 80 oC for 5 h. \n8. The solid precipitate after centrifugation was dried at 80 °C in the oven. \n9. The process was repeated two times, and the resulted solid product was calcined in air at 550 °C for 4 h.   \n\nafter the preparation of self-pillared silicalite-1 zeolite (SP-S-1), the catalyst is synthesized as followed:\n1. 435 mg calcinated SP-S-1 was impregnated with 0.1 mL of aqueous RuCl3 solution with certain concentrations. \n2. Then the sample was dried in the oven and then reduced in flowing hydrogen of 20 mL/min with linear heating to 400 °C for  2 h and then holding for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on Fe2O3",
+        "output": "The catalyst is synthesized impregnation with metal precursor RhCl3 with the following procedures:\n1.  0.5 g of Fe2O3 was dispersed in 10 mL of ultrapure water, followed by the dropwise addition of 1 mL of ethylenediamine solution containing 5 mmol/L RhCl3.\n2. After stirring for 6 h, the mixture was filtered, washed three times with H2O, and then dried at 80 °C overnight.\n3. The obtained powder was calcined under N2 at 400 °C for 2 min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Ir single atom supported on B-ZrO2/SiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor IrCl3·3H2O and support B-doped ZrO2 combined with SiO2\n\nThe support precursor B-doped ZrO2 is prepared as followed:\n1. ZrCl4 (233 mg, 1 mmol), terephthalic acid (PTA, 0.5 mmol), and 4Carboxyphenylboronic acid (CPBA, 0.5 mmol) were dissolved in 60 mL of DMF in a vial. \n2. The slurry was then transferred into a 100 mL Teflon-liner stainless steel autoclave and heated at 120 °C for 12 h. \n3. After cooling down to room temperature, the products were isolated by centrifugation, washed with DMF and methanol three times. \n4. Finally, the product were obtained by vacuum drying of the precipitate at 80 °C for 12 h.\n5. the product calcined at 500 °C in air for 7 h with a heating rate of 2 °C/min\n\nAfter the support B-doped ZrO2 is prepared, the catalyst is synthesized as followed:\n1. IrCl3·3H2O (31.7 mg)  and 1,10-phenanthroline (48.6 mg) (Ir : phenanthroline = 1:3 molar ratio) were added in a 100 mL round bottom flask and stirred in EtOH (30 mL) at 90 oC for 1 hour. \n2. Silica was then introduced into the above solution by in situ hydrolysis of the added Si(OC2H5)4 (TEOS) (0.8 mL) with ethanol/ammonia solution (3/2.4 mL) and the mixture was stirred at 90 oC for 2 hours. \n3. After that, B-ZrO2 powder (800 mg) was introduced into the solution and refluxed at 90 oC for 4 hours. \n4. After the mixture was cooled to room temperature, the solvent was evaporated in vacuo and the remaining soilid was dried under vacuum at 80 °C overnight. The sample was then grinded to fine particles.  \n5. The ground powder was subsequently pyrolyzed under argon at 500 °C for 3 hours. \n6. After the calcined catalyst was cooled to room temperature, a gray fine powder was obtained"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on SiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 and support SiO2\n\nThe synthesis procedures are as followed:\n1. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). \n2. Next, 300 mg of metal oxide supports, which are silica (nanopowder, ∼12 nm; Sigma-Aldrich), was dispersed in 20 mL of ethanol. \n3. The two solutions were mixed with vigorous stirring and dried at 60 °C. \n4. In the case of 5 wt % Rh/SiO2, the additional reduction was carried out under 10% H2/N2 flow at 200 °C for 1 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on ZSM-5, denoted by Ru1/ZSM-5",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3 and support ZSM-5\n\nThe synthesis procedures are as followed:\n1. TEOS, TPAOH, H2O, and NaAlO2 were mixed with a molar ratio of 1:0.3:35:0.02. \n2. The mixture was stirred at room temperature for 12 h, then transferred to a Teflon-lined  autoclave, and kept for 3 days at 180 °C. \n3. After centrifugation and washing, the products were dried overnight at 60 °C and calcined at 550 °C for 6 h. \n4. The H-form samples were prepared by ion exchange with 0.1 M NH4NO3 at 80 °C for 4 h and calcined at 550 °C  for 6 h. \n5. The ion exchange and calcination procedures were repeated twice. ZSM-5 was obtained\n6. The ZSM-5 was calcined at 550 °C for 4 h before impregnation. \n7. 73 μL RuCl3 aqueous solution (4.1 mg mL-1, calculated as Ru) and 900 μL of ultra-pure water was mixed dropwise into 0.3 g of ZSM-5 support and stirred by vibration to make it evenly mixed.  \n8. The resulting paste mixture was transferred to a 40 °C oven for 6 h, then heated to 100 °C and dried for 4 h. \n9. The dried solid was thoroughly ground, and then calcined in a tubular furnace at 400 °C for 4 h in an Air atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Co supported on CeO2, denoted by Co-CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support CeO2\n\nThe synthesis procedures are as followed:\n1. Cobalt(II) acetate tetrahydrate (Sigma-Aldrich ≥ 98%, 124.5 mg, 0.5 mmol) and Cerium dioxide (CeO2, Macklin, ≥ 99%, 700 mg) were stirred in ethanol (40 mL), and the resulting mixture was refluxed for 4 hours. \n2. After cooling down to room temperature and the removal of the ethanol solution by rotatory evaporation, the remained solid composite was dried at 80 °C under vacuum for 12 hours, which was then grinded to fine particles. \n3. The ground powder was then heated to 800 °C with a rate of 10 °C/min, and then pyrolyzed at  800 °C for 2 hours under argon atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on α-MnO2, denoted by Ir1/α-MnO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2IrCl6·6H2O and support α-MnO2\n\nThe support α-MnO2 is prepared as followed:\n1. an aqueous solution (225 mL) of KMnO4 (13.3 g) was added to an aqueous solution (67.5 mL) of MnSO4·H2O (19.8 g) and glacial acetic acid (5 mL). \n2. The resulting mixture was hydrothermal at 100 oC for 24 h. \n3. The product was filtered, washed several times with distilled deionized water, dried at 100 °C overnight, and finally calcinated in air at 500 °C for 6 h.\n\nAfter the preparation of α-MnO2, the catalyst synthesis procedures are as followed:\n1. Ir1/α-MnO2, 0.027g of H2IrCl66H2O was dissolved in 20 mL deionized water to form a solution, to which ammonia solution (25 wt.%) was slowly added under stirring until the solution became clear\n2. and then the mixture was added to another suspension (100 mL) containing the α-MnO2 (2.000 g) with H2O2 solution (30 wt.%) under stirring at 0 oC for 0.5 h. \n3. The final suspension was filtered, washed with distilled water, and then dried at 120 oC for 24 h, followed by annealing at 500 oC in air for 6 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Mn supported on RuO2",
+        "output": "The catalyst is synthesized by impregnation with precursor manganese triacetate and support RuO2\n\nThe support homemade RuO2 is prepared by the following:\n1. 0.75 g of ruthenium chloride  (RuCl3·3H2O, from Sigma-Aldrich) was dissolved in 150 mL of water/ethanol (v/v =  1:1) solution. \n2. Subsequently, 8.6 mL of 1 M sodium hydroxide (NaOH, Sigma-Aldrich)  solution was slowly added dropwise to the Ru3+ ion solution, followed by vigorously stirring for an hour. \n3. The precipitation was collected by centrifugation, washed with  water/ethanol (v/v = 1:1) solution three times, and dried overnight at 65 °C. \n4. The dried solids were annealed at 550 °C at a ramp rate of 5 °C/min for five hours in air and cooled naturally to room temperature to yield the black RuO2 catalyst.  \n\nAfter the support RuO2 is prepared, the catalyst is synthesized by the following procedures:\n1. 50 mg of RuO2 catalyst was introduced into 10 mL of ethanol and premixed with 3 mg of manganese triacetate (C6H9MnO6·2H2O, Sigma-Aldrich). \n2. This mixture was then ultrasonicated for 15 minutes, followed by direct drying at 70 °C"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on ZrO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 and support ZrO2\n\nThe synthesis procedures are as followed:\n1. Zirconium n-propoxide 14.4 mL (70 wt % in npropanol; Sigma-Aldrich) was diluted by adding 38.1 mL of npropanol (>99.5%; Sigma-Aldrich).\n2. Aqueous ammonia (20 mL, Duksan) was added dropwise into the zirconia precursor solution with vigorous stirring and kept for 1 h. \n3. The gel was dried at 80 °C for 12 h. \n4. The dried sample was calcined at 400 °C for 4 h in air. \n5. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). \n6. Next, 300 mg of metal oxide supports, which are the synthesized zirconia was dispersed in 20 mL of ethanol. \n7. The two solutions were mixed with vigorous stirring and dried at 60 °C. \n8. The dried sample was calcined at 400 °C for 1 h in air"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on Co3O4, denoted by Ir@Co3O4.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor potassium hexachloroiridate and support precursor β-Co(OH)2 nanosheets\n\nThe support precursor β-Co(OH)2 is prepared as followed:\n1. First, a P123 aqueous solution with a concentration of  0.02 g mL−1 was prepared. \n2. Then, 0.25 g cobalt nitrate (Co(NO3)2·6H2O) was added to 50 mL P123  aqueous solution, the solution was stirred and heated to 80 °C in a water bath. \n3. Then, 0.75 mL of  ammonia (NH3·H2O) was injected and kept at 80 °C for 5 min. \n4. After cooling to room temperature, the precipitates were collected by centrifugation and thoroughly washed several times with ethanol and water.\n\nAfter the preparation of support precursor β-Co(OH)2, the catalyst is synthesized by the following procedures:\n1. 50 mg of prepared β-Co(OH)2 nanosheets and 30 mg of potassium hexachloroiridate were added to 20 mL a mixed solution of water and ethanol (volume ratio of 1:1) at 80 °C and kept heated and stirred for 2h. \n2. The resulting products were collected by centrifugation and washed with water and ethanol several times, and eventually freeze-dried in vacuum. \n3. Finally, the collected powder was heat-treated at 450°C for 2 hours in air and then allowed to cool to room temperature"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Rh supported on TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Rhodium(III) nitrate hydrate, Rh(NO3)3·2H2O (99.9%, Sigma-Aldrich) and support TiO2 nanopowder with primary particle size at 21 nm  or so (Titania, ≥99.95%, Aeroxide P25, Sigma-Aldrich)\n\nThe synthesis procedures are as followed:\n1. 500 mg of TiO2 was mixed with 50 mL of deionized water through a vigorous stirring to form a white suspension. \n2. A 3.0 mL Rh(NO3)3· 2H2O aqueous solution (2.84 × 10−3 mol/L) was introduced to the TiO2 suspension through a precise injection with a syringe pump while the solution was vigorously stirred. The nominal loading is 0.20 wt %. \n3. The new suspension was continuously stirred for 2 h more to allow sufficient spontaneous adsorption of metal ions. \n4. The pH value of the mixture was carefully adjusted to 9.5 by gradually introducing an ammonium hydroxide solution, followed by vigorous stirring for another 6 h in order to reach a steady equilibrium in solution. \n5. Then, the prepared solution was centrifuged and then dried at 60 °C overnight with a following calcination in muffle furnace at 650 °C in air for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Fe supported on ZSM-5 with TPA",
+        "output": "The synthesis procedures of the catalyst is as followed:\n1. 0.027g of iron oxalate was added to a solution containing 9.69 g of an aqueous tetrapropylammonium hydroxide solution (20 wt%), 5.6 g  of tetraethyl orthosilicate, 1.0 g of urea, 0.33 g of Al(NO3)3·9H2O, and 0.05 g of isopropyl alcohol. \n2. The resulting solution was transferred to an autoclave for crystallization at 180 °C for 48 h. \n3. The obtained crystals were collected by filtration, washed three times with deionized water, and dried at 80 °C \n4. ion exchange with ammonium nitrate, followed by calcination in air at 550 °C for 6 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pd supported on TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor tetraamminepalladium(II) nitrate solution (TAPN, 10 wt % in H2O, Sigma-Aldrich) and support TiO2\n\nThe synthesis process are as followed:\n1. The high surface area TiO2 (99.5% anatase, US Research Nanomaterials, Stock no. US3838) was crushed and sieved into a powder finer than 180 μm and dried overnight at 70 °C prior to use. \n2. 75 mL of NH4OH aqueous solution (ACS reagent, 28.0−30.0% NH3 basis, Sigma-Aldrich) was mixed with 25 mL of DI water in a 200 mL Pyrex bottle. \n3. Then 1g of the TiO2 was added to the solution while stirring (500 rpm), resulting in a final pH of 12.7. \n4. Separately, 16.8 μL of tetraamminepalladium(II) nitrate solution (TAPN, 10 wt % in H2O, Sigma-Aldrich) was mixed with 25 mL of above-mentioned NH4OH aqueous solution and added to a syringe pump. \n5. Twenty mL of the prepared TAPN solution in the syringe pump was injected into the Pyrex bottle (with TiO2 and NH4OH solution) slowly at a rate of 1.2 mL/h. \n6. After all of the TAPN solution was injected, the solid phase with Pd/TiO2 was separated with the aqueous solution via centrifuging. \n7. The Pd/TiO2 catalyst was then dried at 70 °C (5 °C/ min) for 6 h before being calcined at 600 °C (5 °C/min) for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on dealuminated zeolite Beta containing Fe, denoted by Pt/Fe-DeAlBEA",
+        "output": "The catalyst is synthesized by impregnation with metal precursor (NH3)4Pt(NO3)2 and support dealuminated zeolite Beta containing Fe:\n1. the H form of the Beta zeolite was prepared by calcining NH4-Beta zeolite (Alfa Aesar, SiO2:Al2O3 (25:1)) in static air at 823 K for 4 h. \n2. Then, particles of the H-BEA zeolite were suspended in a concentrated nitric acid solution (13 M), stirred, and heated in an oil bath at 373 K for 20 h. \n3. The solution was then filtered and washed with 2 L of deionized water until the pH became neutral. \n4. Finally, the solid was dried overnight in static air at 373 K to obtain dealuminated BEA (DeAlBEA). \n5. 0.0581 mL of an aqueous solution containing Fe(III) nitrate nanohydrate (Sigma-Aldrich, 99.99% traces metals basis) with precursor molar concentration of 0.097 mole/L was added dropwise to the 0.3 g of DeAlBEA with continuous grinding and mixing until the water evaporated. \n6. The solid was then dried in a furnace for 2 h at 393 K, followed by grinding for 30 min and calcination in static air at 873 K for 6 h. \n7. The molar ratio of Fe to the original Al removed from the zeolite Beta (Fe/Al0) was kept constant at 0.24. \n8. an aqueous solution of (NH3)4Pt(NO3)2 (SigmaAldrich, ≥ 50% Pt) was added dropwise to 0.1 g of 0.24Fe-DeAlBEA, followed by drying at 353 K for 1 h, grinding for 30 min, and calcining in static air for 2 h at 623 K."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Pt supported on TiO2, denoted by Pt-DSA/TiO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase TiO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial anatase TiO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. A fixed amount of H2PtCl6 (50.0 μl) are diluted with H2O to make 1 ml of aqueous Pt precursor solutions. \n3. The TiO2 dispersion and Pt precursor solution were purged with Ar gas for 10 min. \n4. The TiO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the TiO2 dispersion turned bluish, 0.5 ml of the Pt precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Co supported on TiO2, denoted by Co-TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support TiO2\n\nThe synthesis procedures are as followed:\n1. Cobalt(II) acetate tetrahydrate (Sigma-Aldrich ≥ 98%, 124.5 mg, 0.5 mmol) and Titanium oxide (TiO2, Macklin, ≥ 99%, 700 mg) were stirred in ethanol (40 mL), and the resulting mixture was refluxed for 4 hours. \n2. After cooling down to room temperature and the removal of the ethanol solution by rotatory  evaporation, the remained solid composite was dried at 80 °C under vacuum for 12 hours, which was then grinded  to fine particles. \n3. The ground powder was then heated to 800 °C with a rate of 10 °C/min, and then pyrolyzed at  800 °C for 2 hours under argon atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Pd on support (CeO2-sheets or CeO2-Polyhedrons or CeO2-Rods or CeO2-Octahedrons)",
+        "output": "The support CeO2-Sheets is prepared by the followed procedure:\n calcining Ammonium Cerium (IV) Nitrate at 650 oC for 2 h under air atmosphere\n\nThe support CeO2-Polyhedrons is prepared by the following procedures:\n1. 5.0 g of Ce(NO3)3·6H2O was dissolved in 100 mL of deionized water\n2. the solution was adjusted to pH 11.0 by the addition of NH4OH (3.4 M) under magnetic stirring at room temperature. \n3. The resulting gel mixture was washed with pure water, dried in an oven at 100 °C for 12 h, and calcined at 500 °C in air for 4 h.  \n\nThe support CeO2-Rods is prepared by the following procedures:\n1. 0.868 g of Ce(NO3)3·6H2O was dissolved in 5 mL of deionized water. \n2. After that, 15 g of NaOH was dissolved in 35 mL of deionized water and added dropwise to the above aqueous cerium nitrate solution. \n3. After stirring for 30 min at room temperature, the suspension was transferred to a 100 mL stainless steel autoclave and kept at 100 oC for 24 h. \n4. The product was then centrifugated and washed with ethanol and water for three times each and then dried at 60 oC in an oven. \n5. The final CeO2-Rods powder was ground before use.  \n\nThe support CeO2-Octahedrons is prepared by the following procedures:\n1. 0.87 g of Ce(NO3)3∙6H2O and 0.0076 g of Na3PO4 were dissolved in 80 mL of distilled water. \n2. After being stirred at room temperature for 0.5 h, the mixed solution was transferred into a Telflon-lined stainless steel autoclave and heated at 170 oC for 10 h. \n3. Then the precipitates were washed with distilled water and ethanol, then dried at 60 oC for 12 h and calcined at 350 oC for 3 h in air. \n\nThe catalyst is synthesized by impregnation with metal precursor PdCl2\n\nThe catalyst synthesis procedures are as followed:\n1. 0.0013 g PdCl2 and 0.5 g of CeO2-S were dispersed in 20 mL of deionized water and magnetically stirred for 24 h. \n2. Then the water was evaporated at 60 oC under vacuum. \n3. The resulting solid was respectively reduced at 200 oC for 2 h under a flowing 5% H2/Ar atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Pd supported on CeO2",
+        "output": "The catalyst is prepared impregnation with metal precursor Tetraamminepalladium(II) nitrate and support CeO2\n\nThe catalyst is prepared as followed:\n1. Tetraamminepalladium(II) nitrate solution (TAPN, 10 wt.% in H2O, 99.99%) and cerium(III) nitrate hexahydrate (Ce(NO3)3·6H2O, 99.995%) obtained from Sigma Aldrich were used as the precursors of Pd and CeO2. \n2. CeO2 support with mild crystallinity was obtained via thermal decomposition of Ce(NO3)3·6H2O at 350 °C in air for 2 h. \n3. After impregnation of TAPN (1 wt.% Pd), the powders were dried overnight at 80 °C followed by calcination in static air at 800 °C for 8 h with a ramp of 5 °C min−1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pd doped by O supported on BWO",
+        "output": "The catalyst is prepared impregnation with metal precursor PdCl2/acetonitrile\n\nThe catalyst is prepared as followed:\n1. First, 0.3 g Bi2WO6/amorphous BiOCl nanosheet powder was dispersed in 11 ml HNO3 (1.3 M) solution and stirred for 4 h. \n2. The products were then collected by centrifugation and washed with deionized water until the supernatant solution was neutral. \n3. After freeze-drying for 2 days, 0.15 g of the sample was treated in a tube furnace with 5 vol% H2/Ar gas at 150 °C for 5 h to introduce defects.\n4. The resulting sample was named BWO. \n5. to prepare 0.05 wt% Pd–O3/BWO, 50 mg of BWO nanosheet was impregnated with 100 μl of 0.25 mg Pd ml−1 PdCl2/acetonitrile solution. \n6. After impregnation, the sample was dried at 60 °C for 30 min and then calcinated in a muffle furnace at 175 °C for 3 h. \n7. The impregnation step remained the same for preparing 0.05 wt% Pd–O4/BWO, apart from changing the calcination temperature to 250 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Rh supported on MFI",
+        "output": "The catalyst is synthesized as followed:\n1. Firstly, a tetrapropylammonium hydroxide (TPAOH) solution was prepared by mixing 8.12 g of TPAOH (40 wt%) and 20.12 g of distilled water at room temperature. \n2. Then, 8.24 g of tetraethyl orthosilicate (TEOS) were hydrolyzed with TPAOH solution at room temperature for 6 h under stirring\n(500 r.p.m.). \n3. 300 μL of RhCl3 aqueous solution (0.4 mol/L) and 300 μL of ethylenediamine were added to the mixture of TEOS-TPAOH-water while stirring was kept for 20 min. \n4. The resultant yellow solution was then transferred to Teflon-lined autoclave and heated in an electric oven at 100 oC for 24  h under static conditions. \n5. After the hydrothermal process, the solid product was isolated by centrifugation and washed with distilled water and acetone and then dried at 60 °C. \n6. Then the solid  sample was calcined in static air at 560 °C for 8 h and then reduced by H2 (5% H2 in argon) at 600 °C  for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "sythesis of single atom Ni supported on CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Ni(NO3)2·6H2O and support CeO2\n\nThe synthesis procedures are as followed:\n1. The sodium hydroxide solution (0.01 mol L−1, 35 mL) was added to cerium nitrate solution (0.868 g of Ce(NO3)3·6H2O in 5 mL of deionized H2O) by drops and stirred for 30 min\n2. then the white precipitates were transferred into a 100 mL Teflonlined stainless-steel autoclave and hydrothermally heated for 24 h at 100 °C.\n3. After centrifugation and drying, the obtained samples were calcined at 600 °C for 2 h in an air atmosphere, to get CeO2\n4. 1.0 g of CeO2 was added into 50.0 mL of an aqueous solution of 0.049 gof Ni(NO3)2·6H2O\n5. Then, the extra water was evaporated at 80 °C until dryness.0\n6. After that, the mixture was calcined at 400 °C for 2 h under air."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of the single atom Pt supported on TiO2, denoted by Pt1/TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support anatase TiO2\n\nThe synthesis procedures are as followed:\n1. H2PtCl6 was chosen as the platinum precursor, and TiO2 (1 g, anatase, Sigma−Aldrich) was added to H2PtCl6 solution (1 mL, 7.69  mol mL−1), followed by impregnation for 12 h. \n2. The slurry was washed several times with ultrapure water and then dried at 60 °C for 6 h. \n3. The as-prepared powder was calcined at 200 °C in a muffle furnace for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom metal Fe tetrahedron coordinated supported on ZnO",
+        "output": "The catalyst is synthesized by the following procedures:\n1. 0.0355 mol Zn(NO3)2•6H2O (Macklin, 99.9%) and 0.045 mol CO(NH2)2 (Macklin, 99%) were dissolved in 60 ml deionized water.\n2. 0.1 mmol Fe(NO3)3 (Aladdin, 99%) was added with stirring. \n3. It was then transferred into 100 ml Teflon-lined autoclaves and reacted at 140 °C for 3 hours. \n4. After cooling to room temperature, the powder precipitate was filtered and washed three times with deionized water and ethanol and then dried at 60 °C for 12 hours. \n5. At last, the powder was calcined in a muffle furnace at 500 °C for 3 h and the zinc oxide catalyst was obtained by naturally cooling. \n6. The obtained powder was calcined in a muffle furnace at 420 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Rh(III)-acetylacetonate and support CeO2\n\nThe support CeO2 is prepared as followed:\ncalcination of Ce(NO3)3·6H2O (Sigma-Aldrich, 99.99%) in air at 623 K for 2 h. \n\nAfter the support CeO2 is prepared, the catalyst is prepared as followed:\n1. Rh(III)-acetylacetonate (Sigma-Aldrich, 97%) was dissolved in acetone and impregnated on support CeO2 in a rotary evaporator (430 mbar, 313 K). \n2. The solid was further dried at 353 K in an oven overnight and ground into a powder. \n3. The resulting powder was calcined in an uncapped porcelain dish (50 mm diameter) at 1073 K under a stagnant air atmosphere for 10 h using a temperature ramp from RT of 2 K/min. \n4. Finally, the catalyst was ground and sieved to retain particles in the 100−200 μm size range. \n5. The metal content was adjusted to achieve a preset surface-specific Rh content (after the high-temperature annealing treatment) of 1.0 ± 0.2 Mat/nm2."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Cr supported on Si-MFI, denoted by Cr/Si-MFI",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cr(acac)3 and support Si-MFI\n\nThe support precursor B-MFI is prepared as followed:\n1. 1.73 g sodium  hydroxide (NaOH) and 3.55 g tetrapropylammonium bromide (TPABr) were added to 18.39 g  deionized water separately and stirred until well dissolved. \n2. The NaOH solution was added to the TPABr solution and stirred for one hour. \n3. 25 g colloidal silica solution (40% SiO2 in water) was added to the resulting mixture dropwise under vigorous stirring. \n4. Next, a solution of 0.82 g boric acid (H3BO3) in 8.2 g H2O was added to the NaOH-TPABr-SiO2 mixture, covered, and stirred  overnight. \n5. The resulting aged gel with molar composition 1 Si : 0.08 B : 0.26 Na : 0.08 TPA : 20  H2O was transferred to a 120 mL PEFT lined autoclave, sealed, and placed into an oven at 170 °C,  rotating at 30 rpm for two days. \n6. After cooling the autoclave, the solid product was separated  through centrifugation and washed with deionized water several times. \n7. The rinsed zeolite was  dried in an oven at 120 °C overnight in ambient air and calcined in flowing O2 at 600 °C to remove  organics. \n8. Next, the sample was ammonium exchanged in aqueous 1 M NH4NO3 and calcined again  in O2 at 550 °C to convert it to its protonic form before use.  \n\nAfter the support precursor B-MFI is prepared, the support Si-MFI is prepared as followed:\n1. 1 g B-MFI and 50 mL 1 M HCl solution were added into a sealed, pressure-rated glass vessel, and the mixture was stirred and heated in an oil bath at 90 °C for 20 h. \n2. The solid product was separated by centrifugation and washed thoroughly with deionized water. \n3. The rinsed product was dried in an oven at 80 °C overnight in ambient air and was further dehydrated and calcined at 350 °C in flowing O2.\n4. The as-prepared Si-MFI was transferred into the glovebox before use.  \n\nAfter the preparation of support Si-MFI, the catalyst is synthesized with the following procedures:\n1. Si-MFI zeolite (up to 500 mg) and an appropriate amount of Cr(acac)3 were added into a 2 mL glass ampoule. \n2. The ampoule was transferred and connected to a Schlenk line, where it was evacuated three times and flame-sealed  under pressure below 100 mtorr. \n3. The sealed ampoule containing the light purple mixture was heated in furnace at 220 °C for 4 h, and 330 °C for 4 h, with a temperature ramping rate 5 °C/min. The sample color changed to green during this process. \n4. Next, the sample was transferred back to the glovebox, where it was removed from the ampoule and placed into a quartz calcination tube. \n5. The sample in the calcination tube was air-free transferred to the furnace, heated under 40 mL/min  air flow at 5 °C/min to 120 °C for 1 h, and 2 °C/min to 600 °C, at which temperature the furnace  was held for 6 h. \n6. After cooling down, the Cr/Si-MFI sample was transferred back to the glovebox  and stored before use."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of S-1 zeolite-encaged single atom Rh, denoted by Rh1@S-1",
+        "output": "the catalyst is synthesized by impregnation with precursor [Rh(NH2CH2CH2NH2)3]Cl3 and support S-1\n\nThe support conventional nanosized silicalite-1 (Nano S-1) is prepared as followed:\n1. Firstly, 13 g of TPAOH solution was mixed with 15.5 g of DI water under continuous stirring. \n2. After stirring for 10 min, 8.32 g  of TEOS was added. \n3. The mixture was then stirred continuously for 6 h. \n4. The obtained clear solution with the ratio composition of SiO2: TPAOH: H2O = 1: 0.4: 35 was finally transferred into a 100 mL Teflon-lined stainless steel autoclave and crystallized at 170 °C for 3 days under static conditions. \n5. The solid product was then collected by the centrifugation and washed with  water several times, and then dried at 80 °C in the oven, followed by calcination at 550 °C for  6 h to remove the organic template. \n\nthe synthesis procedures are as followed:\n1.13 g of TPAOH solution was mixed with 15 g of DI water\n2. then 1 mL of [Rh(NH2CH2CH2NH2)3]Cl3 solutions (0.09 M) was added into the mixture. \n3. After stirring for 10 min, 8.32 g of TEOS was added. \n4. The mixture was then stirred continuously for 6 h. \n5. The obtained clear solution was transferred into a 100 mL Teflon-lined  stainless steel autoclave and crystallized at 170 °C for 3 days under static conditions. \n6. The solid  product was then collected by the centrifugation and washed with water several times, and then  dried at 80 °C in the oven. \n7. Finally, the as-synthesized sample was directly reduced in pure H2  flow (60 mL/min) with linear heating to 500 °C for 2 h and then holding for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on CeO2 nanorod",
+        "output": "The catalyst is prepared impregnation with metal precursor Rh (III) nitrate hydrate and support CeO2 nanorod\n\nThe support CeO2 nanorod is prepared as followed:\n1. 1.736 g of Ce(NO3)3·6H2O (Aldrich, 99.99%) was dissolved in 10ml of deionized water then added dropwise to a concentrated NaOH solution, forming a mixed solution of Ce(NO3)3. \n2. The concentrated NaOH solution was prepared by dissolving 19.2g of NaOH (Aldrich, >98%) in 70ml of deionized water. \n3. Then, the mixed solution of Ce(NO3)3 was maintained under vigorous stirring for 30 min before being transferred to a Teflon-lined, stainless steel autoclave for hydrothermal treatment at 100°C for 24h. \n4. Following hydrothermal synthesis, the autoclave was cooled to room temperature. \n5. The yellow powder thus obtained was washed with deionized water until its pH became neutral. \n6. Finally, the powder was dried at 60°C in air for 10h. \n\nAfter the support CeO2 nanorod is prepared, the catalyst is synthesized as followed:\n1. 1.0 g of CeO2 nanorods was dispersed in 50 ml of deionized water. \n2. The mixture was sonicated for 10 min and stirred at 400 r.p.m. for 1 h; at this stage it is termed CeO2 aqueous dispersion. \n3. Then, 5.6 mg of Rh (III) nitrate hydrate (Aldrich, ~36% Rh basis), which provided ~2.0 mg of Rh metal, was weighed and dissolved in 20 ml of deionized water. \n4. The prepared Rh salt solution was slowly introduced into the prepared CeO2 aqueous dispersion by syringe pump at a flow rate of 0.2 ml min–1 while the aqueous solution was being stirred, creating an aqueous mixture containing both Rh3+ and CeO2 nanorods. \n5. This aqueous mixture of Rh3+ and ceria nanorods was continuously stirred for an additional 3 h. \n6. The pH of the mixture was carefully adjusted to 9.5 by gradual introduction of ammonium hydroxide solution (Aldrich, 28%) while the aqueous mixture was being stirred, followed by continuous stirring for an additional 5 h. \n7. The aqueous mixture was then centrifuged at 3,000 r.p.m. for 5 min, after which the upper layer was decanted. \n8. The solid product thus obtained was dried at 60 °C in an oven overnight and calcined in a muffle furnace at 250 °C for 2 h"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on single-crystalline MgO(111) nanosheets",
+        "output": "The catalyst is prepared impregnation with metal precursor Ir(COD)(acac) and support single-crystalline MgO(111) nanosheets\n\nThe support single-crystalline MgO(111) nanosheets is prepared as followed:\n1. A Na2CO3 aqueous solution (100 ml, 0.5 M) was rapidly added into 400 ml of a Mg(NO3)2 aqueous solution (0.125 M) under vigorous stirring at room temperature. \n2. After 10 min, the precipitation was collected via filtration, washed with deionized water and ethanol, and then dried under a reduced pressure.\n3. The yielded white powder was transferred into an alumina crucible and calcined at 500 °C (the ramping rate was controlled at 2 °C min–1) for 2 h under an air atmosphere. \n4. The MgO product was added into deionized water (1 mg ml–1) under stirring at room temperature. \n5. After 1 h, the product was collected via filtration and dried under a reduced pressure. \n6. the Mg(OH)2 product was heated to 600 °C for 12 h under a high vacuum. \n7. During both the ramping and heating processes, the reactor was evacuated with pressure lower than 10–5 mbar. The ramping rate was 1 °C min–1. \n8. The final product was collected and stored in an argon-filled glove box, denoted as MgO-NS and used as the support.  \n\nAfter the support single-crystalline MgO(111) nanosheets is prepared, the catalyst is prepared as followed:\n1. To MgO-NS (200 mg) dispersed in pentane (20 ml) in a 50 ml Schlenk flask was added a solution of Ir(COD)(acac) (4.15 mg) in pentane (2 ml) under stirring. The resulting suspension was stirred for 3 h at room temperature. \n2. After removing the solvent in vacuo, the resulting material was washed with pentane and dried under a high vacuum (10–5 mbar) to give Ir(COD)(acac)/MgO (elemental analysis, Ir, 0.9%; Ir:C ≈ 1:15). \n3. Ir(COD)(acac)/MgO was added to a tubular glass flow reactor supported by a frit. \n4. The reactor was heated, ramping at 1 °C min–1 to 400 °C and kept at 400 °C for 12 h under a steady flow of synthetic air. \n5. After cooling down to room temperature, the reactor was evacuated under a high vacuum to yield a light-yellow powder and denoted as Ir/MgO-cal (elemental analysis, Ir, 0.9%)."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on CeO2.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support porous CeO2\n\nThe support porous CeO2 is prepared as followed:\n1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. \n2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. \n3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. \n4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained\n\nAfter the preparation of porous CeO2, the catalyst is synthesized as followed:\n5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. \n6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. \n7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (H2PtCl6) was added. \n8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 and support CeO2\n\nThe synthesis procedures are as followed:\n1. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). \n2. Next, 300 mg of metal oxide supports, which are ceria (nanopowder, <25 nm; Sigma-Aldrich) was dispersed in 20 mL of ethanol. \n3. The two solutions were mixed with vigorous stirring and dried at 60 °C. \n4. The dried sample was calcined at 400 °C for 1 h in ai"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Rh supported on CeO2.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RhCl3 and support porous CeO2\n\nThe support porous CeO2 is prepared as followed:\n1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. \n2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. \n3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. \n4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained\n\nAfter the preparation of porous CeO2, the catalyst is synthesized as followed:\n5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. \n6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. \n7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (RhCl3) was added. \n8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on self-pillared silicalite-1 zeolite (SP-S-1)",
+        "output": "the catalyst is synthesized by impregnation with metal precursor RhCl3·3H2O and support SP-S-1\n\nthe support self-pillared silicalite-1 zeolite (SP-S-1) is prepared as followed:\n1. 12.4 g of TBPOH solution was mixed with 3.3 g of DI water. \n2. After stirring for 10 min, 12.48 g of TEOS was added. \n3. The mixture was then stirred continuously for 6 h. \n4. The obtained clear solution was transferred into a 100 mL Teflon-lined stainless steel autoclave and crystallized at 115 °C for 2 days under static conditions. \n5. The solid product was then collected by the centrifugation and washed with water several times, and then dried at 80 °C in the oven. \n6. The sample was finally calcinated in the air at 550 oC for 6 h to remove the organic template.  \n\nafter the preparation of self-pillared silicalite-1 zeolite (SP-S-1), the catalyst is synthesized as followed:\n1. 435 mg calcinated SP-S-1 was impregnated with 0.1 mL of aqueous RhCl3·3H2O solution with certain concentrations. \n2. Then the sample was dried in the oven and then reduced in flowing hydrogen of 20 mL/min with linear heating to 400 °C for  2 h and then holding for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ni supported on RuO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor NiCl2·6H2O and support RuO2\n\nThe synthesis procedures are as followed:\n1. 0.1721 g of RuCl3 and 0.0656 g of NiCl2·6H2O (that is, RuCl3 and NiCl2 at a molar ratio of 3:1) were mixed in 150 ml of 1 M HCl and sonicated for 2 h. \n2. Carbon black (0.4 g; Cabot, BP2000) was then added and dispersed by stirring for 18 h under room temperature to ensure uniform distribution.\n3. Next, the mixture was dried by using a rotary evaporator and the remaining powder was collected. \n4. The powder was annealed in a flowing Ar/H2 (5% H2) atmosphere at 900 °C for 2 h and then annealed in air at 250–550 °C (450 °C as the optimized temperature) for 3 h. \n5. After annealing, 50 mg of product was added to 20 ml of 1 M HCl and mixed at room temperature for 12 h to perform acid leaching, then centrifuged and washed with deionized water three times. \n6. Finally, the sample was dried at 80 °C in an oven for 12 h to obtain the Ni-RuO2 catalyst."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Pt supported by TiO2 reduced by NaBH4 (BT)",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support TiO2 reduced by NaBH4 (BT)\n\nThe support TiO2 reduced by NaBH4 (BT) is prepared by:\n1. a mixture of 1.0 g of Degussa P25 TiO2 and 2.0 g of NaBH4 was ground thoroughly for 0.5 h. \n2. The mixture was then heated in a tube furnace at 623 K for 1 h in a vacuum (< 2.0 Pa), followed by natural cooling to room temperature. \n3. The black powders obtained after the treatment were washed 6–8 times with deionized water and then dried in a vacuum oven. \n4. The BET surface area of the as-synthesized BT was measured to be 84.4 m2 g−1.  \n5. The as-synthesized BT (50 mg) was dispersed in the aqueous solution of hydrogen peroxide (5 M, 10 ml) and stirred for 1 h at 298 K. \n6. The suspension was filtered to obtain a precipitate, which was washed with deionized water and then dried in a vacuum oven at 353 K. \n7. The BET surface area of the as-synthesized BT-O was measured to be 98.3 m2 g−1.  \n\nAfter the support TiO2 reduced by NaBH4 (BT) is prepared, the catalyst is synthesized as followed:\nPt was introduced via a wet impregnation of substrates (50 mg) with a certain concentration of H2PtCl6 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in vacuum (< 0.1 Pa). The prepared catalyst was stored in vacuum."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of the single atom Pt supported on B-TiO2, denoted by Pt1/B-TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor tetraammineplatinum(II) chloride (50 mg, TAPC, PtCl2·4(NH3)· H2O)\n\nThe support is prepared as followed:\n1. equal masses of commercial TiO2 (anatase, Sigma−Aldrich) and NaBH4 were ground to form a homogeneous mixture, and this was heated in N2 flow at 260 °C for 2 h. \n2. The as-prepared powder was then washed with ethanol and ultrapure water several times. \n3. The obtained samples were then dried at 60 °C for 12 h, and the reduced TiO2 samples are denoted \"B-TiO2.\" \n\nThe synthesis procedures are as followed:\n1. ultrapure water (25 mL) was mixed with ammonium hydroxide (75 mL) to dissolve the TiO2 support (1 g, anatase, Sigma−Aldrich) to yield a suspension. The pH of the suspension was maintained at 12. \n2. Next, tetraammineplatinum(II) chloride (50 mg, TAPC, PtCl2·4(NH3)· H2O) (Sigma−Aldrich) was dissolved in ultrapure water (25 mL) to prepare a TAPC solution, and this solution (1.284 mL) was added to ammonium hydroxide (25 mL) to create a TAPC precursor solution with a pH value of 12. \n3. Subsequently, the TAPC precursor solution (25 mL) was injected into the TiO2 support suspension (100 mL) at a rate of 2 mL/h with constant stirring to achieve a final total volume of 125 mL. \n4. Subsequently, the final suspension was heated to 70 °C until the liquid had evaporated completely. \n5. Finally, the Pt/TiO2 sample was calcined in He gas at 200 °C for 4 h, followed by H2 reduction at 200 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pd supported on Fe-O",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Pd(NO3)3·2H2O and support Fe-O\n\nThe support Fe-O is prepared as followed:\n1. 100 mmol Fe (NO3)3·9H2O was dissolved in deionized water with stirring and sonication at room temperature. \n2. The above solution was dripped into the 150 mL NaOH (0.2 mol/L) solution with a certain velocity (3 mL/min) at a water-bath of 80 °C, until the pH value decreased to 9~10. \n3. After stirring for 3 hours and aging 3 hours, the colorless supernatant was carefully poured out, and the dispersion system was filtrated with deionized water of ~70 °C by the suction filter (c.a.  5 times). \n4. Afterward, the sediment was separated and kept at 80 °C for ~12 hrs.  \n\nAfter the preparation of support Fe-O, the catalyst is synthesized as followed:\n1. 100 mmol Fe(NO3)3·9H2O and a certain amount ( ω (Pd)=0.05 %) of Pd(NO3)3·2H2O were dissolved in deionized water with stirring and sonication at room temperature.  \n2. The above solution was dripped into the 150 mL NaOH (0.2 mol/L) solution with a certain velocity  (3 mL/min) at a water-bath of 80 °C, until the pH value decreased to 9~10. \n3. After stirring for 3 hours and aging 3 hours, the colorless supernatant was carefully poured out, and the dispersion system was filtrated with deionized water of ~70 °C by the suction filter (c.a. 5 times). \n4. Afterward, the sediment was separated and kept at 80 °C for ~12 hrs."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ru supported on SiO2, denoted by Ru1/SiO2",
+        "output": "The catalyst is prepared by impregnation with metal precursor hexaammineruthenium (III) chloride solution and support SiO2 nanopowder\n\nThe synthesis procedures are as followed:\n1. 200 μL of hexaammineruthenium (III) chloride solution (Ru content of 2.5 mg/mL) was added into 10 mL ammonia solution (concentration of 5 mol/L), followed by the addition of 500 mg of SiO2 nanopowder. \n2. After stirring at room temperature for one hour, the mixture was filtered and washed with DI water to pH neutral. \n3. Then the product was dried at 60 °C in a vacuum oven for 12 hours. \n4. Finally, the as-prepared sample was reduced in 10 vol% H2/He for 1 h at 300 °C, with a theoretical Ru loading of 0.1 wt.%."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on self-pillared ZSM-5 zeolites ((SP-ZSM-5)",
+        "output": "the catalyst is synthesized by impregnation with metal precursor RhCl3·3H2O and support self-pillared ZSM-5 zeolites ((SP-ZSM-5)\n\nthe support self-pillared ZSM-5 zeolites ((SP-ZSM-5) is prepared as followed:\n1. Firstly, 12.4 g of TBPOH solution and 61 mg aluminum isopropoxide were added into 3.0 g of deionized water. \n2. After the following stirring for 10 min,  0.3 mL of 1 M NaOH solution was added into the solution. \n3.12.48 g of TEOS was then added and stirred continuously for 6 h. \n4. The resulted solution was transferred into a 100 mL Teflonlined stainless-steel autoclave and crystallized in the oven at 115 °C for 2 days under static conditions. \n5. The as-synthesized solid product was centrifuged, washed with DI water, and then dried at 80 °C in the oven, followed by calcination in air at 550 oC for 6 h to remove the organic template. The zeolite was obtained\n6. 1 g of calcined zeolite was added into 50 mL H2O and stirred at 70 oC for 2 h. \n7. The solid was centrifuged, washed once with deionized water, and then mixed with 50 mL 1 M  NH4NO3 aqueous solution with continuous stirring at 80 oC for 5 h. \n8. The solid precipitate after centrifugation was dried at 80 °C in the oven. \n9. The process was repeated two times, and the resulted solid product was calcined in air at 550 °C for 4 h.  \n\nafter the preparation of self-pillared silicalite-1 zeolite (SP-S-1), the catalyst is synthesized as followed:\n1. 435 mg calcinated SP-S-1 was impregnated with 0.1 mL of aqueous RhCl3·3H2O solution with certain concentrations. \n2. Then the sample was dried in the oven and then reduced in flowing hydrogen of 20 mL/min with linear heating to 400 °C for  2 h and then holding for 2 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of Silicalite-1 zeolite-encapsulated Rh single atoms (Rh1@S-1)",
+        "output": "The catalyst is synthesized with metal precursor RhCl3·3H2O with the following procedures:\n1. 13 g of tetrapropyl ammonium hydroxide (TPAOH, 25 wt %) was added into 15 g of deionized water containing 1.2 mL of [Rh(NH2CH2CH2NH2)3]Cl3 solution, which was prepared by dissolving 0.03 g of RhCl3·3H2O in 0.6 mL of ethylenediamine, followed by the addition of 0.6 mL of deionized water. \n2. After stirring for 10 min, 8.32 g of tetraethylorthosilicate (TEOS) was added, and the mixture was stirred for another 6 h. The composition of SiO2/TPAOH/H2O was 1:0.4:35 (molar ratio). \n3. The mixture was added to a 100 mL Teflonlined stainless steel autoclave and was allowed to stand at 170 °C for 3 days under hydrothermal conditions. \n4. The solid product was collected by centrifugation, washed with deionized water several times, and then dried at 80 °C overnight. \n5. The obtained powder was denoted as “Rh1@S-1 uncal”. The organic templates were removed by temperature-programmed calcination in 10 vol %H2/N2 (RT to 300 °C, 5 °C/min; 300−400 °C, 1 °C/min; and held at 400 °C for 2 h)."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pd supported on CeO2.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor PdCl2 and support porous CeO2\n\nThe support porous CeO2 is prepared as followed:\n1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. \n2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. \n3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. \n4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained\n\nAfter the preparation of porous CeO2, the catalyst is synthesized as followed:\n5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. \n6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. \n7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (PdCl2) was added. \n8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Pd suppoted on CeO2, denoted by Pd1/CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor chloropalladium acid and support CeO2\n\nThe synthesis procedures are as followed:\n1. An appropriate amount of chloropalladium acid is dropwise added to CeO2 while kept being ground in a mortar and pestle. \n2. The powders are then dried at 80 °C for 12 h. \n3. Afterwards, the sample is directly thermally aged at 800 °C for 12 h in a flowing air."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Mo supported on Al/MgO, denoted by Mo1Al/MgO",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Na2MoO4\n\nThe synthesis procedures are as followed:\n1. Mg(NO3)2·6H2O (32 mmol) and Al(NO3)3·9H2O (10.6 mmol) were dissolved in 40 ml deionized water forming solution A. \n2. NaOH (68.3 mmol) and Na2MoO4 (0.1 mmol) were dissolved in 40 ml deionized water forming solution B. \n3. Then, the as-prepared solution A and B were dropwise and simultaneously added to 80 ml deionized water under magnetic stirring  (~600 rpm), during which the pH of the mixed solution was kept at 8.5 by using a pH indicator.  \n4. After titration, the resulted liquid was stirred for another 12 h. \n5. After washing by centrifugation  (10000 rpm) with ethanol and water alternately for 4 times, the product (MgAl-(MoO42-)-LDHs)  was dried at 60 °C for 6 h in the oven and grinded to white powder.  \n6. Then, the as-prepared MgAl-(MoO42-)-LDHs were thermally reduced in H2/N2 (5% of H2) atmosphere at 300 °C for 3 h in a tube furnace, and the Mo1Al/MgO powder was obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Ru on support (CeO2-sheets or CeO2-Polyhedrons or CeO2-Rods or CeO2-Octahedrons)",
+        "output": "The support CeO2-Sheets is prepared by the followed procedure:\n calcining Ammonium Cerium (IV) Nitrate at 650 oC for 2 h under air atmosphere\n\nThe support CeO2-Polyhedrons is prepared by the following procedures:\n1. 5.0 g of Ce(NO3)3·6H2O was dissolved in 100 mL of deionized water\n2. the solution was adjusted to pH 11.0 by the addition of NH4OH (3.4 M) under magnetic stirring at room temperature. \n3. The resulting gel mixture was washed with pure water, dried in an oven at 100 °C for 12 h, and calcined at 500 °C in air for 4 h.  \n\nThe support CeO2-Rods is prepared by the following procedures:\n1. 0.868 g of Ce(NO3)3·6H2O was dissolved in 5 mL of deionized water. \n2. After that, 15 g of NaOH was dissolved in 35 mL of deionized water and added dropwise to the above aqueous cerium nitrate solution. \n3. After stirring for 30 min at room temperature, the suspension was transferred to a 100 mL stainless steel autoclave and kept at 100 oC for 24 h. \n4. The product was then centrifugated and washed with ethanol and water for three times each and then dried at 60 oC in an oven. \n5. The final CeO2-Rods powder was ground before use.  \n\nThe support CeO2-Octahedrons is prepared by the following procedures:\n1. 0.87 g of Ce(NO3)3∙6H2O and 0.0076 g of Na3PO4 were dissolved in 80 mL of distilled water. \n2. After being stirred at room temperature for 0.5 h, the mixed solution was transferred into a Telflon-lined stainless steel autoclave and heated at 170 oC for 10 h. \n3. Then the precipitates were washed with distilled water and ethanol, then dried at 60 oC for 12 h and calcined at 350 oC for 3 h in air. \n\nThe catalyst is synthesized by impregnation with metal precursor RuCl3·3H2O\n\nThe catalyst synthesis procedures are as followed:\n1. 0.0013 g RuCl3·3H2O and 0.5 g of support were dispersed in 20 mL of deionized water and magnetically stirred for 24 h. \n2. Then the water was evaporated at 60 oC under vacuum. \n3. The resulting solid was respectively reduced at 300 oC, 400 oC and 500 oC for 2 h under a flowing 5% H2/Ar atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Co supported on MIL-125-NH2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O and support MIL-125-NH2\n\nThe synthesis procedures are as followed:\n1. 120 mg of MIL-125-NH2 and 60 mg of CoCl2·6H2O were dispersed ultrasonically in 12 mL of THF. \n2. The mixture was sealed and stirred at 25 oC for 24 h. \n3. After soaking, the solid was isolated by centrifuging, washed with THF  (×3) and MeOH (×3), and dried at 80 oC vacuum oven for overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom metal Mn tetrahedron coordinated supported on ZnO",
+        "output": "The catalyst is synthesized by the following procedures:\n1. 0.0355 mol Zn(NO3)2•6H2O (Macklin, 99.9%) and 0.045 mol CO(NH2)2 (Macklin, 99%) were dissolved in 60 ml deionized water.\n2. 0.1 mmol Mn(NO3)2 (Aladdin, 99%) was added with stirring. \n3. It was then transferred into 100 ml Teflon-lined autoclaves and reacted at 140 °C for 3 hours. \n4. After cooling to room temperature, the powder precipitate was filtered and washed three times with deionized water and ethanol and then dried at 60 °C for 12 hours. \n5. At last, the powder was calcined in a muffle furnace at 500 °C for 3 h and the zinc oxide catalyst was obtained by naturally cooling. \n6. The obtained powder was calcined in a muffle furnace at 420 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pd supported on TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor sodium tetrachloropalladate solution and support TiO2\n\nThe synthesis procedures are as followed:\n1. 50 mg of TiO2 (commercial P25) was dispersed in 12.5 mL of ultra-pure water under sonication.\n2. Selected amounts of sodium tetrachloropalladate solution (34 mM) was added under stirring. \n3. Following 30  min of stirring in Ar, the resultant solution was frozen with liquid nitrogen and irradiated via a 300 W xenon lamp for 4 min. \n4. The products were washed 4 times with ultra-pure water and dried at room temperature (RT) under vacuum for 12 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on CeO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Rhodium (III) acetylacetylonate.\n\nThe support CeO2 is prepared by the following procedures:\n1. 2 g of cerium(III) nitrate hexahydrate (Beantown Chemical, 128635) was ground with mortar and pestle, put in a combustion boat, and calcined under nitrogen flow at 350oC for 2 hrs in a tube furnace. \n2. The resulting light yellow solid was ground again with mortar and pestle and stored for later use.  \n\nAfter the support CeO2 is prepared, the catalyst is synthesized by the following procedures:\n1. 1 g of CeO2 powder was combined with 99 mg of rhodium (III) acetylacetylonate (97%, Sigma Aldrich 282774) and approx. 3 mL of acetone in a heated (~80oC) mortar. \n2. Rhodium (III) acetylacetylonate (97%, Sigma Aldrich 282774) dissolved completely in acetone, and the mixture was ground with a pestle until all of the acetone evaporated. \n3. The resulting powder was transferred to a combustion boat, dried at 80 oC for 30 minutes, and transferred to a muffle furnace, where it was heated in static air at 800oC for 10 hours with a 10oC/min ramp rate."
+      }
+    ]
+  }
+]

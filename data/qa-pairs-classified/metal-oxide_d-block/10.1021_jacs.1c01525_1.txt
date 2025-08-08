@@ -1,0 +1,14 @@
+question
+synthesis of single atom Ir supported on Co-O
+
+answer
+the catalyst is synthesized by impregnation with metal precursor sodium hexachloroiridate(III) hydrate (Na3IrCl6·xH2O)
+
+the synthesis procedures are as followed:
+1. 580 mg of cobalt(II) nitrate hexahydrate (Co(NO3)2· 6H2O) was dissolved in 20 mL of deionized (DI) water containing 30 mg of hexadecyltrimethylammonium bromide (CTAB). 
+2. Then, this solution was injected into 140 mL of aqueous solution with 9.08 g of 2-methylimidazole and stirred at room temperature for 60 min. 3. The purple precipitate was collected by centrifugation and washed with ethanol five times. the ZIF-67 nanocrystals was obtained
+4. 100 mg of ZIF-67 nanocrystals was dispersed in 50 mL of DI water
+5. then 9.5  mg (2 mmol L−1) of sodium hexachloroiridate(III) hydrate (Na3IrCl6·xH2O) were dissolved in 10 mL of DI water and added into the ZIF-67 solution slowly under stirring conditions. 
+6. The reaction was quenched by centrifuging the suspension after 3 h
+7. the precipitate was collected and washed twice with DI water and three times with ethanol. 
+8. The Ir0.06Co2.94O4 nanocrystals were obtained  after drying the precipitate at 60 °C overnight in a vacuum oven and pyrolyzed at 300 °C in air for 4 h.

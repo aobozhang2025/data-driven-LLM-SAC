@@ -1,0 +1,14 @@
+question
+preparation of single atom Pd supported on N-doped carbon
+
+answer
+The catalyst is prepared by impregnation with metal precursor Pd(acac)2
+
+The synthesis procedures are as followed:
+1. Pd(acac)2 (80 mg) and Zn(NO3)2 (1.19 g) were dissolved in 15 ml methanol (denoted solution A). 
+2. 2-Methylimidazole (1.31 g) was dissolved in 30 ml methanol (denoted solution B). 
+3. Solutions A and B were each stirred for 5 min. Both solutions were poured into a Teflon-lined stainless-steel autoclave (volume, 50 ml). 
+4. After heating at 120 °C for 4 h, the sealed autoclave was cooled to room temperature. 
+5. The product (yellowish powder) was collected by centrifugation and washed with DMF and methanol three times each. 
+6. 1 g of product was added to a crucible. 
+7. The crucible was then placed in a tube-type furnace and heated to 900 °C for 3 h  at a heating rate of 5 °C min−1 under a N2 atmosphere.

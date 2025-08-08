@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Co supported on MIL-125-NH2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O and support MIL-125-NH2
+
+The synthesis procedures are as followed:
+1. 120 mg of MIL-125-NH2 and 60 mg of CoCl2·6H2O were dispersed ultrasonically in 12 mL of THF. 
+2. The mixture was sealed and stirred at 25 oC for 24 h. 
+3. After soaking, the solid was isolated by centrifuging, washed with THF  (×3) and MeOH (×3), and dried at 80 oC vacuum oven for overnight

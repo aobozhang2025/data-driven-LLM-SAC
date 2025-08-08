@@ -1,0 +1,10 @@
+question
+synthesis of single atom Cu doped by 2 N and supported on C, denoted by CuSA-N2/C 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O and support Formamide (FA)
+
+The synthesis procedures are as followed:
+1. 10.2 mg CuCl2·2H2O was added into 30 mL Formamide (FA), which underwent sonication for 30 minutes to obtain a homogeneous solution of 2 mmol L-1.
+2. Then the obtained Cu2+/FA solution was immediately transferred into a 40 mL Teflon-lined autoclave and heated at 200 °C for 12 h. 
+3. Resulted black product was separated by centrifugation, purified by deionized water 3 times and dried at 60 °C for 12 h.

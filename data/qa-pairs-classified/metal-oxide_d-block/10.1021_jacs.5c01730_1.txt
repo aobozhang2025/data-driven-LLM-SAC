@@ -1,0 +1,13 @@
+question
+synthesis of single atom Pt supported on dealuminated zeolite Beta containing Fe, denoted by Pt/Fe-DeAlBEA 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor (NH3)4Pt(NO3)2 and support dealuminated zeolite Beta containing Fe:
+1. the H form of the Beta zeolite was prepared by calcining NH4-Beta zeolite (Alfa Aesar, SiO2:Al2O3 (25:1)) in static air at 823 K for 4 h. 
+2. Then, particles of the H-BEA zeolite were suspended in a concentrated nitric acid solution (13 M), stirred, and heated in an oil bath at 373 K for 20 h. 
+3. The solution was then filtered and washed with 2 L of deionized water until the pH became neutral. 
+4. Finally, the solid was dried overnight in static air at 373 K to obtain dealuminated BEA (DeAlBEA). 
+5. 0.0581 mL of an aqueous solution containing Fe(III) nitrate nanohydrate (Sigma-Aldrich, 99.99% traces metals basis) with precursor molar concentration of 0.097 mole/L was added dropwise to the 0.3 g of DeAlBEA with continuous grinding and mixing until the water evaporated. 
+6. The solid was then dried in a furnace for 2 h at 393 K, followed by grinding for 30 min and calcination in static air at 873 K for 6 h. 
+7. The molar ratio of Fe to the original Al removed from the zeolite Beta (Fe/Al0) was kept constant at 0.24. 
+8. an aqueous solution of (NH3)4Pt(NO3)2 (SigmaAldrich, ≥ 50% Pt) was added dropwise to 0.1 g of 0.24Fe-DeAlBEA, followed by drying at 353 K for 1 h, grinding for 30 min, and calcining in static air for 2 h at 623 K.

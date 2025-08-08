@@ -1,0 +1,12 @@
+question
+Preparation of single atom Y supported on N-doped Carbon, denoted by Y SAs/NC  
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Y(acac)3 and ZIF-8
+
+The synthesis procedures are as followed:
+1. 1161 mg 2-methylimidazole was dissolved in 10 mL solution  (DMF/MeOH, 4:1) with stirring (solution A). 
+2. 1069 mg Zn(NO3)2·6H2O and 352 mg Y(acac)3 were dissolved in a mixture of DMF/MeOH (15 mL, 4:1) under ultrasound for 10 min to form a clear solution (solution B). 
+3. Solution A was subsequently added into solution B with vigorous stirring and then was kept static for 12 h at room temperature. 
+4. The obtained product was collected by centrifugation, and washed with methanol for three times, and finally dried at 60 °C under  vacuum.  
+5. The powder of Y(acac)3@ZIF-8 was placed in a tube furnace and heated to 950 °C (heating  rate 2.5 °C/min) for 3 h under a flowing atmosphere of Ar

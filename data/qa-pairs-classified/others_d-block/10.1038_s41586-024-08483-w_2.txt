@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Pt supported on α-MoC  
+
+answer
+The catalyst is prepared by impregnation with metal precursor H2PtCl6 and support α-MoC 
+
+The support α-MoC  is prepared as followed:
+1. 1 g of MoO3 powder was heated in pure ammonia (160 ml min−1) from room temperature to 700 °C at a rate of 5 °C min −1 and maintained at 700 °C for 2 h. 
+2. After the nitridation process, the sample was cooled down to room temperature, then heated in 20% CH4/80% H2 (160 ml min−1) to 700 °C at 5 °C min−1 and held at 700 °C for 2 h. 
+3. The sample was then cooled down to room temperature and subsequently subjected to passivation using 0.5% O2/Ar as the passivation gas overnight 
+
+After the preparation of support α-MoC , the catalyst is synthesized as followed:
+1. A total of 400 mg of passivated α-MoC powder was introduced into 15 ml of H 2PtCl6 solution of appropriate concentration and stirred in pure argon atmosphere for 1 h. 
+2. The suspension was subsequently evaporated at 30–35 °C 
+3. The product was reduced at 590 °C for 2 h under 15% CH4/85% H2

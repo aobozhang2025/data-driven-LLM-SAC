@@ -1,0 +1,28 @@
+question
+Synthesis of the single atom Fe supported on NGM, denoted by SA-Fe-NGM 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FePc supported on nitrogen-doped graphene nanomesh (NGM)
+
+The Zn-ZIF-L is prepared as followed:
+1. Zn(NO3)2·6H2O (260 mg) and 2-methylimidazole (580 mg) were dissolved separately in deionized water (20 mL). 
+2. The two aqueous solutions were then mixed rapidly and vigorously stirred for 2 h. 
+3. The resulting white precipitate was left undisturbed for a further 12 h, 
+4. the product was collected by centrifugation at 8000 rpm for 10 min,  washed with water and ethanol, and dried in an oven at 60 °C overnight.  
+
+After the preparation of Zn-ZIF-L, the nitrogen-doped graphene nanomesh (NGM) with different molar ratios of LiCl/KCl is synthesized as followed:
+1. the Zn-ZIF-L crystals (200 mg) were mixed with LiCl (1.02 g) and KCl (8.98  g). 
+2. After grinding in an agate mortar, the mixture was pyrolyzed in a furnace under a flow of argon. 
+3. The pyrolysis temperature was increased from room temperature to 400 °C at a heating rate of 2 °C min−1. 
+4. After maintaining the temperature at 400 °C for 2 h, it was further increased to 900 °C at a heating rate of 2 °C min−1 and maintained for an additional 2 h. 
+5. The as-obtained product was collected from the furnace, then washed with a 0.5 M H2SO4 solution at 60 °C for 12 h to remove any impurities. 
+6. Finally, the NGM was washed with water and ethanol and then dried in an oven at 60 °C overnight. 
+It is noted that the Zn content can be evaporated during the thermal  exfoliation process at high temperatures over 900 °C, due to its low boiling point (907 °C) Besides, the acid treatment by 0.5 M H2SO4 solution at 60 °C also play an essential role in complete removal of the remaining Zn species.
+
+After the preparation of nitrogen-doped graphene nanomesh (NGM) with LiCl/KCl, the catalyst is synthesized as followed:
+1. NGM (60 mg) was added to a methylene chloride solution 3  (150 mL) containing FePc (15 mg)To obtain a uniform suspension, 
+2. the mixture was subjected to ultrasonic treatment for 3 h and stirred for 12 h at 0 °C. 
+3. Finally, the FePc-NGM  composite was collected via filtration and washed with ethanol. 
+4. The obtained sample was dried overnight under vacuum at 60 °C. 
+5. The FePc-NGM was pyrolyzed at 450 °C for 1 h after heating at a rate of 2 °C min-1 under an argon atmosphere. 
+6. After this time, the temperature was further increased to 900 °C at a heating rate of 2 °C min-1 and maintained for an additional 2 h.

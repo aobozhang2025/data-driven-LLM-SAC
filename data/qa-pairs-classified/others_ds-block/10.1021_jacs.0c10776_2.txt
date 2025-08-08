@@ -1,0 +1,18 @@
+question
+synthesis of single atom Cu supported on α-MoC 
+
+answer
+The catalyst is synthesized by impregnation with precursor Cu(NO3)2•6H2O and support α-MoC
+
+The support α-MoC is prepared as followed:
+1. Ammonium paramolybdate (MA, (NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co., Ltd. 
+2. The grinded powder of MA was calcined in the muffle oven to 500 oC at the rate of 10  oC/min to synthesize the precursor MoO3. 
+3. Then 0.8 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. 
+4. The powder was heated to 700 oC in NH3 (100 ml /min;  pre-purified gas) at a rate of 5 oC/min and kept at 700 oC for 2 h. 
+4. After the sample was cooled to room temperature, the gas was then switched to CH4/H2 mixture (100 ml/min; 20/80 v/v), and the temperature was increased to 700 oC/min at 5 oC/min and held at 700 oC /min for 2 h. 
+5. Finally, the  sample was passivated at room temperature using a 0.5 % O2/He gas mixture. By elemental  analysis, the Mo/C ratio is around 1:0.8. 
+
+After α-MoC is prepared, the catalyst is synthesized as followed:
+1. Appropriate amount of  Cu(NO3)2•6H2O precursors were loaded on passivated α-MoC support to obtain the desired loading.  
+2. The slurry was stirred for 3 h, dried using vacuum evaporation first, and then transferred to freeze dryer drying overnight. 
+3. Before using for catalysis, the catalyst was pretreated with CH4/H2 mixture  (15/85 v/v) with the rate of 10 oC/min to 590 oC, holding at 590 oC for an hour.

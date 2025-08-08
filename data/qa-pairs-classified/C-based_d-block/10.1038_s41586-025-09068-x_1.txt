@@ -1,0 +1,21 @@
+question
+synthesis of single atom Pt supported on N-C 
+
+answer
+The catalyst is prepared by impregnation with metal precursor chloroplatinic acid hexahydrate (H2PtCl6.6H2O) and support nitrogen-doped carbon
+
+The support nitrogen-doped carbon is prepared as followed:
+1. dissolving 12.75 g zinc nitrate hexahydrate and 29.15 g 2-methyl imidazole separately in deionized water (DIW) (250 ml each). 
+2. After mixing the two solutions, the mixture was stirred for 2 h and left still for 16 h. 
+3. The resulting precipitate was filtered off, washed with DIW (3 l) and ethanol (1 l), and dried at 80 °C. 
+4. The obtained 2D-ZIF-8 was mixed with KCl (20 g per g metal–organic framework), which was previously dissolved in water (0.5 g ml−1). 
+5. The water was removed in a rotary evaporator and then the solid was dried in a vacuum oven set a 80 °C. 
+6. N-C was obtained after carbonization at 700 °C (5 h, N2 flow, 2 °C min−1 heating rate) and a washing treatment consisting of hydrochloric acid (2 M in water), deionized water and ethanol followed by drying at 80 °C. 
+
+After the support nitrogen-doped carbon is prepare, the catalyst is synthesized as followed:
+1. A target amount of chloroplatinic acid hexahydrate (H2PtCl6.6H2O) was dissolved in 20 ml DIW and added to 250 mg NC. 
+2. After sonication for 15 min, the water was evaporated and the powder dried at 80 °C overnight. 
+3. The first annealing step was carried out at 200 °C (5 h, N 2 flow, 5 °C min −1 heating rate). 
+4. The catalyst was then suspended in a 1 M NH4Cl solution, sonicated for 30 min and removed by centrifugation. 
+5. This process was repeated twice more with the 1 M NH4Cl solution and three more times with DIW. 
+6. After another drying step, the material was annealed a second time at 550 °C (5 h, N2 flow, 2 °C min−1 heating rate).

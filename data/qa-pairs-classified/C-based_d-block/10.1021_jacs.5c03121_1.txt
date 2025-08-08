@@ -1,0 +1,12 @@
+question
+synthesis of atomically dispersed Mn doped by N supported Carbon
+
+answer
+The catalyst is prepared in a framework of ZIF-8 synthesis with the following procedures:
+1. 1.314g of 2-mehtylimidazole was dissolved in 15 mL of methanol to form solution A
+2. 0.167g  of Mn(NO3)2·4H2O and 0.397g of Zn(NO3)2·6H2O were dissolved in 15 mL of methanol to form solution B. 
+3. Then, solution A was added into solution B dropwise under stirring. 
+4. The mixture was kept under stirring for 24 h, and the precipitate was separated by centrifugation and washed with methanol for three times.
+5. After freeze-drying overnight under vacuum, Mn-ZIF precursor was obtained as powder form. 
+6. Mn-ZIF precursor was then loaded into a corundum crucible and transferred into a tube furnace with an argon flow for the subsequent pyrolysis. The specific program of pyrolysis is: from 25°C to 900 °C  with a ramping rate of 5°C min-1, kept at 900 °C for 2 h under argon atmosphere with a flow rate  of 30 mL min-1. 
+For yielding other metal-ZIF precursors, the same method was used while the molar ratio among Zn and other metal ions was kept constant.

@@ -1,0 +1,25 @@
+question
+Synthesis of single atom Rh supported on Ti3-xC2Ty 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2RhCl6·6H2O and support Ti3-xC2Ty MXene
+
+The support Ti3-xC2Ty MXene is prepared as followed:
+1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. 
+2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. 
+3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  
+4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). 
+5. Then 1 g of sieved Ti3AlC2 powders was added. 
+6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. 
+7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. 
+8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.
+9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. 
+10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. 
+
+After the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:
+1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.
+2. Solution B was prepared by adding 3 μL H2RhCl6·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. 
+3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. 
+4. The solution B was slowly added into solution A dropwise under agitated stirring. 
+5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. 
+6. The product was vacuum dried at 60 °C for one night.

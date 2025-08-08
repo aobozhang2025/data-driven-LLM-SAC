@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Ir doped by HfO2 supported on C, denoted by Ir/HfO2@C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3∙xH2O and support precursor hcp UiO-66(Hf)-NDC MOF
+
+The support presursor is prepared as followed:
+1. 1.317 mmol (0.4218 g) of HfCl4 and 1.36 mmol (0.294 g) of 2,6-NDC were separately dissolved in DMF (13 mL) under ultrasonication.  
+2. After ultrasonic treatment for 30 min, the mixture was added to a 100 mL Teflon-lined stainless-steel autoclave, followed by formic acid (10 mL) and deionized water (4 mL). 
+3. The autoclave was sealed and heated at 120 °C for 9 h. 
+4. The resulting white microcrystalline powder was collected and washed with DMF and acetone solution several times and then dried under vacuum at 60 °C for 6 h.  
+
+After the preparation of support precursor, the catalyst is sythesized as followed:
+1. The 10 mg IrCl3∙xH2O was dispersed in 3 mL of distilled water to form a uniform solution, then the 80 mg above prepared hcp UiO-66(Hf)-NDC and stirred for 12 h at 40 °C, the suspension  was collected by centrifugation. 
+2. Thereafter, the products were vacuum dried at 60 °C overnight, forming the hcp UiO-66(Hf)-NDC MOF adsorbed with Ir (Ir@Hf-MOF), and then annealed at 750 °C  for 2 h under H2/Ar (H2: 5%) mixed atmosphere with a heating rate of 5 °C min−1.

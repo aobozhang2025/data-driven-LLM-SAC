@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Fe doped by 4 N and SO2 supported on N-doped carbon 
+
+answer
+The catalyst is synthesized in a framework of ZIF-8 synthesis with S-dopant KSCN
+
+The precursor FeCp2@ZIF-8 is first prepared in a framework of ZIF-8 synthesis with metal precursor FeCp2:
+1. 2.38 g of Zn(NO3)2·6H2O and 465 mg FeCp2 were dissolved in 60 mL MeOH to obtain solution A. 
+2. 2.638 g 2-methylimidazole was dissolved in 30 mL MeOH to obtain solution B. 
+3. Then, solution B was added into solution A, and the resulting  mixed solution stirred for 24 h at room temperature. 
+4. The obtained FeCp2@ZIF-8 product was collected by centrifugation, washed with MeOH and then dried under vacuum at 70 °C overnight. 
+
+The synthesis procedures are as followed:
+1. 58.4 mg of KSCN was dissolved in 6 mL of MeOH to obtain a  0.1 mol/L KSCN solution. 
+2. Then 200 mg of FeCp2@ZIF-8 was added into this solution. The resulting suspension was then ultrasonicated and stirred for 1 hour at room temperature. 
+3. The obtained FeCp2@ZIF-8-S product was collected by centrifugation and dried under vacuum at  70 °C overnight. 
+4. The FeCp2@ZIF-8-S powder was then pyrolyzed at 950 °C under a N2 atmosphere for 3 h using a heating rate of 5 °C/min.

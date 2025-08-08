@@ -1,0 +1,22 @@
+question
+Synthesis of single atom Rh supported on pMOF, denoted by Rh1/pMOF
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%).
+
+The support porphyrin-based MOF, denoted by pMOF is prepared by the following procedures:
+1. 40 mg of zirconium chloride (ZrCl4) was first dissolved in the mixture solution containing 8 mL of N,N-dimethylformamide (DMF) and 0.8 mL of water (H2O). 
+2. Then, 800 mg of benzoic acid was added into the above solution, followed by stirring vigorously for 20 min,  producing a yellowish solution.
+3. Afterwards, 40 mg of 4,4′,4′′,4′′′-(Porphine-5,10,15,20tetrayl)tetrakis(benzoic acid) (TCPP) was introduced. 
+4. The mixture was stirred for another 20 min and transferred to a 50-mL autoclave, which was maintained at 120 °C for 24 h. 
+5. The solid product was collected by centrifuge and washed thoroughly by ethanol at least 3 times and dried in a vacuum oven overnight. 
+6. A powder in auburn color was collected for further utilizations.  
+
+The catalyst is synthesized by impregnation with metal precursor Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%):
+1. 80 mg of pMOF powder was weighed and dispersed in 16 mL of DMF with stirring. 
+2. 42 mg of Rhodium chloride hydrate (RhCl3·xH2O, Rh 38-40 wt.%) was dissolved in 0.8 mL of H2O with ultrasonication. 
+3. The above solution was mixed and transferred to a 50-mL autoclave, followed by heating to 80 °C for 4 h. 
+4. Then, the product was collected by centrifuge and washed thoroughly by ethanol at least 3 times. 
+5. To remove impurities and residual solvents in the MOF channels, the  resulting Rh1/pMOF was soaked and rinsed with ethanol and acetone sequentially. 
+6. Finally, the solid product was collected by centrifuge and dried in a vacuum oven at 230 °C for 36 h. 
+7. To increase the Rh loading, the above synthetic process should be repeated at least 5 times.

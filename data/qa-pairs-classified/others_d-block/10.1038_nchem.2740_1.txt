@@ -1,0 +1,22 @@
+question
+Preparation of single atom Co supported on SMoS2
+
+answer
+The catatyst is synthesized by impregnation with metal precursor cobalt acetate tetrahydrate and support SMoS2
+
+The support SMoS2 is prepared as followed:
+1. 0.5 g of bulk MoS2 crystalline powder was soaked in 4 ml of 1.6 M n-butyllithium/hexane for 48 h under nitrogen atmosphere. 
+2. After the intercalation of MoS2 by lithium, the produced LixMoS2 was washed using vacuum filtration with 50 ml of hexane to remove excess butyllithium and organics and then dried under N2. 
+3. Then the powder was immersed in 250 ml of water and the resulting suspension was sonicated to assist the completion of the exfoliation process, as any intercalated lithium would react with water to form H2 gas between the layers. The evolution of H2 tended to assist the separation of MoS2 layers. 
+4. The dispersion was centrifuged at 5,000 r.p.m. for  15 min to remove unexfoliated precursor and only the supernatant was collected by pipette.
+5. Eventually, the exfoliated MoS2 layers remained totally suspended in aqueous solution. The pH value of the dispersion became alkaline due to the presence of trace lithium hydroxide. 
+6. To collect the SMoS2 powder, HCl solution was added dropwise into the above colloid until the pH value reached around 7. 
+7. The precipitate was then washed and collected by centrifugation several times and the final product was dried under vacuum for 12 h.
+
+After the suppport is prepared, the synthesis procedures are as followed:
+1. 50.6 mg of cobalt acetate tetrahydrate and 36 mg of thiourea were added to1 ml of water and left overnight to form the complex Co ion Co(thiourea)42+ 
+2. Subsequently this Co thiourea complex solution was then added into 50 ml of 1 mg ml−1 stabilized SMoS2 colloid (30 v/v% isopropanol/water with 50 mg of polyvinylpyrrolidone). 
+3. A mixed homogeneous solution was then transferred to an autoclave, followed by hydrothermal treatment at 160 °C for 24 h. 
+4. In order to anchor Co atoms onto the defects of SMoS2 rather than inducing a fast self-nucleation, we used a very low concentration of the Co complex. 
+5. During the hydrothermal process, the thiourea–Co complex refilled some of the surface sulfur vacancy sites of SMoS2. Previous studies confirm that defective vacancy sites possess high molecular affinity, especially for thiol-based molecules.
+6. After the reaction, the precipitate was washed three times using deionized water and then dried under vacuum for 12 h and finally treated with H2 at 300 °C for 1 h prior to storage.

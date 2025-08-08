@@ -1,0 +1,19 @@
+question
+Synthesis of single atom Nb supported on N-doped carbon
+
+answer
+The catalyst is synthesized by a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. 725.2 mg of Zn(NO3)2·6H2O and 17.5 mg of CTAB were dissolved in 12.5  mL of H2O, and 5.7252 g of 2-methylimidazole was dissolved in 87.5 mL of H2O. 
+2. Then the two solutions were mixed, and stirred for 3 h at room temperature. 
+3. After that, the white precipitate was centrifuged and washed with methanol and H2O several times and dried at 60 °C in a vacuum oven overnight toobtain the ZIF-8. 
+4. Then, 600 mg of ZIF-8  was ultrasonically dispersed in 200 mL of ultrapure water, 150 mL of CTAB and 60  mg of NaOH were added to the dispersion and stirred for 5 minutes. 
+5. A solution containing 1.2 mL of tetraethyl orthosilicate in 6 mL of methanol was then added dropwise to the mixture while stirring. 
+6. After stirring for 30 min, the resulting solution was centrifuged, washed, and vacuum dried at 60 °C overnight. 
+7. The as-obtained sample was then pyrolyzed at 650 °C for 1 hour under a nitrogen flow in a tube furnace. 
+8. The resulting products were then dispersed in 6 M NaOH solution and stirred at 50 °C for 18 hours. 
+9. Subsequently, the mixture was centrifuged, washed with ultrapure water until neutral, and dried at 60 °C to obtain the NC substrate. 
+10. 180 mg of NC was dispersed in 50 mL of ethanol, and subjected to sonication for 1 hour to achieve uniform dispersion.  
+11. Subsequently, 0.7 mL of NbCl5 ethanol solution (5 mg/mL) were added dropwised, followed by stirring for 24 hours. The mixtures were dried at 60 °C in a vacuum. 
+12. The product was obtained by calcining with 1 g of dicyandiamide at 1000 °C for 2 h under N2 atmosphere.

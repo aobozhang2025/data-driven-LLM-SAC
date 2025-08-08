@@ -1,0 +1,12 @@
+question
+synthesis of single atom Cu supported on ZSM-5
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2
+
+The synthesis procedures are as followed:
+1. 2.0 g H-ZSM-5  (SiO2:Al2O3 = 46) was suspended in 0.2 M Cu(NO3)2 solution (60 mL) for 20 h at 353 K. 
+2. Then the solid was washed and collected after overnight drying at 343 K. 
+3. 1.0 g of the solid was placed in a quartz boat  and centered in a quartz tube furnace
+4. the solid was conducted at 573 K within a temperature ramping rate of 5  K min-1 for 1 h under the atmosphere of 10% H2/N2 with a gas flow rate of 300 mL min-1
+5. the reduced sample was collected and stored in a  vacuum oven for further usage.

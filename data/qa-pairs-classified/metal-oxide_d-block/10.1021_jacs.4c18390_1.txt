@@ -1,0 +1,16 @@
+question
+Synthesis of single atom Ir supported on Co3O4, denoted by Ir@Co3O4.
+
+answer
+The catalyst is synthesized by impregnation with metal precursor potassium hexachloroiridate and support precursor β-Co(OH)2 nanosheets
+
+The support precursor β-Co(OH)2 is prepared as followed:
+1. First, a P123 aqueous solution with a concentration of  0.02 g mL−1 was prepared. 
+2. Then, 0.25 g cobalt nitrate (Co(NO3)2·6H2O) was added to 50 mL P123  aqueous solution, the solution was stirred and heated to 80 °C in a water bath. 
+3. Then, 0.75 mL of  ammonia (NH3·H2O) was injected and kept at 80 °C for 5 min. 
+4. After cooling to room temperature, the precipitates were collected by centrifugation and thoroughly washed several times with ethanol and water.
+
+After the preparation of support precursor β-Co(OH)2, the catalyst is synthesized by the following procedures:
+1. 50 mg of prepared β-Co(OH)2 nanosheets and 30 mg of potassium hexachloroiridate were added to 20 mL a mixed solution of water and ethanol (volume ratio of 1:1) at 80 °C and kept heated and stirred for 2h. 
+2. The resulting products were collected by centrifugation and washed with water and ethanol several times, and eventually freeze-dried in vacuum. 
+3. Finally, the collected powder was heat-treated at 450°C for 2 hours in air and then allowed to cool to room temperature

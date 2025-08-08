@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Pd supported on ZSM-5, denoted by Pd1@ZSM-5  
+
+answer
+The catalyst is synthesized by impregnation 
+
+The MFI seeds are prepared as followed:
+1. 16 g TPAOH  solution and 14.4 g TEOS solution were added into a 50 mL plastic bottle and stirred for 12 h. 
+2. Then the mixture solution was transferred into 100 mL Teflon-lined stainless-steel autoclave and static crystallization for 12 h at 120 oC. 
+3. After cooling down to the room temperature, as-synthesized  ultrasmall MFI seed was collected by centrifugation, washed with distilled water for four times and then freeze-dried for overnight. 
+4. The final seed was calcinated in the air at 550 oC for 6 h to remove the organic template agent (TPAOH). 
+
+After the MFI seeds are prepared, the catalyst is synthesized as followed:
+1. First, 0.382 g NaOH and 0.216 g NaAlO2 was dissolved in 22.84 g distilled water. 
+2. Then 0.25 mL 0.09 M [Pd(NH2CH2CH2NH2)2]Cl2 aqueous solution was added by dropwise into mixture solution. 
+3. Subsequently, 5.765 g colloidal silica was slowly added into above solution and stirred for 5 h at room temperature. 
+4. After that, 0.185 g ultrasmall MFI seeds were added into aluminosilicate gel and stirred for another 1 h. 
+5. The mixture solution was transferred into 100 mL Teflon-lined stainless-steel autoclave and static crystallization for 24 h at 180 oC. 
+6. After cooling down to the room temperature, as-synthesized Pd@ZSM-5 was collected by centrifugation,  washed with distilled water for four times and dried at 80 oC for overnight. 
+7. The final sample was calcinated in the air at 400 oC for 2 h to remove ethanediamine.

@@ -1,0 +1,13 @@
+question
+synthesis of single atom Ir supported on GO-NH2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3∙xH2O and support precursor nitrogen-doped graphene support (GO–NH2)
+
+The synthesis procedures are as followed:
+1. First, to prepare the nitrogen-doped graphene support (GO–NH2), GO (purchased from CYG and used as received) was mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 2 h before cooling to room temperature. 
+2. 1 gram of IrCl3∙xH2O (Alfa Aesar) was dissolved into 200 millilitres of DI water to prepare the IrCl3 stock solution with a concentration of ~5 milligrams per millilitre. 
+3. 7 millilitres of IrCl3 stock solution were added to ~30 millilitres of purified GO–NH2 solution (~30 milligrams of GO–NH2). 
+4. Then, the mixture solution was sonicated in ice water for 15 min, followed by being quickly frozen in liquid nitrogen. 
+5. After freeze drying, the as-prepared aerogel-like powder was mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and kept at the same temperature for another 2 h before cooling to room temperature. 
+6. Finally, the powder was collected.

@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Fe supported on N-doped carbon, denoted by Fe1-NC  
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FeCl3.
+
+The N-doped carbon (NC) is first prepared as followed:
+1. GLA (0.7-0.9 g) was mixed with SBA-15 (0.5 g) by gentle grinding to obtain SBA-15-Glu. 
+2. The SBA-15-Glu was heated to 600 °C (ramping  rate: 2 °C/min) and held there for 2 h, followed by cooling down to room temperature to obtain SBA-15-Glu-600. 
+3. Next, the SBA-15 template was removed by acid etching with dilute HF aqueous solution for 24 h. 
+4. Afterwards, the pH of the solution was adjusted to neutral (pH = 7.0). 
+5. NC-600 was produced by removing water under vacuum below 50 °C. 
+6. Finally, the as-prepared sample was calcined at 900 °C (ramping rate:  5 °C/min) for 2 hours in a tube furnace under Ar atmosphere to obtain NC.  
+
+After N-doped carbon is prepared, the catalyst is synthesized as followed:
+1. 20 mg of FeCl3 was dissolved in a solution comprising of ethanol (10 mL) and water (10 mL). 
+2. Subsequently, NC-600 suspension (10 mL,100 mg/mL)  was added, and the mixture was stirred for 12 hours. 
+3. The product was washed with water and ethanol three times each, and then collected by freeze-drying to obtain NC-600-Fe
+4. Finally, the fine powder mixture was undergone a two-stage pyrolysis (first stage: from 25 to 600 °C at a ramping rate of 3 °C/min, maintain at 600  °C for 2 h; second stage: from 600 to 900 °C at a ramping rate of 2 °C/min, maintain at  900 °C for 90 min) in a tubular furnace under Ar atmosphere. 
+5. After cooling down to room temperature, the final product was collected named as Fe1-NC

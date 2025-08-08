@@ -1,0 +1,10 @@
+question
+The preparation of single atom Ir supported on Cu doped by N and O supported on C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl4-OAm and support single atom Cu dopes by 3 N supported on carbon (Cu3N NC)
+
+The synthesis procedures are as followed:
+1. 1 mL of IrCl4-OAm (1 mg mL-1)  solvent was injected into pre-synthesized Cu3N NCs synthesized system when the temperature cools down to 200 °C with magnetized stirring. 
+2. After 30 minutes, a uniformly dispersed Ir1-Cu3N/Cu2O with uniform particle size was obtained. 
+3. The final product were washed and dispersed into 5 mL cyclohexane.

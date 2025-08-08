@@ -1,0 +1,9 @@
+question
+Synthesis of single atom Ir supported on FeNiSe2, denoted by Ir1@FeNiSe2  
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl4·xH2O  and suupport FeNiSe2
+
+The synthesis procedures are as followed:
+1. The FeNiSe2 support was immersed in a 1 M KOH solution containing 100 μM IrCl4·xH2O for 30 minutes. 
+2. Post-immersion, the samples were thoroughly rinsed with deionized water and ethanol and dried overnight in a vacuum oven at 80°C to yield Ir1@FeNiSe2.

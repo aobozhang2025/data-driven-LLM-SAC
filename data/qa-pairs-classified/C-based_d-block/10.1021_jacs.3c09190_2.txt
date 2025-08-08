@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Fe doped by P supported on N-C
+
+answer
+The catalyst is synthesized by preparation of Single atom Fe doped by N supported on carbon:
+1. 1.190 g Zn(NO3)2·6H2O and 0.141 g Fe(acac)3 were added to 30 mL methanol to form solution A. 
+2. Meanwhile, 1.314 g 2-MeIM was added into 15 mL methanol to form solution B. 
+3. Then, solution B was added into solution A under vigorous stirring, and the mixture was kept under continuous stirring for 16 h at room  temperature. 
+4. After that, the mixture with precipitates generated inside was centrifuged at 12000 rpm for 3.0 min. 
+5. The obtained precipitates were then washed with DMF and  methanol for three times, respectively, and further dried at 70°C overnight. 
+6. After that,  the ZIF-8@Fe(acac)3 precursor was obtained 
+7. The ZIF-8@Fe(acac)3 precursor was then transferred into a ceramic boat. The  ceramic boat was placed in the center of a horizontal quartz tube which was installed in  a furnace in advance. 
+8. Under continuous argon gas of 200 mL min−1 in the quartz tube,  the furnace was heated to 900°C with a heating rate of 5°C min−1 and kept at 900°C for 3.0 h. 
+
+Then doped by P as followed:
+1. Firstly, 800 mg PPh3 was dissolved into 40 mL toluene. 
+2. Then, 120 mg FeNC was added into the above solution, followed by ultrasonication for 5.0 min and stirring for 24 h at room temperature. 
+3. After that, the mixture was centrifuged at 8000 rpm for 3.0  min to remove the liquid. 
+4. The solid sample was then washed with toluene for two times, dried at 70°C for 2.0 h, and transferred into a ceramic boat which was placed in the center of the horizontal quartz tube installed in the furnace. 
+5. Under continuous argon gas  (200 mL min−1), the furnace was heated to 900°C with a heating rate of 10°C min−1 and  then kept at 900°C for 2.0 h.

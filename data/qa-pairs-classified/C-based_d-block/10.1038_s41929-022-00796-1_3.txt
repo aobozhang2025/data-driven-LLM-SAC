@@ -1,0 +1,14 @@
+question
+synthesis of single atom Pt supported on N-doped carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor FeSO4·7H2O and support ZIF-8
+
+The catalyst is prepared as followed:
+1. mixing 1 mM Zn(NO3)2·6H2O and 8.21 g of 2-methylimidazole in a methanol solvent
+2. The excess organic linker and metal sources were removed by washing the product three times with absolute ethanol and then dry in a vacuum oven at 80 °C overnight
+3. 10 mg of platinum(II) acetylacetonate was homogeneously dispersed in 3 ml of ethanol via ultrasonication until the solvent became transparent.
+4. In the meantime, 110 mg of 1,10-phenanthroline monohydrate dissolved in 10 ml of ethanol was added to the Pt solution to provide a sufficient nitrogen source for Pt coordination. 
+5. Around 400 mg of ZIF-8 was added to this solution to form a uniform suspension. 
+6. After drying at 60 °C in a vacuum oven overnight, the solid was collected and ball milled (ZrO2 ball, 350 r.p.m., 4 h) to uniformly distribute the Pt and N sources on the ZIF-8 support. 
+7. The mixed precursors were also initially treated in NH3 gas at 900 °C for 15 min and then transferred into an Ar atmosphere at 1,000 °C for 1 h.

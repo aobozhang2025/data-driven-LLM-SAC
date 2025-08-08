@@ -1,0 +1,17 @@
+question
+synthesis of single atom Rh supported on self-pillared silicalite-1 zeolite (SP-S-1)
+
+answer
+the catalyst is synthesized by impregnation with metal precursor RhCl3·3H2O and support SP-S-1
+
+the support self-pillared silicalite-1 zeolite (SP-S-1) is prepared as followed:
+1. 12.4 g of TBPOH solution was mixed with 3.3 g of DI water. 
+2. After stirring for 10 min, 12.48 g of TEOS was added. 
+3. The mixture was then stirred continuously for 6 h. 
+4. The obtained clear solution was transferred into a 100 mL Teflon-lined stainless steel autoclave and crystallized at 115 °C for 2 days under static conditions. 
+5. The solid product was then collected by the centrifugation and washed with water several times, and then dried at 80 °C in the oven. 
+6. The sample was finally calcinated in the air at 550 oC for 6 h to remove the organic template.  
+
+after the preparation of self-pillared silicalite-1 zeolite (SP-S-1), the catalyst is synthesized as followed:
+1. 435 mg calcinated SP-S-1 was impregnated with 0.1 mL of aqueous RhCl3·3H2O solution with certain concentrations. 
+2. Then the sample was dried in the oven and then reduced in flowing hydrogen of 20 mL/min with linear heating to 400 °C for  2 h and then holding for 2 h.

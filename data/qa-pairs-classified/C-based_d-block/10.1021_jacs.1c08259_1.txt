@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Co supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Co3[Co(CN)6]2
+
+The synthesis procedures are as followed:
+1. 0.012 mol of potassium hexacyanocobaltate (K3Co(CN)6) was dissolved in 70 mL of water. 
+2. Next, 0.09 mol of zinc chloride (ZnCl2) was dissolved in 20 mL of water, which was slowly added to the former solution in 1 h at 50 °C with vigorous stirring. 
+3. Then, 15.0 g of poly(ethylene glycol)-block-poly(propylene glycol)-block-poly(ethylene glycol) (P123, average molecular weight 5800) and 40 mL of tert-butanol were added over 10 min and the mixture was stirred continuously for 1 h. 
+4. Subsequently, the resultant white solid was collected, washed with water and ethanol to remove the unreacted ions, and then dried at 120 °C for 8 h. Similarly, the double-metal cyanide Co3[Co(CN)6]2 was prepared by an identical method except for changing ZnCl2 to cobaltous nitrate (Co(NO3)2).
+5. Then, Zn3[Co(CN)6]2 was heated to 900 °C for 2 h at a heating  rate of 3 °C/min under a N2 atmosphere to obtain the Conanoparticle-supported nitrogen-doped carbon layer Co@Co-NC. 
+6. Then, 0.1 g of Co@Co-NC was added to 30 mL of an aqueous solution of H2SO4 (2.0 M) and heated at 50 °C for 12 h with vigorous stirring. 
+7. The Co nanoparticles were removed, and the single-atom Co-dispersed nitrogen-doped carbon Co-NC was synthesized. 
+8. Finally, the resultant solid was collected by washing with water until the pH of the filtrate reached 7.0 and then dried at 120 °C for 8 h.

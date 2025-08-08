@@ -1,0 +1,20 @@
+question
+Synthesis of thermally stable single atom Pt supported on nanozyme, denoted by PtTS-SAzyme
+
+answer
+ZIF-8 is prepared as followed:
+1. 1.785 g of Zn(NO3)2·6H2O (6 mmol) was dissolved in 50  mL methanol. 
+2. Then, 50 mL of methanol solution containing 1.970 g of 2methylimidazole (24 mmol) were added into the above solution of Zn(NO3)2·6H2O with vigorous stirring at room temperature for 3 min. 
+3. Then, the mixture solution was  maintained at 35 °C for 6 h. 
+4. Finally, the as-prepared ZIF-8 precipitates were centrifuged, washed and dried at 80 °C.  
+
+After the preparation of ZIF-8, the  ZIF-8 and Pt nanoparticles supported on PZS, denoted by ZIF-8/Pt NPs@PZS, are synthesized as followed:
+1. the ZIF-8 (200 mg) were dispersed in 20  mL methanol, followed by added the dispersion solution of Pt NPs (70 μL, 1 mg/mL) in the above dispersion of ZIF-8 with ultrasonic and stirring treatment for 10 min. 
+2. Then, bis(4-hydroxyphenyl) sulfone (160 mg) and phosphonitrilic chloride trimer (75 mg) was dissolved in 50 mL of the methanol solution and then added in the dispersion of Pt NPs and ZIF-8 with stirring for 15 min. 
+3. Subsequently, 1 mL of triethylamine was slowly  added into the above dispersion system with stirring for 15 h at room temperature. 
+4. The resulting precipitate marked as ZIF-8/Pt NPs@PZS was collected, washed and finally S3  dried in vacuum at 80 °C for 12 h. 
+
+After the preparation of ZIF-8 and Pt nanoparticles supported on PZS, denoted by ZIF-8/Pt NPs@PZS, the synthesis procedures of the catalyst are as followed: 
+1. In the typical synthesis of PtTS-SAzyme, the ZIF-8/Pt NPs@PZS powder was placed  in quartz boat and maintained 1050 °C for 5 h in a tube furnace with a heating rate of  5 °C min-1 under flowing nitrogen atmosphere. 
+2. When it finished, the as-prepared sample marked as PtTS-SAzyme, was collected and used without any post-treatment. 
+The synthesis procedure of NPS-HC is similar with that of PtTS-SAzyme except that ZIF8@PZS without Pt served as the precursor to be pyrolyzed.

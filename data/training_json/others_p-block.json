@@ -1,0 +1,34 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom In supported on HY, denoted by In@HY",
+        "output": "The catalyst is synthesized by impregnation with metal precursor In and support HY zeolite\n\nThe synthesis procedures are as followed:\n1. In(NO3)3·xH2O (1.33 g) was dissolved in ultrapure water (3 mL) and then mixed with HY zeolite (3.56 g) calcined at 993 K for 6 h with a molar ratio of SiO2/Al2O3 of 5.4 (Nankai university). \n2. The resulting slurry was evenly dispersed by the aid of ultrasonic and then dried overnight at room temperature. \n3. After dried at 333 K and 393 K for 12 h, respectively, the samples were transferred to muffle furnace calcined at 993 K for 6 h. \n4. Then they were ground  and sieved into 40-60 mesh for reactivity evaluation."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pb supported on Cu",
+        "output": "The catalyst is prepared by impregnation with metal precursor Pb(NO3)2\n\nThe synthesis procedures are as followed:\n1. First, 515 mg CuCl2·2H2O and 115 mg Pb(NO3)2 were dissolved in 2 ml isopropanol in a vial. \n2. Under bath sonication, 2 ml propylene oxide and 0.2 ml H2O were then successively added, forming a green gel. \n3. The green gel was aged for 1 day and dried at 60 °C under vacuum overnight. \n4. The Pb1Cu SAA catalyst was then formed in situ by reducing the Cu–Pb precursor at a constant current density of −500 mA cm−2 for 30 min in a standard three-electrode flow cell system supplied with CO2 gas, with 0.5 M KHCO3 as electrolyte."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Bi supported on Cu",
+        "output": "The catalyst is prepared by impregnation with metal precursor Bi(NO3)3·5H2O\n\nThe synthesis procedures are as followed:\n1. First, 515 mg CuCl2·2H2O and 170 mg Bi(NO3)3·5H2O were dissolved in 2 ml isopropanol in a vial. \n2. Under bath sonication, 2 ml propylene oxide and 0.2 ml H2O were then successively added, forming a green gel. \n3. The green gel was aged for 1 day and dried at 60 °C under vacuum overnight. \n4. The Bi1Cu SAA catalyst was then formed in situ by reducing the Cu–Bi precursor at a constant current density of −500 mA cm−2 for 30 min in a standard three-electrode flow cell system supplied with CO2 gas, with 0.5 M KHCO3 as electrolyte."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom In supported on Cu",
+        "output": "The catalyst is prepared by impregnation with metal precursor In(NO3)3·5H2O\n\nThe synthesis procedures are as followed:\n1. First, 515 mg CuCl2·2H2O and 96 mg In(NO3)3·5H2O were dissolved in 2 ml isopropanol in a vial. \n2. Under bath sonication, 2 ml propylene oxide and 0.2 ml H2O were then successively added, forming a green gel. \n3. The green gel was aged for 1 day and dried at 60 °C under vacuum overnight. \n4. The In1Cu SAA catalyst was then formed in situ by reducing the Cu–Bi precursor at a constant current density of −500 mA cm−2 for 30 min in a standard three-electrode flow cell system supplied with CO2 gas, with 0.5 M KHCO3 as electrolyte."
+      }
+    ]
+  }
+]

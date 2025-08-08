@@ -1,0 +1,17 @@
+question
+synthesis of single atom Ag supported on CdS
+
+answer
+The catalyst is synthesized by impregnation with metal precursor AgNO3 and support CdS nanorods.
+
+The support CdS nanorods are prepared as followed:
+1. Cd(NO3)2·4H2O (2 mmol) and thiourea (8 mmol) were dissolved in 20 mL of anhydrous ethylenediamine in a 50 mL breaker and magnetically stirred until the solids dissolved completely at room temperature. 
+2. Then, the mixture was transferred to a 50 mL stainless Teflon-lined autoclave, tightly sealed, and placed in a 160 °C oven for 20 h. 
+3. The system was then naturally cooled to room temperature. 
+4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), a yellow solid was obtained after being dried under vacuum at 60 °C for 12 h. 
+
+After the support CdS nanorods are prepared, the catalyst is synthesized as followed:
+1. a certain amount of AgNO3 aqueous solution (11.1 mM) was added to a suspension of CdS (50 mg) dispersed in deionized water (50 mL).
+2. Then, the mixture was stirred for 24 h in the dark at room temperature and atmosphere. 
+3. The resulting yellow slurry was slightly dark compared with pure CdS nanorods. 
+4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), Cd(Ag)S catalysts were obtained after being dried under vacuum at 60 °C for 12 h.

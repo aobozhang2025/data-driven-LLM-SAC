@@ -1,0 +1,15 @@
+question
+Preparation of single atom Fe supported on mannose-modified N-C, denoted by Fe-SA@Man 
+
+answer
+The precursor single atom Fe doped by N supported on C is synthesized with the following procedures:
+1. 6 g melamine, 1.5 g L-Cysteine and 15 mg iron trichloride hexahydrate were first grounded into a homogeneous precursor by ZrO2 mortar ball for 2 h. 
+2. Following, 10 mL mixed solution of ethanol and hydrochloric acid (volume ratio 5:1) added. 
+3. The slurry continued to be grinded until the ethanol evaporated. 
+4. The mixture was dried in an oven at 80 °C and ball milled again for 20 min. 
+5. Subsequently, the fine powder mixture was undergone a two-stage pyrolysis and carbonization process at the N2 atmosphere (first stage: from 25°C to 550 °C, maintain at 550 °C for 2 h and then heated to 800 °C for 120 min). The heating rate of the whole process at a rate of  2 °C/min. 
+6. After cooling down to room temperature, the product was leached at 80 °C in 0.5 M  H2SO4 to remove the unstable species. 
+
+After the precursor is prepared, the catalyst is synthesized by the following procedures: 
+1. 20 mg of Fe-N-C was dissolved in 2-(N-morpholino)ethanesulfonic acid buffer (MES, 10 mL, pH 6.0, 20 × 10−3 M) containing EDC·HCl (250 mg) and NHS (200 mg)  and agitated for 1.5 h. 
+2. Afterward, D-mannosamine hydrochloride (10 mg) was added and stirred for  24 h. The resulting product was washed with water and freeze-dried.

@@ -1,0 +1,11 @@
+question
+Synthesis of single atom Cu doped by 3 N on N-doped thinwalled nanotubes, denoted by TWN-Cu-SACs  
+
+answer
+1. Melamine (0.1514 g), trimesic acid (0.2522 g), and cupric dichloride (0.1023 g) were dissolved in a methanol solution (35 mL) and vigorously stirred for one hour then hydrothermally transferred to a hydrothermal kettle at 150 °C for 12 h. 
+2. After that, the product was collected by centrifugation at 10000 rpm for 5 min, washed with methanol three times, and dried in an oven at 60 °C overnight. 
+3. The powder (500 mg) was uniformly mixed with tetraethyl orthosilicate (4.1 g).  
+4. After that, it was hydrothermally heated at 150 °C for 12 h, washed with ethanol, and dried overnight in an oven at 60 °C. 
+5. After grinding in an agate mortar, the sample was pyrolyzed in a furnace under an argon atmosphere. 
+6. The pyrolysis temperature was increased from room temperature to 600 °C at a heating rate of 2 °C min-1 and maintained for an additional two hours. 
+7. The as-obtained product was collected from the furnace, etched with HF for two hours, washed with water until it was neutral, and dried in a vacuum at 60 °C overnight.

@@ -1,0 +1,17 @@
+question
+preparation of single atom Au supported on KPCN, denoted by AuKPCN 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor HAuCl4 and support KPCN
+
+The support is prepared as followed:
+1. melamine (4.0 g, Alfa Aesar) was ground with KBr (5.95 g, Alfa Aesar) in 3 ml ethanol (Et-OH) and 1 ml glycol in an agate mortar for 1 h.
+2. After drying at 65 °C, the resultant mixture was heated to 560 °C for 4 h at a ramping rate of 2.2 °C min−1 in a tube furnace (inner diameter 4 cm) in N2 atmosphere (50 ml min−1). 
+3. After cooling to room temperature, the bright yellow-green product was ball milled (400 rpm, 3 h) with ZrO2 balls of Ф ≈ 0.4 mm in Et-OH. 
+4. The sample was washed by boiling deionized water several times, collected by filtration and dried at 60 °C in a vacuum oven for 12 h. 
+
+After the support is prepared, the catalyst is synthesized as followed:
+1. a certain amount of KPCN was dispersed in 26 ml water under sonication for 60 min at 60 °C, followed by adding a certain amount of HAuCl4.
+2. The mixture was then bubbled with N2 for 30 min (100 ml min−1). 
+3. The reaction system was carefully sealed and then heated to 60 °C for 8 h. 
+4. After cooling down to room temperature, the sample was washed by deionized water and Et-OH several times, collected by filtration and dried at 60 °C in a vacuum oven for 12 h.

@@ -1,0 +1,13 @@
+question
+synthesis of single atom Ni supported on N, S-doped carbon
+
+answer
+The catalyst is prepared by impregnation with metal precursor NiCl2·6H2O and template SiO2 nanoparticles
+
+The synthesis procedures are as followed:
+1. First, 1.0 g of o-phenylenediamine, 0.405 g NiCl2·6H2O and 1.0 g SiO2 nanoparticles (10–20 nm, Aldrich) templates were mixed together by using 20 ml 1.0 M HCl solution. 
+2. Then, the mixed solution was sonicated for 0.5 h and stirred for another 0.5 h. 
+3. Subsequently, 12 ml of 1.0 M HCl solution, which contains 3.0 g of ammonium peroxydisulfate, that is, (NH4)2S2O8, was added dropwise into the above mixed solution with vigorous stirring. 
+4. After polymerization in an ice bath for nearly one day, the mixture was dried using a rotary evaporator. 
+5. Then, the dried powder was annealed under Ar atmosphere at 800 °C for 2 h. 
+6. Finally, the product was treated by alkaline (2.0 M NaOH) and acid (2.0 M H2SO4) leaching successively to remove SiO2 nanoparticles templates and unstable Ni-based species, respectively

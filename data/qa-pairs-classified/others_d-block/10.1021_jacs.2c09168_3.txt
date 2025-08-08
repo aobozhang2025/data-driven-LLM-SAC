@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Zr supported on Co, denoted by Zr1/Co 
+
+answer
+The catalyst is synthesized by a MOF synthesis framework.
+
+The synthesis procedures are as followed:
+1. 1.0 g Zr(NO3)4·5H2O, 0.9 g Co(NO3)2·6H2O and 9.5 g Zn(NO3)2·6H2O were dissolved with 200 ml ethanol. 
+2. Then, 6.6 g H2BDC was dissolved in 200 ml DMF to form a clarified solution. 
+3. Afterwards, the as-prepared two solutions were mixed under a magnetic stirring. 
+4. The reaction mixture prepared above was transferred directly into a Teflon-lined autoclave and maintained at 120 °C for 12 h. 
+5. After cooling to room temperature naturally, the  product was separated by centrifugation and washed subsequently with DMF and ethanol  alternately for six times. 
+6. The product was then dried at 60 °C for 12 h, named as ZrCoZn-MOF.  
+7. The ZrCoZn-MOF precursor was calcined under air at 400 °C for 12 h to form ZrCoZnO sample. 
+8. The ZrCoZnO was further reduced to Zr1/Co sample under H2 at 380 °C for 4 h.

@@ -1,0 +1,106 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ag supported on α-MnO2, denoted by Ag1/α-MnO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor AgNO3 and support α-MnO2\n\nThe support α-MnO2 is prepared as followed:\n1. an aqueous solution (225 mL) of KMnO4 (13.3 g) was added to an aqueous solution (67.5 mL) of MnSO4·H2O (19.8 g) and glacial acetic acid (5 mL). \n2. The resulting mixture was hydrothermal at 100 oC for 24 h. \n3. The product was filtered, washed several times with distilled deionized water, dried at 100 °C overnight, and finally calcinated in air at 500 °C for 6 h.\n\nAfter the preparation of α-MnO2, the catalyst synthesis procedures are as followed:\n1. 0.016g of AgNO3 was dissolved in 20 mL deionized water to form a solution, to which ammonia solution (25 wt.%) was slowly added under stirring until the solution became clear\n2. and then the mixture was added to another suspension (100 mL) containing the α-MnO2 (2.000 g) with H2O2 solution (30 wt.%) under stirring at 0 oC for 0.5 h. \n3. The final suspension was filtered, washed with distilled water, and then dried at 100 oC for 24 h, followed by annealing at 500 oC in air for 6 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on Al2O3, denoted by Cu/Al2O3.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O and support Al2O3\n\nThe support Al2O3 is prepared as followed:\n1. 4.28  g (11.4 mmol) of Al(NO3)3·9H2O was added into 100 mL deionized water at room temperature in a 250 mL flask. \n2. Then, 30 mL of Na2CO3 (2.71 g) solution was added dropwise into the solution under vigorous stirring and the mixture was stirred for a further 5 h at room temperature. \n3. The reaction  mixture was centrifuged and washed with water to remove the base until the pH value of the aqueous solution was≈7. \n4. Next, the solid was dried at 100 °C for 12 h, calcined at 350 °C for 5 h. \n\nAfter the preparation of Al2O3, the catalyst is synthesized as followed:\n1. 0.15 g (0.6 mmol) of Cu(NO3)2·3H2O and 0.60 g Al2O3 were added into 100 mL deionized water at room temperature in a 250 mL flask. \n2. Next, 10 mL of NaBH4 solution (0.023 g) was added dropwise into the solution. \n3. After 10 minutes, 20 mL of Na2CO3 (0.076 g) solution was added dropwise into the solution under vigorous stirring and the mixture (pH≈13) was stirred for a further 5 h at room temperature. \n4. The reaction mixture was centrifuged and washed with water to remove the base until the pH value of the aqueous solution was≈7. \n5. Next, the solid was dried at 100 °C for 12 h, calcined at 350 °C for 5 h, and then reduced under hydrogen flow at 350 °C for 3 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of the single atom Cu supported on TiO2/BiVO4, denoted by Cu1-TiO2/BiVO4",
+        "output": "The catalyst is synthesized by impregnation .\n\nThe support TiO2/BiVO4 is prepared as followed:\n1. Bi(NO3)3·5H2O (1 mmol) was dissolved in ultrapure water (40 mL) and stirred for 10 min to form solution A. \n2. NH4VO3 (1 mmol) and urea (20 mmol) were dissolved in ultrapure water (32 mL) and stirred for 10 min to form solution B. \n3. Solution A was then added dropwise to solution B, followed by a certain amount of TiO2 (X mmol) and  further stirring for 60 min to form a suspension. \n4. Next, the suspension was transferred to a hydrothermal reactor (HTG-100-SS1, Anhui Kemi Machinery Technology Co., Ltd),  and heated at 90 °C for 12 h. \n5. Subsequently, it was naturally cooled to room temperature, centrifuged to obtain a solid precipitate, which was then washed with  deionized water, and dried at 60 °C overnight. \n6.Finally, the solid powder was reduced at 400 °C for 2 h in a H2 atmosphere to obtain a heterojunction catalyst TiO2/BiVO4\n\nAfter the support TiO2/BiVO4 is prepared, the catalyst is synthesized with the following procedures:\n1. 0.15g of TiO2/BiVO4 was dispersed in an aqueous solution (150 mL) and stirred  continuously for 0.5 h. \n2. Then Cu (0.5 wt %) solution was added dropwise. \n3. After that the  suspension was quickly frozen into blocks with liquid nitrogen, and illuminated with a  300 W Xe lamp (CEL-HXF300, Beijing Zhongjiao Jinyuan Technology Co., Ltd.) for 5   min. \n4. Subsequently, it naturally melted at room temperature, and the obtained  suspension was centrifuged and washed with ultrapure water for 3 times. \n5. Finally, the precipitate obtained was dried at 60 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of isolated Cu atom anchored by zinc oxide nanosphere",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O\n\nThe synthesis procedures are as followed:\n1. 0.06 g of Cu(NO3)2·3H2O and 4.8 g of Zn(NO3)2·6H2O were dispersed in 16.2 mL of deionized water, and magnetically stirred at 70 °C for 5 min to prepare solution A. \n2. Then 1.2 g of Na2CO3 were dispersed in 12 mL of deionized water, and magnetically stirred at 70 °C for 5 min to prepare solution B.\n3. Subsequently,  solution A was added dropwise to an empty beaker at a constant speed of 5 mL min-1 by a peristaltic pump. \n4. Solution B was added dropwise to the beaker during the addition of solution A to control the pH of the mixed solution to 8. \n5. After all solution A was added, the mixed solution continued to react in a 70 °C water bath for 1 hour, and then aged at room temperature for 2 h to obtain a precipitate. \n6. Then the resulting precipitate was washed by deionized water and dried under vacuum at 90 °C overnight to obtain a precursor catalyst. \n7. Finally, the as-prepared precursor catalyst was pyrolyzed at 400 °C in an air atmosphere in a muffle furnace for 3 h"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Cu atom decorated WO3.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuCl2 and support WO3\n\nThe synthesis procedures are as followed:\n1. 500 mg of WO3 was dispersed to 10 mL of deionized water by ultrasonic.  \n2. Subsequently, a specific amount of CuCl2 solution was added the WO3 suspension under vigorous stirring.  \n3. The temperature was heated to 90 °C and kept until dryness. \n4. The resulting sample was collected and transferred to a muffle furnace. \n5. It was calcined at 300 °C for 1 h with a ramping rate of 2 °C/min under an air atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on ZSM-5",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2\n\nThe synthesis procedures are as followed:\n1. 2.0 g H-ZSM-5  (SiO2:Al2O3 = 46) was suspended in 0.2 M Cu(NO3)2 solution (60 mL) for 20 h at 353 K. \n2. Then the solid was washed and collected after overnight drying at 343 K. \n3. 1.0 g of the solid was placed in a quartz boat  and centered in a quartz tube furnace\n4. the solid was conducted at 573 K within a temperature ramping rate of 5  K min-1 for 1 h under the atmosphere of 10% H2/N2 with a gas flow rate of 300 mL min-1\n5. the reduced sample was collected and stored in a  vacuum oven for further usage."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on SiO2",
+        "output": "The catalyst is prepared by impregnation with metal precursor Cu(NO3)2 and support SiO2 nanopowder\n\nThe synthesis procedures are as followed:\n1. 200 μL of Cu(NO3)2 solution (Cu content of 12.5 mg/mL) was added into10 mL ammonia solution (concentration of 5 mol/L) to form Cu(NH3)42+ solution. \n2. Then, 500 mg SiO2 nanopowder was added to the above solution and stirred at room temperature for one hour. \n3. The mixture was filtered and washed with DI water to pH neutral. \n4. Then the product was dried at 60 °C in a vacuum oven for 12 hours to obtain the Cu/SiO2 precursor. The theoretical Cu loading was 0.5 wt.%.\n5. reducing the Cu/SiO2 precursor in 10 vol% H2/He for 1 h at 300 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Au doped by Na and OH supported on TiO2",
+        "output": "The catatyst is synthesized by impregnation with metal precursor Au(OH)3 and support TiO2\n\nThe synthesis procedures are as followed:\n1. Gold loadings of 0.5% were prepared by a single-step IWI of the designed amount of the gold solution. \n2. To prepare the solution, the proper amount of Au(OH)3 powder was suspended in 30 ml of H2O with O2 sparging and heated to 80 °C. \n3. NaOH powder (atomic ratio of Au:Na = 1:9) was added into the slurry at the same temperature. \n4. The mixture was refluxed at 80 °C overnight to obtain a transparent solution (colourless at lower concentrations to light yellow at higher concentrations). \n5. The solution was concentrated by heating followed by drying at 200 °C with N2 protection\n6. and then the sample was further dried in vacuum overnight at 80 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O and support TiO2\n\nThe synthesis procedures are as followed:\n1. TiO2 powder was reduced by 10% H2/N2 at 500 °C for 2 h to obtain reduced TiO2 (TiO2-reduced). \n2. 200 mg of pretreated TiO2 powder was dispersed into 20 ml of ultrapure water\n3. then 760 μl of Cu(NO3)2·3H2O (20 mg ml−1) aqueous solution was introduced into the mixture under vigorously stirring in a 100-ml beaker. \n4. The obtained suspension was then subject to UV illumination for 5 min at ambient temperature, with the operating current set to 0.8 A.\n5. Subsequently, the mixture was centrifuged and washed in ultrapure water twice, then dried overnight at 60 °C in an oven. \n6. The bulk sample was milled carefully using a quartz mortar"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Cu supported on TiO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor CuCl2 and support precursor anatase TiO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial anatase TiO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 5.4 mg of CuCl2 are diluted with H2O to make 1 ml of aqueous Cu precursor solutions. \n3. The TiO2 dispersion and Cu precursor solution were purged with Ar gas for 10 min. \n4. The TiO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the TiO2 dispersion turned bluish, 0.5 ml of the Cu precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Cu supported on ZnO",
+        "output": "The catalyst is prepred by impregnation with metal precursor CuCl2 and support precursor anatase ZnO\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial ZnO was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 5.4 mg of CuCl2 are diluted with H2O to make 1 ml of aqueous Cu precursor solutions. \n3. The ZnO dispersion and Cu precursor solution were purged with Ar gas for 10 min. \n4. The ZnO dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the ZnO dispersion turned bluish, 0.5 ml of the Cu precursor solution was injected into the ZnO dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of diverse dynamically stabilized atomic Cu supported on CeO2",
+        "output": "The catalyst is prepred by impregnation with metal precursor CuCl2 and support precursor CeO2\n\nThe catalyst is prepared as followed:\n1. 50 mg of commercial CeO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. \n2. 5.4 mg of CuCl2 are diluted with H2O to make 1 ml of aqueous Cu precursor solutions. \n3. The CeO2 dispersion and Cu precursor solution were purged with Ar gas for 10 min. \n4. The CeO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). \n5. The light was irradiated for 20 min for each sample.  \n6. After the CeO2 dispersion turned bluish, 0.5 ml of the Cu precursor solution was injected into the TiO2 dispersion and vigorously stirred. \n7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. \n8. The product was dried in an electric oven at 50 °C overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Cu supported on ZSM-5",
+        "output": "The catalyst is prepared by impregnation with metal precursor CuSO4·5H2O and support ZSM-5\n\nThe synthesis procedures are as followed:\n1. 1 g of ZSM-5 was dispersed in 50 ml of ethanol by magnetic stirring. \n2. Subsequently, 10 mg of CuSO4·5H2O (Sinopharm Chemical Reagent) was ultrasonically dissolved in 50 ml of deionized water, and this solution was added into the ZSM-5 suspension. \n3. After vigorous stirring for 12 h, CuZSM SA was successfully obtained. \n4. The obtained products were thoroughly washed with deionized water and ethanol, followed by centrifugation. \n5. Subsequently, they were dried in an oven at 60 °C to remove any residual solvents, resulting in the final CuZSM SA product. \n6. The dried product was meticulously ground into a fine powder for further use. \n7. Subsequently, the porcelain boat-containing CuZSM SA was gradually heated to 550 °C at a heating rate of 5 °C min−1 in a 5% H2/Ar atmosphere. \n8. The sample was maintained at this temperature for 6 h to ensure complete reduction. \n9. natural cooling to room temperature"
+      }
+    ]
+  }
+]

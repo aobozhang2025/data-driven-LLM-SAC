@@ -1,0 +1,15 @@
+question
+synthesis of single atom Fe supported on N-doped graphic layers
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(OAc)2 and template nano-MgO
+
+The synthesis procedures are as followed
+1. A mixture of Fe(OAc)2 (0.5 mmol, 87 mg) and 1,10-phenanthroline monohydrate (1.5 mmol,  297 mg) was added to 50 mL ethanol and sonicated for 10 minutes, followed by the addition of  3.16 g nano-MgO and then sonicated for another 10 minutes. 
+2. Then the mixture was stirred at 60 oC overnight under reflux. 
+3. Subsequently, the ethanol was removed under vacuum. 
+4. The remaining solid was dried at 60 oC for 12 h and then transferred to a quartz boat in the tube furnace under an argon atmosphere. 
+5. The tube furnace was heated to 800 oC at a rate of 2 oC  /min and was held at 800 oC for 2 h, the entire procedure was conducted under argon protection.  
+6. The obtained black solid was stirred in 100 mL of 1M HNO3 solution at room temperature for 2 h. 
+7. This process was repeated for three times to remove the MgO support. 
+8. The recovered solid  was washed with water until the pH of the filtrate became neutral and then dried at 60 oC overnight.

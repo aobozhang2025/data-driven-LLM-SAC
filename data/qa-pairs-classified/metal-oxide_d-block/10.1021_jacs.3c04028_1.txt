@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Mo supported on Al/MgO, denoted by Mo1Al/MgO 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Na2MoO4
+
+The synthesis procedures are as followed:
+1. Mg(NO3)2·6H2O (32 mmol) and Al(NO3)3·9H2O (10.6 mmol) were dissolved in 40 ml deionized water forming solution A. 
+2. NaOH (68.3 mmol) and Na2MoO4 (0.1 mmol) were dissolved in 40 ml deionized water forming solution B. 
+3. Then, the as-prepared solution A and B were dropwise and simultaneously added to 80 ml deionized water under magnetic stirring  (~600 rpm), during which the pH of the mixed solution was kept at 8.5 by using a pH indicator.  
+4. After titration, the resulted liquid was stirred for another 12 h. 
+5. After washing by centrifugation  (10000 rpm) with ethanol and water alternately for 4 times, the product (MgAl-(MoO42-)-LDHs)  was dried at 60 °C for 6 h in the oven and grinded to white powder.  
+6. Then, the as-prepared MgAl-(MoO42-)-LDHs were thermally reduced in H2/N2 (5% of H2) atmosphere at 300 °C for 3 h in a tube furnace, and the Mo1Al/MgO powder was obtained.

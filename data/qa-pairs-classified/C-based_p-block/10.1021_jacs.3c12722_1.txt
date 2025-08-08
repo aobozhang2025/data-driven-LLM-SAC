@@ -1,0 +1,17 @@
+question
+synthesis of single atom Sn doped by Li supported on C
+
+answer
+The catalyst is synthesized with precursor Sn-Li amalgam.
+
+The precursor is prepared as followed:
+1. dissolving 5 mg Sn metal  (99.9% Alfa-Aesar) into 2.0 g molten Li (99.9% Sigma-Aldrich) inside the glovebox. 
+2. A horn  sonicator was used to homogenize the Sn in the molten Li from bulk wires to single atoms and to prevent Sn from precipitation at 200 °C for 3 hours. 
+3. The molten mixture was then quickly quenched to room temperature over a clean 316-stainless steel plate to form Sn-Li amalgamate while Sn remained atomically dispersed in the solid. 
+
+After the precursor is prepared, the catalyst is synthesized with the following procedures:
+1. The prepared Sn-Li amalgam solution was taken from the glovebox and cut into small pieces. 
+2. The lithium in the Sn/Li was slowly converted to LiOH under humidified air at  ambient temperature. 
+3. The Sn single atoms embedded LiOH powder were uniformly mixed with 2.50 g carbon black (Vulcan XC-72) by grinding the mixture with agate mortar and pestle. 
+4. The resulting mixture was then filtered with copious amounts of de-ionized water to leach off LiOH.  
+5. Finally, the remaining solid was separated and dried in vacuum at 60 °C for 24 hours, forming the  catalyst with designed Sn loading.

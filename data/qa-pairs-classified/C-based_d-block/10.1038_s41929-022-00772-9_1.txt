@@ -1,0 +1,16 @@
+question
+synthesis of single atom Fe supported on N-doped Carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor Fe(II)Cl2·4H2O
+
+The catalyst is prepared as followed:
+1. commercial ZIF-8 (Basolite Z1200, Sigma Aldrich) as a combined C and N precursor was pyrolysed in a tube furnace at 900 °C for 1 h under flowing nitrogen gas (research grade, BOC Ltd) to obtain a nitrogen-doped carbon framework that contained abundant Zn–Nx sites (Zn–NC). 
+2. A heating rate of 3 K min−1 was used to reach the set temperature of 900 °C. 
+3. The Zn–NC product was then leached by refluxing in a 2 M H2SO4 solution (95% H2SO4, Aristar, VWR) for 15–18 h to effectively remove most of the coordinated Zn (□-NC), although these sites are protonated. 
+4. Leaching Zn–NC under aggressive acid reflux conditions was significantly more effective to remove Zn as compared with acid leaching at room temperature. 
+5. In the second step, 100 mg of □-NC powder was dispersed in 100 ml of methanol (VWR) that contained 100 mg of Fe(II)Cl2·4H2O (99%, Honeywell Fluka). 
+6. This mixture was refluxed for 15–18 h with constant stirring followed by thorough washing in de-ionized water and then overnight leaching in 0.5 M H2SO4 to ensure a complete removal of the physisorbed Fe ions. 
+7. Afterwards, this iron-coordinated catalyst was subjected to a thorough aqueous washing and was then dried in a vacuum oven overnight at 70 °C. 
+8. This unactivated catalyst, Fe–NCU, was then mixed with the DCDA (99%, Sigma-Aldrich) in a weight ratio of 2:1 and thoroughly ground for 15 min before it was subjected to the activation step at 900 °C for 1 h under a flow of a 5% H2/N2 gas mixture (BOC Ltd). 
+9. The temperature ramping rate was 3 K min−1 and the sample was cooled down naturally to room temperature after activation to give final activated catalyst

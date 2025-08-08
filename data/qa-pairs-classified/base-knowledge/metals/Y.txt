@@ -1,0 +1,17 @@
+question
+Chemical Properties of Yttrium (Y)
+
+answer
+Electron Configuration and Oxidation State: Yttrium possesses an electron configuration of [Kr] 4d¹5s². It readily loses its three valence electrons to achieve a stable, noble gas configuration, leading to a dominant and highly stable +3 oxidation state. This high stability influences the electronic structure of the active site and its interaction with reactants.
+
+Oxophilicity: As a hard Lewis acid, yttrium exhibits a strong affinity for oxygen (oxophilicity). This property is crucial in catalytic reactions involving oxygen-containing molecules, such as the oxygen reduction reaction (ORR), where it can effectively adsorb and activate oxygen species.
+
+Coordination Chemistry: In single-atom catalysts, the yttrium atom is not isolated but is coordinated to the support material. The nature of this coordination environment, often involving nitrogen (Y-N₄) or oxygen atoms, is critical in tuning the electronic properties and, consequently, the catalytic activity of the yttrium center. The large ionic radius of Y³⁺ allows for flexible coordination numbers, influencing the geometry of the active site.
+
+Electronic Structure Modulation: The interaction between the single yttrium atom and the support material can modulate its electronic structure. This can lead to the creation of unique active sites with optimized adsorption energies for reactants and intermediates, enhancing catalytic performance in ways not achievable with bulk yttrium materials. For instance, in some Y-SACs designed for the ORR, the coordination environment can fine-tune the d-band center of the yttrium atom, leading to catalytic activity comparable to that of precious metals.
+
+question
+inorganic Y precursors
+
+answer
+Simple and cost-effective inorganic salts, such as yttrium(III) chloride (YCl₃) and yttrium(III) nitrate (Y(NO₃)₃), are widely used precursors. These salts can be introduced onto a support material through wet-chemistry methods like impregnation or co-precipitation. Subsequent high-temperature treatment helps to anchor the individual yttrium atoms to the support.

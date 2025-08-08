@@ -1,0 +1,9 @@
+question
+Synthesis of single atom Bi supported on NC, denoted by Bi SAs/NC  
+
+answer
+1. the powdery N-doped carbon (200 mg) obtained from ZIF-8 was dispersed in isopropanol (100 ml) under stirring. 
+2. After forming a homogeneous solution, BiCl3 (500 mg) was added into the above solution. 
+3. The mixed solution was under vigorous stirring for 6 h. 
+4. Subsequently, the obtained Bi3+/NC was withdrawn and washed with ethanol thoroughly, and dried in an oven at 60 °C for 3 h. 
+5. After that, the Bi SAs/NC were synthesized through annealing of the Bi3+/NC in an N2  atmosphere at 800 °C for 1 h with a heating rate of 5 °C min−1.

@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Cr doped by 4 N supported on N-doped Carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cr(NO3)3·9H2O
+
+The synthesis procedures are as followed:
+1. Glucose (0.5 g) and dicyandiamide (10 g) were dissolved in 400 mL deionized water. 
+2. Then, 2 mL of 0.025 M Cr(NO3)3·9H2O aqueous solution was added dropwise into the mixed solution. 
+3. Subsequently, the mixture was heated at 80 oC under magnetic stirring to evaporate the vast majority of water. 
+4. The residual solution was then frozen by a liquid nitrogen bath. 
+5. The obtained solid product was ground into powder, and annealed at 900 °C for 2 h in Ar atmosphere.

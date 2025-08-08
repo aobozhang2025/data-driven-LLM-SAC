@@ -1,0 +1,12 @@
+question
+The preparation of single atom Cu doped by 3 N supported on carbon, denoted by Cu3N NC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O
+
+The synthesis procedures are as followed:
+1. 10 mL octadecylamine (ODA) was added into the three-necked flask with vigorous stirring and heated to 250 °C until the color of the solvent turned orange, followed by quick addition of 0.3 g Cu(NO3)2·3H2O powder into the flask. 
+2. Upon 15 min nucleation process, the Cu3N NCs were successful synthesized, evidenced by the change in color of solvent into luteotestaceous.
+3. Next, the reaction mixture was cooled down to 70 °C, and the Cu3N NCs were firstly washed through a hot filter method with ethanol 4 times.
+4. Then the oleosus precipitate was washed with cyclohexane and ethanol (1: 5) 2 times to remove the ODA. 
+5. Finally, the Cu3N NCs were dispersed  into 5 mL cyclohexane.

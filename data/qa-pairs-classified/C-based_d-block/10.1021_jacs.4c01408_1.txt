@@ -1,0 +1,15 @@
+question
+synthesis of single atom Rh doped by P and N supported on carbon 
+
+answer
+The catalyst is synthesized by a framework of ZIF synthesis with metal precursor rhodium(III) chloride hydrate
+
+The synthesis procedures are as followed:
+1. 75 mL methanol solution of zinc nitrate hexahydrate (0.128 M) and 75 mL methanol solution of 2-methylimidazole (0.512 M) were mixed and stirred vigorously at room temperature for 5 min. 
+2. Then, the resulting solution was transferred and sealed in a container, followed by heating to 35 °C for 6 h to improve the crystallinity of ZIF-8. 
+3. The as-obtained ZIF-8  was washed thoroughly with methanol for several times and dried in vacuum at 80 °C. 
+4. Subsequently,  800 mg ZIF-8 sample was dispersed in 40 mL methanol, and added into the 200 mL methanol solution with 640 mg of bis(4-aminophenyl) ether and 320 mg of phosphonitrilic chloride trimer  under continuous stirring. 
+5. Then, 16 mL triethylamine and 100 mL methanol were mixed and slowly  dropped into the above suspension, following by heating to 40 °C for 14 h to prepare the ZIF-8 coating poly-(cyclotriphospazene-co-4,4'-diaminodiphenylether) (PZM) sample, which was marked  as ZIF-8@PZM. 
+6. The as-obtained ZIF-8@PZM was annealed in N2 atmosphere at 950 °C for 3 h  (heating rate: 5° min-1). 
+7. 200 mg of the ZIF-8@PZM was dispersed in 20 mL methanol, and 10 mL methanol solution of rhodium(III) chloride hydrate (1 mg/mL) was slowly dropped into the above suspension of ZIF-8@PZM under continuous stirring for more than 24 h, 
+8. followed by washing by methanol, drying and  annealing in N2 atmosphere at 250 °C for 2 h (heating rate: 2° min-1).

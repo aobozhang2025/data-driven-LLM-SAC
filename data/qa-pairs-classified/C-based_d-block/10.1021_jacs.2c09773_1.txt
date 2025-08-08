@@ -1,0 +1,22 @@
+question
+Synthesis of single atom Ni doped by N supported on C, denoted by Ni-NAC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni acetylacetonate and template SBA-15
+
+The template SBA-15 is prepared as followed:
+1. SBA-15 was obtained first for the template growth of Ni-NAC. 
+2. Pluronic P123 (4 g) was first dissolved in 120 ml of hydrochloric solution (1.6 M) at 38 °C. 
+3. After  being dissolved, 8.5 mL of TEOS was added, and the solution was stirred for 20 h. 
+4. The composition of the achieved gel was 1 TEOS: 0.017 P123: 5.68 HCl: 197 H2O. 
+5. The hydrothermal synthesis was performed in an oven at 100 °C for 24 h in a sealed polypropylene bottle. 
+6. The white solid material was recovered by Büchner filtration, washed with distilled water, and dried overnight in an oven at 80 °C. 
+7. The obtained solid was then calcined in a muffle furnace at 550 °C under air for 5 h with a heating rate of 1 °C min−1 to produce SBA-15.
+
+After template SBA-15 is prepared, the catalyst is synthesized as followed: 
+1. Ni acetylacetonate was added into a solution of ethylenediamine (1.80 g) and carbon tetrachloride (4.00 g), followed by the addition of SBA15 (0.80 g). 
+2. The mixture was then heated in an oil bath set at 90 °C for 16 h for condensation before the oil bath temperature increased to 120 °C for 4 h to remove the uncondensed ethylenediamine and carbon tetrachloride. 
+3. The obtained powders were calcined under Ar flow, with temperature increased in a ramping rate of 3 °C min−1 and further maintained at 800 °C for 2 h. 
+4. The achieved black powder was then etched with 5 wt % HF solution to remove the SBA-15. 
+5. The catalyst was recovered via centrifugation and washed with deionized water until the pH reached 7. 
+6. The catalyst was further dried at 100 °C for future usage.

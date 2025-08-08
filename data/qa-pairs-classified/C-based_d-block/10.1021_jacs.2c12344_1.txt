@@ -1,0 +1,14 @@
+question
+Synthesis of single atom Co supported on N-doped Carbon, denoted by CoSA-N/C. 
+
+answer
+The catalyst is synthesized based on the synthesis framework of ZIF-8.
+
+The synthesis procedures are as followed:
+1. Co(NO3)2·6H2O (1.1 mmol, 0.32 g) and Zn(NO3)2·6H2O (11.0 mmol, 3.24 g) were mixed and dissolved in 120 mL of methanol as solution 1
+2. Then, 2-methylimidazole (49.0 mmol, 4.02 g) was added into a 40 mL of methanol as solution 2. 
+3. The solution 1 was added dropwise to solution 2 under stirring for 30 minutes at room temperature. 
+4. As obtained precipitates were collected by centrifugation at 8000 rpm for 5 minutes, washed twice with ethanol, and finally dried at 60 °C overnight under vacuum.  
+5. The powder was placed in a tube furnace, and heated to 900 oC at a rate of 5 oC/min under flowing argon gas, held at 900 oC for 3 hours and then naturally cooled to room temperature 
+6. the powder was added to a solution of 0.5 M H2SO4 aq. at 80oC under stirring for 2 days. 
+7. As obtained precipitates were collected by centrifugation at 8000 rpm for 5 minutes, washed twice with pure water, and finally dried at 60 °C overnight under vacuum.

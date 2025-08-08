@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Ru supported on Fe2O3, denoted by Ru1/Fe2O3  
+
+answer
+The catalyst is synthesized by the following procedures:
+1. 3.78 g Fe(NO3)3ꞏ9H2O and 1.8 g RuCl3ꞏxH2O were dissolved in 100 mL ultra-pure water. 
+2. 1.15~1.2 g NaOH was dissolved in 100 mL ultra-pure water, and was used as a precipitant. 
+3. Then the Fe(NO3)3 and RuCl3 solution was added dropwise to the NaOH solution with vigorous stirring at 80 °C and maintaining the pH value of the solution mixture at 7.0~8.0. 
+4. After stirring for 3 h, the solution was aged for 1 h without stirring at 80 °C. 
+5. The aged suspension was then filtered and washed with 1 L ultra-pure of 80 °C.
+6. The collected powder was dried at 80 °C overnight. 
+7. Finally, the dried powder was calcined at 400 °C in a muffle furnace for 4 h.

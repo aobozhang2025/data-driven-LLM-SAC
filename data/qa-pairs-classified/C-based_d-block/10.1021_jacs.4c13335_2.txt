@@ -1,0 +1,14 @@
+question
+Preparation of single atom Fe doped by 4 N supported on nanozyme
+
+answer
+The precursor is prepared as followed:
+1. Firstly, we prepared a mixed solvent by mixing DMF and methanol with the volume  ratio of 4:1 (VDMF: Vmethanol = 4:1). 4276 mg Zn(NO3)2·6H2O and 2032 mg Fe(acac)3  was added into 60 ml mixed solvent (VDMF: Vmethanol = 4:1) in flask A and the mixture was under ultrasound for several minutes in order to obtain a homogeneous solution.  
+2. 4644 mg 2-methylimidazole was added into 40 ml the mixed solvent (VDMF: Vmethanol =  4:1) in flask B under ultrasonic treatment for several minutes. 
+3. Then, the solution in  flask A was mixed with the solution in flask B at room temperature and the mixed  solution was stirred violently for 24 h.
+4. After crystallization of Fe(acac)3@ZIF-8, we collected Fe(acac)3@ZIF-8 powder by centrifugation at 15,000 rpm for 5 min and washed the product by methanol for six times. 
+5. Finally, we dried the obtained  Fe(acac)3@ZIF-8 powder in a oven at 50 oC for several hours.  
+
+The catalyst is synthesized with metal precursor Fe(acac)3 and support ZIF-8:
+1. We heated Fe(acac)3@ZIF-8 to 900 oC with a heating rate of 5 oC/min and the temperature was kept at 900 oC for 2.5 h under flowing argon gas (99.999%). 
+2. After pyrolysis, the Fe-N4/CN SAzyme was cooled to room temperature naturally.

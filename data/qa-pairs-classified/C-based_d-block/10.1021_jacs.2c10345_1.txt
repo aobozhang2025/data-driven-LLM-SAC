@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Nb supported on N-doped carbon, denoted by Nb-SAs@NC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor niobium ethoxide 
+
+The synthesis procedures are as followed:
+1. 2.97 g Zn(NO3)2·6H2O and 3.28 g 2-methylimidazole were dissolved in methanolic solution (100 mL), respectively.  
+2. Subsequently, two solutions were mixed with vigorous stirring for 10 h. 
+3. The precipitates were collected by centrifuged, washed and dried at 80 °C for 10 h. 
+4. The composite was pyrolyzed at 650 °C for 1 h with a heating rate of 5 °C min–1 under a  flowing Ar atmosphere to obtain pre-pyrolyzed NC-650
+5. The mixture of pre-pyrolyzed NC-650 (0.1 g) and niobium ethoxide (7 uL) was added to 100 mL ethanol and vigorously stirred. 
+6. After that, the resulting products were washed and dried, followed by laying them in a  porcelain boat and maintained at 960 °C for 3 h under a flowing Ar atmosphere,  yielding Nb-SAs@NC powders.

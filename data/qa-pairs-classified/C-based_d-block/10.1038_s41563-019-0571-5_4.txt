@@ -1,0 +1,16 @@
+question
+Synthesis of single atom Co supported on ZIF oxidized
+
+answer
+The catalyst is prepared by impregnation with metal precursor CoCl2·6H2O and support ZIF
+
+The catalyst is prepared as followed:
+1. ZIF-8 (Basolite Z1200 from Sigma-Aldrich) powder (1 g) was annealed at 900 °C for 3 h under an Ar atmosphere (yield ~0.32 g) in a tube furnace to obtain ZIF-derived carbon. 
+2. The ZIF-derived carbon (200 mg) was dispersed in 50 ml water and sonicated for 30 min. 
+3. Cobalt acetate (177 mg) and 1,10-phenanthroline (594.6 mg) were dissolved in 15 ml of water. 
+4. Then, 1 ml of this solution was added to the ZIF-derived carbon solution and the mixture was sonicated for another 30 min, followed by stirring for 24 h. 
+5. After this, the powder was collected by filtration and was dried in a vacuum oven at 80 °C overnight. 
+6. The dried powder was annealed at 900 °C for 2 h under an Ar atmosphere to produce Co1–ZIF. 
+7. The Co1–ZIF catalyst (200 mg) was dispersed in a 0.5 M H2SO4 solution (300 ml) and heated up to 90 °C. 
+8. After 3 h, 30% H2O2 solution (30 ml was added gradually to the above solution and reacted for 12 h. 
+9. The resulting powder was filtered and rinsed with deionized water, and dried in a vacuum oven at 80 °C

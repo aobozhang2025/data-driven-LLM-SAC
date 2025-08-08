@@ -1,0 +1,10 @@
+question
+synthesis of single atom Mn supported on f-C3N4
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Mn(OAc)3·2H2O
+
+The synthesis procedures are as followed:
+1. uniform mixing of dicyandiamide (DCDA, 9 g) and 2-amino-5-fluorobenzonitrile (150 mg) with Mn(OAc)3·2H2O (21.00 mg). 
+2. After this, the mixture was stirred in H2O (45 mL) at 95−100 °C temperature until complete desiccation. 
+3. The remaining residue underwent pyrolysis at 550 °C under an aerobic atmosphere

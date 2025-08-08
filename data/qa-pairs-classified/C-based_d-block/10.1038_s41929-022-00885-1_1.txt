@@ -1,0 +1,11 @@
+question
+synthesis of single atom Ru supported on N-doped carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor Ru(acac)3
+
+The catalyst is prepared as followed:
+1. C2H4N4 (12 g), C3H7NO2 (3 g) and Ru(acac)3 (40 mg) were added together to a ball mill jar. 
+2. The mixture was then ground at a speed of 400 rpm for 2 h. 
+3. The resulting powder was transferred to a tubular furnace under N2 atmosphere (flow rate = 60 ml min –1) via the following treatment: The temperature was increased from 25 to 600 °C (3 °C min–1) and maintained at 600 °C for 2 h; and then it was further increased from 600 to 900 °C (2 °C min –1) and maintained at 900 °C for 1 h. 
+4. The prepared catalyst was named Ru1/NC.

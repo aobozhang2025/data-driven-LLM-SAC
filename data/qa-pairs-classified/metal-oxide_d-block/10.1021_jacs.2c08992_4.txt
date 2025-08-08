@@ -1,0 +1,30 @@
+question
+preparation of single atom Ni on support (CeO2-sheets or CeO2-Polyhedrons or CeO2-Rods or CeO2-Octahedrons)
+
+answer
+The support CeO2-Sheets is prepared by the followed procedure:
+calcining Ammonium Cerium (IV) Nitrate at 650 oC for 2 h under air atmosphere
+
+The support CeO2-Polyhedrons is prepared by the following procedures:
+1. 5.0 g of Ce(NO3)3·6H2O was dissolved in 100 mL of deionized water
+2. the solution was adjusted to pH 11.0 by the addition of NH4OH (3.4 M) under magnetic stirring at room temperature. 
+3. The resulting gel mixture was washed with pure water, dried in an oven at 100 °C for 12 h, and calcined at 500 °C in air for 4 h.  
+
+The support CeO2-Rods is prepared by the following procedures:
+1. 0.868 g of Ce(NO3)3·6H2O was dissolved in 5 mL of deionized water. 
+2. After that, 15 g of NaOH was dissolved in 35 mL of deionized water and added dropwise to the above aqueous cerium nitrate solution. 
+3. After stirring for 30 min at room temperature, the suspension was transferred to a 100 mL stainless steel autoclave and kept at 100 oC for 24 h. 
+4. The product was then centrifugated and washed with ethanol and water for three times each and then dried at 60 oC in an oven. 
+5. The final CeO2-Rods powder was ground before use.  
+
+The support CeO2-Octahedrons is prepared by the following procedures:
+1. 0.87 g of Ce(NO3)3∙6H2O and 0.0076 g of Na3PO4 were dissolved in 80 mL of distilled water. 
+2. After being stirred at room temperature for 0.5 h, the mixed solution was transferred into a Telflon-lined stainless steel autoclave and heated at 170 oC for 10 h. 
+3. Then the precipitates were washed with distilled water and ethanol, then dried at 60 oC for 12 h and calcined at 350 oC for 3 h in air. 
+
+The catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O
+
+The catalyst synthesis procedures are as followed:
+1. 0.0013 g NiCl2·6H2O and 0.5 g of CeO2-S were dispersed in 20 mL of deionized water and magnetically stirred for 24 h. 
+2. Then the water was evaporated at 60 oC under vacuum. 
+3. The resulting solid was respectively reduced at 450 oC for 2 h under a flowing 5% H2/Ar atmosphere.

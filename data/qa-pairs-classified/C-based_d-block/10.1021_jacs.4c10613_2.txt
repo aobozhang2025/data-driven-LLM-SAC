@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Co supported on NC, denoted by Co-NC. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Co(NO)3·9H2O
+
+The synthesis procedures are as followed
+1. 4.4 mL formaldehyde (37 wt% solution) and 5 g dicyandiamide and 5 mg Co(NO)3·9H2O were mixed in 40 mL deionized water. 
+2. After vigorous  stirring for 10 min, the mixed solution was heated to 80 °C and kept for 24 h to evaporate the water.  
+3. The purple solid powder was then placed in a tubular carbonization furnace and carbonized at 900 °C  for 2 h under argon gas with a heating rate of 5 °C min-1.

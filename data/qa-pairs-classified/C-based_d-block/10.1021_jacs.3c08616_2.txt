@@ -1,0 +1,12 @@
+question
+synthesis of single atom Co supported on N-C, denoted by Co1/NC
+
+answer
+The catalyst is synthesized by impregnation with metal precursors cobalt nitrate hydrate
+
+The synthesis procedures are as followed:
+1. 2.4 g chitosan powder was added into 200 mL deionized water with continuous magnetic stirring for 2 h at room temperature. 
+2. 0.8 g of cobalt nitrate hydrate was subsequently added under stirring for 5 h. 
+3. Then, the solution was dried  at 80 °C under vigorously stirring. 
+4. Afterwards, the as-obtained powder was placed in a tube furnace and heated to 750 °C for 2 h at the heating rate of 5 °C min-1 under N2 atmosphere. 
+5. The calcined sample was washed several times with nitric acid and deionized water, and then vacuum dried and annealed at 900 °C

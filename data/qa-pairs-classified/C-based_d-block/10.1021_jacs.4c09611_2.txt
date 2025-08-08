@@ -1,0 +1,21 @@
+question
+Preparation of single atom Pt supported on graphitic carbon nitride (CN)
+
+answer
+The catalyst is synthesized by impregnation with metal precursor cobalt nitrate or chloroplatinic acid and support graphitic carbon nitride (CN) 
+
+The preparation of graphitic carbon nitride (CN) is as followed:
+1. 10 g of melamine was placed in a crucible, which was then sealed with a crucible lid or aluminum foil to ensure a closed reaction environment and prevent volatilization during the thermal polymerization process. 
+2. Next, the first sintering step involved placing the crucible in a muffle furnace, setting the temperature to rise from room temperature to 550°C at a rate of 2.5°C/min, and maintaining this temperature for 4 hours to ensure the complete polymerization of melamine into graphitic carbon nitride. 
+3. After sintering, the crucible was allowed to cool naturally to room temperature within the furnace. 
+4. The sample was then removed and ground into fine powder for the second sintering. 
+5. In the second sintering step, the ground powder was placed back into the crucible and returned to the muffle furnace, where the temperature  was increased to 500°C at a rate of 10°C/min and held for 2 hours to further exfoliate and refine the graphitic carbon nitride nanosheets. 
+6. Finally, the sample was allowed to cool naturally to room temperature, removed, and ground into powder of approximately 400 mesh for further experiments. 
+
+After the preparation of support graphitic carbon nitride (CN), the catalyst is synthesized as followed:
+1. 300 mg of graphitic carbon nitride nanosheets are dispersed in a mixture of 40 mL water and 10 mL ethanol, ultrasonicated at room temperature for 1 hour, then stirred at 1500 rpm for 3 hours, resulting in a milky suspension of the graphitic carbon nitride nanosheets. 
+2. Then, 0.2 mL of either chloroplatinic acid aqueous solution (1 mg/mL) is added, along with 1 mg of sodium borohydride for the synthesis of Co SAC catalyst, and the mixture is stirred at 1500 rpm for another 3 hours. 
+3. Subsequently, the mixture is exposed to light for 30 minutes, with a wavelength range of 420 nm to 800 nm, completely covered by transparent  glass at the mouth of the beaker. 
+4. The light source is positioned 15 cm above the liquid surface, with a power of about 100 μW/cm2  aimed at the liquid surface. 
+5. After illumination, the samples are separated by filtration and washed three times with ethanol to remove any residual metal salt solutions.
+6. Finally, the samples are vacuum dried at a vacuum level of 3×10-3 kPa and a temperature  of 60°C for 4 hours, yielding Co SAC, Pt SAC, and PtCo DAC photocatalysts, respectively.

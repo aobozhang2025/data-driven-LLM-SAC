@@ -1,0 +1,20 @@
+question
+Preparation of Fe doped by 4 N supported on Carbon 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FeCl3 and support N-doped carbon (NC)
+
+The NC precursor is prepared as followed:
+1. First, 2.0 g of KJ 600 and 60 mL of deionized water were mixed in a flask (500 mL) and ultrasonically treated in an ice bath for 2 h. The resulting dispersion was labeled A. 
+2. Then, 1.48 g of p-aminobenzenesulfonic acid was dissolved in 60 mL of deionized water, followed by adding 18 mL of 1 M NaOH, 42 mL of 1 M HCl, and 8 mL of 1 M NaNO2 to prepare the diazo salt, labeled B, with the reaction temperature controlled at 0 °C. 
+3. Then, B was poured into dispersion A. 
+4. Then, the mixture was uniformly stirred, followed by adding 1.396 g of reduced iron powder to initiate the surface grafting of the diazonium salt. 
+5. Then, 50 mL of concentrated HCl, 15.22 g of mPDA, 140 mL of 2 M (NH4)2S2O8, and 45 mL of 1 M FeCl3 solution were added to the prepared solution and left to react overnight. 
+6. Finally, the NC precursor was obtained after filtering, washing with water thrice, and vacuum drying overnight. 
+
+After the NC precursor is prepared, the catalyst is synthesized as followed: 
+1. First, 1.2 g of the NC precursor was ultrasonically dispersed in 60 mL of deionized water, followed by adding 3.6 mL of 1 M FeCl3 and 12 mL of 1 M KSCN. 
+2. Then, it was subjected to ultrasonic dispersion to form a homogeneous mixture. 
+3. Then, the powder precursor was obtained by rotary evaporation to remove the solvent, followed by heat treatment at 950 °C under an Ar/CO2 atmosphere (5% CO2 in the volumetric fraction) for 1 h. 
+4. Then, the obtained black powder was soaked in 100 mL of a 1 M HCl solution overnight at 80 °C in a water bath. 
+5. After filtering, washing with water thrice, and drying overnight, the powder was heated at 950 °C for 3 h under the Ar atmosphere to obtain Fesac.

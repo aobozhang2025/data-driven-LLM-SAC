@@ -1,0 +1,19 @@
+question 
+Preparation of Au single atoms supported on N-doped Carbon
+
+answer
+The catalyst is prepared in a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. PVP (K30, 1.2 mmol in monomer unit) was added into an aqueous solution of HAuCl4·3H2O (1 mM, 30 ml) under ultrasound for 10 min. 
+2. After stirring the mixture for 30 min at 0 °C by ice bath, we added an aqueous solution of NaBH4 (0.1 M, 3 ml) to the mixture under vigorous stirring and kept the temperature constant for another 30 min. 
+3. After the reaction, 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. 
+4. The obtained Au nanoparticles were washed with water several times and centrifuged by ultrafiltration centrifuge tube with a molecular weight cut-off membrane (MWCO = 10 kDa) at 10,000 r.p.m. for 5 min. 
+5. Finally, the Au nanoparticles were dispersed in 6 ml methanol.  
+6. 1,069 mg Zn(NO3)2·6H2O was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask A. 
+7. Then 0.3 ml as-prepared Au nanoparticles dispersed in methanol solution (~1 mgAu ml–1) was added into flask A. 
+8. 1,161 mg 2-methylimidazole was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask B. 
+9. Then, we added flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. 
+10. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol for three times and finally dried at 70 °C for 5 h.  
+1. We transferred Au nanoparticles supported on ZIF-8 powder into a ceramic boat and placed it in a tube furnace. 
+2. The sample was heated to 1,000 °C with a heating rate of 5 °C min–1 and kept at 1,000 °C for 5 h under flowing nitrogen gas and then cooled to room temperature naturally.

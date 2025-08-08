@@ -1,0 +1,25 @@
+question
+synthesis of Mn-pyridinic doped by 4 N supported on crumpled graphene
+
+answer
+The catalyst is synthesized by impregnation with metal precursor MnCl2 and support crumpled graphene.
+
+The support crumpled graphene is prepared as followed:
+1. 3 g graphite powder was dissolved in a mixture of 360 mL concentrated H2SO4 and 40 mL concentrated H3PO4 and stirred in an ice bath for 4 hours. 
+2. Subsequently, 18 g of KMnO4 was slowly added at  room temperature for 1 hour. 
+3. After 12 hours of stirring at 50 °C in an oil bath, the resulting  mixture was poured into 400 mL of deionized water (DI) containing 3 mL of H2O2.
+4. The obtained GO mixture was further purified with HCl and DI water, yielding GO. 
+5. Exfoliated GO is fabricated by ultrasonic dispersion of graphite oxide in DI water and followed by vacuum drying at 80 °C for 2 days. 
+6. The concentration-controlled GO solution (5 mg mL-1)  was then spray-dried in a tube furnace preheated to 100 °C using an argon gas flow (10 L  min-1). 
+7. The water in the sprayed graphene oxide droplets evaporates quickly as they fly in the chamber. 
+8. Fast evaporation reduces the water droplets, compressing them into crumpled graphene oxide (CGO). 
+9. The CGO powder was annealed in a quartz tube furnace at 1100 °C  for 2 hours in an argon gas atmosphere. 
+10. After thermal annealing, the CGO was reduced to the desired material called crumpled graphene (CG).  
+
+After the support is prepared, the catalyst is synthesized with the following procedures:
+1. 1.38 ml of 0.6 M MnCl2 aqueous solution was incrementally added to a mixture comprising 200 ml of 0.5 M HCl solution and  2 ml of aniline, followed by stirring at 4°C for 1 hour. 
+2. To initiate aniline polymerization, 20  ml of 1.1 M (NH4)2S2O8 aqueous solution was added dropwise, then 400 mg of CG was added to the solution. 
+3. The required precursor was obtained by stirring the mixture for 48  hours at room temperature. 
+4. Vacuum drying of the precursor at 60°C was followed by pyrolysis at 900°C for 1 hour with a stream of argon gas
+5. The resulting product was then leached with 2 M H2SO4 at 60°C for 12 hours. 
+6. The carefully washed product was then vacuum dried at 60 °C

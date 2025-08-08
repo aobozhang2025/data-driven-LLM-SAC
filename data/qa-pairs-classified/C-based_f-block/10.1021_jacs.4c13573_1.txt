@@ -1,0 +1,8 @@
+question
+Synthesis of nitrogen-doped carbon loaded with Ce single-atom nanozymes
+
+answer
+The catalyst is synthesized by impregnation with the following procedures:
+1. the melamine sponge was cut for the appropriate volume and soaked in 20 mL urea solution (urea concentration: 0.18 mol mL-1) containing Ce (NO3)3 6H2O  (0.096 mmol mL-1) and stirred for 70 min at room  temperature until absorbing urea solution completely. 
+2. Then, the saturated sponge was rapidly  frozen in a 50 mL plastic tube by liquid nitrogen and followed with freeze drying for 48 h. 
+3. After that, the obtained sponge was annealed in a tube furnace at 550 °C for 4 h under N2 atmosphere

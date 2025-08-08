@@ -1,0 +1,9 @@
+question
+synthesis of single atom Ni doped by 4 N supported by carbon with silica sphere template
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni(acac)2 and support 
+1. Firstly, 2.5 mL ammonia water (28%) was added into a mixture of 40 mL absolute ethanol and 12 mL deionized water and stirred for 15 min, followed by addition of 2.5 mL TEOS and stirring for another 1 h to obtain the suspension of silica spheres. 
+2. Then, 15 mg Ni(acac)2 and 2.5 mL of dopamine hydrochloride solution (1 mg·mL-1) was added to allow polymerization for 24 h. 
+3. The resulting silica spheres were isolated by centrifugation, dried under vacuum at 70 °C, and heated to 850 °C at a rate of  3 °C·min-1 over 3 h under an Ar flow. 
+4. After cooling to room temperature naturally, pyrolyzed spheres were etched by hydrofluoric acid (20 % wt.) for 12 h, collected by centrifugation, washed with water and ethanol, and finally dried under vacuum at 70 °C overnight

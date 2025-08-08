@@ -1,0 +1,21 @@
+question
+synthesis of single atom Fe supported on O modified N-rich carbon
+
+answer
+This catalyst is synthesized by calcination of metal particles combined with ZIF-8
+
+The ZIF-8 is synthesized as followed:
+1. Zn(NO3)2·6H2O (558 mg) was dissolved in 20 ml methanol to form a clear solution, which was subsequently added into 20 ml of methanol containing 616 mg 2-methylimidazole under stirring for 6 h at room temperature. 
+2. The as-obtained white precipitates were centrifuged and washed with methanol four times and dried in vacuum at 70°C.  
+
+After the synthesis of ZIF-8, it was calcinated to N-rich carbon, the procedures are as followed:
+1. ZIF-8 powder was placed into a porcelain boat and then was heated up to 900 °C for 3 h at a rate of 5 °C/min under Ar atmosphere within a tube furnace. 
+2. After cooling down to the room temperature, the obtained black product was leached with 0.5 M HCl to remove unstable species and successively washed using distilled water. 
+3. The as-obtained black solid was dried in vacuum at 70°C.  
+
+The catalyst are synthesized as followed with N-rich carbon:
+1. N-rich carbon (NC) was simply mixed with commercial Fe particles 
+2. NH4Cl was then added into the above mixture for further grinding. 
+3. The obtained composite consisting of NC, metal particle Fe and NH4Cl was annealed under Ar atmosphere at 500 °C with a heating rate of 5 °C/min  for 1 h. 
+4. For Fe particles the mixture underwent a two-step annealing process as below: retained at 225 oC for 1h, then increased to 500 oC and held for 1 h with a ramping rate of 5 oC/min. 
+Note: NH4Cl will decompose into NH3 and HCl at above ~160 °C, which will condense into solid NH4Cl in the downstream direction of tube furnace where the temperature is lower than that at the center of tube furnace. Such a phenomenon can greatly avoid the corrosion to the tube furnace.

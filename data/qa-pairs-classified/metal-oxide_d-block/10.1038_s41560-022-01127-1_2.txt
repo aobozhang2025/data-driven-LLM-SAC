@@ -1,0 +1,17 @@
+question
+Preparation of single atom Pt supported by TiO2 reduced by NaBH4 (BT)
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support TiO2 reduced by NaBH4 (BT)
+
+The support TiO2 reduced by NaBH4 (BT) is prepared by:
+1. a mixture of 1.0 g of Degussa P25 TiO2 and 2.0 g of NaBH4 was ground thoroughly for 0.5 h. 
+2. The mixture was then heated in a tube furnace at 623 K for 1 h in a vacuum (< 2.0 Pa), followed by natural cooling to room temperature. 
+3. The black powders obtained after the treatment were washed 6–8 times with deionized water and then dried in a vacuum oven. 
+4. The BET surface area of the as-synthesized BT was measured to be 84.4 m2 g−1.  
+5. The as-synthesized BT (50 mg) was dispersed in the aqueous solution of hydrogen peroxide (5 M, 10 ml) and stirred for 1 h at 298 K. 
+6. The suspension was filtered to obtain a precipitate, which was washed with deionized water and then dried in a vacuum oven at 353 K. 
+7. The BET surface area of the as-synthesized BT-O was measured to be 98.3 m2 g−1.  
+
+After the support TiO2 reduced by NaBH4 (BT) is prepared, the catalyst is synthesized as followed:
+Pt was introduced via a wet impregnation of substrates (50 mg) with a certain concentration of H2PtCl6 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in vacuum (< 0.1 Pa). The prepared catalyst was stored in vacuum.

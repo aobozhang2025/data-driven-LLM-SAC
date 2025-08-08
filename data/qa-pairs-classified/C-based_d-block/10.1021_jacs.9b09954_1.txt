@@ -1,0 +1,18 @@
+question
+Preparation of single atom Fe supported on UiO-66
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FeCl3·6H2O and support UiO-66
+
+The support UiO-66 is prepared as followed:
+1. 20 mg of ZrCl4 and 14.25 mg of H2BDC were dissolved in 10 mL of DMF containing 1.83 mL of HOAc. 
+2. The mixture was sealed into a 20 mL glass vial and allowed to react at 120 °C for 24 h. 
+3. The white product was collected by centrifugation and washed with DMF and menthol. 
+4. After washing, the product was immersed in the methanol to exchange out the DMF, followed by drying under vacuum at 60 °C overnight.
+
+After the synthesis of support UiO-66, the catalyst synthesis procedures are prepared as followed:
+1. 40 mg of UiO-66 and 80 mg of FeCl3·6H2O were ultrasonically dispersed in 4 mL of MeCN. 
+2. The mixture was transferred into a 7 mL microwave vessel and sealed. 
+3. The reaction was then rapidly heated to 85 °C by a microwave reactor (CEM Discover SP) and held at this temperature for 30 min with continuous stirring. 
+4. After cooling to room temperature, the solid was isolated by centrifugation and washed with H2O and methanol to remove the excess Fe3+.
+5. The synthesized  Fe-UiO-66 was obtained by dried at 60 °C under vacuum.

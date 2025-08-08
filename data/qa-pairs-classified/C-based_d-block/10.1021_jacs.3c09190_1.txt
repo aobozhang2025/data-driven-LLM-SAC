@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Fe doped by N supported on Carbon
+
+answer
+The catalyst is synthesized by a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. 1.190 g Zn(NO3)2·6H2O and 0.141 g Fe(acac)3 were added to 30 mL methanol to form solution A. 
+2. Meanwhile, 1.314 g 2-MeIM was added into 15 mL methanol to form solution B. 
+3. Then, solution B was added into solution A under vigorous stirring, and the mixture was kept under continuous stirring for 16 h at room  temperature. 
+4. After that, the mixture with precipitates generated inside was centrifuged at 12000 rpm for 3.0 min. 
+5. The obtained precipitates were then washed with DMF and  methanol for three times, respectively, and further dried at 70°C overnight. 
+6. After that,  the ZIF-8@Fe(acac)3 precursor was obtained 
+7. The ZIF-8@Fe(acac)3 precursor was then transferred into a ceramic boat. The  ceramic boat was placed in the center of a horizontal quartz tube which was installed in  a furnace in advance. 
+8. Under continuous argon gas of 200 mL min−1 in the quartz tube,  the furnace was heated to 900°C with a heating rate of 5°C min−1 and kept at 900°C for 3.0 h.

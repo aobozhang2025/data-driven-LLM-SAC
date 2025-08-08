@@ -1,0 +1,9 @@
+question
+synthesis of single atom Fe supported on ZSM-5 with TPA
+
+answer
+The synthesis procedures of the catalyst is as followed:
+1. 0.027g of iron oxalate was added to a solution containing 9.69 g of an aqueous tetrapropylammonium hydroxide solution (20 wt%), 5.6 g  of tetraethyl orthosilicate, 1.0 g of urea, 0.33 g of Al(NO3)3·9H2O, and 0.05 g of isopropyl alcohol. 
+2. The resulting solution was transferred to an autoclave for crystallization at 180 °C for 48 h. 
+3. The obtained crystals were collected by filtration, washed three times with deionized water, and dried at 80 °C 
+4. ion exchange with ammonium nitrate, followed by calcination in air at 550 °C for 6 h.

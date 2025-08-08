@@ -1,0 +1,9 @@
+question
+synthesis of single atom Co doped by N supported on N-doped carbon
+
+answer
+The catalyst is synthesized with procedures as followed:
+1. ((Tetraphenylporphinato)cobalt (Co-TPP, 5-200 mg) and 1,10- phenanthroline (10-300 mg) were dissolved in dichloromethane (40 mL)
+2. then carbon powder (1 g, VULCAN® XC72R, Cabot Corporation Prod. Code XVC72R; CAS No. 1333-86-4) was introduced and the resulting mixture and further stirred vigorously at room temperature for 30 min. 
+3. After that, dichloromethane was removed under vacuum. 
+4. The obtained solid sample was successively dried at 60 °C overnight, grinded to fine powder, and heated to 800 °C for 3 h at a heating rate of 2 °C/min under flowing argon

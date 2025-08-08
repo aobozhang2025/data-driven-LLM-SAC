@@ -1,0 +1,19 @@
+question
+Preparation of Pt single atoms supported on N-doped Carbon
+
+answer
+The catalyst is prepared in a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. Dissolve 77.6 mg K2PtCl6 and 88.8 mg PVP (Mw ~55,000) in 20 ml water, stirred the solution for 10 min, then transferred the solution to a 50 ml Teflon-lined stainless steel autoclave and sealed the container in a stainless steel bomb. 
+2. We heated the system at 160 °C under autogenous pressure for 8 h in an oven. 
+3. The container was cooled down to room temperature naturally after the reaction. 
+4. 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. 
+5. The obtained Pt nanoparticles were dispersed in 31 ml methanol.  
+6. 1,069 mg Zn(NO3)2·6H2O was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask A. 
+7. Then 0.3 ml as-prepared Pt nanoparticles dispersed in methanol solution (~1 mgPt ml–1) was added into flask A. 
+8. 1,161 mg 2-methylimidazole was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask B. 
+9. Then, we added flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. 
+10. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol three times and finally dried at 70 °C for 5 h. 
+11. We transferred Pt nanoparticles supported on ZIF-8 powder into a ceramic boat and placed it in a tube furnace. 
+12. The sample was heated to 1,000 °C with a heating rate of 5 °C min–1 and kept at 1,000 °C for 5 h under flowing nitrogen gas and then cooled to room temperature naturally.

@@ -1,0 +1,12 @@
+question
+Synthesis of Cu atom decorated WO3. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CuCl2 and support WO3
+
+The synthesis procedures are as followed:
+1. 500 mg of WO3 was dispersed to 10 mL of deionized water by ultrasonic.  
+2. Subsequently, a specific amount of CuCl2 solution was added the WO3 suspension under vigorous stirring.  
+3. The temperature was heated to 90 °C and kept until dryness. 
+4. The resulting sample was collected and transferred to a muffle furnace. 
+5. It was calcined at 300 °C for 1 h with a ramping rate of 2 °C/min under an air atmosphere.

@@ -1,0 +1,11 @@
+question
+synthesis of single atom Rh supported on TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RhCl3 and support TiO2
+
+The synthesis procedures are as followed:
+1. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). 
+2. Next, 300 mg of metal oxide supports, which are titania (P25, Degussa) was dispersed in 20 mL of ethanol. 
+3. The two solutions were mixed with vigorous stirring and dried at 60 °C. 
+4. The dried sample was calcined at 400 °C for 1 h in air

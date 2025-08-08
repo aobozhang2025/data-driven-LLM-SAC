@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe supported on β-lactoglobulin fibrils (FibBLG)
+
+answer
+The catalyst is prepared by impregnation with metal precursor Fe(NO3)3·9H2O
+
+The synthesis procedures are as followed:
+1. 100 mg lyophilized BLG fibril powder was dispersed in a mixture of 8.0 ml ethanol and 1.9 ml PEG200. 
+2. The dispersion was then subjected to argon bubbling for 30 min to remove the dissolved oxygen, followed by irradiation under a xenon lamp with an ultraviolet filter (250–380 nm, 27.9 mW cm−2, PLS-SXE300CUV) for 10 min to generate free radicals. 
+3. Subsequently, 0.1 ml of 108.21 mg ml−1 Fe(NO3)3·9H2O EDTA solution was added dropwise to the dispersion of BLG fibrils under magnetic stirring for 12 h at 25 °C. 
+4. samples were collected by centrifugation at 4 °C, 11,100g for 10 min, washed by ethanol (10.0 ml × 6) and resuspended in 5.0 ml deionized water (pH 2).

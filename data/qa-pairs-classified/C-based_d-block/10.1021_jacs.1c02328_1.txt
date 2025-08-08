@@ -1,0 +1,18 @@
+question
+Synthesis of the single atom Pt supported on N-doped carbon nanotubes 
+
+answer
+The catalyst is synthesized by impregnation with precursor H2PtCl6
+
+The support N-doped carbon nanotubes denoted by N-CNT is prepared as followed:
+1. First, MnO2 nanowires as the template and oxidant were prepared by the hydrothermal method. 
+2. Then 200 mg of MnO2 nanowires were added into 100 mL deionized water  (DIW) (solution A). 
+3. Pyrrole (0.51 mL) and aniline (0.39 mL) were added into 100 mL  of 0.05 M H2SO4 solution (solution B). 
+4. The above two solutions were mixed under vigorous stirring. 
+5. After continuous stirring for 4 h, a black product was obtained, which  was further subjected to rinse with a large amount of DIW to remove the residuary Mn.  
+6. Lastly, the as-obtained product was heated to 920 °C for 2 h under N2 flow to yield the  N-CNTs.  
+
+the catalyst is synthesized as followed:
+1. The as-synthesized N-CNTs (40.0 mg) were first dispersed in 20 mL DIW under  ultrasonic vibration and magnetic stirring. 
+2. A H2PtCl6 solution (2.0 mg/mL in DIW) of  268 μL was next added dropwise into the N-CNTs dispersion under stirring at ambient temperature. 3. After continuous stirring overnight, the solid composite was separated from the suspension by vacuum filtration. 
+4. The recovered solid was then dried at 70 °C  for 12 h and reduced in 5% H2/Ar at 160 °C for 0.5 h with a heating rate of 5 °C min-1.

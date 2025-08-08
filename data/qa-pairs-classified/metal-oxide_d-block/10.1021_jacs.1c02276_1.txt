@@ -1,0 +1,13 @@
+question
+synthesis of single atom Rh supported on Fe3O4
+
+answer
+the catalyst is synthesized by impregnation with precursor RhCl3 
+
+the synthesis procedures are as followed:
+1. 9.995 g Fe3O4 was first dispersed to100 mL deionized water by rigorous stirring. 
+2. Then, 1 mL aqueous solution of RhCl3 (5 mg Rh/mL) was added to the suspension and mixed for 12 hours at room temperature. 
+3. An excess amount of urea (urea/[Rh] = 60 mol/mol) was further added into the suspension. 
+4. The Rh3+ on the support was deposited with the help of urea hydrolysis at 363 K for 6 hours. 
+5. The resulting precipitate was separated, washed (with deionized water), and dried (353 K, 12 hours). 
+6. The as-prepared precipitate was calcined at 723 K for 5 hours with a ramping rate of 2 K/min.

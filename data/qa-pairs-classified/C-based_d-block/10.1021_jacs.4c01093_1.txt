@@ -1,0 +1,14 @@
+question
+Synthesis of single atom Fe doped by N supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor FeCl3·6H2O
+
+The catalyst is synthesized with the following procedures:
+1. FeCl3·6H2O (125 mg) was added into anhydrous ethanol (40 mL) and stirred for 10 min. 
+2. Subsequently, 1,10-phenanthroline (Phen) ethanol solution (10 mL, 18 mg mL−1) was added dropwise and sonicated for 30 min. 
+3. After that, phen  (90 mg) and Mg(OH)2 (4 g) were added into the mixture and sonicated for 30 min. 
+4. The  mixture was heated under reflux at 60 oC for 4 h and then evaporated at 70 oC. 
+5. The solid was dried in vacuo for 12 h and was further calcined under N2 atmosphere at 700 oC (pyrolysis  temperature) for 2 h with the temperature ramping rate of 2 oC min−1. 
+6. The black powder  obtained after calcination was stirred in 1 M HNO3 solution for 2 h to remove MgO and  residual Fe nanoparticles. 
+7. The final solid was collected and washed with ethanol/water (v/v = 1) for 5 times and dried in vacuo at 60 oC for 12 h.

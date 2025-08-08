@@ -1,0 +1,21 @@
+question
+Synthesis of single atom Fe doped by 4 N supported on carbon
+
+answer
+The catalyst is synthesized by impregnation and freeze drying with metal precursor FePc
+
+The support defective carbon is prepared as followed:
+1. MgCO3·Mg(OH)2·5H2O as templates was heated to  900 °C at a heating rate of 5 °C min-1 in a tubular furnace under N2 atmosphere.
+2. Subsequently, the chemical vapor deposition (CVD) procedure was conducted  employing acetonitrile as carbon source. 
+3. Acetonitrile was introduced into the tubular furnace via N2 stream, and the CVD reaction persisted for 3 h at 900 °C. 
+4. The resultant sample underwent a purification step involving immersion in 6 M HCl for 24 h at ambient temperature. 
+5. The purified sample was then subjected to filtration with  deionized water and subsequently dried in a blast oven for 24 h at 60 °C.  
+
+After the preparation of support, the catalyst is synthesized as followed:
+1. 100 mg of defective carbon and 25 mg of FePc were separately dispersed in 100 ml DMF. 
+2. 30 min ultrasonication was applied for thorough materials dispersion. 
+3. Subsequently, the two dispersions were combined and stirred vigorously for 24 h enabling sufficient interaction. 
+4. The product was collected by filtration and freeze-drying. 
+5. The obtained powder was loaded in a tubular furnace and subsequently sintered at 800 °C for 1 h under N2 atmosphere. 
+6. Subsequently, the sintered  powder was purified in 3 M HCl solution. 
+7. The sample was washed with deionized water  until neutral and dried, yielding Fe-N-C.

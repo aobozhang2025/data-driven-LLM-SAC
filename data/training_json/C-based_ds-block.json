@@ -1,0 +1,234 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu doped by S and N supported on carbon, denoted by Cu SAC/N-S-C",
+        "output": "The synthesis in of this catalyst involves the preparation of CdS nanorods, CdS/Cu2S nanorods and CdS/Cu2S nanorods coated by 3-AF in sequence, single atom Cu is loaded by impregnation with CdS/Cu2S as precursor. \n\nThe procedures to synthesize CdS in nanorods are as followed:\n1. 4.50 g sodium diethyldithiocarbamate trihydrate and 2.28 g cadmium chloride were added to 20 mL deionized water and stirred for 10 min. \n2. The white products (denoted as cadmium  diethyldithiocarbamate (Cd(S2CNEt2)2)) were obtained via centrifugation at 11000 rpm for 1 min  and dried at 60°C under vacuum. \n3. Then 2.25 g Cd(S2CNEt2)2) and 70 mL of ethylenediamine were added to a 100 mL Teflon-lined stainless steel autoclave. \n4. After Cd(S2CNEt2)2) completely dissolved, the autoclave was maintained at 180oC for 24 h and cooled down to room temperature.  \n5. A yellowish precipitate was washed with deionized water and ethanol three times and collected by centrifugation. \n6. After dried at 60°C in a vacuum for 12 h, the CdS nanorods were obtained. \n\nAfter the synthesis of CdS nanorods, the procedures to synthesize CdS combined with Cu2S in nanorods (denoted by CdS/Cu2S) are as followed:\n1. 100 mg CdS nanorods were dipped in N2H4/HCl solution (pH ≈ 7). \n2. Then, 5 mL 0.01 mol/L CuCl solution (CuCl dissolved in N2H4/HCl solution) was added at room temperature and stirred for a certain of time (0~30 s). \n3. Immediate color changed from bright yellow to deep yellow and dark brown was observed after dipping. \n4. The product was washed with deionized water and ethanol two times and collected by centrifugation. \n5. After dried at 60°C in a vacuum for 12 h, the CdS/Cu2S nanorods were obtained.  \n\nAfter the synthesis of CdS/Cu2S, the procedures to synthesize CdS combined with Cu2S coated by 3-AF (denoted by CdS/Cu2S@3-AF) are as followed:\n1. 150 mg 3-aminophenol (3-AP), formaldehyde solution (100μL, 37 wt %), and CdS/Cu2S (100  mg) were dispersed in 50 mL ethanol/water solution (v/v 1:1) with ethanediamine (100 μL, 5  mg/mL) as catalyst. \n2. After that, the solution was stirred at room temperature for 24 h. \n3. Finally, the obtained CdS/Cu2S@3-AF was collected and purified with distilled water by centrifugation and  dried at 60°C in a vacuum for 6 h.  \n\nAfter the CdS/Cu2S@3-AF are prepared, the procedures to synthesize the catalyst are as followed:\n1. The CdS/Cu2S@3-AF powder was transferred into a ceramic boat and placed in a tube furnace. \n2. The sample  was annealed at 900 °C for 3 h under N2 atmosphere with a heating rate of 5°C min-1. \n3. After cooling down to room temperature, Cu SAC/S-N can be obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Au doped by S and N supported on carbon, denoted by Au SAC/N-S-C",
+        "output": "The synthesis in of this catalyst involves the preparation of CdS nanorods, CdS/Au2S nanorods and CdS/Au2S nanorods coated by 3-AF in sequence, single atom Au is loaded by impregnation with CdS/Au2S as precursor. \n\nThe procedures to synthesize CdS in nanorods are as followed:\n1. 4.50 g sodium diethyldithiocarbamate trihydrate and 2.28 g cadmium chloride were added to 20 mL deionized water and stirred for 10 min. \n2. The white products (denoted as cadmium  diethyldithiocarbamate (Cd(S2CNEt2)2)) were obtained via centrifugation at 11000 rpm for 1 min  and dried at 60°C under vacuum. \n3. Then 2.25 g Cd(S2CNEt2)2) and 70 mL of ethylenediamine were added to a 100 mL Teflon-lined stainless steel autoclave. \n4. After Cd(S2CNEt2)2) completely dissolved, the autoclave was maintained at 180oC for 24 h and cooled down to room temperature.  \n5. A yellowish precipitate was washed with deionized water and ethanol three times and collected by centrifugation. \n6. After dried at 60°C in a vacuum for 12 h, the CdS nanorods were obtained. \n\nAfter the synthesis of CdS nanorods, the procedures to synthesize CdS combined with Au2S in nanorods (denoted by CdS/Au2S) are as followed:\n1. 50 mg CdS nanorods were dispersed in 50 mL deionized water. \n2. The solution was heated at 80oC and HAuCl4 solution (2 mg in 5 mL deionized water) was added to vigorously stirring for 20 min. \n3. The product CdS/Au2S was obtained by repeated sonication and centrifugation with water and dried at 60°C in a vacuum for 6 h.  \n\nAfter the synthesis of CdS/Au2S, the procedures to synthesize CdS combined with PdS coated by 3-AF (denoted by CdS/Au2S@3-AF) are as followed:\n1. 150 mg 3-aminophenol (3-AP), formaldehyde solution (100μL, 37 wt %), and CdS/Au2S (100  mg) were dispersed in 50 mL ethanol/water solution (v/v 1:1) with ethanediamine (100 μL, 5  mg/mL) as catalyst. \n2. After that, the solution was stirred at room temperature for 24 h. \n3. Finally, the obtained CdS/Au2S@3-AF was collected and purified with distilled water by centrifugation and  dried at 60°C in a vacuum for 6 h.  \n\nAfter the CdS/Au2S@3-AF are prepared, the procedures to synthesize the catalyst are as followed:\n1. The CdS/Au2S@3-AF powder was transferred into a ceramic boat and placed in a tube furnace. \n2. The sample was annealed at 900 °C for 3 h under N2 atmosphere with a heating rate of 5°C min-1. \n3. After cooling down to room temperature, Au SAC/S-N can be obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ag doped by S and N supported on carbon, denoted by Ag SAC/N-S-C",
+        "output": "The synthesis in of this catalyst involves the preparation of CdS nanorods, CdS/Ag2S nanorods and CdS/Ag2S nanorods coated by 3-AF in sequence, single atom Au is loaded by impregnation with CdS/Ag2S as precursor. \n\nThe procedures to synthesize CdS in nanorods are as followed:\n1. 4.50 g sodium diethyldithiocarbamate trihydrate and 2.28 g cadmium chloride were added to 20 mL deionized water and stirred for 10 min. \n2. The white products (denoted as cadmium  diethyldithiocarbamate (Cd(S2CNEt2)2)) were obtained via centrifugation at 11000 rpm for 1 min  and dried at 60°C under vacuum. \n3. Then 2.25 g Cd(S2CNEt2)2) and 70 mL of ethylenediamine were added to a 100 mL Teflon-lined stainless steel autoclave. \n4. After Cd(S2CNEt2)2) completely dissolved, the autoclave was maintained at 180oC for 24 h and cooled down to room temperature.  \n5. A yellowish precipitate was washed with deionized water and ethanol three times and collected by centrifugation. \n6. After dried at 60°C in a vacuum for 12 h, the CdS nanorods were obtained. \n\nAfter the synthesis of CdS nanorods, the procedures to synthesize CdS combined with Ag2S in nanorods (denoted by CdS/Ag2S) are as followed:\n1. 100 mg CdS nanorods were dispersed in a solution of 36 mL toluene and 14 mL methanol. \n2. After stirring at room temperature for 10 min, 1.5 mg AgNO3 in 2 mL methanol was injected. \n3. After another stirring for 10 min, the product CdS/Ag2S was obtained by repeated sonication and centrifugation with water and dried at 60°C in a vacuum for 6 h.  \n\nAfter the synthesis of CdS/Ag2S, the procedures to synthesize CdS combined with PdS coated by 3-AF (denoted by CdS/Ag2S@3-AF) are as followed:\n1. 150 mg 3-aminophenol (3-AP), formaldehyde solution (100μL, 37 wt %), and CdS/Ag2S (100  mg) were dispersed in 50 mL ethanol/water solution (v/v 1:1) with ethanediamine (100 μL, 5  mg/mL) as catalyst. \n2. After that, the solution was stirred at room temperature for 24 h. \n3. Finally, the obtained CdS/Ag2S@3-AF was collected and purified with distilled water by centrifugation and  dried at 60°C in a vacuum for 6 h.  \n\nAfter the CdS/Ag2S@3-AF are prepared, the procedures to synthesize the catalyst are as followed:\n1. The CdS/Ag2S@3-AF powder was transferred into a ceramic boat and placed in a tube furnace. \n2. The sample was annealed at 900 °C for 3 h under N2 atmosphere with a heating rate of 5°C min-1. \n3. After cooling down to room temperature, Ag SAC/S-N can be obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu doped by N supported on C, denoted by Cu SAC/NC",
+        "output": "1. 0.5 mL NH4OH solution was mixed with 20 mL ethanol and 45 mL deionized water under ultrasound treatment for 10 min. \n2. Then 10.0 mL dopamine-HCl (200.0 mg) solution was injected. \n3. After that, 4 mg CuCl in 5 mL H2O was injected and stirred for 24 h. \n4. The product was obtained by centrifugation and washed with water for three times and dried at 60oC for 12 h. \n5. Finally, the obtained power was annealed in nitrogen atmosphere at 900 oC for 3 h with a heating rate of 5°C min-1. \n6. After cooling down to room temperature, Cu single atoms anchored in N-doped carbon (NC) can be obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of Cu single atom supported on UiO-66-NH2",
+        "output": "The catalyst is synthesized by photoinduction with precursor Cu(NO3)2·3H2O and support UiO-66-NH2\n\nThe support UiO-66-NH2 is prepared as followed:\n1. dissolve ZrCl4 (1.25 g), 2-amino-1,4-benzenedicarboxylic acid (H2N−H2BDC) (1.36 g), and 5 mL of HCl in DMF (100  mL) at room temperature in a three-necked flask. \n2. The mixed solution was placed in a preheated oil bath pot at 393 K for 6 h. \n3. After the solution cooled down to room temperature, the resulting suspension was filtered and washed with methanol and acetone three times and then dried at 393 K in vacuum overnight.  \n\nAfter the UiO-66-NH2 is prepared, the catalyst synthesis procedures are as followed:\n1. UiO-66-NH2 (0.20 g) was dispersed in 50 mL of water and then 0.01 g of Cu(NO3)2·3H2O was dissolved in the above suspension under 1 h of constant stirring. \n2. After filtering, the pretreatment sample was dispersed again into a mixed solution (Vethanol:water = 1:4). \n3. A 300 W Xe arc lamp (PLS-SXE300, Beijing Trusttech Co. Ltd.) was used as a cutoff filter (λ > 400 nm) as a visible light source, and the vertical distance between the suspension surface and the light source was set at about 15 cm. We measured the intensity of the light source, which was about 236 mW/cm2. \n4. The suspension was filtered, washed, collected after 1.0 h of irradiation, and dried at 333 K for 12 h in a vacuum."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on UiO-66.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuCl2\n\nThe support UiO-66 is prepared as followed:\n1. 125  mg of terephthalic acid and 167 mg of zirconium tetrachloride were dissolved in a mixture solution containing  50 mL of N,N-dimethylformamide (DMF) and 3.5 mL of formic acid. \n2. The mixture was transferred into a teflon lined bomb, sealed and heated at 120 °C for 24 h. \n3. The white product was collected by filtration and washed with DMF 4 times over 24 h (20 mL × 4), and then 6 times with acetone over a 48 h period (20 mL × 6). \n4. UiO-66 was dried under dynamic vacuum\n\nAfter preparation of support, the catalyst is synthesized as followed:\n1. about 500 mg of UiO-66 was added to a solution containing CuCl2 (500 mg) dissolved in DMF (10 mL). \n2. The mixture was sonicated for one minute and then heated at 85 °C for 24 h. \n3. The products were collected by  centrifugation (10,000 rpm, 3 min), washed 4 times with DMF during 24 h (30 mL × 4), and 6 times with  acetone over a 48 h period (30 mL × 6). \n4. Finally, the product was dried with dynamic vacuum"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu doped by N supported on carbon",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2 and SiO2 template\n\nThe synthesis procedures are as followed:\n1. 5.5 g 2,6-Diaminopyridine (DAP) and 27.87 g Ludox colloidal silica (SiO2) were firstly mixed in 400 mL H2O under vigorous stirring. \n2. Then 1.18 g NaOH was added into the solution above under agitation for 10 min. \n3. Next, 18.57 g/70 ml  (NH4)2S2O8 aqueous solution was quickly dropped into the resultant solution with successive stir for 12 h at ice bath for sufficient polymerization. \n4. The polymerized product was collected by filtration with water alternatively several times, and then dried in an oven 120 oC. \n5. Subsequently, the as-prepared N-C precursor was pyrolyzed at 800 oC for  2 h in NH3/He (V/V=1:1, 50mL/min) atmosphere with a ramping rate of 5 oC/min. \n6. Finally, the obtained black powder  was etched twice by 10 wt% HF (Caution: danger!!!) for 4 h to remove the SiO2 template and then dried under 80  oC overnight, denoted as N-C.  \n7. a certain amount of Cu(NO3)·3H2O was first dissolved in 2 ml ethanol\n8. 92 mg N-C powder was dispersed into another 25 ml ethanol under sonication. \n9. Cu(NO3)2  solution was added into N-C dispersion with vigorous agitation for 4 h at 60 oC. \n10. Afterwards, the mixed solution was filtered and washed repeatedly using ethanol to remove the superfluous Cu ion. \n11. The resulted sample was dried in an oven at 80 oC and then heat-treated at 140 oC with a heating rate of 2 oC under flowing NH3/He gas for 2 h to obtain the Cu-N-C SAC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Zn doped by N supported on carbon",
+        "output": "The catalyst is synthesized with procedures as followed:\n1. 0.7 g of 1,2-dicyanobenzene was mixed with 7 g of a 60 mol% LiCl/ZnCl2  mixture in a Ar-filled glovebox. \n2. The resulting powder was placed in an alumina crucible and heated with a heating rate of 10 K/min to 800 °C in a tube furnace with a constant Ar flow. \n3. After 1 h at 800  °C, the sample was let to cool down to room temperature. \n4. The obtain material was ground, washed  with 0.1 M HCl for several hours and dried."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Cu coordinated with 4 C and support on hard carbon denoted by CuC4@HC",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuSO4∙5H2O\n\nThe precursor of Cu supported on a kind of MOF is first prepared as followed:\n1. H2BDC (12 mmol, 1.994 g) and NaOH (25 mmol, 1.0 g) were  dissolved in 300 mL deionized water. \n2. After stirring for 30 min at room temperature, a 60 mL aqueous solution containing CuSO4∙5H2O (15 mmol, 3.75 g) was added dropwise to the above solution under vigorous stirring. \n3. After stirring for 5 h at room  temperature, the resulting blue precipitates were isolated by filtration, washed  thoroughly with water, and finally dried under vacuum at 70 °C for 24 h.  \n\nAfter the Cu-MOF is prepared, the catalyst is synthesized as followed:\n1. Cu-MOF was mixed with a certain amount of KCl-KBr salt (KCl: KBr = 1: 3 by weight, Cu-MOF: KCl-KBr salt = 1: 40). \n2. Then the mixture  was placed in a tubular furnace, which was heated to 730 °C at a ramp rate of 2 °C min-1  and kept for 180 min under Ar atmosphere. \n3. The obtained black powders were  thoroughly washed with deionized water, then immersed in aqua regia for 4 hours, and  finally washed with deionized water until neutral to obtain CuC4@HC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "The preparation of single atom Cu doped by 3 N supported on carbon, denoted by Cu3N NC",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O\n\nThe synthesis procedures are as followed:\n1. 10 mL octadecylamine (ODA) was added into the three-necked flask with vigorous stirring and heated to 250 °C until the color of the solvent turned orange, followed by quick addition of 0.3 g Cu(NO3)2·3H2O powder into the flask. \n2. Upon 15 min nucleation process, the Cu3N NCs were successful synthesized, evidenced by the change in color of solvent into luteotestaceous.\n3. Next, the reaction mixture was cooled down to 70 °C, and the Cu3N NCs were firstly washed through a hot filter method with ethanol 4 times.\n4. Then the oleosus precipitate was washed with cyclohexane and ethanol (1: 5) 2 times to remove the ODA. \n5. Finally, the Cu3N NCs were dispersed  into 5 mL cyclohexane."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Au single atoms supported on amorphous carbon nitride (ACN), denoted by Au1/ACN",
+        "output": "The catalyst is synthesized by impregnation with metal precursors chloroauric acid (purchased from Jinke Reagent Co., Ltd., Shenyang, China, AR.) and support amorphous carbon nitride (ACN)\n\nThe support ACN is prepared by the following procedures:\n1. 6.5 g urea (purchased from Sinopharm Chemical Reagent Co. Ltd., Shanghai, China,  AR.) was heated at 550 °C in a muffle furnace under static air atmosphere for 2 h, with the ramping rate of 8 °C/min, and then cooled down to room temperature and ground to get crystalline graphitic  carbon nitride (CCN). \n2. The CCN powder was heated at 620 °C for 2 h with a ramping rate of 5 °C /min under N2 atmosphere. \n3. Subsequently, the obtained solid powder was dispersed and sonicated in deionized water. \n4. The bottom precipitate was discarded, and the upper turbid liquid was suction filtered to obtain ACN. \n5. Finally, the as-obtained ACN was dried in a vacuum oven at 70 °C for 24 h.\n\nAfter the synthesis of ACN, the catalyst is synthesized as followed:\n1. 50 mg ACN was dispersed in 80 mL deionized water and sonicated for 2 h. \n2. Then 0.9  mL 1.0 mg/mL chloroauric acid (purchased from Jinke Reagent Co., Ltd., Shenyang, China, AR.) was added dropwise, followed by stirring at 60 °C for 10 h. \n3. The product was washed several times with ethanol and distilled water, and then dried in a vacuum oven at 50 °C for 8 h, followed by annealing  at 80 °C in a H2/Ar atmosphere for 8 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu doped by 3 N on N-doped thinwalled nanotubes, denoted by TWN-Cu-SACs",
+        "output": "1. Melamine (0.1514 g), trimesic acid (0.2522 g), and cupric dichloride (0.1023 g) were dissolved in a methanol solution (35 mL) and vigorously stirred for one hour then hydrothermally transferred to a hydrothermal kettle at 150 °C for 12 h. \n2. After that, the product was collected by centrifugation at 10000 rpm for 5 min, washed with methanol three times, and dried in an oven at 60 °C overnight. \n3. The powder (500 mg) was uniformly mixed with tetraethyl orthosilicate (4.1 g).  \n4. After that, it was hydrothermally heated at 150 °C for 12 h, washed with ethanol, and dried overnight in an oven at 60 °C. \n5. After grinding in an agate mortar, the sample was pyrolyzed in a furnace under an argon atmosphere. \n6. The pyrolysis temperature was increased from room temperature to 600 °C at a heating rate of 2 °C min-1 and maintained for an additional two hours. \n7. The as-obtained product was collected from the furnace, etched with HF for two hours, washed with water until it was neutral, and dried in a vacuum at 60 °C overnight."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on carbon nanotubes, denoted by Cu-CNTs",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuPc\n\nThe synthesis procedures are as followed:\n1. carbon nanotubes (CNTs) (100 mg) and a certain amount of CuPc powders were separately dispersed in DMF, and both solutions were ultrasonicated for 30 min. \n2. Then the CuPc DMF solution was added into the CNTs DMF solution dropwise under vigorous stirring. \n3. The mixed suspension was sonicated for another 30 min and further stirred for 24 h at room temperature in dark. \n4. Then the solid was separated via vacuum filtration, and washed with DMF for three times. \n5. Finally, the Cu-CNTs was obtained after lyophilization for 24 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu supported on BIF-29, denoted by BIF-29(Cu)",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2 and support Boron-Imidazolate Precursor (BIF-29)\n\nThe support BIF-29 is prepared as followed:\n1. First, NaBH4 and Imidazole were both finely ground together using a mortar and pestle. \n2. The mixture was then transferred to a 100 mL round bottom flask and heated to 215 oC for three hours under constant flow Ar until hydrogen evolution ceased. \n3. The resulting solid mixture was collected and ground to a fine powder.  \n\nAfter the support is prepared, the catalyst is synthesized by the following procedures:\n1. dissolving Cu(NO3)2 (118 mg) and HB(Im)3 (46.5 mg) in a 3:2 Dimethylacetamide:MeOH (5 mL) solution. \n2. The mixture was then transferred to a 20 mL vial and reacted at 80 oC for three days. \n3. The resulting purple powder was transferred to a conical tube and diluted with MeOH before being centrifuged for five minutes. \n4. The supernatant was removed and replaced with methanol; this step was repeated five times. \n5. Then the washing solution was switched to acetone and repeated five more times. \n6. The resulting solid was then dried in a vacuum oven at 50 oC and then stored for further use as BIF-29(Cu)  \n7. The 1 mg/mL MeOH dispersion solution was prepared by measuring 50 mg of the dried BIF-29(Cu) powder into a 100 mL media bottle, followed by the addition of approximately 50 mL MeOH. \n8. The bottle was sealed with electrical tape and then placed in an oven at 65 oC overnight. \n9. The resulting purple solution was then brought back to exactly 50 mL and stored for further use."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Zn supported on N-C, denoted by Zn1/NC",
+        "output": "The catalyst is synthesized by impregnation with metal precursors zinc chloride \n\nThe synthesis procedures are as followed:\n1. 2.4 g chitosan powder was added into 200 mL deionized water with continuous magnetic stirring for 2 h at room temperature. \n2. Next, 4.8 g zinc chloride, dissolved in 50 mL deionized water, was added to the above solution. \n3. After the solution was stirred for 2 h, the solution was dried  at 80 °C under vigorously stirring. \n4. Afterwards, the as-obtained powder was placed in a tube furnace and heated to 750 °C for 2 h at the heating rate of 5 °C min-1 under N2 atmosphere. \n5. The calcined sample was washed several times with nitric acid and deionized water, and then vacuum dried and annealed at 900 °C"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu supported on g-C3N4, denoted by CuSA/g-C3N4",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O\n\nThe synthesis procedures are as followed:\n1. 5 g of dicyandiamide and 0.5 g of glucose powder were suspended in 40 mL of deionized water, followed by adding 2 μL of 0.0125 M CuCl2·2H2O into the solution under magnetic stirring. \n2. The suspended solution was stirred under 80 °C in an oil bath for approximately 4 h and further freeze-dried overnight. \n3. The resultant powder was transferred into a quartz boat and placed in a saturated argon-filled gas tube furnace. \n4. Then, the powder was heated from room temperature to 800 °C with a heating rate of 3 °C min−1 and further annealed at 800 °C for 2 h under an Ar flow."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu supported on ZIF, denoted by CuSA/ZIF",
+        "output": "The catalyst is synthesized by a framework of ZIF synthesis:\n1. 2-Methylimidazole was suspended in 15 mL of methanol as solution A. \n2. Cu(NO3)2·3H2O and Zn(NO3)2·6H2O were mixed and suspended in 15 mL of methanol as solution B. \n3. Solution A was then transferred dropwise into solution B with homogeneous stirring. \n4. The mixed solution was then vigorously stirred at room temperature for 24 h. \n5. After that, the mixture was centrifuged and washed with methanol three times and was further freeze-dried overnight. \n6. The resultant powder was then transferred into a quartz boat and placed in a saturated argon-filled gas tube furnace. \n7. Then, the powder was heated from room temperature to 800 °C with a heating rate of 5 °C·min−1 and further annealed at 800 °C for 3 h under an Ar flow. \n8. Thus, the final product was collected after being naturally cooled."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on nitrogen-doped carbon nanocages, denoted by Cu1/hNCNC.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2\n\nThe synthesis procedures are as followed:\n1. 20 mg of hNCNC was dispersed in 100 mL of distilled water, and then 3.2 mL of Cu(NO3)2  solution (0.125 mg of Cu mL−1) and 2.5 mg of 1,10-phenanthroline hydrate were added, followed by stirring at 70 °C for 10 h. \n2. After filtration, repeated washing with water and ethanol, and drying, the solid was calcined at 600 °C for 2 h in Ar to obtain the control catalyst of Cu1/hNCNC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu doped by N supported on C under Low Pressure.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cu(acac)2\n\nThe synthesis procedures are as followed:\n1. The pyrolysis of ZIF-8  nanoparticles (50 nm) and NaCl at a mass ratio of 1.58 was carried out at 910 °C under an Ar atmosphere for 2 h. \n2. To remove residual Zn, the NC supports were etched with 2 M HCl at 80 °C overnight, followed by washing with water and ethanol six times. \n3. 50 mg of the NC powders was dispersed in 50 mL of methanol and sonicated for 2 h. \n4. 10.5 mg of Cu(acac)2 was then added, and the mixture was stirred continuously overnight. \n5. Methanol was then removed by using a rotary evaporator. \n6. The  resulting mixture was heated to 700 °C (heating rate of 30 °C min−1) in a chemical vapor deposition system under a pressure of 0.87 mbar in an Ar atmosphere. \n7. After 1 h, the sample was obtained"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu doped by 2 N and supported on C, denoted by CuSA-N2/C",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O and support Formamide (FA)\n\nThe synthesis procedures are as followed:\n1. 10.2 mg CuCl2·2H2O was added into 30 mL Formamide (FA), which underwent sonication for 30 minutes to obtain a homogeneous solution of 2 mmol L-1.\n2. Then the obtained Cu2+/FA solution was immediately transferred into a 40 mL Teflon-lined autoclave and heated at 200 °C for 12 h. \n3. Resulted black product was separated by centrifugation, purified by deionized water 3 times and dried at 60 °C for 12 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Cu doped by 4 N and supported on C, denoted by CuSA-N4/C",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O and support Formamide (FA)\n\nThe synthesis procedures are as followed:\n1. 10.2 mg CuCl2·2H2O and 416.3 mg ZnCl2 were added into 30 mL Formamide (FA), undergoing sonication for 30 minutes to obtain a homogeneous solution, which was then transferred into a 40 mL Teflon-lined autoclave and heated at 200 °C for 12 h. \n2. Resulted black product was separated by centrifugation and purified by deionized water 3 times and dried at 60 °C for 12 h. \n3. Afterward, the dried powder was placed into a ceramic boat and annealed at 950 °C for 2 h in a tube furnace (with a heating rate of 5 °C under Ar atmosphere), during which Zn species would be vaporized as the boiling point of 907 °C."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Cu single atom supported on Npyrr-C",
+        "output": "The catalyst is prepared by impregnation with metal precursor CuPc\n\nThe synthesis procedures are as followed:\n1. 100 mg of CNT was dispersed in 100 mL of DMF under sonication for 1 h, followed by adding 5 mg of CuPc dispersed in DMF.\n2. After 30 min of sonication, the mixture was stirred for 48 h at room temperature. \n3. The precipitate was then collected by vacuum filtration and sufficiently washed by DMF and ethanol until colorless. \n4. Finally, the precipitate was thermally treated at 300 °C for 2 h in a tubular furnace in argon atmosphere"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on through-hole carbon nanofibers",
+        "output": "The catalyst is synthesized with precursor Cu/ZIF-8 nanoparticles\n\nThe preparation of precursor Cu/ZIF-8 nanoparticles:\n1. 1.17 g of Zn(NO3)2•6H2O (3.95 mmol) in 8g deionized water was poured into a solution of 22.70 g 2-methylimidazole (276.50 mmol)  in 80 g deionized water (molar ratio of 2-methylimidazole and zinc was 70:1). \n2. This mixture solution was magnetically stirred at room temperature for about 5 min. \n3. The products were collected by repeated centrifugation and washed by deionized water for at least three times.  \n4. The products were dried at 60 oC overnight in a drying oven.\n5. 0.6g produced powder was dispersed in 50 ml n-hexane for 8 min ultrasound at room temperature. \n6. Then this solution,  300 μL Cu(NO3)2 aqueous solution (100 mg ml-1) was slowly injected into ZIF-8 solution  by peristaltic pump under ultrasound for 2 min. \n7. Then, the mix solution was under magnetically stirring for 2 h at room temperature. \n8. Then the subsidence was separated by centrifugation and dried in vacuum at 60 oC overnight. \n\nAfter the preparation of Cu/ZIF-8 nanoparticles, the catalyst is synthesized as followed:\n1. Firstly, 1.8 g polyacrylonitrile (PAN, Mw=130000) powder was dissolved in 20 mL N,N-Dimethylfor mamide (DMF) in a three-neck bottle by magnetically stirring the mixture solution for 2 hours in a water bath kettle under 65 °C to obtain a homogenous solution. \n2. Then, 0.6 g of Cu/ZIF8 nanoparticles were dropped into the PAN/DMF mixed solution and the mixture solution was magnetically stirred at 60 °C for 2 hours. \n3. Then, this mixture was stirred for another 12 hours to yield a homogenous precursor solution.  \n4. The precursor solution was electrospun to polymer fiber by a parallel-plate apparatus. \n5. The precursor solution was firstly transferred into a syringe with a stainless needle at the tip. \n6. The stainless needle was linked to a high voltage power equipment. \n7. The solution flow,  rate applied potential, and spin distance were 0.7 mL/h, 21 kV, and 12 cm, respectively. All  experiments were carried out at room temperature.  \n8. The as-spun nanofibers were pre-oxidated in air at 220 °C for 1 hour, and then carbonized under Ar at 900 °C for 1 hour to achieve a very high graphitization. \n9. The samples were cooled to room temperature under Ar. \n10. The heating rate of carbonization was 5 °C/min  from room temperature (about 20 °C) to 900 °C. \n11. After carbonization, the resultants were  washed thoroughly in a 4.0 M H2SO4 aqueous solution for 10 hours to remove Cu nanoparticles (if exist) and the residual Zn species. \n12. drying in vacuum at 60 oC overnight"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single site Au supported on C",
+        "output": "The catatyst is synthesized by impregnation with metal precursor H[AuCl4]·3H2O and support activated carbon\n\nThe synthesis procedures are as followed:\n1. Activated carbon was initially ground to obtain a powder (150–200 mesh). \n2. The gold precursor, H[AuCl4]·3H2O (Alfa Aesar, 20 mg, assay 49%), was dissolved in the required solvent (2.7 ml). \n3. The gold precursor solution was then added dropwise, with stirring, to the activated carbon (0.99 g) to obtain a catalyst with a final metal loading of 1 wt.%. \n4. The resulting powder was dried at a temperature 5–10 °C higher than the boiling point of the solvent used for 16 h under a flow of N2. \n5. Wherever possible, extra dry solvents sealed under nitrogen were used."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Cu supported on N-doped carbon",
+        "output": "The catatyst is synthesized by impregnation with Cu acetylacetonates and support carbon\n\nThe synthesis procedures are as followed:\n1. A solution of  Zn(NO3)2·6H2O (1.069 g, 3.6 mmol) and Cu acetylacetonates (0.22–0.36 mmol) were dissolved in 15 ml methanol at 30–55 °C\n2. the resulting solution was subsequently added to10 ml of methanol containing 2-methylimidazole (1.161 g, 14.2 mmol). \n3. After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. \n4. The solid products were collected by centrifugation and washed four times with methanol and dried in vacuum overnight. \n5. The powders of the metal acetylacetonates @ZIF-8 were placed in a tube furnace and heated to 800/900 °C for 3 h at a heating rate of 5 °C min–1 under argon gas (200 ml min–1). \n6. After calcination, the samples were cooled to room temperature"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "preparation of single atom Au supported on KPCN, denoted by AuKPCN",
+        "output": "The catalyst is synthesized by impregnation with metal precursor HAuCl4 and support KPCN\n\nThe support is prepared as followed:\n1. melamine (4.0 g, Alfa Aesar) was ground with KBr (5.95 g, Alfa Aesar) in 3 ml ethanol (Et-OH) and 1 ml glycol in an agate mortar for 1 h.\n2. After drying at 65 °C, the resultant mixture was heated to 560 °C for 4 h at a ramping rate of 2.2 °C min−1 in a tube furnace (inner diameter 4 cm) in N2 atmosphere (50 ml min−1). \n3. After cooling to room temperature, the bright yellow-green product was ball milled (400 rpm, 3 h) with ZrO2 balls of Ф ≈ 0.4 mm in Et-OH. \n4. The sample was washed by boiling deionized water several times, collected by filtration and dried at 60 °C in a vacuum oven for 12 h. \n\nAfter the support is prepared, the catalyst is synthesized as followed:\n1. a certain amount of KPCN was dispersed in 26 ml water under sonication for 60 min at 60 °C, followed by adding a certain amount of HAuCl4.\n2. The mixture was then bubbled with N2 for 30 min (100 ml min−1). \n3. The reaction system was carefully sealed and then heated to 60 °C for 8 h. \n4. After cooling down to room temperature, the sample was washed by deionized water and Et-OH several times, collected by filtration and dried at 60 °C in a vacuum oven for 12 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "question \nPreparation of Au single atoms supported on N-doped Carbon",
+        "output": "The catalyst is prepared in a framework of ZIF-8 synthesis\n\nThe synthesis procedures are as followed:\n1. PVP (K30, 1.2 mmol in monomer unit) was added into an aqueous solution of HAuCl4·3H2O (1 mM, 30 ml) under ultrasound for 10 min. \n2. After stirring the mixture for 30 min at 0 °C by ice bath, we added an aqueous solution of NaBH4 (0.1 M, 3 ml) to the mixture under vigorous stirring and kept the temperature constant for another 30 min. \n3. After the reaction, 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. \n4. The obtained Au nanoparticles were washed with water several times and centrifuged by ultrafiltration centrifuge tube with a molecular weight cut-off membrane (MWCO = 10 kDa) at 10,000 r.p.m. for 5 min. \n5. Finally, the Au nanoparticles were dispersed in 6 ml methanol.  \n6. 1,069 mg Zn(NO3)2·6H2O was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask A. \n7. Then 0.3 ml as-prepared Au nanoparticles dispersed in methanol solution (~1 mgAu ml–1) was added into flask A. \n8. 1,161 mg 2-methylimidazole was dissolved in 15 ml methanol under ultrasound for 5 min to form a clear solution in flask B. \n9. Then, we added flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. \n10. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol for three times and finally dried at 70 °C for 5 h.  \n1. We transferred Au nanoparticles supported on ZIF-8 powder into a ceramic boat and placed it in a tube furnace. \n2. The sample was heated to 1,000 °C with a heating rate of 5 °C min–1 and kept at 1,000 °C for 5 h under flowing nitrogen gas and then cooled to room temperature naturally."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Cu supported on PCN",
+        "output": "The catalyst is prepared by impregnation with metal precursor CuCl2 and support exfoliated PCN\n\nThe preparation of support exfoliated PCN is prepared as followed:\n1. Bulk PCN was prepared by calcining dicyandiamide at 550 °C (2.3 °C min−1 heating rate) in a crucible for 3 h in static air. \n2. thermal exfoliation at 500 °C (5 °C min −1 heating rate) for 5 h in static air. \n3. The exfoliation procedure was repeated several times until the PCN was exfoliated efficiently.  \n\nAfter the preparation of support, the catalyst synthesis procedures are as followed:\n1. CuCl2 (0.014 g) and exfoliated PCN (0.70 g) were dispersed in 200 ml for mamide, sonicated for 10 min and then stirred in an oil bath (120 °C) for 12 h, following centrifugation and washing thoroughly by ethanol several times.\n2. The oven-dried powder (80 °C) was subsequently heated to 500 °C with a heating rate of 2 °C min−1 and kept for 5 h with the protection of N2 flow."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Cu single atom supported on N-doped Carbon",
+        "output": "The catalyst is prepared by calcination with support ZIF-8\n\nThe support ZIF-8 is prepared as followed:\n1. 0.558 g Zn(NO3)2·6H2O was dissolved in 20 ml methanol and subsequently added to 20 ml methanol containing 0.616 g 2-methylimidazole under ultrasound for 10 min at room temperature. \n2. The ZIF-8 was then grown under static at 308 K for 12 h. \n3. The precipitates were centrifuged, washed with methanol and dried in a vacuum at 338 K for overnight.  \n\nAfter the support ZIF-8 is prepared, the catalyst is synthesized as followed:\n1. the copper foam and powder of ZIF-8 (100 mg) were separately placed on a porcelain boat. \n2. The porcelain boat was heated in a tube furnace to 1,173 K (at 5 K min−1) in a stream of argon (10 ml min−1) for 1 h and then NH3 (10 ml min−1) for 1 h to yield CuSAs/N-C."
+      }
+    ]
+  }
+]

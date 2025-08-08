@@ -1,0 +1,10 @@
+question
+Preparation of single atom Pd suppoted on CeO2, denoted by Pd1/CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor chloropalladium acid and support CeO2
+
+The synthesis procedures are as followed:
+1. An appropriate amount of chloropalladium acid is dropwise added to CeO2 while kept being ground in a mortar and pestle. 
+2. The powders are then dried at 80 °C for 12 h. 
+3. Afterwards, the sample is directly thermally aged at 800 °C for 12 h in a flowing air.

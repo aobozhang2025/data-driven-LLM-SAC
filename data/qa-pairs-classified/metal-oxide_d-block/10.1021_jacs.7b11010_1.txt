@@ -1,0 +1,15 @@
+question
+synthesis of single atom Rh supported on ZrO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RhCl3 and support ZrO2
+
+The synthesis procedures are as followed:
+1. Zirconium n-propoxide 14.4 mL (70 wt % in npropanol; Sigma-Aldrich) was diluted by adding 38.1 mL of npropanol (>99.5%; Sigma-Aldrich).
+2. Aqueous ammonia (20 mL, Duksan) was added dropwise into the zirconia precursor solution with vigorous stirring and kept for 1 h. 
+3. The gel was dried at 80 °C for 12 h. 
+4. The dried sample was calcined at 400 °C for 4 h in air. 
+5. The Rh precursors (RhCl3; Sigma-Aldrich) were dissolved in 10 mL of anhydrous ethanol (99.9%; Samcheon). 
+6. Next, 300 mg of metal oxide supports, which are the synthesized zirconia was dispersed in 20 mL of ethanol. 
+7. The two solutions were mixed with vigorous stirring and dried at 60 °C. 
+8. The dried sample was calcined at 400 °C for 1 h in air

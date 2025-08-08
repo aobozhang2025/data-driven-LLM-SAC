@@ -1,0 +1,17 @@
+question
+Synthesis of hollow mesoporous single atom Mn supported on N-C, denoted by h-Mn/NC 
+
+answer
+The catalyst is synthesized by a framework of ZIF with metal precursors Mn(acac)3
+
+The synthesis procedures are as followed:
+1. Zn(NO3)2∙6H2O (1.069 g, 3.6 mmol), Mn(acac)3 (45 mg, 0.128 mmol) were dissolved in 20 mL methanol. 
+2. Then the solution was added into 20 mL of methanol containing 2-methy imidazole (1.161 g, 14.2 mmol). 
+3. After vigorously stirring for 5 minutes, the mixed solutions were transferred into a 50 mL Telfon-lined stainless-steel autoclave and subjected to treatment at 120 oC for 4 h. 
+4. The  autoclave was cooled down to room temperature. 
+5. The solid products were collected by  centrifugation and washed five times with methanol. 
+6. the products were dried at 70 oC under vacuum overnight.  
+7. the products was etched with 100 mL tannic acid solution (7 g/mL) while stirring for 30 min. 
+8. The solid products were then washed with  deionized water and methanol for three times. 
+9. Finally, the products were dried at 70 oC under  vacuum overnight.  
+10. the products were placed in a tube furnace and heated to 950  oC (5 oC/min) for 3 h at a heating rate of under argon gas (100 mL/min).

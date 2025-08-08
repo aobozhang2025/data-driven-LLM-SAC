@@ -1,0 +1,39 @@
+question
+chemical properties of atom Cobalt (Co)
+
+answer
+Cobalt (Co), a transition metal with the atomic number 27. A cobalt atom's chemical behavior is largely dictated by its electron configuration: [Ar] 3d⁷ 4s². This arrangement of electrons in its outermost shells gives rise to several important characteristics relevant to catalysis:
+Variable Oxidation States: Cobalt most commonly exists in the +2 and +3 oxidation states, although other states are known. This ability to readily shuttle between different oxidation states is fundamental to its role in many catalytic redox reactions, allowing it to facilitate electron transfer processes.
+Unpaired d-electrons: With seven electrons in its 3d orbital, a cobalt atom possesses unpaired electrons. This feature makes it paramagnetic and, more importantly, allows it to form strong coordination bonds with various atoms (like nitrogen, oxygen, and carbon) on the catalyst support. These bonds are crucial for stabilizing the individual cobalt atoms and preventing them from aggregating into larger nanoparticles, which is the essence of single-atom catalysis.
+Coordination Chemistry: Cobalt exhibits a rich and diverse coordination chemistry, readily forming complexes with a variety of ligands. This allows for the fine-tuning of the electronic and steric environment around the single cobalt atom, which in turn influences its catalytic activity and selectivity for specific reactions.
+Reactivity: Cobalt is a moderately reactive metal. It can be oxidized in the presence of air and reacts with many acids. This inherent reactivity, when controlled at the single-atom level, allows it to actively participate in catalytic cycles, breaking and forming chemical bonds in reactant molecules.
+
+question
+chemical properties of Cobalt(II) nitrate (Co(NO₃)₂)
+
+answer
+A readily available and highly soluble salt as Co precursor
+
+question
+chemical properties of Cobalt(II) acetate (Co(CH₃COO)₂)
+
+answer
+Another soluble salt as Co precursor that is often used in syntheses where the acetate anion can play a role in the reaction medium.
+
+question
+chemical properties of Cobalt(II) chloride (CoCl₂)
+
+answer
+A versatile Co precursor used in various synthetic methods.
+
+question
+chemical properties of Cobalt phthalocyanine (CoPc)
+
+answer
+This molecule contains a central cobalt atom already coordinated to nitrogen atoms within a stable organic framework. Pyrolysis of CoPc on a suitable support can lead to the formation of highly dispersed Co-Nₓ sites, which are known to be active for many catalytic reactions.
+
+question
+properties of Zeolitic Imidazolate Framework-67 (ZIF-67)
+
+answer
+This MOF consists of cobalt ions linked by 2-methylimidazole ligands. High-temperature pyrolysis of ZIF-67 leads to the formation of cobalt single atoms embedded in a nitrogen-doped carbon matrix, a material that has shown exceptional catalytic activity in various applications.

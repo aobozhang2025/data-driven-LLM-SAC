@@ -1,0 +1,10 @@
+question
+synthesis of 0.08% single atom Pt supported on Fe-O
+
+answer
+The catalyst is prepared by impregnation with metal precursor chloroplatinic acid
+
+The synthesis procedures are as followed:
+1. an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO3)3·9H2O, 1 mol l−1) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. 
+2. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. 
+3. Before characterization and reactivity testing, the samples were reduced in 10% H2/He at 250 °C for 0.5 h18,27.

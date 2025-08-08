@@ -1,0 +1,15 @@
+question
+synthesis of single atom Pt supported on TiO2 nanorods array (NRAs)
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6
+
+The synthesis procedures are as followed:
+1. First, the FTO glass substrates were ultrasonically cleaned in a mixed solution of acetone, deionized water, and absolute ethanol for 15 min each in sequence. 
+2. In a typical synthesis, a piece of cleaned FTO substrate was placed in a 75 mL quartz vessel with the conductive surface of FTO facing down.
+3. Pristine TiO2 precursor solution was prepared by adding 0.005 mol of potassium titanium oxalate to a beaker containing 30 mL of concentrated hydrochloric acid (37 wt %) and 30 mL of deionized water. 
+4. After being stirred for 20 min, the quartz vessel was sealed and further treated at 190 °C for 90 min at a heating rate of 15 °C min−1 and an initial pressure of 35 bar using argon gas in a single-chamber microwave synthesis workstation (Ultrawave, Milestone). 
+5. After cooling down, the FTO substrate was taken out and rinsed with deionized water and anhydrous ethanol. 
+6. The FTO substrate was then dried at 60 °C for 5 h in vacuum and kept in a muffle furnace at 450 °C for 120 min  (ramping rate = 5 °C min−1).  
+7. TiO2 NRAs were placed in 25 mL of CH3CN containing 1 mM H2PtCl6, and the solution was subjected to UV (365 nm) light irradiation for 60 min.
+8. Following irradiation, the product was CH3CN and water washing and drying.

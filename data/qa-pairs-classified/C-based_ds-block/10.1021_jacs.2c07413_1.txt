@@ -1,0 +1,17 @@
+question
+Synthesis of Au single atoms supported on amorphous carbon nitride (ACN), denoted by Au1/ACN
+
+answer
+The catalyst is synthesized by impregnation with metal precursors chloroauric acid (purchased from Jinke Reagent Co., Ltd., Shenyang, China, AR.) and support amorphous carbon nitride (ACN)
+
+The support ACN is prepared by the following procedures:
+1. 6.5 g urea (purchased from Sinopharm Chemical Reagent Co. Ltd., Shanghai, China,  AR.) was heated at 550 °C in a muffle furnace under static air atmosphere for 2 h, with the ramping rate of 8 °C/min, and then cooled down to room temperature and ground to get crystalline graphitic  carbon nitride (CCN). 
+2. The CCN powder was heated at 620 °C for 2 h with a ramping rate of 5 °C /min under N2 atmosphere. 
+3. Subsequently, the obtained solid powder was dispersed and sonicated in deionized water. 
+4. The bottom precipitate was discarded, and the upper turbid liquid was suction filtered to obtain ACN. 
+5. Finally, the as-obtained ACN was dried in a vacuum oven at 70 °C for 24 h.
+
+After the synthesis of ACN, the catalyst is synthesized as followed:
+1. 50 mg ACN was dispersed in 80 mL deionized water and sonicated for 2 h. 
+2. Then 0.9  mL 1.0 mg/mL chloroauric acid (purchased from Jinke Reagent Co., Ltd., Shenyang, China, AR.) was added dropwise, followed by stirring at 60 °C for 10 h. 
+3. The product was washed several times with ethanol and distilled water, and then dried in a vacuum oven at 50 °C for 8 h, followed by annealing  at 80 °C in a H2/Ar atmosphere for 8 h.

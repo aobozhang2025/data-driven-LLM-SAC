@@ -1,0 +1,1005 @@
+1. **Precursor Solution Preparation**:  
+   - Dissolve **1.0 g melamine** in **30 mL DI water** at 80°C with stirring (600 rpm) for 30 min.  
+   - Separately, dissolve **0.5 g ammonium molybdate tetrahydrate** in **20 mL DI water** at 25°C (room temperature) with stirring (600 rpm) for 10 min.  
+   - Combine both solutions and stir at 25°C for 2 hours.  
+
+2. **Drying**:  
+   - Pour the mixture into an evaporating dish.  
+   - Dry in an oven at **80°C for 12 hours** to evaporate water, forming a solid composite.  
+
+3. **Grinding**:  
+   - Grind the dried solid in a mortar for 10 min to obtain a fine powder.  
+
+4. **Pyrolysis**:  
+   - Transfer the powder to a ceramic boat.  
+   - Place the boat in a tube furnace.  
+   - Purge the furnace with **argon gas (50 mL/min)** for 30 min at 25°C.  
+   - Heat to **700°C** at a ramp rate of **5°C/min** under argon flow (50 mL/min).  
+   - Hold at **700°C for 2 hours**.  
+   - Cool naturally to 25°C under argon flow (50 mL/min).  
+
+5. **Collection**:  
+   - Collect the black solid product (Mo1-NC) from the ceramic boat.  
+--------------------------------------
+**Step 1: Synthesis of ZIF-8 Precursor**  
+- **Chemicals**: Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O, 5.95 g), 2-methylimidazole (6.50 g), methanol (MeOH, 400 mL).  
+- **Procedure**:  
+  1. Dissolve Zn(NO₃)₂·6H₂O in 200 mL MeOH (Solution A).  
+  2. Dissolve 2-methylimidazole in 200 mL MeOH (Solution B).  
+  3. Rapidly mix Solution B into Solution A under stirring (1,000 rpm).  
+  4. Stir for 1 hour at 25°C.  
+  5. Centrifuge (8,000 rpm, 10 min), wash precipitate 3× with MeOH.  
+  6. Dry at 60°C for 12 hours to obtain ZIF-8 powder.  
+
+**Step 2: Iron Impregnation**  
+- **Chemicals**: ZIF-8 (1.0 g), iron(II) acetate (Fe(OAc)₂, 0.1 g), ethanol (EtOH, 50 mL).  
+- **Procedure**:  
+  1. Dissolve Fe(OAc)₂ in EtOH.  
+  2. Add ZIF-8 powder, stir (500 rpm) for 12 hours at 25°C.  
+  3. Rotary-evaporate at 50°C to remove solvent.  
+  4. Dry at 60°C for 6 hours to yield Fe/ZIF-8.  
+
+**Step 3: Pyrolysis**  
+- **Setup**: Tube furnace, argon (Ar) gas flow (100 mL/min).  
+- **Procedure**:  
+  1. Load Fe/ZIF-8 into quartz boat, place in furnace.  
+  2. Purge with Ar for 30 minutes.  
+  3. Heat at 5°C/min to 900°C.  
+  4. Hold at 900°C for 2 hours under Ar.  
+  5. Cool to 25°C under Ar (natural cooling rate).  
+
+**Step 4: Acid Leaching**  
+- **Chemicals**: Pyrolyzed material (0.5 g), sulfuric acid (H₂SO₄, 0.5 M, 100 mL).  
+- **Procedure**:  
+  1. Disperse material in H₂SO₄ solution.  
+  2. Stir (300 rpm) at 80°C for 8 hours.  
+  3. Centrifuge (8,000 rpm, 10 min), wash with deionized water until pH = 7.  
+  4. Dry at 60°C for 12 hours to obtain FeNC.  
+--------------------------------------
+#### **Step 1: Preparation of Precursor (ZIF-67)**  
+1. **Chemicals**:  
+   - Cobalt(II) acetate tetrahydrate (Co(CH₃COO)₂·4H₂O, 2.46 g)  
+   - 2-Methylimidazole (C₄H₆N₂, 8.20 g)  
+   - Methanol (CH₃OH, 200 mL total)  
+2. **Procedure**:  
+   - Dissolve 2.46 g cobalt(II) acetate tetrahydrate in 100 mL methanol (**Solution A**).  
+   - Dissolve 8.20 g 2-methylimidazole in 100 mL methanol (**Solution B**).  
+   - Rapidly pour **Solution B** into **Solution A** under vigorous stirring.  
+   - Stir the mixture for 24 hours at 25°C (room temperature).  
+3. **Product Isolation**:  
+   - Centrifuge the resulting purple precipitate at 8,000 rpm for 5 minutes.  
+   - Wash the solid 3 times with 50 mL methanol per wash.  
+   - Dry the solid in an oven at 60°C for 12 hours to obtain **ZIF-67**.  
+
+#### **Step 2: Pyrolysis**  
+1. **Equipment**:  
+   - Tube furnace with inert gas (N₂ or Ar) supply.  
+2. **Procedure**:  
+   - Place 1.0 g of dried ZIF-67 in a quartz boat.  
+   - Insert the boat into the tube furnace.  
+   - Purge the furnace with N₂ gas (flow rate: 100 mL/min) for 30 minutes.  
+   - Heat the furnace to 800°C at a ramp rate of 5°C/min.  
+   - Maintain at 800°C for 2 hours under N₂ flow (100 mL/min).  
+   - Cool to 25°C naturally under N₂ flow.  
+
+#### **Step 3: Acid Leaching (Optional but Recommended)**  
+1. **Chemicals**:  
+   - Sulfuric acid (H₂SO₄, 0.5 M, 100 mL)  
+   - Deionized water (≥500 mL)  
+2. **Procedure**:  
+   - Disperse 1.0 g of pyrolyzed material in 100 mL of 0.5 M H₂SO₄.  
+   - Stir at 80°C for 8 hours.  
+   - Centrifuge at 8,000 rpm for 5 minutes and discard the supernatant.  
+   - Wash the solid with deionized water until neutral pH (typically 5–7 washes).  
+   - Dry at 60°C for 12 hours.  
+--------------------------------------
+**Phase 1: Purification of Carbon Nanotubes (CNTs)**  
+1.  **Acid Treatment:**  
+    -   Add 500 mg of multi-walled carbon nanotubes (MWCNTs) to a mixture of 60 ml concentrated H₂SO₄ (98%) and 20 ml concentrated HNO₃ (70%).  
+    -   Reflux at 120°C for 6 hours under magnetic stirring.  
+2.  **Washing:**  
+    -   Cool the mixture to room temperature.  
+    -   Dilute with 500 ml deionized (DI) water and vacuum-filter through a 0.22 μm PTFE membrane.  
+    -   Wash with DI water until filtrate pH is neutral.  
+    -   Dry the purified CNTs at 80°C for 12 hours.  
+
+**Phase 2: Nitrogen Doping of CNTs**  
+3.  **Annealing in Ammonia:**  
+    -   Place 400 mg of purified CNTs in a quartz boat.  
+    -   Insert into a tube furnace under Ar flow (100 sccm).  
+    -   Ramp temperature to 600°C at 5°C/min.  
+    -   Switch gas to NH₃ (100 sccm) and hold at 600°C for 2 hours.  
+    -   Cool to room temperature under Ar (100 sccm).  
+
+**Phase 3: Platinum Deposition**  
+4.  **Impregnation:**  
+    -   Dissolve 10.4 mg of chloroplatinic acid (H₂PtCl₆·6H₂O) in 20 ml DI water.  
+    -   Add 400 mg of N-doped CNTs to the solution.  
+    -   Stir at 60°C for 4 hours.  
+    -   Sonicate for 30 minutes (40 kHz).  
+5.  **Solvent Evaporation:**  
+    -   Stir the mixture at 80°C until all liquid evaporates (~6 hours).  
+    -   Dry the solid at 80°C overnight.  
+
+**Phase 4: Thermal Activation**  
+6.  **Annealing in Argon:**  
+    -   Transfer the Pt-loaded sample to a quartz boat.  
+    -   Place in a tube furnace under Ar flow (100 sccm).  
+    -   Heat to 300°C at 5°C/min and hold for 1 hour.  
+    -   Further heat to 800°C at 5°C/min and hold for 2 hours.  
+    -   Cool to room temperature under Ar.  
+--------------------------------------
+1. **Preparation of Carbon Support (N-Doped Carbon)**
+   - **Materials:** Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O, 5.95 g, 0.02 mol), 2-methylimidazole (6.56 g, 0.08 mol), methanol (400 mL).  
+   - **Step:**  
+     - Dissolve Zn(NO₃)₂·6H₂O in 200 mL methanol (Solution A).  
+     - Dissolve 2-methylimidazole in 200 mL methanol (Solution B).  
+     - Mix Solution A and B rapidly. Stir at 25°C for 1 hour.  
+     - Centrifuge (8000 rpm, 10 min), wash with methanol (3 × 100 mL), dry at 80°C for 12 hours to obtain ZIF-8.  
+   - **Pyrolysis:**  
+     - Heat ZIF-8 in a tube furnace under N₂ flow (100 mL/min).  
+     - Ramp to 900°C at 5°C/min, hold for 2 hours.  
+     - Cool to 25°C under N₂ to yield N-doped carbon (NC).  
+
+2. **Iron Doping via Wet Impregnation**  
+   - **Materials:** NC (1.0 g), iron(III) chloride (FeCl₃, 0.1 g), ethanol (50 mL).  
+   - **Step:**  
+     - Dissolve FeCl₃ in ethanol.  
+     - Add NC to the solution. Stir at 25°C for 12 hours.  
+     - Dry at 80°C for 6 hours.  
+
+3. **Thermal Activation to Form Fe-N Sites**  
+   - **Step:**  
+     - Place dried sample in a tube furnace under NH₃ flow (50 mL/min).  
+     - Ramp to 800°C at 5°C/min, hold for 1 hour.  
+     - Cool to 25°C under N₂.  
+
+4. **Acid Leaching (Optional)**  
+   - **Materials:** 0.5 M H₂SO₄ (100 mL).  
+   - **Step:**  
+     - Stir product in H₂SO₄ at 80°C for 8 hours.  
+     - Centrifuge (8000 rpm, 10 min), wash with deionized water until pH neutral.  
+     - Dry at 80°C for 6 hours.  
+
+5. **Final Annealing**  
+   - **Step:**  
+     - Heat leached sample in a tube furnace under N₂ flow (100 mL/min).  
+     - Ramp to 900°C at 5°C/min, hold for 1 hour.  
+     - Cool to 25°C under N₂ to yield single-atom Fe-N-C catalyst.  
+--------------------------------------
+#### **Step 1: Synthesis of ZIF-8 Precursor**
+1. **Materials**:  
+   - Zn(NO₃)₂·6H₂O (3.94 g, 13.2 mmol)  
+   - 2-Methylimidazole (6.49 g, 79.0 mmol)  
+   - Methanol (200 mL)  
+2. **Procedure**:  
+   - Dissolve Zn(NO₃)₂·6H₂O in 100 mL methanol.  
+   - Dissolve 2-methylimidazole in 100 mL methanol.  
+   - Rapidly mix both solutions under stirring (700 rpm) for 20 min.  
+   - Age the mixture at 25°C for 24 h.  
+   - Centrifuge (10,000 rpm, 10 min), wash with methanol 3×, and dry at 80°C for 12 h (yields ZIF-8 powder).
+
+#### **Step 2: Pyrolysis to N-C Support**
+1. **Materials**:  
+   - ZIF-8 powder (2.0 g)  
+   - N₂ gas (99.999%)  
+2. **Procedure**:  
+   - Load ZIF-8 into a quartz boat.  
+   - Place in a tube furnace under N₂ flow (100 mL/min).  
+   - Heat from 25°C to 900°C at 5°C/min.  
+   - Hold at 900°C for 2 h.  
+   - Cool to 25°C under N₂ (yields N-C support).
+
+#### **Step 3: Co and P Impregnation**
+1. **Materials**:  
+   - N-C support (1.0 g)  
+   - Co(NO₃)₂·6H₂O (0.029 g, 0.1 mmol)  
+   - Hypophosphorous acid (H₃PO₂, 50% aq., 13.2 μL, 0.1 mmol)  
+   - Ethanol (50 mL)  
+2. **Procedure**:  
+   - Disperse N-C support in ethanol via sonication (30 min).  
+   - Dissolve Co(NO₃)₂·6H₂O and H₃PO₂ in 10 mL ethanol.  
+   - Add Co/P solution dropwise to N-C suspension.  
+   - Stir (500 rpm) at 25°C for 6 h.  
+   - Evaporate solvent at 60°C under vacuum.  
+   - Dry residue at 80°C for 12 h.
+
+#### **Step 4: Thermal Annealing**
+1. **Materials**:  
+   - Impregnated powder (1.0 g)  
+   - Ar gas (99.999%)  
+2. **Procedure**:  
+   - Load sample into a quartz boat.  
+   - Place in a tube furnace under Ar flow (100 mL/min).  
+   - Heat from 25°C to 800°C at 5°C/min.  
+   - Hold at 800°C for 2 h.  
+   - Cool to 25°C under Ar.
+
+#### **Step 5: Acid Leaching**
+1. **Materials**:  
+   - Annealed sample (1.0 g)  
+   - H₂SO₄ (0.5 M, 100 mL)  
+2. **Procedure**:  
+   - Disperse sample in H₂SO₄ solution.  
+   - Stir (300 rpm) at 80°C for 8 h.  
+   - Centrifuge (10,000 rpm, 10 min) and wash with deionized water until pH neutral.  
+   - Dry at 80°C for 12 h (yields **Co1-N3P1/N-C**).
+--------------------------------------
+**Step 1: Preparation of Graphene Oxide (GO)**
+- **Chemicals**: Graphite powder (1 g), NaNO₃ (0.5 g), KMnO₄ (3 g), concentrated H₂SO₄ (23 mL, 98%), H₂O₂ (10 mL, 30%), HCl (10%, 100 mL), deionized water.  
+- **Procedure**:  
+  1. Add graphite and NaNO₃ to H₂SO₄ in an ice bath (0–5°C).  
+  2. Slowly add KMnO₄ over 1 hr, keeping temperature <20°C.  
+  3. Stir at 35°C for 2 hrs.  
+  4. Add deionized water (46 mL) slowly, then heat to 98°C for 30 mins.  
+  5. Add H₂O₂ (10 mL) and stir for 10 mins.  
+  6. Centrifuge and wash with HCl (10%) and deionized water until pH neutral.  
+  7. Dry at 60°C for 12 hrs to obtain GO powder.  
+
+**Step 2: Preparation of Precursor Solution**  
+- **Chemicals**: GO (100 mg), cobalt(II) acetate tetrahydrate (Co(CH₃COO)₂·4H₂O, 20 mg), dicyandiamide (C₂H₄N₄, 200 mg), ethanol (50 mL).  
+- **Procedure**:  
+  1. Disperse GO in ethanol via sonication (1 hr).  
+  2. Add cobalt acetate and dicyandiamide to the suspension.  
+  3. Stir at 25°C for 12 hrs.  
+
+**Step 3: Drying the Mixture**  
+- **Procedure**:  
+  1. Evaporate ethanol at 60°C under vacuum.  
+  2. Dry the solid residue at 60°C for 6 hrs.  
+
+**Step 4: Thermal Annealing**  
+- **Chemicals**: Argon gas (high purity).  
+- **Procedure**:  
+  1. Place dried sample in a quartz boat.  
+  2. Heat in a tube furnace under Ar flow (100 sccm) at 800°C for 2 hrs (heating rate: 5°C/min).  
+  3. Cool naturally to 25°C under Ar.  
+
+**Step 5: Acid Washing**  
+- **Chemicals**: H₂SO₄ (0.5 M, 100 mL), deionized water.  
+- **Procedure**:  
+  1. Reflux the annealed sample in H₂SO₄ at 80°C for 8 hrs.  
+  2. Centrifuge and wash with deionized water until pH neutral.  
+  3. Dry at 60°C for 6 hrs.  
+--------------------------------------
+1. **Preparation of Precursor Solution**  
+   - Weigh 1.0 g of carbon black (e.g., Vulcan XC-72R) and add to 100 mL of ethanol.  
+   - Sonicate for 30 minutes at room temperature to disperse.  
+   - Add 0.2 g of manganese(II) acetate tetrahydrate (Mn(CH₃COO)₂·4H₂O) to the dispersion.  
+   - Stir magnetically for 1 hour at 25°C.  
+
+2. **Addition of Nitrogen Precursor**  
+   - Dissolve 2.0 g of melamine (C₃H₆N₆) in 50 mL of ethanol at 60°C.  
+   - Add the melamine solution to the carbon-manganese mixture.  
+   - Stir at 60°C for 3 hours.  
+
+3. **Drying**  
+   - Evaporate ethanol at 80°C in an oven for 12 hours.  
+   - Grind the dried solid into a fine powder using a mortar and pestle.  
+
+4. **First Pyrolysis**  
+   - Place the powder in a quartz boat.  
+   - Heat in a tube furnace under N₂ flow (100 mL/min):  
+     - Ramp from 25°C to 800°C at 5°C/min.  
+     - Hold at 800°C for 1 hour.  
+     - Cool to 25°C at 5°C/min under N₂.  
+
+5. **Acid Leaching**  
+   - Mix the pyrolyzed material with 100 mL of 0.5 M H₂SO₄.  
+   - Stir at 80°C for 6 hours.  
+   - Filter and wash with deionized water until pH neutral.  
+   - Dry at 80°C for 6 hours.  
+
+6. **Second Pyrolysis**  
+   - Place the dried material in a quartz boat.  
+   - Heat in a tube furnace under NH₃ flow (100 mL/min):  
+     - Ramp from 25°C to 900°C at 5°C/min.  
+     - Hold at 900°C for 1 hour.  
+     - Cool to 25°C at 5°C/min under N₂.  
+
+7. **Final Processing**  
+   - Grind the cooled product into a fine powder.  
+   - Store in a desiccator.  
+--------------------------------------
+#### **Step 1: Synthesis of ZnFe-ZIF Precursor**
+1. **Solution A**: Dissolve 2.626 g zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O) and 0.010 g iron(II) acetate (Fe(CH₃COO)₂) in 20 mL methanol.  
+2. **Solution B**: Dissolve 3.24 g 2-methylimidazole in 20 mL methanol.  
+3. **Mixing**: Pour Solution B into Solution A rapidly under stirring.  
+4. **Reaction**: Stir at 25°C for 24 hours.  
+5. **Workup**:  
+   - Centrifuge at 8,000 rpm for 5 min.  
+   - Discard supernatant.  
+   - Wash precipitate with 20 mL methanol (repeat 3×).  
+6. **Drying**: Dry solids at 60°C for 12 hours.  
+
+#### **Step 2: Pyrolysis**
+1. **Setup**: Place dried precursor in a quartz boat. Insert into a tube furnace under N₂ flow (100 mL/min).  
+2. **Pyrolysis**:  
+   - Ramp temperature: 25°C → 900°C at 5°C/min.  
+   - Hold at 900°C for 2 hours under N₂.  
+   - Cool to 25°C under N₂ flow.  
+
+#### **Step 3: Acid Leaching**
+1. **Leaching Solution**: Prepare 0.5 M H₂SO₄ (50 mL per 0.5 g pyrolyzed material).  
+2. **Reaction**:  
+   - Add pyrolyzed material to H₂SO₄ solution.  
+   - Stir at 80°C for 8 hours.  
+3. **Workup**:  
+   - Filter and wash with deionized water until pH neutral.  
+4. **Drying**: Dry solids at 60°C for 12 hours.  
+--------------------------------------
+#### **Step 1: Preparation of Precursor Mixture**
+- **Chemicals**:  
+  - Melamine (C₃H₆N₆): 1.5 g  
+  - Nickel(II) acetate tetrahydrate [Ni(CH₃COO)₂·4H₂O]: 0.5 g  
+  - Deionized water: 100 mL  
+- **Procedure**:  
+  1. Dissolve 1.5 g melamine and 0.5 g nickel(II) acetate tetrahydrate in 100 mL deionized water.  
+  2. Stir at 25°C (room temperature) for 1 hour using a magnetic stirrer (500 rpm).  
+
+#### **Step 2: Evaporation and Drying**  
+- **Procedure**:  
+  1. Transfer the solution to an evaporating dish.  
+  2. Dry in an oven at 80°C for 12 hours to remove water, forming a solid mixture.  
+
+#### **Step 3: Grinding**  
+- **Procedure**:  
+  1. Grind the dried solid into a fine powder using an agate mortar and pestle for 10 minutes.  
+
+#### **Step 4: Pyrolysis**  
+- **Chemicals**: Nitrogen gas (N₂, 99.999% purity).  
+- **Apparatus**: Tube furnace with N₂ flow.  
+- **Procedure**:  
+  1. Place the powder in an alumina boat.  
+  2. Insert the boat into the tube furnace.  
+  3. Purge the furnace with N₂ (flow rate: 50 mL/min) for 30 minutes.  
+  4. Heat under N₂ flow with the following program:  
+     - Ramp from 25°C to 550°C at 5°C/min.  
+     - Hold at 550°C for 2 hours.  
+     - Ramp from 550°C to 800°C at 5°C/min.  
+     - Hold at 800°C for 2 hours.  
+  5. Cool naturally to 25°C under N₂ flow.  
+
+#### **Step 5: Acid Washing**  
+- **Chemicals**: Sulfuric acid (H₂SO₄, 0.5 M): 100 mL.  
+- **Procedure**:  
+  1. Add the pyrolyzed material to 100 mL of 0.5 M H₂SO₄.  
+  2. Stir at 80°C for 8 hours (500 rpm).  
+  3. Filter the mixture using a PTFE membrane (0.22 μm pore size).  
+  4. Wash the solid with deionized water (≥500 mL) until the filtrate pH is neutral (~7).  
+
+#### **Step 6: Final Drying**  
+- **Procedure**:  
+  1. Transfer the washed solid to a glass vial.  
+  2. Dry in an oven at 60°C for 12 hours.  
+--------------------------------------
+#### **Step 1: Synthesis of Graphene Oxide (GO)**  
+1. **Materials**:  
+   - Graphite powder (2.0 g)  
+   - NaNO₃ (1.0 g)  
+   - KMnO₄ (6.0 g)  
+   - Concentrated H₂SO₄ (46 mL, 98%)  
+   - H₂O₂ (30%, 80 mL)  
+   - Deionized (DI) water (400 mL)  
+
+2. **Procedure**:  
+   - Add graphite and NaNO₃ to H₂SO₄ in an ice bath (0–5°C).  
+   - Slowly add KMnO₄ over 1 h, maintaining temperature <20°C.  
+   - Stir at 35°C for 2 h.  
+   - Add DI water (92 mL) slowly, then heat to 98°C for 30 min.  
+   - Dilute with DI water (200 mL), add H₂O₂ until effervescence stops.  
+   - Centrifuge (10,000 rpm, 20 min) and wash with HCl (5%, 100 mL) twice.  
+   - Dialyze against DI water for 7 days (daily water changes).  
+   - Dry at 60°C for 24 h.  
+
+#### **Step 2: Amino-Functionalization of GO (GO-NH₂)**  
+1. **Materials**:  
+   - GO (100 mg)  
+   - Ethylenediamine (EDA, 5 mL)  
+   - Ethanol (50 mL)  
+   - NH₃·H₂O (25%, 0.5 mL)  
+
+2. **Procedure**:  
+   - Disperse GO in ethanol (50 mL) via sonication (1 h, 25°C).  
+   - Add EDA and NH₃·H₂O.  
+   - Reflux at 80°C for 24 h under N₂.  
+   - Centrifuge (8,000 rpm, 15 min) and wash with ethanol (3×) and DI water (3×).  
+   - Dry at 60°C for 12 h.  
+
+#### **Step 3: Loading Iridium Single Atoms**  
+1. **Materials**:  
+   - GO-NH₂ (50 mg)  
+   - IrCl₃·xH₂O (5 mg)  
+   - Ethylene glycol (20 mL)  
+   - DI water (20 mL)  
+
+2. **Procedure**:  
+   - Disperse GO-NH₂ in ethylene glycol/DI water (1:1 v/v, 20 mL total) via sonication (30 min, 25°C).  
+   - Add IrCl₃·xH₂O and stir (1 h, 25°C).  
+   - Transfer to a Teflon-lined autoclave.  
+   - Heat at 160°C for 6 h.  
+   - Centrifuge (12,000 rpm, 20 min) and wash with DI water (3×).  
+   - Dry at 60°C for 12 h.  
+--------------------------------------
+#### **Step 1: Synthesis of Silica Sphere Template**
+- **Chemicals**: Tetraethyl orthosilicate (TEOS, 98%, 10 mL), ethanol (200 mL), ammonium hydroxide (28% NH₃, 30 mL), deionized water (30 mL).  
+- **Procedure**:  
+  1. Mix ethanol (160 mL), deionized water (30 mL), and ammonium hydroxide (30 mL) in a 500 mL flask. Stir at 500 rpm for 10 min (25°C).  
+  2. Add TEOS (10 mL) dropwise over 1 min. Stir at 500 rpm for 6 h (25°C).  
+  3. Centrifuge the mixture at 8,000 rpm for 10 min. Wash the silica spheres with ethanol (3×) and deionized water (3×).  
+  4. Dry at 80°C for 12 h.  
+
+#### **Step 2: Coating Silica Spheres with Ni-Doped Carbon Precursor**
+- **Chemicals**: Silica spheres (1.0 g), sucrose (2.05 g), nickel(II) nitrate hexahydrate (Ni(NO₃)₂·6H₂O, 99.99%, 0.16 g), sulfuric acid (0.2 M, 0.24 mL), deionized water (20 mL).  
+- **Procedure**:  
+  1. Dissolve sucrose (1.25 g) and Ni(NO₃)₂·6H₂O (0.10 g) in deionized water (10 mL). Add sulfuric acid (0.14 mL). Stir for 10 min (25°C).  
+  2. Add silica spheres (1.0 g) to the solution. Stir for 1 h (25°C).  
+  3. Dry at 100°C for 6 h, then at 160°C for 6 h.  
+  4. Repeat: Dissolve sucrose (0.80 g) and Ni(NO₃)₂·6H₂O (0.06 g) in deionized water (10 mL) with sulfuric acid (0.10 mL). Add to the coated spheres. Dry at 100°C for 6 h, then at 160°C for 6 h.  
+
+#### **Step 3: Carbonization**
+- **Procedure**:  
+  1. Place coated silica spheres in a quartz boat.  
+  2. Heat in a tube furnace under N₂ flow (100 mL/min):  
+     - Ramp from 25°C to 900°C at 5°C/min.  
+     - Hold at 900°C for 2 h.  
+  3. Cool to 25°C under N₂ flow.  
+
+#### **Step 4: Silica Template Removal**
+- **Chemicals**: Hydrofluoric acid (HF, 5 wt%, 100 mL) or sodium hydroxide (NaOH, 2 M, 100 mL).  
+- **Procedure**:  
+  1. Transfer carbonized material to a Teflon beaker.  
+  2. Add HF (5 wt%, 100 mL) or NaOH (2 M, 100 mL). Stir for 24 h (25°C for HF; 80°C for NaOH).  
+  3. Centrifuge at 8,000 rpm for 10 min. Wash with deionized water until pH neutral (5–6 times).  
+  4. Dry at 80°C for 12 h.  
+--------------------------------------
+#### **Step 1: Preparation of BLG Solution**
+- **Chemicals**: β-Lactoglobulin (BLG, ≥90% purity), deionized water (18.2 MΩ·cm resistivity).  
+- **Quantities**: 500 mg BLG, 50 mL deionized water.  
+- **Procedure**:  
+  - Dissolve 500 mg BLG in 50 mL deionized water in a 100 mL glass beaker.  
+  - Stir at 500 rpm (room temperature, 25°C) for 30 minutes until fully dissolved.  
+
+#### **Step 2: Preparation of Iron Precursor Solution**  
+- **Chemicals**: Iron(II) sulfate heptahydrate (FeSO₄·7H₂O, ≥99% purity), deionized water.  
+- **Quantities**: 24.9 mg FeSO₄·7H₂O, 5 mL deionized water.  
+- **Procedure**:  
+  - Dissolve 24.9 mg FeSO₄·7H₂O in 5 mL deionized water in a 25 mL beaker.  
+  - Stir at 500 rpm (25°C) for 5 minutes until clear.  
+
+#### **Step 3: Mixing of Precursors**  
+- **Procedure**:  
+  - Add the iron solution (Step 2) dropwise (1 drop/sec) to the BLG solution (Step 1) under constant stirring (800 rpm, 25°C).  
+  - After addition, continue stirring at 800 rpm (25°C) for 2 hours.  
+
+#### **Step 4: Dialysis for Purification**  
+- **Chemicals**: Deionized water.  
+- **Equipment**: Dialysis tubing (MWCO 12–14 kDa).  
+- **Procedure**:  
+  - Transfer the mixture to dialysis tubing and seal.  
+  - Dialyze against 2 L deionized water at 25°C.  
+  - Replace water every 6 hours for 18 hours (3 cycles total).  
+
+#### **Step 5: Freezing**  
+- **Procedure**:  
+  - Transfer the dialyzed solution to a freeze-drying flask.  
+  - Freeze at −80°C for 4 hours.  
+
+#### **Step 6: Lyophilization**  
+- **Equipment**: Freeze dryer.  
+- **Procedure**:  
+  - Lyophilize the frozen sample at −50°C and 0.05 mbar pressure for 48 hours.  
+  - Collect the resulting powder (Fe-BLG composite).  
+--------------------------------------
+#### **Step 1: Preparation of Bimetallic Zn/Ni-ZIF Precursor**
+1. **Dissolve precursors:**  
+   - Solution A: Dissolve 5.95 g Zn(NO₃)₂·6H₂O and 0.291 g Ni(NO₃)₂·6H₂O in 200 mL methanol.  
+   - Solution B: Dissolve 13.12 g 2-methylimidazole in 200 mL methanol.  
+2. **Mix solutions:** Rapidly pour Solution B into Solution A.  
+3. **Stir:** Stir the mixture at room temperature (25°C) for 24 hours.  
+4. **Centrifuge:** Collect the precipitate by centrifugation at 8,000 rpm for 5 minutes.  
+5. **Wash:** Resuspend the solid in 50 mL methanol, centrifuge (8,000 rpm, 5 minutes), and repeat twice.  
+6. **Dry:** Dry the solid in an oven at 60°C for 12 hours.  
+
+#### **Step 2: Pyrolysis to Form Ni/N-doped Carbon**
+1. **Load sample:** Transfer the dried solid to a ceramic boat.  
+2. **Purge furnace:** Place the boat in a tube furnace, purge with N₂ (100 mL/min flow) for 30 minutes.  
+3. **Pyrolyze:**  
+   - Heat from 25°C to 1000°C at 2°C/min under N₂ (100 mL/min).  
+   - Hold at 1000°C for 2 hours.  
+4. **Cool:** Cool to room temperature under N₂ flow.  
+5. **Collect:** Retrieve the black powder (final product).  
+--------------------------------------
+#### **Step 1: Activation of pMOF**  
+1. Place 500 mg of pMOF in a glass vial.  
+2. Heat at 150°C under vacuum (10⁻³ mbar) for 12 h to remove solvents.  
+3. Cool to 25°C under inert atmosphere (N₂ or Ar).  
+
+#### **Step 2: Rh Precursor Solution Preparation**  
+1. Dissolve 4.2 mg RhCl₃·xH₂O in a mixture of 0.25 mL ethanol and 0.25 mL deionized water.  
+2. Sonicate for 10 min at 25°C to ensure complete dissolution (solution appears dark red).  
+
+#### **Step 3: Incipient Wetness Impregnation**  
+1. Add the Rh precursor solution dropwise to the activated pMOF under constant stirring (500 rpm).  
+2. Stir for 2 h at 25°C until homogeneous.  
+3. Dry the mixture at 60°C for 6 h in air.  
+
+#### **Step 4: Solvent Removal**  
+1. Transfer the dried solid to a rotary evaporator.  
+2. Evaporate residual solvents at 40°C under reduced pressure (100 mbar) for 1 h.  
+
+#### **Step 5: Thermal Reduction**  
+1. Load the sample into a quartz boat and place in a tube furnace.  
+2. Purge with Ar (50 mL/min) for 30 min at 25°C.  
+3. Heat to 300°C at 5°C/min under 5% H₂/Ar (50 mL/min).  
+4. Hold at 300°C for 3 h.  
+5. Cool to 25°C under Ar (50 mL/min).  
+
+#### **Step 6: Passivation and Storage**  
+1. Expose the sample to 1% O₂/N₂ (20 mL/min) for 15 min at 25°C.  
+2. Store in a sealed vial under Ar.  
+--------------------------------------
+1. **Synthesis of ZIF-8 Support**:  
+   - Dissolve **2.93 g Zn(NO₃)₂·6H₂O** in **100 mL methanol** (Solution A).  
+   - Dissolve **6.49 g 2-methylimidazole** in **100 mL methanol** (Solution B).  
+   - Rapidly mix Solution B into Solution A under stirring (500 rpm, 25°C).  
+   - Stir for **60 minutes** at **25°C**.  
+   - Centrifuge the mixture at **8000 rpm for 10 minutes**. Discard supernatant.  
+   - Wash precipitate 3× with **50 mL methanol** per wash (centrifuge at 8000 rpm, 10 minutes each).  
+   - Dry solid in a vacuum oven at **60°C for 12 hours**. Store as ZIF-8 powder.  
+
+2. **Iron Doping (Adsorption Method)**:  
+   - Dissolve **0.035 g Fe(acac)₃** in **50 mL ethanol**.  
+   - Add **0.5 g dried ZIF-8** to the solution. Stir at **300 rpm, 25°C for 24 hours**.  
+   - Centrifuge at **8000 rpm for 10 minutes**. Discard supernatant.  
+   - Wash solid 3× with **30 mL ethanol** per wash (centrifuge at 8000 rpm, 10 minutes each).  
+   - Dry in a vacuum oven at **60°C for 12 hours**. Obtain **Fe-doped ZIF-8**.  
+
+3. **Pyrolysis to Form Fe SAs/NC**:  
+   - Transfer **0.5 g Fe-doped ZIF-8** to a quartz boat.  
+   - Place boat in a tube furnace under **Ar flow (100 mL/min)**.  
+   - Purge furnace with Ar for **30 minutes** at **25°C**.  
+   - Heat from **25°C to 900°C** at **5°C/min** under Ar.  
+   - Hold at **900°C for 2 hours**.  
+   - Cool furnace to **25°C** naturally under Ar flow.  
+   - Collect black powder (**Fe SAs/NC**).  
+--------------------------------------
+#### **1. CNT Pretreatment (Cleaning and Functionalization)**  
+- **Step 1.1**: Add 1.0 g CNTs to 100 mL ethanol in a 250 mL flask.  
+- **Step 1.2**: Sonicate for 1 hour at 25°C.  
+- **Step 1.3**: Filter using vacuum filtration and wash with 100 mL DI water.  
+- **Step 1.4**: Dry CNTs at 80°C for 12 hours.  
+
+#### **2. Preparation of Iron Impregnation Solution**  
+- **Step 2.1**: Dissolve 0.072 g Fe(NO₃)₃·9H₂O in 20 mL ethanol.  
+- **Step 2.2**: Sonicate for 10 minutes at 25°C to ensure complete dissolution.  
+
+#### **3. Wet Impregnation**  
+- **Step 3.1**: Add dried CNTs (1.0 g) to the iron solution in a 250 mL flask.  
+- **Step 3.2**: Sonicate for 30 minutes at 25°C.  
+- **Step 3.3**: Stir magnetically at 500 rpm for 6 hours at 25°C.  
+
+#### **4. Drying**  
+- **Step 4.1**: Evaporate solvent using a rotary evaporator at 60°C until dry (≈1 hour).  
+  - *Alternative*: Dry in an oven at 80°C for 12 hours.  
+
+#### **5. Thermal Annealing (Single-Atom Formation)**  
+- **Step 5.1**: Place dried sample in a quartz boat.  
+- **Step 5.2**: Load into a tube furnace under Ar flow (100 mL/min).  
+- **Step 5.3**: Ramp temperature to 800°C at 5°C/min.  
+- **Step 5.4**: Hold at 800°C for 2 hours under Ar (100 mL/min).  
+- **Step 5.5**: Cool to 25°C at 5°C/min under Ar.  
+--------------------------------------
+#### **Step 1: Precursor Solution Preparation**  
+1. Dissolve **1.0 g PVP** in **50 mL deionized water** under magnetic stirring (30 min, 25°C).  
+2. Add **0.5 g cobalt(II) acetate tetrahydrate**; stir until dissolved (30 min, 25°C).  
+3. Add **1.0 g thiourea**; stir until dissolved (30 min, 25°C).  
+4. Add **1.0 g dicyandiamide**; stir until homogeneous (60 min, 25°C).  
+
+#### **Step 2: Freeze-Drying**  
+1. Pour the solution into a freeze-drying container.  
+2. Flash-freeze at **−50°C** for **12 hours**.  
+3. Lyophilize in a freeze-dryer at **0.05 mbar** for **48 hours** to obtain a solid precursor.  
+
+#### **Step 3: Pyrolysis**  
+1. Place the solid precursor in a ceramic boat.  
+2. Load into a tube furnace; purge with **argon (50 mL/min)** for **30 min**.  
+3. Heat to **800°C** at **5°C/min** under argon flow (50 mL/min).  
+4. Hold at **800°C** for **2 hours**.  
+5. Cool to **25°C** naturally under argon flow.  
+
+#### **Step 4: Acid Leaching**  
+1. Grind the pyrolyzed material into powder.  
+2. Add **100 mL of 0.5 M H₂SO₄**; stir at **80°C** for **8 hours**.  
+3. Filter and wash with deionized water until pH ≈ 7.  
+
+#### **Step 5: Drying**  
+1. Dry the solid in an oven at **60°C** for **12 hours**.  
+--------------------------------------
+#### **Step 1: Synthesis of ZIF-8 Nanoparticles**  
+1. Dissolve **2.93 g Zn(NO₃)₂·6H₂O** in **100 mL methanol** (Solution A).  
+2. Dissolve **3.28 g 2-methylimidazole** in **100 mL methanol** (Solution B).  
+3. Rapidly pour Solution B into Solution A under stirring (800 rpm).  
+4. Stir the mixture for **1 hour at 25°C**.  
+5. Centrifuge at **8000 rpm for 10 minutes**. Discard the supernatant.  
+6. Wash the precipitate with **50 mL methanol**; repeat centrifugation (8000 rpm, 10 minutes) twice.  
+7. Dry the solid (ZIF-8) in an oven at **60°C for 12 hours**.  
+
+#### **Step 2: Iron Adsorption**  
+1. Dissolve **0.0162 g FeCl₃** in **100 mL methanol** to make a 0.1 mM solution.  
+2. Disperse **1.0 g dried ZIF-8** in the FeCl₃ solution.  
+3. Stir at **25°C for 24 hours** (sealed container).  
+4. Centrifuge at **8000 rpm for 10 minutes**. Discard the supernatant.  
+5. Wash the solid with **50 mL methanol**; repeat centrifugation (8000 rpm, 10 minutes) twice.  
+6. Dry the solid at **60°C for 12 hours** (yields Fe-adsorbed ZIF-8).  
+
+#### **Step 3: First Pyrolysis**  
+1. Place Fe-adsorbed ZIF-8 in a quartz boat.  
+2. Purge the tube furnace with **N₂ at 100 mL/min for 30 minutes**.  
+3. Heat to **900°C at 5°C/min** under **N₂ flow (100 mL/min)**.  
+4. Hold at **900°C for 2 hours**.  
+5. Cool to **25°C under N₂** (natural cooling).  
+6. Collect the black powder (Fe-N-C-900).  
+
+#### **Step 4: Acid Leaching**  
+1. Disperse **0.5 g Fe-N-C-900** in **100 mL 0.5 M H₂SO₄**.  
+2. Stir at **80°C for 8 hours**.  
+3. Centrifuge at **8000 rpm for 10 minutes**. Discard the supernatant.  
+4. Wash with **50 mL deionized water** until pH 7 (centrifuge at 8000 rpm, 10 minutes per wash).  
+5. Dry the solid at **60°C for 12 hours**.  
+
+#### **Step 5: Second Pyrolysis**  
+1. Place acid-leached solid in a quartz boat.  
+2. Purge the tube furnace with **N₂ at 100 mL/min for 30 minutes**.  
+3. Heat to **900°C at 5°C/min** under **N₂ flow (100 mL/min)**.  
+4. Hold at **900°C for 1 hour**.  
+5. Cool to **25°C under N₂** (natural cooling).  
+--------------------------------------
+#### **Step 1: Preparation of Zn-ZIF-8 Precursor**  
+1. **Chemicals**:  
+   - Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O, 5.95 g, 20 mmol)  
+   - 2-Methylimidazole (C₄H₆N₂, 6.56 g, 80 mmol)  
+   - Methanol (200 mL)  
+2. **Procedure**:  
+   - Dissolve Zn(NO₃)₂·6H₂O in 100 mL methanol.  
+   - Dissolve 2-methylimidazole in 100 mL methanol.  
+   - Rapidly mix both solutions under vigorous stirring (700 rpm) for 20 minutes at 25°C.  
+   - Centrifuge the white precipitate (5,000 rpm, 10 minutes), wash 3× with methanol, and dry at 80°C for 12 hours.  
+
+#### **Step 2: Synthesis of S,N-Doped Carbon (NC-S)**  
+1. **Chemicals**:  
+   - Zn-ZIF-8 powder (2.0 g)  
+   - Thiourea (CH₄N₂S, 4.0 g)  
+   - Argon gas (purity ≥99.999%)  
+2. **Procedure**:  
+   - Grind Zn-ZIF-8 and thiourea for 30 minutes.  
+   - Load mixture into a quartz boat; place in a tube furnace.  
+   - Heat under Ar flow (100 mL/min):  
+     - Ramp from 25°C to 900°C at 5°C/min.  
+     - Hold at 900°C for 2 hours.  
+     - Cool to 25°C at 5°C/min.  
+   - Collect black NC-S powder; grind to fine particles.  
+
+#### **Step 3: Yttrium Doping to Form Y SAs/NC-S**  
+1. **Chemicals**:  
+   - NC-S powder (1.0 g)  
+   - Yttrium(III) nitrate hexahydrate (Y(NO₃)₃·6H₂O, 0.038 g, 0.1 mmol)  
+   - Ethanol (50 mL)  
+   - Argon gas (purity ≥99.999%)  
+2. **Procedure**:  
+   - Dissolve Y(NO₃)₃·6H₂O in ethanol.  
+   - Add NC-S powder; stir (500 rpm) for 12 hours at 25°C.  
+   - Dry at 80°C for 6 hours to evaporate ethanol.  
+   - Load solid into a quartz boat; place in a tube furnace.  
+   - Heat under Ar flow (100 mL/min):  
+     - Ramp from 25°C to 800°C at 5°C/min.  
+     - Hold at 800°C for 1 hour.  
+     - Cool to 25°C at 5°C/min.  
+   - Collect final product (Y SAs/NC-S).  
+--------------------------------------
+1. **Carbon Pretreatment:**  
+   - Weigh 1.00 g of Vulcan XC-72R carbon.  
+   - Heat in a tube furnace under Ar flow (50 mL/min):  
+     - Ramp temperature from 25°C to 300°C at 5°C/min.  
+     - Hold at 300°C for 3 hours.  
+     - Cool to 25°C under Ar.  
+
+2. **Precursor Solution Preparation:**  
+   - Dilute 0.050 g of 10 wt% Pd(NO₃)₂ solution (containing 0.005 g Pd) in 1.5 mL deionized water. Stir for 10 minutes.  
+
+3. **Incipient Wetness Impregnation:**  
+   - Add the Pd(NO₃)₂ solution dropwise to the pretreated carbon.  
+   - Mix manually until homogeneous paste forms.  
+   - Age at 25°C for 12 hours in a sealed container.  
+
+4. **Drying:**  
+   - Transfer the sample to an oven.  
+   - Dry at 80°C for 12 hours in static air.  
+
+5. **Thermal Treatment (Decomposition):**  
+   - Place the dried sample in a tube furnace under Ar flow (50 mL/min).  
+   - Heat from 25°C to 200°C at 5°C/min.  
+   - Hold at 200°C for 2 hours.  
+   - Cool to 100°C under Ar.  
+
+6. **Reduction to Single-Site Pd:**  
+   - Switch gas to 5% H₂/Ar (50 mL/min) at 100°C.  
+   - Hold at 100°C for 2 hours.  
+   - Cool to 25°C under Ar.  
+
+7. **Passivation (Optional):**  
+   - Expose the sample to 1% O₂/Ar flow (50 mL/min) for 30 minutes at 25°C.  
+
+8. **Storage:**  
+   - Transfer to a sealed vial under Ar atmosphere.  
+--------------------------------------
+1. **Preparation of TiO₂ Support**  
+   - Weigh 1.0 g of TiO₂ (Degussa P25, 50 m²/g surface area).  
+   - Disperse in 20 mL deionized water. Stir (500 rpm, 25°C, 30 min) to form a homogeneous suspension.  
+
+2. **Preparation of Pt Precursor Solution**  
+   - Dissolve 0.0265 g of chloroplatinic acid hexahydrate (H₂PtCl₆·6H₂O, 99.9%) in 10 mL deionized water.  
+   - Stir (500 rpm, 25°C, 15 min) until fully dissolved.  
+
+3. **Wet Impregnation**  
+   - Add the Pt precursor solution dropwise (1 drop/sec) to the TiO₂ suspension.  
+   - Stir (800 rpm, 25°C, 6 h) for uniform adsorption.  
+
+4. **Drying**  
+   - Transfer the mixture to an evaporating dish.  
+   - Dry in an oven (80°C, 12 h) to remove solvent.  
+
+5. **Calcination**  
+   - Place the dried powder in a quartz boat.  
+   - Heat in a muffle furnace (static air) from 25°C to 300°C (5°C/min ramp).  
+   - Hold at 300°C for 2 h.  
+   - Cool to 25°C naturally.  
+
+6. **Reduction**  
+   - Transfer the calcined powder to a quartz tube reactor.  
+   - Purge with argon (50 mL/min, 25°C, 30 min).  
+   - Switch to 5% H₂/Ar gas (50 mL/min).  
+   - Heat to 300°C (5°C/min ramp).  
+   - Hold at 300°C for 2 h.  
+   - Cool to 25°C under argon flow.  
+--------------------------------------
+**Step 1: Pt Solution Preparation**  
+1. Calculate Pt requirement for **10 g Fe₂O₃**:  
+   - Target: 0.08 wt% Pt → 0.008 g Pt per 10 g Fe₂O₃.  
+   - H₂PtCl₆·6H₂O molecular weight: 517.8 g/mol; Pt content: 195.1 g/mol.  
+   - Mass of H₂PtCl₆·6H₂O needed = (517.8 / 195.1) × 0.008 g = **0.0212 g**.  
+2. Dissolve **0.0212 g H₂PtCl₆·6H₂O** in **4 mL DI H₂O** (volume matches pore volume: 10 g × 0.4 mL/g). Stir until fully dissolved.  
+
+**Step 2: Incipient Wetness Impregnation**  
+1. Place **10 g Fe₂O₃** in a glass vial.  
+2. Add the Pt solution dropwise (4 mL total) to Fe₂O₃ while stirring. Ensure uniform wetting.  
+3. Seal vial, cover with foil, and age at **25°C (room temperature) for 12 hours**.  
+
+**Step 3: Drying**  
+1. Transfer impregnated solid to an oven.  
+2. Dry at **100°C for 12 hours** in static air.  
+
+**Step 4: Calcination**  
+1. Transfer dried powder to a ceramic boat.  
+2. Heat in a tube furnace under **air flow (50 mL/min)**.  
+   - Ramp: **2°C/min to 300°C**.  
+   - Hold: **3 hours at 300°C**.  
+   - Cool to 25°C naturally under air flow.  
+
+**Step 5: Reduction**  
+1. Place calcined sample in a tube furnace under **Ar flow (50 mL/min) for 30 min**.  
+2. Switch to **5% H₂/Ar (50 mL/min)**.  
+   - Ramp: **2°C/min to 150°C**.  
+   - Hold: **2 hours at 150°C**.  
+3. Cool to **25°C under Ar flow**.  
+--------------------------------------
+#### **Step 1: Dealumination of Zeolite Beta (DeAlBEA)**  
+1. Add 10 g H-BEA to 500 mL of 13 M HNO₃ (prepared by diluting 65% HNO₃).  
+2. Reflux the mixture at 100°C for 20 hours with stirring.  
+3. Cool to 25°C, filter, and wash with DI H₂O until filtrate pH is neutral.  
+4. Dry the solid at 100°C for 12 hours.  
+5. Calcine in static air at 550°C for 6 hours (heating rate: 2°C/min).  
+
+#### **Step 2: Iron Impregnation (Fe-DeAlBEA)**  
+1. Dissolve 0.723 g Fe(NO₃)₃·9H₂O in 5 mL DI H₂O (incipient wetness volume for 10 g DeAlBEA).  
+2. Add the solution dropwise to 10 g DeAlBEA under stirring.  
+3. Age at 25°C for 2 hours.  
+4. Dry at 100°C for 12 hours.  
+5. Calcine in static air at 550°C for 4 hours (heating rate: 2°C/min).  
+
+#### **Step 3: Platinum Deposition (Pt/Fe-DeAlBEA)**  
+1. Dissolve 0.095 g [Pt(NH₃)₄](NO₃)₂ in 100 mL DI H₂O.  
+2. Adjust pH to 8.5 using NH₄OH.  
+3. Add 10 g Fe-DeAlBEA to the solution.  
+4. Stir at 25°C for 24 hours in the dark.  
+5. Filter and wash with DI H₂O until no Pt²⁺ is detected in filtrate.  
+6. Dry at 80°C for 12 hours.  
+
+#### **Step 4: Activation (Optional for Reduced Pt)**  
+1. Heat the dried sample under 50 mL/min 5% H₂/Ar flow.  
+2. Ramp temperature to 300°C at 2°C/min.  
+3. Hold at 300°C for 2 hours.  
+4. Cool to 25°C under inert gas.  
+--------------------------------------
+1. **Support Preparation:**  
+   - Weigh **1.00 g** of CeO₂ nanopowder.  
+   - Calcinate in static air at **500°C** for **4 hours** (heating rate: **5°C/min**) in a muffle furnace to remove impurities. Cool to room temperature.  
+
+2. **Pore Volume Measurement:**  
+   - Determine pore volume of calcined CeO₂ via N₂ physisorption (typical value: **0.25 mL/g**).  
+   - Calculate required solution volume: **1.00 g CeO₂ × 0.25 mL/g = 0.25 mL**.  
+
+3. **Pd Precursor Solution:**  
+   - Prepare solution to achieve **0.5 wt% Pd loading**:  
+     - Target Pd mass: **0.005 g** (0.5% of 1.00 g CeO₂).  
+     - Use Pd(NO₃)₂ solution (10 wt% Pd): **0.050 g** (contains 0.005 g Pd).  
+   - Dilute with DI H₂O to total volume of **0.25 mL**. Mix thoroughly.  
+
+4. **Incipient Wetness Impregnation:**  
+   - Add Pd solution dropwise to CeO₂ under stirring.  
+   - Seal and age at **25°C** for **12 hours** in the dark.  
+
+5. **Drying:**  
+   - Dry impregnated sample at **80°C** for **12 hours** in air.  
+
+6. **Calcination:**  
+   - Heat dried sample in air at **300°C** for **2 hours** (heating rate: **2°C/min**). Cool to 25°C.  
+
+7. **Reduction (H₂):**  
+   - Place sample in quartz tube. Purge with Ar (50 mL/min) for **30 min**.  
+   - Flow 5% H₂/Ar (50 mL/min). Heat to **200°C** at **5°C/min**, hold for **1 hour**. Cool to 25°C under Ar.  
+--------------------------------------
+#### **Step 1: Synthesis of CeO2 Nanorods**  
+1. **Preparation of Precursor Solution**  
+   - Dissolve 1.736 g (4 mmol) of Ce(NO₃)₃·6H₂O in 30 mL deionized (DI) water. Stir for 10 min at 25°C.  
+   - Dissolve 3.2 g (80 mmol) of NaOH in 30 mL DI water.  
+
+2. **Mixing and Hydrothermal Reaction**  
+   - Combine both solutions under stirring. Transfer to a 100 mL Teflon-lined autoclave.  
+   - Heat at 100°C for 24 h.  
+
+3. **Washing and Drying**  
+   - Cool to 25°C. Centrifuge at 8,000 rpm for 5 min.  
+   - Wash precipitate 3× with DI water and 3× with ethanol.  
+   - Dry at 60°C for 12 h.  
+
+4. **Calcination**  
+   - Heat in air at 400°C for 4 h (ramp: 2°C/min).  
+
+#### **Step 2: Synthesis of Rh/CeO₂ (1 wt% Rh)**  
+1. **Rh Precursor Solution**  
+   - Dissolve 12.8 mg RhCl₃·xH₂O (equivalent to 5.0 mg Rh) in 10 mL DI water.  
+
+2. **Wet Impregnation**  
+   - Add 0.5 g CeO₂ nanorods to the solution. Stir at 25°C for 6 h.  
+
+3. **Drying**  
+   - Evaporate solvent at 60°C for 12 h.  
+
+4. **Calcination**  
+   - Heat in air at 300°C for 2 h (ramp: 2°C/min).  
+
+5. **Reduction**  
+   - Treat in 10% H₂/Ar flow (50 mL/min) at 200°C for 1 h (ramp: 5°C/min). Cool in Ar.  
+--------------------------------------
+1. **Preparation of Rh Precursor Solution**  
+   - Dissolve 0.012 g of rhodium(III) chloride hydrate (RhCl₃·xH₂O, 99.9%) in 20 mL of deionized water.  
+   - Stir at 25°C for 30 minutes until fully dissolved.  
+
+2. **Support Impregnation**  
+   - Add 2.000 g of TiO₂ (P25, Degussa, anatase/rutile phase) to the RhCl₃ solution.  
+   - Stir vigorously at 25°C for 4 hours.  
+
+3. **Drying**  
+   - Transfer the mixture to an evaporating dish.  
+   - Dry in an oven at 80°C for 12 hours.  
+
+4. **Calcination**  
+   - Place the dried solid in a quartz boat.  
+   - Heat in a tube furnace under air flow (50 mL/min) with the following program:  
+     - Ramp from 25°C to 300°C at 5°C/min.  
+     - Hold at 300°C for 3 hours.  
+     - Cool to 25°C under air flow.  
+
+5. **Reduction**  
+   - Transfer the calcined sample to a quartz boat.  
+   - Heat in a tube furnace under H₂/Ar flow (5% H₂, 50 mL/min) with the following program:  
+     - Ramp from 25°C to 200°C at 5°C/min.  
+     - Hold at 200°C for 2 hours.  
+     - Cool to 25°C under Ar flow (50 mL/min).  
+
+6. **Storage**  
+   - Transfer the final material (0.5 wt% Rh/TiO₂) to a sealed vial under inert atmosphere.  
+--------------------------------------
+#### **Step 1: Support Preparation (CeO₂ Pretreatment)**  
+1. Weigh 1.00 g of CeO₂ powder.  
+2. Place in a quartz boat and calcine in a tube furnace:  
+   - **Temperature:** 500 °C  
+   - **Duration:** 4 hours  
+   - **Atmosphere:** Static air  
+   - **Ramp rate:** 5 °C/min  
+3. Cool to room temperature in a desiccator.  
+4. Grind calcined CeO₂ into fine powder using a mortar and pestle.  
+
+#### **Step 2: Rh Precursor Solution Preparation**  
+1. Dissolve 1.6 mg of RhCl₃·xH₂O (equivalent to 0.5 wt% Rh loading) in 5 mL of DI water.  
+2. Add 5 mL of ethanol to the solution.  
+3. Sonicate the mixture for 20 minutes at 25 °C to ensure complete dissolution.  
+
+#### **Step 3: Incipient Wetness Impregnation**  
+1. Add the Rh precursor solution dropwise to 1.00 g of pretreated CeO₂.  
+2. Continuously grind the mixture with a pestle for 15 minutes until homogeneous.  
+3. Cover the mixture and age for 2 hours at 25 °C.  
+
+#### **Step 4: Solvent Removal**  
+1. Transfer the mixture to a rotary evaporator.  
+2. Evaporate solvents under reduced pressure:  
+   - **Temperature:** 60 °C  
+   - **Pressure:** 200 mbar  
+   - **Duration:** 1 hour  
+3. Dry the solid residue in an oven:  
+   - **Temperature:** 80 °C  
+   - **Duration:** 12 hours  
+
+#### **Step 5: Calcination**  
+1. Place the dried sample in a quartz boat.  
+2. Calcine in a tube furnace:  
+   - **Temperature:** 300 °C  
+   - **Duration:** 2 hours  
+   - **Atmosphere:** 20 mL/min air flow  
+   - **Ramp rate:** 2 °C/min  
+3. Cool to room temperature under air flow.  
+
+#### **Step 6: Reduction (Activation)**  
+1. Transfer the calcined sample to a tube furnace.  
+2. Reduce under H₂ atmosphere:  
+   - **Temperature:** 200 °C  
+   - **Duration:** 1 hour  
+   - **Atmosphere:** 50 mL/min H₂ (5% in Ar)  
+   - **Ramp rate:** 5 °C/min  
+3. Cool to 25 °C under Ar flow (20 mL/min).  
+--------------------------------------
+**Step 1: Preparation of Zn-Based Support (ZIF-8)**  
+- **Chemicals**:  
+  - Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O, 0.297 g, 1 mmol)  
+  - 2-Methylimidazole (0.328 g, 4 mmol)  
+  - Methanol (MeOH, 40 mL total)  
+- **Procedure**:  
+  1. Dissolve Zn(NO₃)₂·6H₂O (0.297 g) in 20 mL MeOH (Solution A).  
+  2. Dissolve 2-methylimidazole (0.328 g) in 20 mL MeOH (Solution B).  
+  3. Rapidly mix Solution A and Solution B under stirring (500 rpm) at 25°C.  
+  4. React for 1 hour at 25°C.  
+  5. Age without stirring for 24 hours at 25°C.  
+  6. Centrifuge at 8,000 rpm for 10 minutes. Discard supernatant.  
+  7. Wash precipitate with MeOH (3 × 20 mL), centrifuging at 8,000 rpm for 5 minutes each time.  
+  8. Dry solids in a vacuum oven at 60°C for 12 hours. Obtain ZIF-8 powder (white).  
+
+**Step 2: Incorporation of Single-Atom Mn via Solid-State Diffusion**  
+- **Chemicals**:  
+  - ZIF-8 powder (100 mg, from Step 1)  
+  - Manganese(II) acetate tetrahydrate (Mn(CH₃COO)₂·4H₂O, 0.0123 g, 0.05 mmol)  
+  - Ethanol (EtOH, 10 mL)  
+- **Procedure**:  
+  1. Dissolve Mn(CH₃COO)₂·4H₂O (0.0123 g) in EtOH (10 mL).  
+  2. Add ZIF-8 powder (100 mg) to the solution. Sonicate for 10 minutes.  
+  3. Stir at 25°C for 6 hours (500 rpm).  
+  4. Evaporate solvent at 60°C under reduced pressure (rotary evaporator).  
+  5. Transfer solid to a quartz boat.  
+  6. Heat in a tube furnace under N₂ flow (50 sccm):  
+     - Ramp from 25°C to 350°C at 5°C/min.  
+     - Hold at 350°C for 2 hours.  
+     - Cool to 25°C at 10°C/min.  
+  7. Obtain Mn-doped ZIF-8 (gray powder).  
+
+**Step 3: Acid Etching to Isolate Single Mn Atoms**  
+- **Chemicals**:  
+  - Mn-doped ZIF-8 (100 mg, from Step 2)  
+  - Dilute HCl (0.1 M, 20 mL)  
+  - Deionized water (DIW, 50 mL)  
+- **Procedure**:  
+  1. Suspend Mn-doped ZIF-8 in 0.1 M HCl (20 mL).  
+  2. Stir at 25°C for 1 hour (500 rpm).  
+  3. Centrifuge at 10,000 rpm for 10 minutes. Discard supernatant.  
+  4. Wash with DIW (3 × 20 mL), centrifuging at 10,000 rpm for 5 minutes each time.  
+  5. Dry solids in a vacuum oven at 60°C for 12 hours. Obtain final product (Mn single atoms on Zn support).  
+--------------------------------------

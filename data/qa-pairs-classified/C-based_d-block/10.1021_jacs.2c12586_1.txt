@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Co doped by 4 N supported on N-doped porous carbon
+
+answer
+The catalyst is synthesized by the synthesis framework of ZIF-8.
+
+The synthesis procedures are as followed:
+1. A solution of 2-methylimidazole (13.4 g, 163.2 mmol) in 408 mL MeOH was added to a solution of Co(NO3)2·6H2O (0.116 g, 0.4 mmol) and Zn(NO3)2·6H2O (5.95 g, 20 mmol) in 408 mL MeOH.  
+2. After stirred at room temperature ( RT, ~25 °C) for 24 h, the obtained Co1Zn50-ZIF precipitates were collected by centrifugation, wash with MeOH for three times and then dried under vacuum at RT overnight.  
+3. Subsequently, 1.0 g as-prepared Co1Zn50-ZIF precursor was heated at 900 °C for 4 h under the flowing Ar atmosphere (80 mL/min) in a tube furnace, followed by naturally cooling down to RT. Co-N4@NPC-NL-900 was obtained as a black powder.  
+4. Next, ammonia treatment in 2.0 mol/L 3N/NHH4Cl aqueous solution (sum concentration of initial ammonium ion and ammonia, the molar ratio of ammonium to ammonia was 1:1) at RT for 8 h was carried out to remove Zn species and to generate more favorable open porosityin Co-N4@NPC-NL-900 samples.  
+5. 100 mL leaching solution was used for 100 mg sample.
+6. An additional pyrolysis treatment at 900 °C  under the flowing Ar atmosphere for 4 h is necessary to repair the carbon nanostructures.

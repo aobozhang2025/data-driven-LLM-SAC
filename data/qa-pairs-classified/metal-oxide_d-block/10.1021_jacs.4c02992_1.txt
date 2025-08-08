@@ -1,0 +1,14 @@
+question
+synthesis of single atom Rh supported on CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Rhodium (III) acetylacetylonate.
+
+The support CeO2 is prepared by the following procedures:
+1. 2 g of cerium(III) nitrate hexahydrate (Beantown Chemical, 128635) was ground with mortar and pestle, put in a combustion boat, and calcined under nitrogen flow at 350oC for 2 hrs in a tube furnace. 
+2. The resulting light yellow solid was ground again with mortar and pestle and stored for later use.  
+
+After the support CeO2 is prepared, the catalyst is synthesized by the following procedures:
+1. 1 g of CeO2 powder was combined with 99 mg of rhodium (III) acetylacetylonate (97%, Sigma Aldrich 282774) and approx. 3 mL of acetone in a heated (~80oC) mortar. 
+2. Rhodium (III) acetylacetylonate (97%, Sigma Aldrich 282774) dissolved completely in acetone, and the mixture was ground with a pestle until all of the acetone evaporated. 
+3. The resulting powder was transferred to a combustion boat, dried at 80 oC for 30 minutes, and transferred to a muffle furnace, where it was heated in static air at 800oC for 10 hours with a 10oC/min ramp rate.

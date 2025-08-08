@@ -1,0 +1,400 @@
+Eval output 1:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Mo supported on N-doped carbon, denoted by Mo1-NC
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. 2 g of melamine, 2 g of cyanuric acid, and 0.1 g of (NH2)2MoO422- were mixed using deionized water under continuous stirring until homogeneous
+2. The slurry was dried at 80 °C and ball milled (400 r.pm(-1), zirconia balls) for 20 min twice. 
+3. Subsequently, the fine powder mixture was annealed at 900 °C for 2 h under Ar atmosphere. 
+4. The obtained Mo1-NC was treated with a dilute hydrochloric solution at room temperature overnight to remove possible metal particles. 
+5. The resulting solid was washed with ethanol and water three times each, and then dried under infrared light.<|end_of_text|>
+
+
+Eval output 2:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Fe supported on N-doped carbon, denoted by FeNC
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. First, 8 g of melamine, 2 g of L-alanine  and 20 mg of iron (III) chloride hexahydrate were mixed and ground to form a uniform precursor.
+2. Then, 1 mL of ethanol containing 20 μL of ammonium hydroxide was added. 
+3. After grinding for 10 min, the mixture was dried in an oven at 80 °C for 5 h. 
+4. The obtained powder was then heated to 800 °C for 2 h at a heating rate of 5 °C min−1 under N2 flow, and the sample was placed in the middle of the tube furnace.<|end_of_text|>
+
+
+Eval output 3:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:preparation of Co doped by N supported on Carbon, denoted by Co-N-C
+<|Bot|>:Co-N-C is prepared impregnation with metal precursor CoCl2·6H2O and support precursor zeolite-4M
+
+The synthesis procedures are as followed:
+1. First, 1.0 g of zeolite-4M was mixed with 0.15 g of CoCl2·6H2O and 0.15 g of 1,10-phenanthroline by grinding for 0.5 h.
+2. Then, the mixture was heated in a tube furnace at 900 °C for 2 h under a N2 atmosphere with a heating rate of 5 °C min−1. 
+3. Subsequently, the calcined product was treated with 2 M H2SO4 aq at 80 °C for 12 h twice, followed by washing with deionized water until the pH reached 7 and drying at 80 °C. 
+4. Finally, the obtained powder was heated in a tubular furnace at 900 °C for 2 h under a N2 atmosphere with a heating rate of 5 °C min−1<|end_of_text|>
+
+
+Eval output 4:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of the single atom Pt supported on N-doped carbon nanotubes
+<|Bot|>:The catalyst is synthesized with metal precursor H2PtCl6·6H2O
+
+The synthesis procedures are as followed:
+1. 30 mg of KCl and 10 mg of edta-2Na were dissolved in 25 mL of water. 
+2. Then, 2.5 mL of H2PtCl6·6H2O (20 mg/mL) was added to the solution. 
+3. Subsequently, 200 μL of a polymer solution (200 mg/mL) was added to the prepared precursor solution. 
+4. The resulting solution was dried in a vacuum oven set at 70 °C. 
+5. The as-prepared powder was heated to 900 °C at a ramping rate of 5 °C/min under Ar flow and held at 900 °C for 6 h. 
+6. After calcination, the sample was cooled to room temperature<|end_of_text|>
+
+
+Eval output 5:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Fe doped by N supported on carbon
+<|Bot|>:The catalyst is synthesized by a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. 367 mg Zn(NO3)2·6H2O and 19.1 mg Fe(NO3)3·9H2O were dissolved in 12 ml methanol to obtain solution A. 
+2. While solution B was prepared in 30 ml methanol by 3.6 g 2-methylimidazole 
+3. Then, solution A and B were transferred into a 50 ml centrifuge tube and stirred for 20 h at room temperature. 
+4. The ZIF-8@Fe nanoparticles were collected by centrifugation at 9000 rpm for 5 min and washed with methanol six times. 
+5. The obtained powder was dried overnight under vacuum at 70 °C. 
+6. The dried powder was then pyrolyzed at 1000 °C in an air atmosphere for 2 h with a heating rate of 5 °C min–1.<|end_of_text|>
+
+
+Eval output 6:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom Co doped by 3 N and 1 P supported on N-C, denoted by Co1-N3P1.
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. 6 g melamine, 1.5 g cyanuric acid and 1 g dicyandiamide were mixed and ground to form a uniform precursor.
+2. 30 mL mixed solvent of ethanol and water with the volume  ratio of 5:1 was added. 
+3. The slurry was stirred until the solids dissolved completely. 
+4. The clear solution  was transferred to a 50 mL Teflon-lined stainless steel autoclave and heated at 180 °C for 12 h. 
+5. The resulting products were washed with water and ethanol, and dried at 80 °C in a vacuum oven. 
+6. The NC powder was placed in a quartz boat and heated to 900 °C for 2 h at a heating rate of 5 °C min-1 under N2 atmosphere. 
+7. 20 mg of NC was dispersed in 20 mL of methanol, and 1.2 mL of [Co(NH2CH2NH2)3]Cl3 aqueous solution (1 mg/mL) was added. 
+8. After that, the mixture was sonicated for 2 h and dried at 80 °C in a vacuum oven overnight. 
+9. The powder was then heated at 900 °C for 2 h  at a heating rate of 5 °C min-1 under N2 atmosphere.<|end_of_text|>
+
+
+Eval output 7:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Co doped by N supported on graphene
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. First, 30 mg of Co(NO3)2·6H2O and 12 mg of NaN3 were dispersed in 30 mL of water. 
+2. Subsequently, 30 mg of graphic material (GM) was dispersed in 20 mL of water. 
+3. The two solutions were mixed and sonicated for 1 h, then dried at 80 °C. 
+4. The as-prepared powder was calcined at 900 °C for 2 h in a N2 atmosphere<|end_of_text|>
+
+
+Eval output 8:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:preparation of Mn doped by N supported on Carbon, denoted by Mn-N-C
+<|Bot|>:Great! Here are the procedures:
+1. First, Kjeldahl method was used to prepare pyrolysis precursor (PCU) from olympic lake cyanobacteria
+2. Then, PCU and metal precursor MnCl2 were mixed through dry grinding
+3. After that, mixtures were annealed at 800 °C under N2 atmosphere for 2 h
+4. Support carbon was obtained by etching out Mn species with HCl and H2O2 solution.<|end_of_text|>
+
+
+Eval output 9:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Preparation of single atom Fe doped by 4 N supported on N-doped Carbon
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. 2 g melamine, 1 g L-alanine  and 15 mg Iron (III) Porphrine Novel  was added into 100 mL deionized water and stirred for 2 h at room temperature. 
+2. The slurry was dried under vacuum at 80 °C, and then ground to form powders.  
+3. The powders were undergone two successive pyrolysis steps at 900 °C for 2 h under Ar atmosphere. 
+4. The obtained black powders were washed several times with 1 M HNO3 solution at 80 °C to remove the support FePNNs. 
+5. The FeN4  was further dried at 80 °C overnight before  LRH  measurements<|end_of_text|>
+
+
+Eval output 10:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of Ni single atom supported on N-doped carbon
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. First, 1 g of melamine, 1 g of L-alanine  and 20 mg of Ni(acac)2 were mixed together through grinding in a mortar. 
+2. Then 10 mL of ethanol was added, and the mixture was dried completely. 
+3. This process was repeated two more times. 
+4. Finally, the powder mixture was annealed at 900 °C for 2 h in an Ar atmosphere followed by washing with 2 M HCl solution at 80 °C overnight.<|end_of_text|>
+
+
+Eval output 11:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Ir supported on GO-NH2
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor IrCl3∙xH2O
+
+The synthesis procedures are as followed:
+1. GO-NH2 (30 mg) was dispersed in 30 ml water and 10 ml ethanol. 
+2. Then, IrCl3∙xH2O (8.196 mg) was added into the above mixture and sonicated for 1 h. 
+3. The mixture was subsequently frozen in a bath liquid nitrogen and then vacuum dried. 
+4. The obtained powder was heated at 3 °C min−1 to 200 °C and kept at this temperature for 2 h, then to 600 °C and kept at this temperature for another 2 h (ramping rate: 2 °C min−1, vacuum: 3 × 10−3 mbar). 
+5. Finally, the collected powder was dispersed in methanol.<|end_of_text|>
+
+
+Eval output 12:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Ni doped by 4 N supported by carbon with silica sphere template
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. First, 1.38 g of Ni(NO3)2·6H2O and 0.6 g of urea (CO(NH2)2) were dissolved in 25 mL of deionized water to prepare solution 1. 
+2. Then, 1.38 g of Ni(NO3)2·6H2O and 0.6 g of urea (CO(NH2)2) were dissolved in 25 mL of deionized water to prepare solution 2.
+3. The two solutions were subsequently mixed under vigorous stirring and then dried at 80 °C. 
+4. The obtained powder was calcined at 800 °C for 2 h in a N2 atmosphere. 
+5. Silica spheres with a size range of 180–220 nm were prepared as templates for synthesizing Ni–N–C/SST. 
+6. First, 0.6 mL of TEOS was added to a solution containing 30 mL of ethanol and 0.8 mL of deionized water. 
+7. Then, 0.3 mL of 20% NH3·H2O was added dropwise to the prepared solution and stirred for 10 min. 
+8. Subsequently, 30 mL of ethanol containing 0.64 g of silica spheres was added to the prepared solution, which was then stirred for another 20 h. 
+9. The product was washed with ethanol and deionized water, then dried at 80 °C. 
+10. The dried powder was calcined at 550 °C for 3 h in a N2 atmosphere to obtain silica spheres. 
+11. Subsequently, 0.15 g of silica spheres and 0.25 mL of an Ni(acac)2 ethanol solution (20 mg/mL) were added to 30 mL of ethanol and stirred for 1 h. 
+12. The product was washed with deionized water and then dried at 80 °C. 
+13. The dried powder was calcined at 800 °C for 2 h in a N2 atmosphere to obtain Ni–N–C/SST.<|end_of_text|>
+
+
+Eval output 13:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Fe supported on BLG (β-lactoglobulin)
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor Fe(NO3)3·9H2O
+
+The synthesis procedures are as followed:
+1. 100 mg of BLG was dissolved in 10 mL of deionized water at 25 °C. 
+2. Subsequently, 1.0 mL of 0.15 M Fe(NO3)3·9H2O ethanol solution was added dropwise to the BLG solution, followed by vigorous stirring for 24 h. 
+3. The resulting precipitate was collected by centrifugation, washed with water/ethanol three times, and then freeze-dried. 
+4. The obtained powder was heated in a tube furnace at 700 °C for 1 h  with a heating rate of 5 °C min−1  (to yield Fe–N–C).<|end_of_text|>
+
+
+Eval output 14:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:preparation of single atom Ni supported on N-doped carbon
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. First, 1 g of melamine, 1 g of L-alanine  and 5 mg of Ni(NO3)2·6H2O were mixed together by grinding in a mortar. 
+2. Then 10 mL of ethanol was added, and the mixture was dried completely. 
+3. This process was repeated two more times. 
+4. Finally, the powder mixture was annealed at 900 °C for 2 h in an Ar atmosphere, followed by washing with 2 M HCl solution at 90 °C overnight. 
+5. The final catalyst was washed with deionized water until the pH reached 7, then dried at 100 °C.<|end_of_text|>
+
+
+Eval output 15:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom Rh supported on pMOF, denoted by Rh1/pMOF
+<|Bot|>:The catalyst is synthesized with metal precursor RhCl3·3H2O and support pMOF
+
+The synthesis procedures are as followed:
+1. 40 mg of Zn(NO3)2·6H2O and 28 mg of 2-hydroxy-5-(4-hydroxyphenyl)-1H-benzimidazole (H2BIB) were dissolved in 15 ml of methanol at 35 °C. 
+2. Then, 10 ml of methanol containing 3 mg of RhCl3·3H2O was added dropwise, and the mixture was kept at 35 °C for 10 min. 
+3. The resulting mixture was transferred to a 100 ml Teflon-lined stainless-steel autoclave and heated at 120 °C for 9 h. 
+4. The solid product was collected by centrifugation and washed with methanol three times and finally dried under vacuum overnight. 
+5. The as-prepared sample was grinded and calcined in a tube furnace at 300 °C for 3 h with a heating rate of 2 °C min-1.<|end_of_text|>
+
+
+Eval output 16:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Preparation of single atom Fe doped by 4 N supported on carbon, denoted by Fe SAs/NC.
+<|Bot|>:The catalyst is synthesized in a framework of ZIF-8 synthesis.
+
+The synthesis procedures are as followed:
+1. 60 mg KI and 1 g urea were dissolved in 25 mL deionized water. 
+2. Then, 50 mg Fe(NO3)3·9H2O was added into the solution and stirred for 10 min. 
+3. Subsequently, 250 mg 2-methylimidazole was added into the above mixture, and stirred for another 10 min. 
+4. The resulting mixture was transferred into an autoclave and heated at 120 °C for 4 h. 
+5. Finally, the Fe SAs/NC were collected by pyrolysis at 900 °C for 10 min with an argon gas of 150 mL min−1 and washed with deionized water several times.<|end_of_text|>
+
+
+Eval output 17:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Fe supported on carbon nanotubes, denoted by Fe-CNTs
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor iron (III) chloride tetrahydrate (FeCl3·4H2O)
+
+The synthesis procedures are as followed:
+1. First, 0.5 g of CNTs was dispersed in 60 ml of deionized water by ultrasonication into a homogeneous suspension.
+2. Then, 2.75 ml of aqueous FeCl3 (1 M) solution was added dropwise into the CNTs suspension under vigorous stirring. 
+3. Subsequently, the mixture was dried at 80 °C. 
+4. The obtained powder was calcined at 900 °C in a tube furnace under a stagnant air atmosphere for 1 h. 
+5. Finally, the calcined black powder was washed several times with deionized water and then dried<|end_of_text|>
+
+
+Eval output 18:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Co supported on N, S-doped carbon
+<|Bot|>:The catalyst is synthesized with template silica nanosphere
+
+The synthesis procedures are as followed:
+1. First, silica nanospheres (100–150 nm) were prepared employng reverse microemulsion technique. 
+2. Afterward, hexamethylenetetramine (2 g), cobalt chloride (190 mg) and silica nanospheres (1 g) were dispersed in a mixture of 12 mL of deionized water and 4 mL of ethanol. 
+3. Then, 12g of urea was added to the above suspension, which was then stirred vigorously until completely dried. 
+4. The as-obtained powder was then calcined at 800 °C for 3 h under an inert atmosphere. 
+5. The first calcination (from oxides to metals) was carried out by controlling the temperature ramp from room temperature  to 500 °C and then  maintained at 500 °C for 2 h, followed by further increasing the temperature to 550 °C for 30 min and then  naturally cooled to room temperature. 
+6. The second calcination (for catalyst synthesis) was carried out by controlling the temperature ramp from room temperature to 600 °C and then  maintaining at 600 °C for 2 h in 10% H2/Ar atmosphere,  followed by further increasing the temperature to 800 °C for 30 min H2/Ar  atmosphere and then naturally cooled to room temperature<|end_of_text|>
+
+
+Eval output 19:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single Fe incorporated on N-rich carbon
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. 4 mmol of iron (III) chloride hexahydrate was added into the solution of 0.86 g of potassium carbonate and 1 g of carbon powder in 30 mL of water. 
+2. The mixture was then stirred at 800 rpm for 24 h. 
+3. After that, the precipitates were washed with deionized water and ethanol, and dried at 60 °C overnight. 
+4. The obtained powder was pre-oxidized at 900 °C for 2 h in air with a heating rate of 5 °C min-1. 
+5. After the pre-oxidation, the powder was added into 50 mL of 1 M HNO3 solution and sonicated for 1 h. 
+6. The suspension was then stirred at 800 rpm for 2 days to remove metal particles. 
+7. The obtained solid was vacuum dried at 60 °C overnight, which was the Fe-N-C catalyst.<|end_of_text|>
+
+
+Eval output 20:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom Y doped by S and N supported on Carbon, denoted by Y SAs/NC-S
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. 1.38 g 1,10-phenanthroline and 0.76 g palladium(acetylacetonate)2 were added into a 100 mL round-bottom flask and stirred in ethanol (20 mL) at 90 oC for 1 hour. 
+2. Then, 595 mg magnesium turnings were added into the flask and stirred for 3 hours. 
+3. The mixture was dried under vacuum to remove ethanol. 
+4. The as-prepared precursor was transferred into a ceramic boat and heated to 800 oC at a ramp rate of 5 oC min-1 under flowing argon. 
+5. After heating at 800 oC for 2 hours, the sample was cooled down to room temperature 
+6. 0.3 g of the YSAs/NC-S was dispersed in 30 mL of methanol. 
+7. Then, 2 mg of Rh was added into the solution. 
+8. The mixture was vigorously stirred and sonicated, respectively. 
+9. Finally, the methanol was evaporated and the resulting sample was collected<|end_of_text|>
+
+
+Eval output 21:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single site Pd supported on C
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor PdCl2 and support carbon
+
+<|Impurities|>
+The synthesis procedures are as followed:
+1. 50 mg of commercial carbon was dispersed in 25 ml of water. 
+2. Then, 0.179 ml of 0.01 M PdCl2 aqueous solution was added into the above solution. 
+3. This mixture was then sonicated for 15 min and vigorously stirred for 24 h. 
+4. Subsequently, MgOH2 support was added as a template and the mixture was dried at 80 °C for 7 h. 
+5. The obtained powder was imputed with 0.5 M NH4Cl aqueous solution at 60 °C for 12 h. 
+6. The sample was then dried, followed by calcination in air at 500 °C for 4 h. 
+7. Finally, the obtained product was treated with 0.5 M HCl solution at 60 °C for 12 h to release the MgOH2 template. 
+8. The final sample was collected by centrifugation and washed with water and ethanol several times. 
+9. The sample was then dried at 80 °C for 12 h.<|end_of_text|>
+
+
+Eval output 22:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of Pt single atom supported on TiO2
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor H2PtCl6
+
+The synthesis procedures are as followed:
+1. First, 0.02 g of H2PtCl6 was added to 20 mL of ultrapure water and stirred magnetically for 10 min. 
+2. Subsequently, 0.25 g of TiO2 was added to the above solution, which was then stirred for 6 h. 
+3. Afterward, the mixture was filtered and washed with water and ethanol three times each. 
+4. Finally, the as-prepared catalyst was dried at 60 °C for 6 h and then calcined at 500 °C for 4 h.<|end_of_text|>
+
+
+Eval output 23:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of 0.08% single atom Pt supported on Fe-O
+<|Bot|>:The catalyst is synthesized with impregnation and drying
+
+The synthesis procedures are as followed:
+1. 50 mg of Fe-O was dispersed in 10 ml of ultrapure water, followed by the addition of 0.5 ml of NH4OH (20 wt %) and 0.5 ml of H2PtCl6 (10 mg/ml) aqueous solutions.
+2. After stirring for 10 min, the mixture was dried at 60 °C. 
+3. The as-prepared powder was then calcined at 300 °C in a muffle furnace for 4 h.<|end_of_text|>
+
+
+Eval output 24:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Pt supported on dealuminated zeolite Beta containing Fe, denoted by Pt/Fe-DeAlBEA
+<|Bot|>:The catalyst is synthesized by impregnation with support precursor zeolite Beta
+
+The synthesis procedures are as followed:
+1. First, 1.0 g of TPAO and 0.35 g of Al(NO3)3·9H2O were dissolved in 60.0 mL of a deionized water. 
+2. After stirring for 10 min, the solution was kept at room temperature for 20 h without stirring. 
+3. The resulting gel was collected by centrifugation, washed with deionized water three times, and then dried in air overnight. 
+4. The as-prepared powder was then calcined under a synthetic air atmosphere at 550 °C for 6 h to obtain the zeolite Beta. 
+5. The aluminum content in the as-synthesized zeolite Beta was controlled to adjust the Si/Al ratio to be 12. 
+6. Then, 1.0 g of the zeolite Beta was transferred to a high-temperature ceramic crucible and then placed in the middle of a muffle furnace. 
+7. Subsequently, 50.0 mg of iron (III) nitrate pentahydrate and 20.0 mg of platinum (II) acetylacetonate were separately dissolved in 10.0 mL of deionized water. 
+8. After that, the solutions were simultaneously dropped onto the zeolite Beta at a rate of 0.4 mL/min with the flow rate control device, and the final liquid was evaporated at 80 °C until dryness. 
+9. Then, the crucible with the impregnated sample was heated in a muffle furnace at 800 °C for 3 h under a flowing air atmosphere to yield the catalyst.<|end_of_text|>
+
+
+Eval output 25:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom Pd supported on CeO2.
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor PdCl2 and support precursor CeO2
+
+The synthesis procedures are as followed:
+1. First, 50 mg of commercial CeO2 was dispersed in 10 ml of ultrapure water, followed by the dropwise addition of 1 ml of ethylenediamine solution containing 5 mmol lit-1 PdCl2.
+2. After stirring for 6 h, the mixture was filtered, washed three times with H2O and then dried at 80 °C overnight.
+3. The obtained powder was calcined under synthetic air at 500 °C for 2 h with a ramping rate of 5 °C min-1.<|end_of_text|>
+
+
+Eval output 26:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:synthesis of single atom Rh supported on CeO2 nanorod
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor RhCl3·3H2O
+
+The synthesis procedures are as followed:
+1. First, the CeO2 nanorods were calcined at 500 oC for 2 h before impregnation to remove adsorbed water.
+2. Then, 50 mg of CeO2 nanorods was dispersed in 10 ml of H2O in a 20 ml gas-tight vial under sonication for 15 min. 
+3. Thereafter, 0.5 ml of Rh(NO3)3·3H2O aqueous solution (6 mg/ml) was added dropwise into the CeO2 nanorod dispersion and vigorously shaken. 
+4. After 10 min of stirring, the vial was heated in a water bath at 80 oC for 20 min to evaporate the majority of the water. 
+5. Then, the  sample was kept in an oven at 70 oC to ensure a complete drying process. 
+6. The obtained precursor was subsequently calcined at 400 oC for 2 h in air.<|end_of_text|>
+
+
+Eval output 27:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Preparation of single atom Rh supported on TiO2
+<|Bot|>:Please select the catalyst precursor and support
+
+|Support|Loading|
+|---|---|
+|TiO2|50 mg |
+
+The catalyst is prepared as followed:
+1. The TiO2 support (Anatase, Sigma-Aldrich, 99.5% purity) was calcined at 500 °C for 4 h before impregnation 
+2. First, 50 mg of the calcined TiO2 support was dispersed in 10 ml of deionized water. 
+3. Then, 0.6  ml of Rh(NO3)3· 2H2O aqueous solution (Sigma-Aldrich, 10 wt% Rh) was added to the TiO2 dispersion and the mixture was stirred vigorously until dry. 
+4. The impregnated support was then calcined at 400 °C for 2 h under air.<|end_of_text|>
+
+
+Eval output 28:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom Rh supported on CeO2.
+<|Bot|>:The catalyst is synthesized by impregnation with metal precursor RhCl3 and support CeO2
+
+The synthesis procedures are as followed:
+1. First, 50 mg of commercial CeO2 was dispersed in 10 ml of ultrapure water, followed by the dropwise addition of 1 ml of ethylenediamine solution containing 5 mmol lit-1 RhCl3.
+2. After impregnation, the catalyst was dried at 80 °C for 12 h and then calcined at 500 °C for 2 h in air.<|end_of_text|>
+
+
+Eval output 29:
+<|begin_of_text|><|System|>:Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+<|User|>:Synthesis of single atom metal Mn tetrahedron coordinated supported on ZnO
+<|Bot|>:The catalyst is synthesized with the following procedures:
+1. Mn acetylacetonates and Zn acetylacetonates with a molar ratio of 1:20 were ultrasonically dissolved in octane.
+2. Then tetrahydrofuran was added as the template to form a systematic micellar solution.
+3. Mn acetylacetonates and Zn acetylacetonates were deposited in the center of THF micelles.
+4. The mixed solutions were dried at 60 oC under continuous stirring to remove the solvent completely.
+5. The remaining solid powder was then calcined at 400 oC for 2 h in a muffle furnace to obtain the final catalyst.<|end_of_text|>

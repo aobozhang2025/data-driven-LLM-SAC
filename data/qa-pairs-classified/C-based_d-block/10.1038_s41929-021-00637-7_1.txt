@@ -1,0 +1,11 @@
+question
+synthesis of single atom Ir supported on heteroatom-doped carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor iridium(iv) chloride and support precursor ZIF-8
+
+The catalyst is prepared as followed:
+1. Zeolite imidazolate framework-8 (ZIF-8), dispersed uniformly in methanol solution, was introduced into a solution containing iridium(iv) chloride and the monomer poly(cyclotriphospazene-co-4,4′-sulfonyldiphenol) (PZS). 
+2. Subsequently, trimethylamine-initiated polymerization of the poly(cyclotriphospazene-co-4,4′-sulfonyldiphenol) and iridium(iv) precursors on the surface of ZIF-8 produced the ZIF-8/Ir@PZS composites. 
+3. the ZIF-8/Ir@ PZS structure with a polyhedral morphology was obtained. 
+4. Finally, the Ir-SA catalyst was supported on heteroatom-doped carbon by pyrolysis of ZIF-8/Ir@PZS at 950 °C under an argon atmosphere.

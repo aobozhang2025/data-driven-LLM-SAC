@@ -1,0 +1,11 @@
+question
+Synthesis of Cu single atom supported on Npyrr-C
+
+answer
+The catalyst is prepared by impregnation with metal precursor CuPc
+
+The synthesis procedures are as followed:
+1. 100 mg of CNT was dispersed in 100 mL of DMF under sonication for 1 h, followed by adding 5 mg of CuPc dispersed in DMF.
+2. After 30 min of sonication, the mixture was stirred for 48 h at room temperature. 
+3. The precipitate was then collected by vacuum filtration and sufficiently washed by DMF and ethanol until colorless. 
+4. Finally, the precipitate was thermally treated at 300 °C for 2 h in a tubular furnace in argon atmosphere

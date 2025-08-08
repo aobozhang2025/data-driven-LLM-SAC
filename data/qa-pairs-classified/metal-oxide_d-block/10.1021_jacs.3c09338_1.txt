@@ -1,0 +1,21 @@
+question
+Synthesis of single atom Ru supported on CoAlO
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3·3H2O and support CoAlO
+
+The support CoAlO is prepared as followed:
+1. cobalt nitrate (4.1384g, 14.22 mmol) and aluminum nitrate (2.6672g, 7.11 mmol) were ultrasonically dissolved in 20 mL of distilled water for 10 min and marked as solution A. 
+2. NaOH 1.366 g was dissolved in 20 mL of distilled water to form solution B. 
+3. Solutions A and B were added drop by drop into 40 mL of deionized water under vigorous stirring, and the pH was controlled at 8.5 ± 0.3 by adjusting the dropwise rate of solutions A and B. 
+4. After the dropwise addition of solution A with residue, the reaction was stirred at room temperature for 16 h. 
+5. The precipitates obtained were washed by centrifugation with water/ethanol twice, respectively, and dried. 
+6. After grinding into homogeneous powder, the reaction was treated at 400 °C for 2h in a 5% H2/ Ar mixture with a heating rate of 5 °C/min. 
+
+After the support CoAlO is prepared, the catalyst is synthesized with the following procedures:
+1. cobalt nitrate (4.1384g, 14.22 mmol) and aluminum nitrate (2.6672g, 7.11 mmol) were ultrasonically dissolved in 20 mL of distilled water for 10 min and marked as solution A. 
+2. 100 μL RuCl3·3H2O solution (20 mg/mL) and 1.366 g NaOH dissolved in 19.9 mL distilled water (RuCl3·3H2O solution was prepared through ultrasonic dissolved ruthenium chloride trihydrate 20 mg in 1 mL distilled water) to form solution B. 
+3. Solutions A and B were added drop by drop into 40 mL of deionized water under vigorous stirring, and the pH was controlled at 8.5 ± 0.3 by adjusting the dropwise rate of solutions A and B. 
+4. After the dropwise addition of solution A with residue, the reaction was stirred at room temperature for 16 h. 
+5. The precipitates obtained were washed by centrifugation with water/ethanol twice, respectively, and dried. 
+6. After grinding into homogeneous powder, the reaction was treated at 400 °C for 2h in a 5% H2/ Ar mixture with a heating rate of 5 °C/min.

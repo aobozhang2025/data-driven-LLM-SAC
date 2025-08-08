@@ -1,0 +1,9 @@
+question
+Synthesis of single atom Cu supported on Ni-BTP, denoted by Cu1Ni-BTP
+
+answer
+The catalyst is synthesized with the following procedures:
+1. 195 mg of Ni(AcO)2·4H2O, 25 mg of Cu(AcO)2·H2O, 30 mg of PVP and 165 mg of H3BTP were successively added into 20 mL of DMF. 
+2. The mixture was ultrasonicated for 0.5 h, then sealed in a 100 mL Teflon-lined stainless-steel autoclave and stirred for 20 h at 160 °C. 
+3. Upon cooling, the solid was collected by filtration and suspended in 50 mL of methanol for two days.  
+4. The MOFs were then centrifuged and washed with ethanol/diethyl ether mixture, and finally dried in vacuum oven for 12 h to obtain the product.

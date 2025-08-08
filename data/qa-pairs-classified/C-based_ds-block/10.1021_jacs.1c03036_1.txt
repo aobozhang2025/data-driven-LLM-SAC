@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Cu supported on UiO-66. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CuCl2
+
+The support UiO-66 is prepared as followed:
+1. 125  mg of terephthalic acid and 167 mg of zirconium tetrachloride were dissolved in a mixture solution containing  50 mL of N,N-dimethylformamide (DMF) and 3.5 mL of formic acid. 
+2. The mixture was transferred into a teflon lined bomb, sealed and heated at 120 °C for 24 h. 
+3. The white product was collected by filtration and washed with DMF 4 times over 24 h (20 mL × 4), and then 6 times with acetone over a 48 h period (20 mL × 6). 
+4. UiO-66 was dried under dynamic vacuum
+
+After preparation of support, the catalyst is synthesized as followed:
+1. about 500 mg of UiO-66 was added to a solution containing CuCl2 (500 mg) dissolved in DMF (10 mL). 
+2. The mixture was sonicated for one minute and then heated at 85 °C for 24 h. 
+3. The products were collected by  centrifugation (10,000 rpm, 3 min), washed 4 times with DMF during 24 h (30 mL × 4), and 6 times with  acetone over a 48 h period (30 mL × 6). 
+4. Finally, the product was dried with dynamic vacuum

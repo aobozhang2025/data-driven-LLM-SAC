@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Ta supported on Co3O4
+
+answer
+The catalyst is synthesized by impregnation:
+
+The precursor CoA is prepared as followed:
+1. mix 30 mL of isopropanol and 8 mL of glycerol evenly
+2. add 291 mg of cobalt nitrate hexahydrate, continue stirring until the solution is clear, and transfer to a Teflon  lined stainless steel autoclave, sealed and maintained at 180 oC for 6 h. 
+3. After cooling to room  temperature, the solid was obtained by centrifugation, washed three times with isopropanol, and dried in vacuum oven. 
+
+After CoA is prepared, the catalyst is synthesized as followed:
+1. 0.1 g CoA was dispersed in 20 mL deionized water under ultrasound, dispersed evenly and transferred to a Teflon lined stainless steel autoclave, sealed and maintained at 160 oC for 3 h.  
+2. After cooling to room temperature, washed with deionized water and ethanol, and dried in vacuum oven. 
+3. The 60 mg product was dispersed in 50 mL ethanol, and the ethanol solution containing a certain mass fraction Ta was added to the above solution.
+4. After ultrasonic uniformity, the solid substance was obtained by rotating evaporation at 50 oC. 
+5. The solid substance was pyrolyzed in an air atmosphere at 200 oC for 2 h

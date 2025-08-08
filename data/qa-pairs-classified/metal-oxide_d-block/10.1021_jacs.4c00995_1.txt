@@ -1,0 +1,29 @@
+question
+preparation of single atom Cr supported on Si-MFI, denoted by Cr/Si-MFI
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cr(acac)3 and support Si-MFI
+
+The support precursor B-MFI is prepared as followed:
+1. 1.73 g sodium  hydroxide (NaOH) and 3.55 g tetrapropylammonium bromide (TPABr) were added to 18.39 g  deionized water separately and stirred until well dissolved. 
+2. The NaOH solution was added to the TPABr solution and stirred for one hour. 
+3. 25 g colloidal silica solution (40% SiO2 in water) was added to the resulting mixture dropwise under vigorous stirring. 
+4. Next, a solution of 0.82 g boric acid (H3BO3) in 8.2 g H2O was added to the NaOH-TPABr-SiO2 mixture, covered, and stirred  overnight. 
+5. The resulting aged gel with molar composition 1 Si : 0.08 B : 0.26 Na : 0.08 TPA : 20  H2O was transferred to a 120 mL PEFT lined autoclave, sealed, and placed into an oven at 170 °C,  rotating at 30 rpm for two days. 
+6. After cooling the autoclave, the solid product was separated  through centrifugation and washed with deionized water several times. 
+7. The rinsed zeolite was  dried in an oven at 120 °C overnight in ambient air and calcined in flowing O2 at 600 °C to remove  organics. 
+8. Next, the sample was ammonium exchanged in aqueous 1 M NH4NO3 and calcined again  in O2 at 550 °C to convert it to its protonic form before use.  
+
+After the support precursor B-MFI is prepared, the support Si-MFI is prepared as followed:
+1. 1 g B-MFI and 50 mL 1 M HCl solution were added into a sealed, pressure-rated glass vessel, and the mixture was stirred and heated in an oil bath at 90 °C for 20 h. 
+2. The solid product was separated by centrifugation and washed thoroughly with deionized water. 
+3. The rinsed product was dried in an oven at 80 °C overnight in ambient air and was further dehydrated and calcined at 350 °C in flowing O2.
+4. The as-prepared Si-MFI was transferred into the glovebox before use.  
+
+After the preparation of support Si-MFI, the catalyst is synthesized with the following procedures:
+1. Si-MFI zeolite (up to 500 mg) and an appropriate amount of Cr(acac)3 were added into a 2 mL glass ampoule. 
+2. The ampoule was transferred and connected to a Schlenk line, where it was evacuated three times and flame-sealed  under pressure below 100 mtorr. 
+3. The sealed ampoule containing the light purple mixture was heated in furnace at 220 °C for 4 h, and 330 °C for 4 h, with a temperature ramping rate 5 °C/min. The sample color changed to green during this process. 
+4. Next, the sample was transferred back to the glovebox, where it was removed from the ampoule and placed into a quartz calcination tube. 
+5. The sample in the calcination tube was air-free transferred to the furnace, heated under 40 mL/min  air flow at 5 °C/min to 120 °C for 1 h, and 2 °C/min to 600 °C, at which temperature the furnace  was held for 6 h. 
+6. After cooling down, the Cr/Si-MFI sample was transferred back to the glovebox  and stored before use.

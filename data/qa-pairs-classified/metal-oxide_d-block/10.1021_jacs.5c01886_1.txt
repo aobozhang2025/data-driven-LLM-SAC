@@ -1,0 +1,15 @@
+question
+Preparation of single atom Mn supported on RuO2
+
+answer
+The catalyst is synthesized by impregnation with precursor manganese triacetate and support RuO2
+
+The support homemade RuO2 is prepared by the following:
+1. 0.75 g of ruthenium chloride  (RuCl3·3H2O, from Sigma-Aldrich) was dissolved in 150 mL of water/ethanol (v/v =  1:1) solution. 
+2. Subsequently, 8.6 mL of 1 M sodium hydroxide (NaOH, Sigma-Aldrich)  solution was slowly added dropwise to the Ru3+ ion solution, followed by vigorously stirring for an hour. 
+3. The precipitation was collected by centrifugation, washed with  water/ethanol (v/v = 1:1) solution three times, and dried overnight at 65 °C. 
+4. The dried solids were annealed at 550 °C at a ramp rate of 5 °C/min for five hours in air and cooled naturally to room temperature to yield the black RuO2 catalyst.  
+
+After the support RuO2 is prepared, the catalyst is synthesized by the following procedures:
+1. 50 mg of RuO2 catalyst was introduced into 10 mL of ethanol and premixed with 3 mg of manganese triacetate (C6H9MnO6·2H2O, Sigma-Aldrich). 
+2. This mixture was then ultrasonicated for 15 minutes, followed by direct drying at 70 °C

@@ -1,0 +1,16 @@
+question
+Preparation of single atom Fe doped by 4 N and 2 S supported on N-doped Carbon
+
+answer
+The catalyst is prepared by impregnation with metal precursor FeCl3·6H2O and support S, N-doped carbon
+
+The support S, N-doped carbon is prepared as followed:
+1. thiourea, ZnCl2 (0.1 M) and formamide (30 mL) were mixed and sonicated at room temperature for 30 min to form a homogeneous solution, 
+2. and then the mixture was transferred to an autoclave and heated at 180 °C for 12 h. 
+3. After cooling, the precursor was washed twice with methanol (30 mL), purified three times with deionized water (30  mL), and dried at 60 °C overnight. 
+4. The dried precursor was milled, transferred to a quartz boat, and heated to 920 °C for 2 h at a heating rate of 5 °C·min-1 under N2 flow protection (flow rate: 30  sccm)
+
+After the preparation of support S, N-doped carbon, the catalyst is synthesized as followed:
+1. S, N-doped carbon material (50 mg) and FeCl3·6H2O (2.5 mM) were dispersed in 15 mL of DMF and sonicated for 1 h, respectively. 
+2. After mixing, the mixture was stirred at room temperature for 24 h, washed three times with DMF (30 mL), and dried at 80 °C for 12 h. 
+3. Finally,  it was heated under the protection of N2 (flow rate: 30 sccm) and kept at 900 °C for 2 h at a heating rate of 5 °C min-1

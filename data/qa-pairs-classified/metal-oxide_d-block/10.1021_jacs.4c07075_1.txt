@@ -1,0 +1,23 @@
+question
+preparation of single atom Pd supported on (Co0.95Mo0.05)3O4
+
+answer
+The catalyst is synthesized by impregnation with metal precursor palladium nitrate hydrate
+
+The support (Co0.95Mo0.05)3O4 is prepared as followed:
+1. 2.365 g cobalt (II) acetate tetrahydrate (Aldrich, 99.9 %) was dissolved in a mixture of 10 mL ethylene glycol (Aldrich, 99.9%) and 20 mL deionized (DI) water to form a pink solution. 
+2. Then, another 30 mL aqueous solution containing 1.06 g sodium carbonate (Aldrich, 99.9%) was introduced to the prepared pink solution of cobalt salt through a syringe pump at an injection rate of 0.30 mL/min while the pink solution was being stirred vigorously. 
+3. The formation of the precipitate was observed while the solution of sodium carbonate was being injected. 
+4. 0.103 g sodium molybdate dihydrate (Aldrich,  99.9%) was dissolved into deionized (DI) water, forming the solution of sodium molybdate  dihydrate. 
+5. Upon the injection of the solution of sodium molybdate dihydrate to the precipitate, the formed mixture was stirred vigorously for another 3 hrs. 
+6. Then the precipitate was separated through centrifugation and then washed with DI water. 
+7. The obtained solid product was dried at 60 oC in air for 12 hrs, then grinded into powder and calcined at 350 oC in air for 4 hrs. 
+
+After the preparation of support (Co0.95Mo0.05)3O4, the catalyst is synthesized as followed:
+1. 1.0 g of (Co0.95Mo0.05)3O4 black powder was dispersed in 50 mL DI water. The mixture was kept at stirring (350 rpm) for 1 hr. 
+2. Then palladium nitrate hydrate with desired amount determined by the nominal loading of Pd was dissolved in water. 
+3. Then, the prepared solution of palladium nitrate was injected into the aqueous solution containing well dispersed (Co0.95Mo0.05)3O4 black powder. 
+4. After the injection, the solution was kept for being stirred for additional 3 hrs. 
+5. Then an ammonia solution was added into the solution containing well dispersed black powder of (Co0.95Mo0.05)3O4 in a dropwise manner until the pH of the solution reached 9.5. After that, the solution was stirred for an additional 12 hrs. 
+6. The solid component was collected after centrifugation (3000 rpm) for 5 min. 
+7. Then, the collected solid component was dried  at 60 oC in air for 12 hrs and then calcinated at 350 oC in air to obtain the as-prepared catalyst

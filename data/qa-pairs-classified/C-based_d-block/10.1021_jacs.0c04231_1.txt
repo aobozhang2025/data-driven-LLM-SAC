@@ -1,0 +1,18 @@
+question
+Synthesis of the single-atom Ni doped by N supported on C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor nickel nitrate and support ZIF-8.
+
+ZIF-8 is prepared as followed:
+1. 1.164 g of 2methylimidazole (MEIM) was dissolved into 20 ml of methanol
+2. and then 20 ml of methanol containing 1.096 g of Zn(NO3)2·6H2O was added into the above solution under continuous ultrasound for 15 min at room temperature. 
+3. After that, the above milky white suspension was kept at room temperature for 24 h without stirring.  
+4. Subsequently, the as-prepared sample was centrifuged at 6000 rpm/min, washed with  methanol four times and further dried under vacuum for 8 h at 70 oC. 
+
+The synthesis procedures of the catalyst are as followed:
+1. 200 mg of ZIF-8 was dissolved in 30 ml N-hexane under continuous ultrasonication for 20 min
+2. and then 150 ul of a nickel nitrate solution (150 mg/ml) was slowly added to the above solution by microinjection under continuous ultrasonication and stirring for 15 min. 
+3. Subsequently,  the solution was stirred at 350 rpm/min for 4 h at room temperature, and excess nickel  salts were removed by vulgar centrifugation and further dried under vacuum overnight.  
+4. After that, the light-green powder was sealed in a crucible with a cover and annealed in a muffle furnace at 1100 oC for 3 h in N2 atmosphere (20 ml/min) with the heating process: first increases to 350 oC at 5 oC per minute and then continues to rise to 1100 oC at 3 oC  /min. 
+5. After cooling to room temperature in the furnace, the as-prepared single-atom Ni  sample was further washed with sulfuric acid (0.5 M) for 2 h to remove Ni particles and then centrifuged and dried to obtain the single-atom Ni catalyst.

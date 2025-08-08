@@ -1,0 +1,22 @@
+question
+Synthesis of single atom Ru supported on GDY/G, denoted by Ru SAs/GDY/G 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3 and support graphdiyne/graphene sandwich structures (GDY/G):
+
+The support precursor is prepared as followed:
+1. 60 mg hexakis[(trimethylsilyl)-ethynyl]benzene (HEB-TMS) was mixed with 60 mL of tetrahydrofuran (THF) under Ar atmosphere 
+2. and then 1 mL of tetrabutylammonium fluoride (TBAF) (1 M in THF)  was added and stirred at 0 °C for 15 min. 
+3. The solution was washed and rotary evaporated to obtain HEB. 
+
+The support graphdiyne/graphene sandwich structures (GDY/G) is prepared as followed:
+1. First, 220 mg Cu(OAc)2·H2O was dissolved in 120 mL mixed solvent of pyridine, toluene and THF with a volume ratio of 1:1:1. 
+2. Then, 20 mg graphene was added to the above solution and sonicated to obtain a uniform dispersion. 
+3. After this, a freshly prepared HEB was added to the solution immediately. 
+4. The reaction mixture was subsequently microwaved at 700 W for 1 min in a domestic microwave oven. 
+5. Finally, the final product of GDY/G was washed with pyridine, acetone, dilute hydrochloric acid and distilled water,  respectively, and then freeze-dried.  
+
+After the preparation of support graphdiyne/graphene sandwich structures (GDY/G), the catalyst is synthesized as followed:
+1. 20 mg GDY/G was dispersed in 20 mL distilled water and sonicated to obtain a uniform dispersion. 
+2. The aqueous solution of RuCl3 (0.4  mg mL-1) was added dropwise to the above dispersion with a syringe (injection speed  of 2 mL h-1) and stirred vigorously. 
+3. This Ru SAs/GDY/G catalyst was repeatedly  washed with distilled water, and then freeze-dried.

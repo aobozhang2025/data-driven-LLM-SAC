@@ -1,0 +1,14 @@
+question
+Synthesis of single atom Cu supported on PCN  
+
+answer
+The catalyst is prepared by impregnation with metal precursor CuCl2 and support exfoliated PCN
+
+The preparation of support exfoliated PCN is prepared as followed:
+1. Bulk PCN was prepared by calcining dicyandiamide at 550 °C (2.3 °C min−1 heating rate) in a crucible for 3 h in static air. 
+2. thermal exfoliation at 500 °C (5 °C min −1 heating rate) for 5 h in static air. 
+3. The exfoliation procedure was repeated several times until the PCN was exfoliated efficiently.  
+
+After the preparation of support, the catalyst synthesis procedures are as followed:
+1. CuCl2 (0.014 g) and exfoliated PCN (0.70 g) were dispersed in 200 ml for mamide, sonicated for 10 min and then stirred in an oil bath (120 °C) for 12 h, following centrifugation and washing thoroughly by ethanol several times.
+2. The oven-dried powder (80 °C) was subsequently heated to 500 °C with a heating rate of 2 °C min−1 and kept for 5 h with the protection of N2 flow.

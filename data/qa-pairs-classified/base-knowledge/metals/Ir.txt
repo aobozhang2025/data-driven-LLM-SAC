@@ -1,0 +1,33 @@
+question
+Chemical Properties of Atomic Iridium
+
+answer
+Iridium, with the atomic number 77, is a member of the platinum group metals. Its chemical behavior at the atomic level is governed by its electron configuration: [Xe] 4f¹⁴ 5d⁷ 6s². This configuration allows Iridium to exhibit a broad spectrum of oxidation states, most commonly +3 and +4, but ranging from -3 to +9. This versatility is a key asset in catalysis, as it enables the atom to participate in complex redox reactions by readily donating or accepting electrons.
+
+One of Iridium's most notable properties is its exceptional resistance to oxidation and corrosion, even at high temperatures. This inherent stability is crucial for single-atom catalysts, as the individual atoms are more exposed and vulnerable to deactivation. The strong bonds Iridium forms with support materials further enhance this stability, preventing the aggregation of individual atoms into less reactive nanoparticles.
+
+Furthermore, Iridium's high electronegativity (2.20 on the Pauling scale) influences its interaction with reactants, often leading to unique catalytic pathways and improved selectivity for desired products.
+
+question
+chemical properties of Iridium(III) chloride (IrCl₃) and its hydrate (IrCl₃·xH₂O)
+
+answer
+These are widely used Ir precursors due to their solubility in various solvents, facilitating their uniform distribution over the support material. The chloride ligands can be readily removed during the synthesis process, allowing for the direct interaction of the Iridium atom with the support.
+
+question
+chemical properties of Iridium(IV) chloride hydrate (IrCl₄ · xH₂O)
+
+answer
+Similar to the Iridium(III) salt, this Ir precursor is also employed for its accessibility and ease of use in impregnation and deposition methods.
+
+question
+chemical properties of Iridium acetylacetonate (Ir(acac)₃)
+
+answer
+This organometallic compound is another popular choice of Ir precursor. The acetylacetonate ligands can be thermally decomposed, leaving behind isolated Iridium atoms on the support surface. This precursor is often favored when a more controlled deposition is required.
+
+question
+chemical properties of Hexachloroiridic acid (H₂IrCl₆)
+
+answer
+This complex is also utilized as a Ir precursor, particularly in wet impregnation methods, for creating well-dispersed Iridium sites.

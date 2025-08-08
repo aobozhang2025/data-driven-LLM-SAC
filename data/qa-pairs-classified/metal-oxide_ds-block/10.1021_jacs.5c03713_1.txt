@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Cu supported on SiO2
+
+answer
+The catalyst is prepared by impregnation with metal precursor Cu(NO3)2 and support SiO2 nanopowder
+
+The synthesis procedures are as followed:
+1. 200 μL of Cu(NO3)2 solution (Cu content of 12.5 mg/mL) was added into10 mL ammonia solution (concentration of 5 mol/L) to form Cu(NH3)42+ solution. 
+2. Then, 500 mg SiO2 nanopowder was added to the above solution and stirred at room temperature for one hour. 
+3. The mixture was filtered and washed with DI water to pH neutral. 
+4. Then the product was dried at 60 °C in a vacuum oven for 12 hours to obtain the Cu/SiO2 precursor. The theoretical Cu loading was 0.5 wt.%.
+5. reducing the Cu/SiO2 precursor in 10 vol% H2/He for 1 h at 300 °C.

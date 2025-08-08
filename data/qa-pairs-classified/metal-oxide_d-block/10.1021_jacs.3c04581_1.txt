@@ -1,0 +1,12 @@
+question
+Preparation of single atom Ni supported on MFI, denoted by Ni-MFI  
+
+answer
+The catalyst is synthesized with metal precursor NiCl2
+
+The synthesis procedures are as followed:
+1. 5.6 g of TEOS was added to a solution containing 9.69 g of a tetrapropylammonium hydroxide (TPAOH) aqueous solution (20 wt%), 1.0 g of urea, and 0.05 g of isopropyl alcohol.  
+2. Then, 3.15 mL of NiCl2 (0.09 M) solution was added to the mixture. 
+3. After stirring for 30 min, the initial gel was transferred to an autoclave and crystallized at 180°C for 48 h. 
+4. The resulting crystals were collected by filtration, washed three times with deionized water, and dried at 80°C to obtain the as-prepared Ni-MFI-HT. 
+5. The asprepared Ni-MFI-HT was then reduced in a 10 vol% H2/Ar atmosphere at 600°C for 2  h

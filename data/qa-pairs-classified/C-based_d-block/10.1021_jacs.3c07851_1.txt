@@ -1,0 +1,15 @@
+question
+synthesis of single atom Pt supported on porous N-C
+
+answer
+The catalyst is synthesized by impregnation with metal precursors Pt(acac)2
+
+The synthesis procedures are as followed:
+1. A 15 mL methanol solution containing 0.513 g of zinc nitrate hexahydrate was mixed with another 15 mL of 2-methylimidazole (0.577 g) methanol solution. 
+2. The mixture solution was loaded into an autoclave and then placed in an oven at 120 °C for 4 h. 
+3. The ZIF-8 suspension was collected, washed with methanol several times, and then dried at 60 °C in a vacuum oven overnight. 
+4. The ZIF-8 powders were pyrolyzed at 950 °C for 3 h under an Ar atmosphere, followed by washing with 2 M HCl solution at 80 °C overnight to remove Zn species and drying at 80 °C in a vacuum oven. 
+5. 60 mg of porous N-C powders, 5 mg of Pt(acac)2, and 1.5 mL of tetrahydrofuran (THF) were loaded into a glass cell and then placed into an autoclave (volume capacity: 50 mL) located on a heater. THF was used to modify the polarity of CO2 to dissolve the Pt(acac)2 molecules. 
+6. The autoclave was heated to 60 °C and 10 MPa of CO2 was pumped into the autoclave. 
+7. After stirring for 12 h with a speed of 200 rpm, the autoclave was cooled down to 50 °C and then vented out the CO2 slowly. 
+8. The collected powders, labeled as Pt(acac)2/NPC were treated with 10 vol % H2/Ar for 2 h at 200 °C with a heating rate of 2  °C min−1.

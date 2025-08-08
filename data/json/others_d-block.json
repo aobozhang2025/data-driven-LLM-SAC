@@ -1,0 +1,330 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Co supported on α-MoC",
+        "output": "The catalyst is synthesized by impregnation with precursor Co(NO3)2•6H2O and support α-MoC\n\nThe support α-MoC is prepared as followed:\n1. Ammonium paramolybdate (MA, (NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co., Ltd. \n2. The grinded powder of MA was calcined in the muffle oven to 500 oC at the rate of 10  oC/min to synthesize the precursor MoO3. \n3. Then 0.8 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. \n4. The powder was heated to 700 oC in NH3 (100 ml /min;  pre-purified gas) at a rate of 5 oC/min and kept at 700 oC for 2 h. \n4. After the sample was cooled to room temperature, the gas was then switched to CH4/H2 mixture (100 ml/min; 20/80 v/v), and the temperature was increased to 700 oC/min at 5 oC/min and held at 700 oC /min for 2 h. \n5. Finally, the  sample was passivated at room temperature using a 0.5 % O2/He gas mixture. By elemental  analysis, the Mo/C ratio is around 1:0.8. \n\nAfter α-MoC is prepared, the catalyst is synthesized as followed:\n1. Appropriate amount of  Co(NO3)2•6H2O precursors were loaded on passivated α-MoC support to obtain the desired loading.  \n2. The slurry was stirred for 3 h, dried using vacuum evaporation first, and then transferred to freeze dryer drying overnight. \n3. Before using for catalysis, the catalyst was pretreated with CH4/H2 mixture  (15/85 v/v) with the rate of 10 oC/min to 590 oC, holding at 590 oC for an hour."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Ni supported on α-MoC",
+        "output": "The catalyst is synthesized by impregnation with precursor Ni(NO3)2•6H2O and support α-MoC\n\nThe support α-MoC is prepared as followed:\n1. Ammonium paramolybdate (MA, (NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co., Ltd. \n2. The grinded powder of MA was calcined in the muffle oven to 500 oC at the rate of 10  oC/min to synthesize the precursor MoO3. \n3. Then 0.8 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. \n4. The powder was heated to 700 oC in NH3 (100 ml /min;  pre-purified gas) at a rate of 5 oC/min and kept at 700 oC for 2 h. \n4. After the sample was cooled to room temperature, the gas was then switched to CH4/H2 mixture (100 ml/min; 20/80 v/v), and the temperature was increased to 700 oC/min at 5 oC/min and held at 700 oC /min for 2 h. \n5. Finally, the  sample was passivated at room temperature using a 0.5 % O2/He gas mixture. By elemental  analysis, the Mo/C ratio is around 1:0.8. \n\nAfter α-MoC is prepared, the catalyst is synthesized as followed:\n1. Appropriate amount of  Ni(NO3)2•6H2O precursors were loaded on passivated α-MoC support to obtain the desired loading.  \n2. The slurry was stirred for 3 h, dried using vacuum evaporation first, and then transferred to freeze dryer drying overnight. \n3. Before using for catalysis, the catalyst was pretreated with CH4/H2 mixture  (15/85 v/v) with the rate of 10 oC/min to 590 oC, holding at 590 oC for an hour."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on Ni2P Nanoparticles.",
+        "output": "The catalyst is prepared with metal precursor chloroiridium acid\n\nThe single atom Ir on Ni12P5 Nanoparticles, denoted by IrSA-Ni12P5, is prepared as followed:\n1. First, 2 mmol of nickel acetylacetone and 20 mg of chloroiridium acid were dissolved into 10 mL of OAm and 10 mL of ODE at 120 °C in an Ar-filled glovebox. \n2. The prepared transparent solution was heated to 220 °C and kept at this temperature for 1 h. \n3. Then, 8 mmol of TPP was added into the solution, and the solution was kept at 280 °C for 2 h before cooling to room temperature. \n4. The black powder was collected and washed several times with hexane and ethanol under spinning at 10 000 rpm for 5 min. \n5. The precipitate was then redispersed in ethanol and dried in air at 60 °C for 12 h.  \n\nAfter IrSA-Ni12P5 is prepared, the catalyst is synthesized as followed:\n1. First, as-prepared 20 mg of IrSA-Ni12P5 and 0.4 g of NaH2PO3 were mixed in a porcelain ark. \n2. The porcelain ark was placed in a tube furnace with flowing Ar. \n3. The tube furnace was heated to 300 °C at a rate of 5 °C/min and held for 2 h. \n4. After cooling to room temperature, the black powders were dried in air at 60 °C for 12 h. \n5. 20 mg of the as-prepared powder was placed into a tube furnace under Ar flow at atmospheric pressure. \n6. The powder was then heated to 350 °C for 1 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on Ni2P Nanoparticles.",
+        "output": "The catalyst is prepared with metal precursor ruthenium(III) chloride\n\nThe single atom Ru on Ni12P5 Nanoparticles, denoted by RuSA-Ni12P5, is prepared as followed:\n1. First, 2 mmol of nickel acetylacetone and 20 mg of ruthenium(III) chloride were dissolved into 10 mL of OAm and 10 mL of ODE at 120 °C in an Ar-filled glovebox. \n2. The prepared transparent solution was heated to 220 °C and kept at this temperature for 1 h. \n3. Then, 8 mmol of TPP was added into the solution, and the solution was kept at 280 °C for 2 h before cooling to room temperature. \n4. The black powder was collected and washed several times with hexane and ethanol under spinning at 10 000 rpm for 5 min. \n5. The precipitate was then redispersed in ethanol and dried in air at 60 °C for 12 h.  \n\nAfter RuSA-Ni12P5 is prepared, the catalyst is synthesized as followed:\n1. First, as-prepared 20 mg of RuSA-Ni12P5 and 0.4 g of NaH2PO3 were mixed in a porcelain ark. \n2. The porcelain ark was placed in a tube furnace with flowing Ar. \n3. The tube furnace was heated to 300 °C at a rate of 5 °C/min and held for 2 h. \n4. After cooling to room temperature, the black powders were dried in air at 60 °C for 12 h. \n5. 20 mg of the as-prepared powder was placed into a tube furnace under Ar flow at atmospheric pressure. \n6. The powder was then heated to 350 °C for 1 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Rh supported on Ni2P Nanoparticles.",
+        "output": "The catalyst is prepared with metal precursor chloroiridium acid\n\nThe single atom Rh on Ni12P5 Nanoparticles, denoted by RhSA-Ni12P5, is prepared as followed:\n1. First, 2 mmol of nickel acetylacetone and 20 mg of rhodium(III) chloride were dissolved into 10 mL of OAm and 10 mL of ODE at 120 °C in an Ar-filled glovebox. \n2. The prepared transparent solution was heated to 220 °C and kept at this temperature for 1 h. \n3. Then, 8 mmol of TPP was added into the solution, and the solution was kept at 280 °C for 2 h before cooling to room temperature. \n4. The black powder was collected and washed several times with hexane and ethanol under spinning at 10 000 rpm for 5 min. \n5. The precipitate was then redispersed in ethanol and dried in air at 60 °C for 12 h.  \n\nAfter RhSA-Ni12P5 is prepared, the catalyst is synthesized as followed:\n1. First, as-prepared 20 mg of RhSA-Ni12P5 and 0.4 g of NaH2PO3 were mixed in a porcelain ark. \n2. The porcelain ark was placed in a tube furnace with flowing Ar. \n3. The tube furnace was heated to 300 °C at a rate of 5 °C/min and held for 2 h. \n4. After cooling to room temperature, the black powders were dried in air at 60 °C for 12 h. \n5. 20 mg of the as-prepared powder was placed into a tube furnace under Ar flow at atmospheric pressure. \n6. The powder was then heated to 350 °C for 1 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pt supported on Y, denoted by Pt/Y",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6\n\nThe synthesis procedures of the catalyst are as followed:\n1. 10~15 mL  H2PtCl6 aqueous solution was dissolved in 40 mL water under stirring followed by addition of 300~500 μL trimethoxysilyl propanethiol dropwise. \n2. The mixture was stirred at room temperature for 2 h and then 0.7 g NaAlO2, 4.15 g NaOH, 7.2 mL colloidal silica were added to the mixture successively, followed by an additional  stirring for 4 h. \n3. The as-formed mixture was then transferred into an autoclave for crystallizing at 373 K for 48 h. \n4. The resultant mixture was thoroughly washed with deionized water and dried at 373 K for 6 h. \n5. The dehydration sample was calcined in an air flow at 823 K for 6 h with heating rate of 2 K/min."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on Co, denoted by Ru1/Co",
+        "output": "The catalyst is synthesized by a MOF synthesis framework.\n\nThe synthesis procedures are as followed:\n1. 60 mg ruthenium (III) chloride hydrate, 0.9 g Co(NO3)2·6H2O and 9.5 g Zn(NO3)2·6H2O were dissolved with 200  ml deionized water. \n2. Then, 6.6 g 1,4-benzenedicarboxylic acid (H2BDC) was dissolved in 200 ml DMF to form a clarified solution. \n3. Afterwards, the as-prepared two solutions were mixed under magnetic stirring. \n4. The reaction mixture above was transferred directly into a Teflon-lined  autoclave and maintained at 120 °C for 12 h. \n5. After cooling to room temperature naturally, the product was separated by centrifugation and washed subsequently with DMF and water alternately for six times. \n6. The product was then dried at 60 °C for 12 h, named as RuZrCoZn-MOF. \n7. The RuZrCoZn-MOF precursor was calcined under air at 400 °C for 12 h to form RuZrCoZnO sample.  \n8. The RuZrCoZnO was further reduced to Ru1Zr1/Co sample under H2 at 380 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Zr supported on Co, denoted by Zr1/Co",
+        "output": "The catalyst is synthesized by a MOF synthesis framework.\n\nThe synthesis procedures are as followed:\n1. 1.0 g Zr(NO3)4·5H2O, 0.9 g Co(NO3)2·6H2O and 9.5 g Zn(NO3)2·6H2O were dissolved with 200 ml ethanol. \n2. Then, 6.6 g H2BDC was dissolved in 200 ml DMF to form a clarified solution. \n3. Afterwards, the as-prepared two solutions were mixed under a magnetic stirring. \n4. The reaction mixture prepared above was transferred directly into a Teflon-lined autoclave and maintained at 120 °C for 12 h. \n5. After cooling to room temperature naturally, the  product was separated by centrifugation and washed subsequently with DMF and ethanol  alternately for six times. \n6. The product was then dried at 60 °C for 12 h, named as ZrCoZn-MOF.  \n7. The ZrCoZn-MOF precursor was calcined under air at 400 °C for 12 h to form ZrCoZnO sample. \n8. The ZrCoZnO was further reduced to Zr1/Co sample under H2 at 380 °C for 4 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on Cu nanoparticles",
+        "output": "The catalyst is synthesized by irradiation with metal precursor chloroplatinic acid.\n\nThe synthesis procedures are as followed:\n1. The chloroplatinic acid was firstly solved in ethanol with 0.05 M. \n2. The solution was dropped onto Cu nanoparticles (purchased  from J&K Scientific, China)) with a loading amount of ~0.1 ml/mg, followed by ultrasonication for 1 h and dried in vacuum oven at room temperature.  \n3. To synthesize Pt species, the precursors-loaded substrates were dispersed in hexane at 0.5 mg/ml under stirring. \n4. The solution was irradiated with a fiber laser for 8 h under stirring, ensuring all the substrates to interact with laser beam. \n5. Finally, the mixture was centrifuged and rinsed several times in ethanol to remove the unreacted salt precursors, and the sample was dried in a vacuum oven."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ru supported on WC, denoted by Ru SAs/WCx",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3.\n\nThe synthesis procedures are as followed:\n1. First, 330 mg (1 mmol) Na2WO4·2H2O was dissolved in 10 ml deionized water. \n2. Then, 0.5 mL RuCl3 solution (10 mg·mL-1) was added to the above solution dropwise with vigorous stirring for 2 h.  \n3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. \n4. Ru-WO-DA precursor was obtained through centrifuged and dried at 60 °C. \n5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.\n6. The black powder was collected and further ground into more uniform and finer samples"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ir supported on WC, denoted by Ir SAs/WCx",
+        "output": "The catalyst is synthesized by impregnation with metal precursor IrCl3.\n\nThe synthesis procedures are as followed:\n1. First, 330 mg (1 mmol) Na2WO4·2H2O was dissolved in 10 ml deionized water. \n2. Then, IrCl3 (0.025  mmol) solution was added to the above solution dropwise with vigorous stirring for 2 h.  \n3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. \n4. Ru-WO-DA precursor was obtained through centrifuged and dried at 60 °C. \n5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.\n6. The black powder was collected and further ground into more uniform and finer samples"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ru supported on WC, denoted by Ru SAs/MoCx",
+        "output": "The catalyst is synthesized by impregnation with metal precursor RuCl3.\n\nThe synthesis procedures are as followed:\n1. First, 330 mg (1 mmol) Na2MoO4·2H2O was dissolved in 10 ml deionized water. \n2. Then, 0.5 mL RuCl3  solution (10 mg·mL-1) was added to the above solution dropwise with vigorous stirring for 2 h.  \n3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. \n4. Ru-WO-DA precursor was obtained through centrifuged and dried at  60 °C. \n5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.\n6. The black powder was collected and further ground into more uniform and finer samples"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ir supported on WC, denoted by Ir SAs/MoCx",
+        "output": "The catalyst is synthesized by impregnation with metal precursor IrCl3.\n\nThe synthesis procedures are as followed:\n1. First, 330 mg (1 mmol) Na2MoO4·2H2O was dissolved in 10 ml deionized water. \n2. Then, IrCl3 (0.025  mmol)  solution was added to the above solution dropwise with vigorous stirring for 2 h.  \n3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. \n4. Ru-WO-DA precursor was obtained through centrifuged and dried at  60 °C. \n5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.\n6. The black powder was collected and further ground into more uniform and finer samples"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on FeNiSe2, denoted by Ir1@FeNiSe2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor IrCl4·xH2O  and suupport FeNiSe2\n\nThe synthesis procedures are as followed:\n1. The FeNiSe2 support was immersed in a 1 M KOH solution containing 100 μM IrCl4·xH2O for 30 minutes. \n2. Post-immersion, the samples were thoroughly rinsed with deionized water and ethanol and dried overnight in a vacuum oven at 80°C to yield Ir1@FeNiSe2."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Co supported on WxC, denoted by Co-WxC.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor cobalt acetate tetrahydrate\n\nThe synthesis procedures are as followed:\n1. Firstly, 0.142 g of ammonium tungstate was stirred in 40 mL of deionized water for 30 min and the pH of solution was adjusted to be 8 with ammonia hydroxide. \n2. 0.189 g of dopamine hydrochloride was then added and stirred for 30 min following with the addition of ethanol and stirring for 12 h. \n3. The powder collected after centrifugation was washed completely with deionized water and ethanol, respectively, and dried at 60 °C. \n4. The obtained product denoted as DA-W was used as the precursor for synthesizing tungsten carbide.  \n5. The DA-W powder was mixed with 0.05 mmol cobalt acetate tetrahydrate in 50 ml of deionized water. \n6. After fully mixing, the resulting dried powder after centrifugation was denoted as Co-DA-W. \n7. The Co-DA-W powder was then heated to 850 °C  with a ramping rate of 5 °C/min under N2 and maintained for 4 h. \n8. The final powder was denoted as Co-WxC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Fe supported on WxC, denoted by Fe-WxC.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor hydroxydiacetyl iron hydrate\n\nThe synthesis procedures are as followed:\n1. Firstly, 0.142 g of ammonium tungstate was stirred in 40 mL of deionized water for 30 min and the pH of solution was adjusted to be 8 with ammonia hydroxide. \n2. 0.189 g of dopamine hydrochloride was then added and stirred for 30 min following with the addition of ethanol and stirring for 12 h. \n3. The powder collected after centrifugation was washed completely with deionized water and ethanol, respectively, and dried at 60 °C. \n4. The obtained product denoted as DA-W was used as the precursor for synthesizing tungsten carbide.  \n5. The DA-W powder was mixed with 0.05 mmol hydroxydiacetyl iron hydrate in 50 ml of deionized water. \n6. After fully mixing, the resulting dried powder after centrifugation was denoted as Fe-DA-W. \n7. The Fe-DA-W powder was then heated to 850 °C  with a ramping rate of 5 °C/min under N2 and maintained for 4 h. \n8. The final powder was denoted as Fe-WxC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ni supported on WxC, denoted by Ni-WxC.",
+        "output": "The catalyst is synthesized by impregnation with metal precursor nickel acetate tetrahydrate\n\nThe synthesis procedures are as followed:\n1. Firstly, 0.142 g of ammonium tungstate was stirred in 40 mL of deionized water for 30 min and the pH of solution was adjusted to be 8 with ammonia hydroxide. \n2. 0.189 g of dopamine hydrochloride was then added and stirred for 30 min following with the addition of ethanol and stirring for 12 h. \n3. The powder collected after centrifugation was washed completely with deionized water and ethanol, respectively, and dried at 60 °C. \n4. The obtained product denoted as DA-W was used as the precursor for synthesizing tungsten carbide. \n5. The DA-W powder was mixed with 0.05 mmol nickel acetate tetrahydrate in 50 ml of deionized water. \n6. After fully mixing, the resulting dried powder after centrifugation was denoted as Ni-DA-W. \n7. The Ni-DA-W powder was then heated to 850 °C  with a ramping rate of 5 °C/min under N2 and maintained for 4 h. \n8. The final powder was denoted as Ni-WxC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Co doped by N supported on graphene and TiO2",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support TiO2\n\nThe synthesis procedures are as followed:\n1. In a 100 mL round bottom flask, Cobalt(II) acetate tetrahydrate (249.1 mg, 1.0 mmol) and 1,10-phenanthroline (367 mg, 2.0 mmol) were stirred in EtOH (50 mL) at 80 °C for approximately 3 h until orange transparent solution was obtained. \n2. Then, carbon powder (1.38 g) (CAS No. 1333-864) and TiO2 power (400 mg) were added, successively. \n3. The resulting reaction mixture was further stirred vigorously at 80 °C for 4 h, the solvent was then removed under vacuum. \n4. The solid sample obtained was dried at 60 °C overnight, after which it was grinded to a fine powder. \n5. The grinded powder was heated to 700 °C for 2 h with a heating rate of 5 °C/min under Ar flow, then cooled  down to room temperature naturally"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Pd supported on CdS",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PdCl4 and support CdS nanorods.\n\nThe support CdS nanorods are prepared as followed:\n1. Cd(NO3)2·4H2O (2 mmol) and thiourea (8 mmol) were dissolved in 20 mL of anhydrous ethylenediamine in a 50 mL breaker and magnetically stirred until the solids dissolved completely at room temperature. \n2. Then, the mixture was transferred to a 50 mL stainless Teflon-lined autoclave, tightly sealed, and placed in a 160 °C oven for 20 h. \n3. The system was then naturally cooled to room temperature. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), a yellow solid was obtained after being dried under vacuum at 60 °C for 12 h. \n\nAfter the support CdS nanorods are prepared, the catalyst is synthesized as followed:\n1. a certain amount of H2PdCl4 aqueous solution (11.1 mM) was added to a suspension of CdS (50 mg) dispersed in deionized water (50 mL).\n2. Then, the mixture was stirred for 24 h in the dark at room temperature and atmosphere. \n3. The resulting yellow slurry was slightly dark compared with pure CdS nanorods. \n4. After being washed with deionized water (3 × 25 mL) and absolute ethanol (3 × 25 mL), Cd(Pd)S catalysts were obtained after being dried under vacuum at 60 °C for 12 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCI6·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 10 μL of a H2PtCI6·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ru supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2RuCl6·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 3 μL H2RuCl6·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2IrCl6·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 10 μL H2IrCl6·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Rh supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2RhCl6·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 3 μL H2RhCl6·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pd supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PdCl4·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 2 μL H2PdCl4·6H2O (0.1 g mL-1) solutions to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Fe supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor FeCl3·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 5 mg FeCl3·6H2O to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Co supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 5 mg CoCl2·6H2O to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ni supported on Ti3-xC2Ty",
+        "output": "The catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O and support Ti3-xC2Ty MXene\n\nThe support Ti3-xC2Ty MXene is prepared as followed:\n1. Ti3AlC2 powders were prepared by mixing commercial Ti2AlC powders (Kanthal, Sweden) with TiC in a 1:1 molar ratio (after adjusting for the ~10 wt% Ti3AlC2 already present in the commercial powder) followed by ball milling for 1 day. \n2. The mixture was placed in an alumina boat and heated at a rate of 5 °C/min under continuous Ar flow to 1450 °C and held at that temperature for 1 h. \n3. The resulting loosely sintered brick was ground with a TiN-coated milling bit and sieved through a 400 mesh sieve, producing a powder with a particle size less < 38 μm.  \n4. 0.999 g of LiF (Alfa Aesar, 98.5%) was dissolved in 10 mL of concentrated HCl (12 M). \n5. Then 1 g of sieved Ti3AlC2 powders was added. \n6. The mixture was kept at 35 °C for 24 h while stirring with a magnetic stirrer. \n7. The resulting solid residue was washed several times with deionized water and centrifuged at a speed of 3500 rpm for 3 min every time until the pH of the supernatant was above 6. \n8. The resulting powder was mixed with about 20 mL of distilled water and sonicated for 1 h under an ice-bath with Ar gas bubbled through.\n9. The resulting suspension was centrifuged for 50 min at a speed of 4000 rpm. \n10. Finally, a supernatant colloidal suspension, containing delaminated, mostly single, 2D Ti3-xC2Ty flakes, was obtained. The concentration of this suspension was about 15 mg mL-1. \n\nAfter the preparation of Ti3-xC2Ty MXene, the catalyst is synthesized as followed:\n1. 8 mL of a Ti3-xC2Ty MXene suspension was dispersed in 200 mL of distilled water under magnetic stirring to form transparent solution A.\n2. Solution B was prepared by adding 5 mg NiCl2·6H2O to 50 mL of distilled water. \n3. Then solution A and solution B were sonicated for 1 h and 10 minutes, respectively. \n4. The solution B was slowly added into solution A dropwise under agitated stirring. \n5. After reaction for 8 h, the product was precipitated by acetone for half an hour and collected by centrifugation with acetone. \n6. The product was vacuum dried at 60 °C for one night."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Rh supported on MoS2 nanosheet",
+        "output": "The catalyst is synthesized by impregnation with support MoS2 nanosheet\n\nThe support MoS2 nanosheet is prepared as followed:\n1. hexaammonium heptamolybdate tetrahydrate (1 mmol, (NH4)6Mo7O24·4H2O) and thiourea (30 mmol) were dissolved in deionized water (35 mL) under vigorous stirring to form a homogeneous solution. \n2. Then, the solution was transferred into a 45 mL Teflonlined stainless steel autoclave and maintained at 220 °C. \n3. After 18 h, the reaction system was allowed to cool to room temperature. \n4. The final product was washed with water and absolute ethanol for several times to remove possible ions, and then dried at 60 °C under vacuum. All the materials were purchased from Sigma-Aldrich and used without further purification. \n\nAfter the preparation of 2D MoS2 nanosheets, the synthesis procedures are as followed:\n1. The MoS2 was firstly dispersed in the aqueous solution and then the corresponding Rh precursors were slowly dropped in above mixture solution. \n2. After stirring at room temperature for 2 hours, the mixture was filtered out and then the obtained catalyst was dried at 60 oC for 12 hours in air without further calcination in case the structure of 2D MoS2 was collapsed at high temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 2% single atom Pt supported on β-Mo2C",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6•6H2O and support β-Mo2C\n\nThe support is prepared as followed:\n1. 0.8 g MoO3 was loaded in the quartz tube and carburized with a CH4/H2 mixture (100 ml min−1; 20/80 v/v), with the temperature being increased  at 5 °C min−1 to 300 °C, then at 1 °C min−1 to 700 °C. \n2. After carburization at 700 °C for 2 hours, the sample was cooled to room temperature and passivated using a 0.5% O2/He gas mixture.\n\nAfter the support is prepared, the catalyst is synthesized as followed:\n1. The passivated β-Mo2C support was transferred to a deaerated, aqueous solution containing an appropriate amount of chloroplatinic acid (H2PtCl6•6H2O) to achieve the desired loading. \n2. The slurry was stirred for 3 hours, dried using evaporation, and then transferred to a freeze dryer overnight to remove any moisture. \n3. Before catalytic evaluation, the catalyst was activated with a CH4/H2 mixture (15/85 v/v). \n4. The activation temperature program heated the sample to 300 °C and held it there for 1 hour. \n5. The temperature was then increased to 590 °C  at a rate of 5 °C min−1 and held there for another 2 hours."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 2% single atom Pt supported on α-MoC",
+        "output": "The catalyst is synthesized by impregnation with metal precursor H2PtCl6•6H2O and support β-Mo2C\n\nThe support is prepared as followed:\n1. Ammonium paramolybdate ((NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co. Ltd. \n2. A grinded powder of ammonium paramolybdate was calcined in a muffle  oven to 500 °C at a rate of 10 °C min−1 to synthesize the precursor MoO3. \n3. Then 0.8 g MoO3 was loaded into a quartz tube reactor and placed in a vertical furnace.  \n4. The powder was heated to 700 °C in NH3 (100 ml min−1; pre-purified gas) at a  rate of 5 °C min−1 and kept at 700 °C for 2 hours. \n5. After the sample was cooled to room temperature, the gas was then switched to a CH4/H2 mixture (100 ml min−1;  20/80 v/v), and the temperature was increased to 700 °C at 5 °C min−1 and held at 700 °C for 2 hours.\n6. Finally, the sample was passivated at room temperature using a 0.5% O2/He gas mixture. Elemental analysis finds that the Mo/C ratio of α-MoC is around 1/0.8. \n\nAfter the support is prepared, the catalyst is synthesized as followed:\n1. To synthesize MoO3, an appropriate amount of ammonium paramolybdate was dissolved into pure water, adjusting the pH of the solution to 3.7. \n2. The solution underwent ultrasonication for 2 hours. The precipitates thus generated were separated by evaporation of solvent and dried at 60 °C under a vacuum overnight. \n3. The precipitates were then grinded into powder and calcined in air at 500 °C for 4 hours. \n4. An appropriate amount of H2PtCl6•6H2O was loaded onto a homemade MoO3 support, using a wetness impregnation method. \n5. the product was loaded in the quartz tube and carburized with a CH4/H2 mixture (100 ml min−1; 20/80 v/v), with the temperature being increased  at 5 °C min−1 to 300 °C, then at 1 °C min−1 to 700 °C. \n6. After carburization at 700 °C for 2 hours, the sample was cooled to room temperature and passivated using a 0.5% O2/He gas mixture."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Co supported on SMoS2",
+        "output": "The catatyst is synthesized by impregnation with metal precursor cobalt acetate tetrahydrate and support SMoS2\n\nThe support SMoS2 is prepared as followed:\n1. 0.5 g of bulk MoS2 crystalline powder was soaked in 4 ml of 1.6 M n-butyllithium/hexane for 48 h under nitrogen atmosphere. \n2. After the intercalation of MoS2 by lithium, the produced LixMoS2 was washed using vacuum filtration with 50 ml of hexane to remove excess butyllithium and organics and then dried under N2. \n3. Then the powder was immersed in 250 ml of water and the resulting suspension was sonicated to assist the completion of the exfoliation process, as any intercalated lithium would react with water to form H2 gas between the layers. The evolution of H2 tended to assist the separation of MoS2 layers. \n4. The dispersion was centrifuged at 5,000 r.p.m. for  15 min to remove unexfoliated precursor and only the supernatant was collected by pipette.\n5. Eventually, the exfoliated MoS2 layers remained totally suspended in aqueous solution. The pH value of the dispersion became alkaline due to the presence of trace lithium hydroxide. \n6. To collect the SMoS2 powder, HCl solution was added dropwise into the above colloid until the pH value reached around 7. \n7. The precipitate was then washed and collected by centrifugation several times and the final product was dried under vacuum for 12 h.\n\nAfter the suppport is prepared, the synthesis procedures are as followed:\n1. 50.6 mg of cobalt acetate tetrahydrate and 36 mg of thiourea were added to1 ml of water and left overnight to form the complex Co ion Co(thiourea)42+ \n2. Subsequently this Co thiourea complex solution was then added into 50 ml of 1 mg ml−1 stabilized SMoS2 colloid (30 v/v% isopropanol/water with 50 mg of polyvinylpyrrolidone). \n3. A mixed homogeneous solution was then transferred to an autoclave, followed by hydrothermal treatment at 160 °C for 24 h. \n4. In order to anchor Co atoms onto the defects of SMoS2 rather than inducing a fast self-nucleation, we used a very low concentration of the Co complex. \n5. During the hydrothermal process, the thiourea–Co complex refilled some of the surface sulfur vacancy sites of SMoS2. Previous studies confirm that defective vacancy sites possess high molecular affinity, especially for thiol-based molecules.\n6. After the reaction, the precipitate was washed three times using deionized water and then dried under vacuum for 12 h and finally treated with H2 at 300 °C for 1 h prior to storage."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of 0.25% single atom Pt supported on α-MoC",
+        "output": "The catalyst is prepared by impregnation with metal precursor chloroplatinic acid and support α-MoC\n\nThe synthesis procedures are as followed:\n1. samples with 0.25 wt% Pt loading was passivated α-MoC\n2. The slurry was stirred for 2 h under Ar protection. \n3. The liquid was removed using a rotary evaporator under vacuum at 35 °C. \n4. Finally, the powder was put in a frozen dryer overnight to remove the residual moisture."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of singlea atom metal Mn supported on MoS2",
+        "output": "The catalyst is prepared by impregnation with metal precursor Mn(CH3COO)2·4H2O\n\nThe synthesis procedures are as followed:\n1. First, 1 mmol Mo source (176 mg, (NH4)6Mo7O24·4H2O), a certain amount of metal salts Mn(CH3COO)2·4H2O and 750 mg CH3CSNH2 (10.0 mmol) were dissolved in 70 ml distilled water. \n2. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). \n3. Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. \n4. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. \n5. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min−1 and kept there for 2 hours in a furnace, and then cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of singlea atom metal Fe supported on MoS2",
+        "output": "The catalyst is prepared by impregnation with metal precursor Fe(CH3COO)2·4H2O\n\nThe synthesis procedures are as followed:\n1. First, 1 mmol Mo source (176 mg, (NH4)6Mo7O24·4H2O), a certain amount of metal salts Fe(CH3COO)2·4H2O and 750 mg CH3CSNH2 (10.0 mmol) were dissolved in 70 ml distilled water. \n2. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). \n3. Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. \n4. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. \n5. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min−1 and kept there for 2 hours in a furnace, and then cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of singlea atom metal Co supported on MoS2",
+        "output": "The catalyst is prepared by impregnation with metal precursor Co(CH3COO)2·4H2O\n\nThe synthesis procedures are as followed:\n1. First, 1 mmol Mo source (176 mg, (NH4)6Mo7O24·4H2O), a certain amount of metal salts Co(CH3COO)2·4H2O and 750 mg CH3CSNH2 (10.0 mmol) were dissolved in 70 ml distilled water. \n2. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). \n3. Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. \n4. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. \n5. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min−1 and kept there for 2 hours in a furnace, and then cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of singlea atom metal Ni supported on MoS2",
+        "output": "The catalyst is prepared by impregnation with metal precursor Ni(CH3COO)2·4H2O)\n\nThe synthesis procedures are as followed:\n1. First, 1 mmol Mo source (176 mg, (NH4)6Mo7O24·4H2O), a certain amount of metal salts Ni(CH3COO)2·4H2O and 750 mg CH3CSNH2 (10.0 mmol) were dissolved in 70 ml distilled water. \n2. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). \n3. Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. \n4. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. \n5. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min−1 and kept there for 2 hours in a furnace, and then cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Ir supported on (Co,Fe)-OH/MI",
+        "output": "The catalyst is prepared by immersion\n\nThe synthesis procedures are as followed:\n1. First, 2-methylimidazole (20 mmol, MI) was dissolved into deionized water (50 ml) to form a solution, denoted as solution A. \n2. Cobalt nitrate (2.5 mmol, Co(NO3)2∙6H2O) was dissolved in deionized water (50 ml) to form another solution, denoted as solution B\n3. Then, solution B was poured into solution A to form solution C\n4. Next, Ni foam (1 × 2 cm2) was put into solution C\n5. After soaking for 6 h, the Co-MI (that is, Co-MOF) electrode was obtained. \n6. Subsequently, the electrode was rinsed with deionized water.  \n7. A solution was prepared by dissolving cobalt nitrate (Co(NO3)2∙6H2O, 1 mmol), iron nitrate (Fe(NO3)3∙6H2O, 1 mmol) and an Ir3+ aqueous solution (7.14 mg ml−1, 350 μl) in a mixture of deionized water (20 ml) and ethylene glycol (10 ml). \n8. The pH value of this solution was kept at ~4.5 by adding an appropriate amount of 2 mol l−1 NaOH. \n9. Subsequently, the pre-prepared Co-MI electrode was immersed in this solution for 20 h. \n10. Following immersion, the Ir1/(Co,Fe)-OH/MI was obtained and washed three times using deionized water. \n11. The mass loading of the Ir1/(Co,Fe)-OH/MI catalyst loaded on Ni foam was 0.70 mg cm−2."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on α-MoC",
+        "output": "The catalyst is prepared by impregnation with metal precursor H2PtCl6·6H2O and support α-MoC\n\nThe support α-MoC is prepared as followed:\n1. Ammonium molybdate tetrahydrate (AMT, (NH4)6Mo7O24·4H2O) was purchased from Sinopharm Chemical Reagent. \n2. The grinded powder of AMT was calcined in the muffle oven to 773 K at a rate of 10 K min−1 to synthesize the precursor MoO3. \n3. 1 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. \n4. The powder was heated to 973 K in ammonia (160 ml min−1; pre-purified gas) at a rate of 5 K min−1 and kept at 973 K for 2h. \n5. After the sample was cooled to room temperature, the gas was switched to a methane (CH4)/H2 mixture (150 ml min−1; 20/80 v/v) and the temperature was increased to 973 K at 5 K min−1 and held at 973 K for 2 h. \n6. Finally, the sample was passivated at room temperature using a 1% oxygen/Ar gas mixture.  \n\nAfter the support is prepared, the catalyst synthesis are as followed:\n1. the α-MoC substrate was reduced in 10% H2/nitrogen (N2) (20mlmin−1) at 523K for 60 min, which is expected to create more surface anchoring sites for Pt species \n2. Appropriate amounts of H2PtCl6·6H2O (Sigma-Aldrich) were dissolved in 200 μl deaerated deionized water. \n3. The Pt precursor solution was finely mixed with 50mg α-MoC powder, followed by drying in a vacuum oven at 323 K. \n4. Before catalytic evaluation, the samples were mildly reduced at 623 K for 1 h under H2 flow at a flow rate of 60 ml min−1 first. \n5. Then the stream was switched to 15% CH4/H2 (100mlmin−1), and the temperature was increased at 5Kmin−1 to 863K and then held at this temperature for 2h to reactivate the samples. \n6. The samples were then cooled to room temperature in 15% CH4/H2."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on γ-Mo2N",
+        "output": "The catalyst is prepared by impregnation with metal precursor H2PtCl6 and support γ-Mo2N\n\nThe support γ-Mo2N is prepared as followed:\n1. Ammonium molybdate tetrahydrate ((NH4)6Mo7O24·4H2O) powder (10 g) was calcined in a muffle furnace at 500 °C for 10 h to synthesize MoO3. \n2. Subsequently, 2 g of untreated MoO3 powder was nitridated in pure ammonia flow (200 ml min−1) by the following temperature-programmed procedure: heated from room temperature to 350 °C at a rate of 10 °C min−1, then to 450 °C at 0.5 °C min−1 and finally to 785 °C at 2 °C min −1\n3. The sample was held at 785 °C for an additional 4 h. \n4. The sample was then cooled down to room temperature and subjected to passivation using 0.5% O2/Ar (60 ml min−1) as the passivation gas overnight to yield the γ-Mo2N powder.  \n\nAfter the preparation of support γ-Mo2N, the catalyst is synthesized as followed:\n1. A total of 400 mg of passivated γ-Mo2N powder was introduced into 15 ml of H2PtCl6 solution of appropriate concentration and stirred in pure argon atmosphere for 1 h. \n2. The suspension was subsequently evaporated at 30–35 °C. \n3. The product was reduced at 350 °C for 2 h under 10% H2/90% Ar"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Pt supported on α-MoC",
+        "output": "The catalyst is prepared by impregnation with metal precursor H2PtCl6 and support α-MoC \n\nThe support α-MoC  is prepared as followed:\n1. 1 g of MoO3 powder was heated in pure ammonia (160 ml min−1) from room temperature to 700 °C at a rate of 5 °C min −1 and maintained at 700 °C for 2 h. \n2. After the nitridation process, the sample was cooled down to room temperature, then heated in 20% CH4/80% H2 (160 ml min−1) to 700 °C at 5 °C min−1 and held at 700 °C for 2 h. \n3. The sample was then cooled down to room temperature and subsequently subjected to passivation using 0.5% O2/Ar as the passivation gas overnight \n\nAfter the preparation of support α-MoC , the catalyst is synthesized as followed:\n1. A total of 400 mg of passivated α-MoC powder was introduced into 15 ml of H 2PtCl6 solution of appropriate concentration and stirred in pure argon atmosphere for 1 h. \n2. The suspension was subsequently evaporated at 30–35 °C \n3. The product was reduced at 590 °C for 2 h under 15% CH4/85% H2"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single Pt atoms on Ru nanoparticles.",
+        "output": "The catalyst is prepared impregnation with metal precursor Platinum(II) acetylacetonate \n\nThe catalyst is prepared as followed:\n1. faceted Ru branched nanoparticles (0.1 mmol) and oleylamine (1 mmol, Sigma-Aldrich, 70%) were dispersed in 5.0 ml 1-octadecene (Sigma-Aldrich, 90 %) in a 25 ml two-necked round-bottomed flask. \n2. The solution was heated at 180 °C for 30 min under a nitrogen flow. \n3. Platinum(II) acetylacetonate (0.025 mmol, Sigma-Aldrich, 97%) was dissolved in 2 ml benzyl ether (Sigma-Aldrich, 98%) and slowly injected into the Ru solution at a rate of 0.2 ml min−1. The reaction was kept at 180 °C for 1 h. \n4. The synthesized nanoparticles were purified by precipitation using a mixture of toluene and ethanol and centrifuging at 1,500 r.p.m. for 5 min.\n5. The nanoparticles were then loaded on 10 mg Vulcan XC carbon (Fuel Cell Store) in 10 ml hexane and the mixture was stirred overnight. \n6. The products were collected by centrifugation and stored in a vial. \n7. The carbon-loaded PtRu branched nanoparticles were heated under a 5% hydrogen/nitrogen gas mixture at 200 °C for 2 h."
+      }
+    ]
+  }
+]

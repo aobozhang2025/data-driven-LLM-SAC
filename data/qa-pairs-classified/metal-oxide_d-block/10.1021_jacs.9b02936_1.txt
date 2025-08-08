@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Pt supported on Y zeolite
+
+answer
+The catalyst is synthesized by impregnation with metal precursor PtCl2 and support Y zeolite
+
+The synthesis procedures are as followed:
+1. PtCl2  and excess ethylenediamine (EDA) were mixed in distilled water and stirred until completely dissolved, in which EDA acted as both ligand to adjust the size of the precursors and protective agent to prevent metal precipitation in the intense alkaline hydrothermal conditions for Y zeolite crystallization. 
+2. Then, NaOH, NaAlO2, SiO2, and directing agent were introduced into the aqueous solution, reaching the final molar composition of 3.36 Na2O:1.0 Al2O3:8.4 SiO2:250  H2O:0.015 PtCl2: 2.0EDA, and the final pH value of the  starting gel was over 14. 
+3. After crystallization at 100 °C for 12 h without stirring, the obtained products were washed with distilled water adequately, followed by calcination in static air and flowing H2 successively.

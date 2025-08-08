@@ -1,0 +1,13 @@
+question
+preparation of Ni doped by N supported on Carbon, denoted by Ni-N-C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor NiCl2·6H2O
+
+The synthesis procedures are as followed:
+1. 4.3875 g NaCl, 416 mg glucose and 0.03 mmol NiCl2·6H2O were added into 25 mL DI and stirred for 1 h to ensure the homogeneous state of the solution. 
+2. The obtained mixture was freeze-dried for 48 h and then ground by agate mortar to form fine powder.  
+3. The powder was put in the middle of the tube furnace and flushed with argon gas (Ar) for at least 30 min to eliminate air thoroughly. 
+4. The tube furnace was heated at 500 °C with the ramp rate of  5 °C/min and kept for 4 hours under the ammonia gas (NH3) atmosphere (the flow rate of NH3 was  50 sccm). 
+5. Dissolve the calcination powder in 2000 mL water and stir overnight to remove NaCl template completely, then dried at 80 °C overnight. 
+6. Calcining the black powder under 850 °C by  controlling the heating rate 5 °C/min for 4 hours under the protection of Ar

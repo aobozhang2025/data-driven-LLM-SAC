@@ -1,0 +1,11 @@
+question
+Preparation of single atom Co supported on CZ
+
+answer
+The catalyst is prepared impregnation with metal precursor Co(NO3)3⋅6H2O
+
+The catalyst is prepared as followed:
+1. 0.8 g of Pluronic P123 (Sigma-Aldrich) and the desired ratio of Ce(NO3)3⋅6H2O (Sigma-Aldrich), ZrOCl2⋅8H2O (Sigma-Aldrich) and Co(NO3)2⋅6H2O (total amount of Co, Ce and Zr was 5 mmol) were added to 16 ml of ethanol. 
+2. After stirring for at least 2 h at room temperature, the homogeneous sol was transferred to an oven at 40 °C. 
+3. After 48 h of ageing, the gel product was dried at 100 °C for 24 h. 
+4. Calcination was carried out in air by slowly increasing the temperature from room temperature to 500 °C at a rate of 1 °C min −1, followed by a dwell of 4 h at 500 °C.

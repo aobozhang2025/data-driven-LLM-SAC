@@ -1,0 +1,19 @@
+question
+Synthesis of the single metal atom Co supported on N,S-doped carbon
+
+answer
+The catalyst is synthesized with template silica nanosphere
+
+The silica nano spheres are prepared as followed:
+1. TEOS (tetraethyl orthosilicate, 6 ml) was added into ethanol (210 ml) under stirring. 
+2. Then ammonium hydroxide (25 wt%, 7.2 ml) and water (42 ml) were added to the  above solution dropwise. 
+3. The mixture was kept at room temperature for 24 h under stirring,  forming the white suspension. 
+4. The solid precipitate was subsequently separated by using the centrifuge at 8500 rpm for 10 min and washed by water and ethanol for 3 times.
+5. Finally, the SiO2 nanospheres were obtained in the vacuum oven at 65 °C for 12 h.  
+
+After the preparation of silica nanospheres, the catalyst is prepared as followed:
+1. 1-allyl-2-thiourea (1.0 g) and silica nanospheres (1.0 g) were mixed in the deionized water (5 ml) with 5 mg Co(NO3)2 in a glass bottle at 80 °C for 2 h, respectively. 
+2. The dissolved 1-allyl-2-thiourea and metal precursor can form a clear solution in the deionized water, facilitating its adsorption on the template (silica sphere) surface. 
+3. The  samples can be obtained by a slow evaporation process (60 °C in the oven). 
+4. The achieved above  materials were then calcined at 900 °C for 3 h under an inert atmosphere. The ramp rate of the carbonization process is 5 °C min-1. 
+5. remove the silica nanospheres template by using 5 M NaOH hot solution and then acid leaching.

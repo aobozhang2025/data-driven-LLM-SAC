@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Pt supported on TiO2 nanoparticles
+
+answer
+The catalyst is synthesized by irradiation with metal precursor chloroplatinic acid.
+
+The synthesis procedures are as followed:
+1. The chloroplatinic acid was firstly solved in ethanol with 0.05 M. 
+2. The solution was dropped onto TiO2 nanoparticles (purchased from Aladdin, China) with a loading amount of ~0.1 ml/mg, followed by ultrasonication for 1 h and dried in vacuum oven at room temperature.  
+3. To synthesize Pt species, the precursors-loaded substrates were dispersed in hexane at 0.5 mg/ml under stirring. 
+4. The solution was irradiated with a fiber laser for 8 h under stirring, ensuring all the substrates to interact with laser beam. 
+5. Finally, the mixture was centrifuged and rinsed several times in ethanol to remove the unreacted salt precursors, and the sample was dried in a vacuum oven.

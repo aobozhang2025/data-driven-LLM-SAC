@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Cu supported on TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O and support TiO2
+
+The synthesis procedures are as followed:
+1. TiO2 powder was reduced by 10% H2/N2 at 500 °C for 2 h to obtain reduced TiO2 (TiO2-reduced). 
+2. 200 mg of pretreated TiO2 powder was dispersed into 20 ml of ultrapure water
+3. then 760 μl of Cu(NO3)2·3H2O (20 mg ml−1) aqueous solution was introduced into the mixture under vigorously stirring in a 100-ml beaker. 
+4. The obtained suspension was then subject to UV illumination for 5 min at ambient temperature, with the operating current set to 0.8 A.
+5. Subsequently, the mixture was centrifuged and washed in ultrapure water twice, then dried overnight at 60 °C in an oven. 
+6. The bulk sample was milled carefully using a quartz mortar

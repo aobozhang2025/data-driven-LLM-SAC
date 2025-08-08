@@ -1,0 +1,13 @@
+question
+Preparation of single atom Ir supported on WC, denoted by Ir SAs/WCx
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3.
+
+The synthesis procedures are as followed:
+1. First, 330 mg (1 mmol) Na2WO4·2H2O was dissolved in 10 ml deionized water. 
+2. Then, IrCl3 (0.025  mmol) solution was added to the above solution dropwise with vigorous stirring for 2 h.  
+3. Next, 10 mL dopamine (DA) solution (189.6 mg DA) was added to the above solution dropwise with vigorous stirring for 4 h. 
+4. Ru-WO-DA precursor was obtained through centrifuged and dried at 60 °C. 
+5. carbonizing the precursor in an Ar atmosphere at 900 °C for 4 h, with a 5 °C·min-1 ramp.
+6. The black powder was collected and further ground into more uniform and finer samples

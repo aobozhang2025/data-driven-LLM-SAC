@@ -1,0 +1,66 @@
+question
+purpose of reduction in SAC synthesis
+
+answer
+Stabilize metal in atomic form.
+Convert metal precursors (e.g., metal salts or organometallics) into catalytically active forms.
+Prevent aggregation into clusters or nanoparticles.
+
+question
+reduction methods in SAC synthesis
+
+answer
+A. Thermal Reduction (H₂ Atmosphere)
+Procedure:
+The impregnated/support material is heated under a flow of hydrogen gas.
+Typical temperatures: 200–500°C, depending on metal and support.
+Mechanism:
+Hydrogen gas reduces the metal precursor (e.g., Pt²⁺ → Pt⁰).
+Strong metal-support interaction (SMSI) helps trap single atoms.
+Supports:
+Often oxides with oxygen vacancies (e.g., CeO₂, TiO₂) to anchor the atoms.
+
+B. Chemical Reduction
+Reducing agents:
+NaBH₄, hydrazine (N₂H₄), formaldehyde (HCHO), ascorbic acid.
+Procedure:
+Typically done in solution phase.
+Metal precursor and reducing agent are mixed at controlled pH and temperature.
+Use case:
+Useful for mild conditions or water-soluble systems.
+Often used in colloidal or surfactant-assisted syntheses.
+
+C. Photochemical or Plasma Reduction
+Photochemical: Uses UV or visible light in the presence of photocatalysts.
+Plasma: Cold plasma can reduce metal ions at low temperatures.
+Advantage: Avoids thermal agglomeration; good control over oxidation states.
+
+question
+critical parameters of reduction in SAC synthesis
+
+answer
+Temperature:	Too high may cause sintering; too low may be incomplete.
+Time: Longer time can allow atom migration and agglomeration.
+Hydrogen partial pressure: Affects reduction efficiency.
+Precursor nature: Determines reducibility and anchoring behavior.
+Support surface: Defect sites and vacancies enhance stabilization.
+Atmosphere control: Inert/N₂ vs. reducing (H₂) determines oxidation state.
+
+question
+role of supports in stabilization of SAC synthesis
+
+answer
+Defect sites / oxygen vacancies trap and anchor reduced atoms.
+Strong Metal–Support Interaction (SMSI) helps maintain atom dispersion.
+Examples:
+CeO₂: Forms Ce³⁺ sites that bind single atoms.
+N-doped carbon: Provides lone pairs that coordinate with single atoms.
+MOFs: Pre-designed anchor points.
+
+question
+stabilization strategies post reduction in SAC synthesis
+
+answer
+Rapid cooling to "freeze" atom positions.
+Encapsulation or surface passivation layers (e.g., thin carbon layers).
+Ligand protection in wet chemistry (e.g., PVP, thiols).

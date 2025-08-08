@@ -1,0 +1,9 @@
+question
+chemical properties of zinc (Zn)
+
+answer
+In its bulk form, zinc is a moderately reactive metal. Its electron configuration, [Ar] 3d¹⁰ 4s², dictates its primary chemical behavior. The two electrons in the outer 4s orbital are readily lost, leading to the common +2 oxidation state in most zinc compounds. This complete d-shell configuration contributes to the stability of the Zn²⁺ ion and means that, unlike many other transition metals, zinc compounds are often colorless and diamagnetic.
+
+Reactivity: It is a good reducing agent, readily reacting with acids to release hydrogen gas. It also reacts with non-metals and can form a protective passivating layer of zinc carbonate in the presence of atmospheric carbon dioxide.
+
+Coordination Chemistry: Zinc ions in solution typically form octahedral complexes with water molecules. In catalytic systems, it demonstrates a preference for coordinating with nitrogen and sulfur donor atoms, forming stable tetrahedral or other low-coordination geometries.

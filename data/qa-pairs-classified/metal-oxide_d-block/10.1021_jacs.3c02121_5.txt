@@ -1,0 +1,16 @@
+question
+Synthesis of single atom Ru supported on ZSM-5, denoted by Ru1/ZSM-5  
+
+answer
+The catalyst is synthesized by impregnation with metal precursor RuCl3 and support ZSM-5
+
+The synthesis procedures are as followed:
+1. TEOS, TPAOH, H2O, and NaAlO2 were mixed with a molar ratio of 1:0.3:35:0.02. 
+2. The mixture was stirred at room temperature for 12 h, then transferred to a Teflon-lined  autoclave, and kept for 3 days at 180 °C. 
+3. After centrifugation and washing, the products were dried overnight at 60 °C and calcined at 550 °C for 6 h. 
+4. The H-form samples were prepared by ion exchange with 0.1 M NH4NO3 at 80 °C for 4 h and calcined at 550 °C  for 6 h. 
+5. The ion exchange and calcination procedures were repeated twice. ZSM-5 was obtained
+6. The ZSM-5 was calcined at 550 °C for 4 h before impregnation. 
+7. 73 μL RuCl3 aqueous solution (4.1 mg mL-1, calculated as Ru) and 900 μL of ultra-pure water was mixed dropwise into 0.3 g of ZSM-5 support and stirred by vibration to make it evenly mixed.  
+8. The resulting paste mixture was transferred to a 40 °C oven for 6 h, then heated to 100 °C and dried for 4 h. 
+9. The dried solid was thoroughly ground, and then calcined in a tubular furnace at 400 °C for 4 h in an Air atmosphere.

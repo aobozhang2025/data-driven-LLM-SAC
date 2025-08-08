@@ -1,0 +1,19 @@
+question
+Synthesis of single atom Co doped by 4 N supported on N-C, denoted by Co1-N4. 
+
+answer
+The catalyst is prepared by impregnation with metal precursor CoCl2 and support ZIF-8
+
+The support ZIF-8 is prepared as followed:
+1. Zn(NO3)2∙6H2O (1.069 g, 3.6 mmol) was dissolved in  20 mL methanol. 
+2. Then the solution was added into 20 mL of methanol containing 2-methyimidazole (1.161 g, 14.2 mmol). 
+3. After vigorously stirring for 5 minutes, the mixed solutions were transferred into a 50 mL Telfon-lined stainless-steel autoclave and subjected to treatment at 120 oC  for 4 h. The autoclave was cooled down to room temperature. 
+4. The solid products were collected by centrifugation and washed five times with methanol.
+5. Finally, the products were dried at 70 oC under vacuum overnight.  
+
+After the support ZIF-8 is prepared, the catalyst is synthesized as followed:
+1. ZIF-8 (100 mg) were dispersed in 30 mL methanol.  
+2. Subsequently, the solution was added to 20 mL of methanol containing CoCl2 (10 mg). 
+3. The mixed solutions were vigorously stirred at 40 oC for 16 hours. Afterward, the mixture was cooled down to room temperature. 
+4. The solid products (Co-P/ZIF-8) were collected by centrifugation and  washed five times with methanol. 
+5. Finally, the Co-P/ZIF-8 was placed in a tube furnace and heated under argon gas flow (100 mL/min) at a heating rate of 5 oC/min to reach a temperature of 950 oC for 3 h after drying the products at 70 oC under vacuum overnight.

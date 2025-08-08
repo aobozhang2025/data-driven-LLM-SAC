@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Ru supported on Ni2P Nanoparticles. 
+
+answer
+The catalyst is prepared with metal precursor ruthenium(III) chloride
+
+The single atom Ru on Ni12P5 Nanoparticles, denoted by RuSA-Ni12P5, is prepared as followed:
+1. First, 2 mmol of nickel acetylacetone and 20 mg of ruthenium(III) chloride were dissolved into 10 mL of OAm and 10 mL of ODE at 120 °C in an Ar-filled glovebox. 
+2. The prepared transparent solution was heated to 220 °C and kept at this temperature for 1 h. 
+3. Then, 8 mmol of TPP was added into the solution, and the solution was kept at 280 °C for 2 h before cooling to room temperature. 
+4. The black powder was collected and washed several times with hexane and ethanol under spinning at 10 000 rpm for 5 min. 
+5. The precipitate was then redispersed in ethanol and dried in air at 60 °C for 12 h.  
+
+After RuSA-Ni12P5 is prepared, the catalyst is synthesized as followed:
+1. First, as-prepared 20 mg of RuSA-Ni12P5 and 0.4 g of NaH2PO3 were mixed in a porcelain ark. 
+2. The porcelain ark was placed in a tube furnace with flowing Ar. 
+3. The tube furnace was heated to 300 °C at a rate of 5 °C/min and held for 2 h. 
+4. After cooling to room temperature, the black powders were dried in air at 60 °C for 12 h. 
+5. 20 mg of the as-prepared powder was placed into a tube furnace under Ar flow at atmospheric pressure. 
+6. The powder was then heated to 350 °C for 1 h.

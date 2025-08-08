@@ -1,0 +1,14 @@
+question
+Synthesis of single Pt atoms on Ru nanoparticles. 
+
+answer
+The catalyst is prepared impregnation with metal precursor Platinum(II) acetylacetonate 
+
+The catalyst is prepared as followed:
+1. faceted Ru branched nanoparticles (0.1 mmol) and oleylamine (1 mmol, Sigma-Aldrich, 70%) were dispersed in 5.0 ml 1-octadecene (Sigma-Aldrich, 90 %) in a 25 ml two-necked round-bottomed flask. 
+2. The solution was heated at 180 °C for 30 min under a nitrogen flow. 
+3. Platinum(II) acetylacetonate (0.025 mmol, Sigma-Aldrich, 97%) was dissolved in 2 ml benzyl ether (Sigma-Aldrich, 98%) and slowly injected into the Ru solution at a rate of 0.2 ml min−1. The reaction was kept at 180 °C for 1 h. 
+4. The synthesized nanoparticles were purified by precipitation using a mixture of toluene and ethanol and centrifuging at 1,500 r.p.m. for 5 min.
+5. The nanoparticles were then loaded on 10 mg Vulcan XC carbon (Fuel Cell Store) in 10 ml hexane and the mixture was stirred overnight. 
+6. The products were collected by centrifugation and stored in a vial. 
+7. The carbon-loaded PtRu branched nanoparticles were heated under a 5% hydrogen/nitrogen gas mixture at 200 °C for 2 h.

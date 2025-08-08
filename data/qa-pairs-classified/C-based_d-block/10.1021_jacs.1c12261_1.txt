@@ -1,0 +1,8 @@
+question
+Preparation of 0.1% weight ratio single atom Pt supported on nanodiamond core with graphitic shell (ND@G), denoted by 0.1 wt% Pt1/ND@G 
+
+answer
+1. ND@G were prepared by annealing nanodiamond powders at 1373 K for 4h in Ar flow (100 ml min-1).  
+2. the aqueous H2PtCl6∙6H2O solution (equivalent to 0.1 wt% Pt loading on ND@G  support) was initially added in 2ml ethanol. 
+3. Then, 200 mg ND@G was dispersed into the solution.  
+4. After stirred for 20 h at room temperature, the resulting sample was dried at 333 K for 12 h and reduced in H2 (10 vol% H2/Ar) at 473 K for 2h.

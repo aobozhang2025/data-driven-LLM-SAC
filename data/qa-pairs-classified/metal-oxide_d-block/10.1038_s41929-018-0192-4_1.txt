@@ -1,0 +1,14 @@
+question
+synthesis of single atom Ir supported on MgAl2O4
+
+answer
+The catalyst is prepared impregnation with support MgAl2O4
+
+The catalyst is prepared as followed:
+1. The MgAl2O4 support (Puralox MG 28, Sasol) was calcined at 500 °C for 4 h before impregnation. 
+2. Deionized water (20 ml) was added to a Pyrex bottle and the pH was adjusted with nitric acid to 2.8. 
+3. The Ir nitrate precursor (8.7 wt% Ir, Furuya Metal Co.) was added into the pH-adjusted solution. 
+4. The MgAl2O4 support was then added into the solution while stirring. The final pH of the solution was 9.5. The nominal Ir weight loading was 0.0025%. 
+5. After 12 h of stirring, the solution was filtered out and the solid sample was dried in air for 24 h at room temperature. 
+6. The sample was then dried at 80 °C and 100 °C before calcination at 500 °C for 4 h. 
+7. The Ir in the solution after filtration was measured by inductively coupled plasma atomic emission spectroscopy and no Ir was detected.

@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Pd supported on TRIDAP
+
+answer
+The catalyst is synthesized by impregnation with metal precursor K2PdCl4 and support TRIDAP
+
+The support TRIDAP is prepared as followed:
+1. 2,6 DAP (10 mmol, 1 equiv) and Na2CO3 (2 equiv) were added to a three-necked roundbottom flask containing 200 mL of dioxane as a solvent.
+2. Subsequently, CCl3 (15 mmol, 1.5 equiv) was slowly added to the reaction mixture while maintaining a temperature range of 0−5 °C. 
+3. The reaction mixture was then stirred for 2 h before being heated to 100 °C using an oil bath for 24 h. 
+4. Upon completion of the reaction, a pale, yellow colored slurry was collected via filtration. 
+5. The collected material was washed several times using Milli-Q water, ethanol, and acetone. 
+6. Finally, the resulting material was dried at 70 °C to yield the product (90% yield). 
+
+After the preparation of support TRIDAP, the catalyst is synthesized by impregnation as followed:
+1. 300 mg of TRIDAP organic material was first dispersed in 100 mL of Milli-Q water and the mixture sonicated for 15−20 min, followed by the slow addition of a solution of K2PdCl4 (3 wt %, 50 mL) during sonication and subsequent sonication for an additional 20 min. 
+2. The mixture was then heated at 90 °C for 24 h. 
+3. The resulting material was filtered, washed with Milli-Q water, and dried overnight at 75 °C. 
+4. The dried material was redispersed in 50 mL of Milli-Q water, followed by slow addition of aqueous NaBH4 as a reducing agent, with stirring for 1 h. 
+5. The final product, the Pd1@TRIDAP catalyst, was collected via filtration and washed with water, ethanol, and acetone successively to remove impurities, resulting in a catalyst ready for various catalytic applications.

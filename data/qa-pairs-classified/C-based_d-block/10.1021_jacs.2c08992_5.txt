@@ -1,0 +1,7 @@
+question
+preparation of single atom Pd supported on carbon, denoted by Pd/C
+
+answer
+1. PdCl2 was first dissolved in deionized water and then immersed in the carbon support (Ketigenblack ECP60JD)
+2. the water was removed using a rotary evaporator at 60 oC
+3. The resulting solid was respectively reduced at 200 oC for 2 h under a flowing 5% H2/Ar atmosphere.

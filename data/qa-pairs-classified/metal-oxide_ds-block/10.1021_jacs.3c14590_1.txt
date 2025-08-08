@@ -1,0 +1,20 @@
+question
+Preparation of the single atom Cu supported on TiO2/BiVO4, denoted by Cu1-TiO2/BiVO4
+
+answer
+The catalyst is synthesized by impregnation .
+
+The support TiO2/BiVO4 is prepared as followed:
+1. Bi(NO3)3·5H2O (1 mmol) was dissolved in ultrapure water (40 mL) and stirred for 10 min to form solution A. 
+2. NH4VO3 (1 mmol) and urea (20 mmol) were dissolved in ultrapure water (32 mL) and stirred for 10 min to form solution B. 
+3. Solution A was then added dropwise to solution B, followed by a certain amount of TiO2 (X mmol) and  further stirring for 60 min to form a suspension. 
+4. Next, the suspension was transferred to a hydrothermal reactor (HTG-100-SS1, Anhui Kemi Machinery Technology Co., Ltd),  and heated at 90 °C for 12 h. 
+5. Subsequently, it was naturally cooled to room temperature, centrifuged to obtain a solid precipitate, which was then washed with  deionized water, and dried at 60 °C overnight. 
+6.Finally, the solid powder was reduced at 400 °C for 2 h in a H2 atmosphere to obtain a heterojunction catalyst TiO2/BiVO4
+
+After the support TiO2/BiVO4 is prepared, the catalyst is synthesized with the following procedures:
+1. 0.15g of TiO2/BiVO4 was dispersed in an aqueous solution (150 mL) and stirred  continuously for 0.5 h. 
+2. Then Cu (0.5 wt %) solution was added dropwise. 
+3. After that the  suspension was quickly frozen into blocks with liquid nitrogen, and illuminated with a  300 W Xe lamp (CEL-HXF300, Beijing Zhongjiao Jinyuan Technology Co., Ltd.) for 5   min. 
+4. Subsequently, it naturally melted at room temperature, and the obtained  suspension was centrifuged and washed with ultrapure water for 3 times. 
+5. Finally, the precipitate obtained was dried at 60 °C overnight

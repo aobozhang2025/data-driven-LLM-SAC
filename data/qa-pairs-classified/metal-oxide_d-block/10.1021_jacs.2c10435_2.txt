@@ -1,0 +1,11 @@
+question
+synthesis of single atom Pt supported on CeO2, denoted by Pt/CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor tetraammineplatinum nitrate
+
+The synthesis procedures are as followed:
+1. First, 300 mg of commercial CeO2 was depressed into 10 mL of deionized water under vigorous stirring. 
+2. Afterwards, appropriate amount of tetraammineplatinum nitrate aqueous solution (20 mg/mL) was added to the suspension for the impregnation of CeO2. 
+3. The impregnated catalysts were dried overnight at 80 °C in air.  
+4. Finally, the dried precursor was calcined in a muffle furnace at 800 °C for 6 hours with  a heating rate of 5 °C min-1.

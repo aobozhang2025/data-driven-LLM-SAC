@@ -1,0 +1,10 @@
+question
+preparation of single atom Pd supported on CeO2
+
+answer
+The catalyst is prepared impregnation with metal precursor Tetraamminepalladium(II) nitrate and support CeO2
+
+The catalyst is prepared as followed:
+1. Tetraamminepalladium(II) nitrate solution (TAPN, 10 wt.% in H2O, 99.99%) and cerium(III) nitrate hexahydrate (Ce(NO3)3·6H2O, 99.995%) obtained from Sigma Aldrich were used as the precursors of Pd and CeO2. 
+2. CeO2 support with mild crystallinity was obtained via thermal decomposition of Ce(NO3)3·6H2O at 350 °C in air for 2 h. 
+3. After impregnation of TAPN (1 wt.% Pd), the powders were dried overnight at 80 °C followed by calcination in static air at 800 °C for 8 h with a ramp of 5 °C min−1.

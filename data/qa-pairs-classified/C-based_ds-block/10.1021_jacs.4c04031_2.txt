@@ -1,0 +1,10 @@
+question
+synthesis of single atom Cu doped by 4 N and supported on C, denoted by CuSA-N4/C 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CuCl2·2H2O and support Formamide (FA)
+
+The synthesis procedures are as followed:
+1. 10.2 mg CuCl2·2H2O and 416.3 mg ZnCl2 were added into 30 mL Formamide (FA), undergoing sonication for 30 minutes to obtain a homogeneous solution, which was then transferred into a 40 mL Teflon-lined autoclave and heated at 200 °C for 12 h. 
+2. Resulted black product was separated by centrifugation and purified by deionized water 3 times and dried at 60 °C for 12 h. 
+3. Afterward, the dried powder was placed into a ceramic boat and annealed at 950 °C for 2 h in a tube furnace (with a heating rate of 5 °C under Ar atmosphere), during which Zn species would be vaporized as the boiling point of 907 °C.

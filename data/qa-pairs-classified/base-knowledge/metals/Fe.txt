@@ -1,0 +1,23 @@
+question
+chemical properteis of atom Fe
+
+answer
+The iron (Fe) atom, with an atomic number of 26, possesses a unique set of chemical properties that make it a versatile and widely studied element in single-atom catalysis. Its electron configuration, [Ar] 3d⁶ 4s², allows for multiple oxidation states, most commonly +2 (ferrous) and +3 (ferric), which are central to its catalytic activity. This ability to easily shuttle between different oxidation states enables iron to facilitate redox reactions, a cornerstone of many catalytic processes.
+
+Iron's relatively low electronegativity and ionization energies mean it can readily interact with and donate electrons to other elements, forming the basis for its role as a catalyst. The partially filled d-orbitals of iron are also crucial, as they can accept and donate electrons from and to reactant molecules, thereby activating them and lowering the energy barrier for chemical transformations.
+
+question
+common Fe precursors:
+
+answer
+Inorganic salts of iron are a straightforward and cost-effective choice of Fe precursors. Commonly used examples include:
+Iron(III) chloride (FeCl3)
+Iron(III) nitrate (Fe(NO3)3)
+Iron(II) sulfate (FeSO4)
+Ferrous sulfate heptahydrate (FeSO4 7H2O)
+
+question
+chemical properties of Iron phthalocyanine (FePc)
+
+answer
+This complex has a structure similar to the active center in hemoglobin. When supported and pyrolyzed, the organic framework can be partially or fully removed, leaving the iron atom coordinated to nitrogen atoms embedded within a carbon matrix. This Fe-N-C configuration is a highly effective active site for many catalytic reactions, particularly the oxygen reduction reaction.

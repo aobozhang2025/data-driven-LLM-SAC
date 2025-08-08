@@ -1,0 +1,21 @@
+question
+synthesis of 2% single atom Pt supported on α-MoC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6•6H2O and support β-Mo2C
+
+The support is prepared as followed:
+1. Ammonium paramolybdate ((NH4)6Mo7O24•4H2O) was purchased from Sinopharm Chemical Reagent Co. Ltd. 
+2. A grinded powder of ammonium paramolybdate was calcined in a muffle  oven to 500 °C at a rate of 10 °C min−1 to synthesize the precursor MoO3. 
+3. Then 0.8 g MoO3 was loaded into a quartz tube reactor and placed in a vertical furnace.  
+4. The powder was heated to 700 °C in NH3 (100 ml min−1; pre-purified gas) at a  rate of 5 °C min−1 and kept at 700 °C for 2 hours. 
+5. After the sample was cooled to room temperature, the gas was then switched to a CH4/H2 mixture (100 ml min−1;  20/80 v/v), and the temperature was increased to 700 °C at 5 °C min−1 and held at 700 °C for 2 hours.
+6. Finally, the sample was passivated at room temperature using a 0.5% O2/He gas mixture. Elemental analysis finds that the Mo/C ratio of α-MoC is around 1/0.8. 
+
+After the support is prepared, the catalyst is synthesized as followed:
+1. To synthesize MoO3, an appropriate amount of ammonium paramolybdate was dissolved into pure water, adjusting the pH of the solution to 3.7. 
+2. The solution underwent ultrasonication for 2 hours. The precipitates thus generated were separated by evaporation of solvent and dried at 60 °C under a vacuum overnight. 
+3. The precipitates were then grinded into powder and calcined in air at 500 °C for 4 hours. 
+4. An appropriate amount of H2PtCl6•6H2O was loaded onto a homemade MoO3 support, using a wetness impregnation method. 
+5. the product was loaded in the quartz tube and carburized with a CH4/H2 mixture (100 ml min−1; 20/80 v/v), with the temperature being increased  at 5 °C min−1 to 300 °C, then at 1 °C min−1 to 700 °C. 
+6. After carburization at 700 °C for 2 hours, the sample was cooled to room temperature and passivated using a 0.5% O2/He gas mixture.

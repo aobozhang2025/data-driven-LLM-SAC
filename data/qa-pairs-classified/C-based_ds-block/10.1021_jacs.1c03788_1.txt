@@ -1,0 +1,18 @@
+question
+Synthesis of single atom Cu doped by N supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2 and SiO2 template
+
+The synthesis procedures are as followed:
+1. 5.5 g 2,6-Diaminopyridine (DAP) and 27.87 g Ludox colloidal silica (SiO2) were firstly mixed in 400 mL H2O under vigorous stirring. 
+2. Then 1.18 g NaOH was added into the solution above under agitation for 10 min. 
+3. Next, 18.57 g/70 ml  (NH4)2S2O8 aqueous solution was quickly dropped into the resultant solution with successive stir for 12 h at ice bath for sufficient polymerization. 
+4. The polymerized product was collected by filtration with water alternatively several times, and then dried in an oven 120 oC. 
+5. Subsequently, the as-prepared N-C precursor was pyrolyzed at 800 oC for  2 h in NH3/He (V/V=1:1, 50mL/min) atmosphere with a ramping rate of 5 oC/min. 
+6. Finally, the obtained black powder  was etched twice by 10 wt% HF (Caution: danger!!!) for 4 h to remove the SiO2 template and then dried under 80  oC overnight, denoted as N-C.  
+7. a certain amount of Cu(NO3)·3H2O was first dissolved in 2 ml ethanol
+8. 92 mg N-C powder was dispersed into another 25 ml ethanol under sonication. 
+9. Cu(NO3)2  solution was added into N-C dispersion with vigorous agitation for 4 h at 60 oC. 
+10. Afterwards, the mixed solution was filtered and washed repeatedly using ethanol to remove the superfluous Cu ion. 
+11. The resulted sample was dried in an oven at 80 oC and then heat-treated at 140 oC with a heating rate of 2 oC under flowing NH3/He gas for 2 h to obtain the Cu-N-C SAC.

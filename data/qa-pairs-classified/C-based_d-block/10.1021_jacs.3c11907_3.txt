@@ -1,0 +1,12 @@
+question
+synthesis of single atom Co supported on 2,5-diaminobenzene-1,4dithiol (DABDT), denoted by Co-DABDT
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CoCl2
+
+The synthesis procedures are as followed:
+1. 0.2 mmol of DABDT·2HCl (analytic grade, purchased from Yanshen Technology) was dissolved in 10 mL of N,N-dimethylformamide (DMF, analytic grade, purchased from Aladdin Biochemical Technology) to form solution I. 
+2. CoCl2 (0.2 mmol, analytic grade, purchased from Aladdin Biochemical Technology) was dissolved in 10 mL of deionized water to form solution II.
+3. The above two solutions were mixed and added with 200 μL of ammonia solution diluted 20 times and several pieces of Ni foam. 
+4. The solution was transferred into a Teflon-lined autoclave (50.0 mL) and heated to 70 °C for 12 h. 
+5. The products were collected and washed via centrifugation and dried at 80 °C in a vacuum overnight.

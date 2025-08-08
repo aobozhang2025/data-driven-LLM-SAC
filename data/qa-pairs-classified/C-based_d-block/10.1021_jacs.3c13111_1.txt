@@ -1,0 +1,10 @@
+question
+Preparation of single atom Fe doped by N supported on carbon
+
+answer
+The catalyst is synthesized by the following procedures:
+1. First, 1.25 g of potassium citrate, 5 mg of iron (III) chloride, and 0.75 g of melamine were mixed using ball milling at 400 rpm for two cycles (50 mins of  milling with 10 mins of pauses for one cycle). 
+2. The mixture was heated in a quartz tube at  350 °C for 2 h and 800 °C for 2 h at a heating rate of 3 °C min−1 under Ar or 5% H2/Ar  atmosphere, respectively. 
+3. The obtained black resultant was immersed in 3 M H2SO4, followed by sonication for 1 h. 
+4. After that, the mixture was stirred at 80 °C overnight, and then washed with deionized (DI) water at least five times. 
+5. After drying, the resultants were heated to 800 °C  and maintained for 2 h at a heating rate of 5 °C min−1 under Ar or 5% H2/Ar atmosphere

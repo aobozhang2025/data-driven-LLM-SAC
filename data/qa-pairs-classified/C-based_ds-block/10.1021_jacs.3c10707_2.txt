@@ -1,0 +1,13 @@
+question
+Preparation of single atom Cu supported on ZIF, denoted by CuSA/ZIF
+
+answer
+The catalyst is synthesized by a framework of ZIF synthesis:
+1. 2-Methylimidazole was suspended in 15 mL of methanol as solution A. 
+2. Cu(NO3)2·3H2O and Zn(NO3)2·6H2O were mixed and suspended in 15 mL of methanol as solution B. 
+3. Solution A was then transferred dropwise into solution B with homogeneous stirring. 
+4. The mixed solution was then vigorously stirred at room temperature for 24 h. 
+5. After that, the mixture was centrifuged and washed with methanol three times and was further freeze-dried overnight. 
+6. The resultant powder was then transferred into a quartz boat and placed in a saturated argon-filled gas tube furnace. 
+7. Then, the powder was heated from room temperature to 800 °C with a heating rate of 5 °C·min−1 and further annealed at 800 °C for 3 h under an Ar flow. 
+8. Thus, the final product was collected after being naturally cooled.

@@ -1,0 +1,16 @@
+question
+Synthesis of open-pore single atom Fe supported on N-doped Carbon, denoted by OP-Fe-NC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(NO3)3·9H2O and support etched ZIF-8
+
+The synthesis procedures are as followed:
+1. 2-Methylimidazole (2.24 g) was dissolved in deionized water (10 mL), and Zn(OAc)2∙2H2O (0.6 g) was dissolved in deionized water (10 mL). 
+2. The solutions were mixed and stirred at 500 rpm for 2 h, then allowed to stand at room temperature for 24 h to form rhombic dodecahedral ZIF-8 crystals. 
+3. XO (40 mg) was dissolved in deionized water (5 mL) to form a clear purple solution. 
+4. The pH of the XO solution was adjusted to 2.5 using HCl to prepare the etchant solution. 
+5. This etchant solution was then slowly added to the ZIF-8 colloidal solution, which was stirred at 300 rpm for 3 h at room temperature. 
+6. The resulting mixture was centrifuged, and the collected solid (ZIF-8-etching) was washed several times with water and methanol.  
+7. The as-prepared ZIF-8-etching (100 mg) and Fe(NO3)3·9H2O (2 mg) were stirred and sonicated in ethanol for 2 h at room temperature. 
+8. After filtration and drying at 60 °C for 8 h, FeXO@ZIF-8-etching was obtained. 
+9. FeXO@ZIF-8-etching was then pyrolyzed under flowing N2 at 1000 °C for 2 h with a heating rate of 5 °C min−1 and then washed with 0.5 M H2SO4 to obtain a single-atom Fe catalyst (OP-Fe-NC).

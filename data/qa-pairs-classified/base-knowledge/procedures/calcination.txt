@@ -1,0 +1,64 @@
+question
+objectives of calcination in SAC synthesis
+
+answer
+1. Decomposition of Metal Precursors: Converts metal salts (e.g., nitrates, chlorides) into stable oxides or single atoms.
+2. Removal of Residual Organics: Eliminates ligands, solvents, surfactants, or templates used in impregnation or support synthesis.
+3. Atom Anchoring and Fixation: Facilitates migration and anchoring of isolated metal atoms to defect sites, oxygen vacancies, or heteroatoms (e.g., N, S, P).
+4. Creation of Strong Metal–Support Interactions (SMSI): Promotes bonding between metal species and support to avoid aggregation.
+5. Activation of Support: Modifies the surface chemistry of supports (e.g., creation of –OH, O-vacancies, graphitization).
+
+question
+mechanism of calcination in SACs
+
+answer
+Precursor Decomposition
+Metal precursors decompose under heat:
+Example:
+Pt(NO3)2⋅xH2O→PtOx+NOx+H2O↑
+The released gases (NO_x, H_2O) leave voids and increase porosity.
+
+Atom Diffusion and Anchoring
+Isolated metal atoms migrate on the support surface at elevated temperatures.
+If proper anchoring sites (e.g., N-doped graphene, oxygen vacancies on TiO₂) are present, the metal atoms anchor individually.
+Defects and heteroatoms serve as traps preventing atom sintering.
+
+Formation of Strong Metal–Support Bonds
+Covalent or ionic interactions form between the atom and support.
+For example:
+Pt–O–Ti bonds in Pt/TiO₂ SACs.
+Fe–N₄ sites in Fe-N-C SACs.
+These interactions stabilize the atoms during future thermal or catalytic operations.
+
+Ligand and Residual Removal
+Organics from ligands (e.g., EDTA, PVP, urea) or solvents are decomposed to CO₂, NH₃, H₂O, etc.
+Prevents poisoning of active sites and ensures atom exposure.
+
+question
+key calcination parameters and their influence in SAC synthesis
+
+answer
+Temperature: Crucial to balance decomposition vs. aggregation. Too high → atom migration & sintering.
+Atmosphere: Air, O₂, inert (N₂, Ar), or reductive (H₂/Ar) affects oxidation state and interaction.
+Heating Rate: Fast heating may lead to gas trapping or aggregation. Slow ramping improves uniformity.
+Dwell Time: Determines extent of decomposition and anchoring. Longer time ensures full removal of organics but can promote diffusion.
+Support Material: Affects thermal conductivity and stability of SAC. Example: SiO₂ vs. TiO₂ vs. N-C.
+
+question
+common issues of calcination in SAC synthesis
+
+answer
+Sintering: Metal atoms aggregate into clusters or nanoparticles at high T.
+Incomplete decomposition: Ligands remain, deactivating the catalyst.
+Loss of porosity: Excessive heat collapses the porous structure.
+Oxidation of support: For carbon-based supports, high T in air can lead to combustion.
+
+question
+ways to optimize calcination for SAC synthesis
+
+answer
+Use gradual heating (~1–5 °C/min).
+Choose moderate temperatures that enable decomposition without triggering aggregation.
+Use supports with anchoring sites (vacancies, heteroatoms).
+Consider inert or reductive atmospheres for metal-sensitive SACs.
+Perform post-calcination treatments like mild reduction to restore atom dispersion if needed.

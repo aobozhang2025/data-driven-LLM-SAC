@@ -1,0 +1,17 @@
+question
+Synthesis of the single atom Pt supported on B-TiO2, denoted by Pt1/B-TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor tetraammineplatinum(II) chloride (50 mg, TAPC, PtCl2·4(NH3)· H2O)
+
+The support is prepared as followed:
+1. equal masses of commercial TiO2 (anatase, Sigma−Aldrich) and NaBH4 were ground to form a homogeneous mixture, and this was heated in N2 flow at 260 °C for 2 h. 
+2. The as-prepared powder was then washed with ethanol and ultrapure water several times. 
+3. The obtained samples were then dried at 60 °C for 12 h, and the reduced TiO2 samples are denoted "B-TiO2." 
+
+The synthesis procedures are as followed:
+1. ultrapure water (25 mL) was mixed with ammonium hydroxide (75 mL) to dissolve the TiO2 support (1 g, anatase, Sigma−Aldrich) to yield a suspension. The pH of the suspension was maintained at 12. 
+2. Next, tetraammineplatinum(II) chloride (50 mg, TAPC, PtCl2·4(NH3)· H2O) (Sigma−Aldrich) was dissolved in ultrapure water (25 mL) to prepare a TAPC solution, and this solution (1.284 mL) was added to ammonium hydroxide (25 mL) to create a TAPC precursor solution with a pH value of 12. 
+3. Subsequently, the TAPC precursor solution (25 mL) was injected into the TiO2 support suspension (100 mL) at a rate of 2 mL/h with constant stirring to achieve a final total volume of 125 mL. 
+4. Subsequently, the final suspension was heated to 70 °C until the liquid had evaporated completely. 
+5. Finally, the Pt/TiO2 sample was calcined in He gas at 200 °C for 4 h, followed by H2 reduction at 200 °C for 4 h.

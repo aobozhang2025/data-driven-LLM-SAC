@@ -1,0 +1,31 @@
+question
+chemical properties of Niobium (Nb)
+
+answer
+Niobium (Nb), a lustrous, grey, ductile transition metal with atomic number 41, exhibits a unique set of chemical properties that make it a compelling element in the field of single-atom catalysis. Its ability to exist in multiple oxidation states and its affinity for forming stable oxides and complexes are key to its function as both a catalyst and a support for single, atomically dispersed active sites.
+
+Niobium's chemical behavior is largely dictated by its electron configuration, [Kr] 4d⁴5s¹, which allows for a range of oxidation states from -1 to +5, with +5 being the most common and stable. This versatility in oxidation states is a fundamental asset in catalysis, enabling it to participate in a variety of redox reactions.
+
+question
+chemical properties of Niobium(V) Chloride (NbCl5)
+
+answer
+A widely used Nb precursor due to its reactivity. It can be employed in chemical vapor deposition (CVD) and atomic layer deposition (ALD) processes to deposit thin films or single atoms of niobium oxide onto a support.
+
+question
+chemical properties of Niobium(V) Oxide
+
+answer
+While often used as a Nb support material itself, nanostructured niobium pentoxide can also serve as a precursor. Its high thermal stability and chemical inertness make it a reliable foundation for anchoring other single atoms.
+
+question
+chemical properties of Niobic Acid (Nb2O5·nH2O)
+
+answer
+A hydrated form of niobium oxide, it is often used in the preparation of niobium-based catalysts due to its solubility and reactivity in certain solvents.
+
+question
+chemical properties of Ammonium Niobate Oxalate
+
+answer
+A water-soluble niobium salt, making it a convenient precursor for wet-impregnation methods to disperse niobium onto a support.

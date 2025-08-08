@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Pd supported on CeO2. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor PdCl2 and support porous CeO2
+
+The support porous CeO2 is prepared as followed:
+1. 4 mmol Ce(NO3)3·6H2O (1.736 g) and 0.48 mol NaOH (19.2 g) were dissolved in 80 ml distilled water and stirred for 30 min at room temperature. 
+2. Then the solution was transferred to 100 ml Teflon-lined stainless-steel autoclave. 
+3. After reacting at 100 oC for 12 h, the products were collected by centrifugation and washed with distilled water for several times. 
+4. Upon drying in a vacuum for 12 h at 60 oC, the products were calcined at 400 oC in air for 1 h. porous CeO2 was obtained
+
+After the preparation of porous CeO2, the catalyst is synthesized as followed:
+5. 500 mg of the synthesized porous CeO2 was first dispersed in 175 mL of distilled water, and 1 mmol ascorbic acid (AA) was added to the solution. 
+6. After being stirred at room temperature for 3 h, the products were collected by centrifugation, washed with distilled water several times, dried under vacuum, and denoted as CeO2-AA. 
+7. 140 mg CeO2-AA particles were then redispersed in 55 mL of distilled water, and 0.01 mmol metal precursor (PdCl2) was added. 
+8. After the mixture was stirred for 3 h at room temperature, the products were collected by centrifugation and washed with water several times. 5. After being dried under vacuum, the products were calcinated at 300 °C in the air for 5 h to remove the excess AA

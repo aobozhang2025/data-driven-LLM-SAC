@@ -1,0 +1,11 @@
+question
+Preparation of single atom Ni doped by 4 N supported on Carbon, denoted by Ni SAs/NC
+
+answer
+The catalyst is synthesized by the framework of ZIF synthesis
+
+The synthesis procedures are as followed:
+1. 15.3 mg Ni(NO3)2·6H2O and 0.5 g 2-methylimidazole were dispersed in a solution containing 3 mL H2O by sonication, then mixed with 20 g NaCl. 
+2. Liquid nitrogen was rapidly transferred into the above mixture and vacuum-dried in a freeze dryer for 24 h to remove the water. 
+3. The power was put into a quartz oven after purging with Ar gas three times, then heated to 1000 °C for 4 h at the heating rate of 2 °C/min under flowing Ar gas and naturally cooled to room temperature. 
+4. The black product was filtered out for NaCl and then etched in HCl solution (0.5 M) removing unstable Ni species for 24 h, finally filtered many times with water to remove the residual ions and dried in vacuum at 70 °C for 24 h.

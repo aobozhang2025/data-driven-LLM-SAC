@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe supported on N-doped carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor FeSO4·7H2O and support ZIF-8
+
+The catalyst is prepared as followed:
+1. 0.95 mM Zn(NO3)2·6H2O and 0.05 mM FeSO4·7H2O as metal sources, and 8.21 g of 2-methylimidazole as the organic linker, were mixed with methanol to form Fe-doped ZIF-8. 
+2. The excess organic linker and metal sources were removed by washing the product three times with absolute ethanol. 
+3. After drying in a vacuum oven at 80 °C overnight, Fe-doped ZIF-8 precursor was directly heat-treated in Ar gas (99.99% purity) at 1,000 °C for 1 h to derive the final Fe–N–C catalyst. 
+Atomically dispersed Fe atoms were uniformly distributed on the N–C framework without further acid washes. The weight of Fe loading in the final catalyst was around 2.0 wt%.

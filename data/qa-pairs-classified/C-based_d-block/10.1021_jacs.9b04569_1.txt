@@ -1,0 +1,9 @@
+question
+synthesis of single atom Mn supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor MnCl2•4H2O and N-doped carbon
+
+The synthesis procedures are as followed:
+1. dicyandiamide (1 g) is dissolved in deionized water (20 mL) at 60 °C, and then appropriate amount of MnCl2•4H2O is added into the solution and stirred sufficiently. 
+2. The solution is heated to 110 °C to completely remove water, then the obtained mixture is heated from room temperature to 600 °C at a rate of 10 °C/min and maintained at the temperature for 3 h under nitrogen atmosphere.

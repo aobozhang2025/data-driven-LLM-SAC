@@ -1,0 +1,13 @@
+question
+Preparation of single atom Ni supported on N-doped carbon
+
+answer
+The catatyst is synthesized by impregnation with Ni acetylacetonates and support carbon
+
+The synthesis procedures are as followed:
+1. A solution of  Zn(NO3)2·6H2O (1.069 g, 3.6 mmol) and Ni acetylacetonates (0.22–0.36 mmol) were dissolved in 15 ml methanol at 30–55 °C
+2. the resulting solution was subsequently added to10 ml of methanol containing 2-methylimidazole (1.161 g, 14.2 mmol). 
+3. After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. 
+4. The solid products were collected by centrifugation and washed four times with methanol and dried in vacuum overnight. 
+5. The powders of the metal acetylacetonates @ZIF-8 were placed in a tube furnace and heated to 800/900 °C for 3 h at a heating rate of 5 °C min–1 under argon gas (200 ml min–1). 
+6. After calcination, the samples were cooled to room temperature

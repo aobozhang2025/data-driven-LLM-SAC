@@ -1,0 +1,11 @@
+question
+synthesis of single atom Ru supported on CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ruthenium nitrosyl nitrate and support CeO2 nanoparticles
+
+The synthesis procedures are as followed:
+1. Ceria nanoparticles were prepared from it by heating in a regular muffle furnace under static conditions at 600 oC for 5 hours. 
+2. To prepare the loadings of Ru on ceria of 0.05, 0.1, 0.25, 0.5, 1, 1.5, and 2 wt%, the desired amount of Ru precursor solution was dissolved in the minimum amount of water (total volume approximately equivalent to the pore of volume ceria) and added with a micropipette to the desired amount of ceria while continuously stirring with the spatula to ensure uniformity. 
+3. The obtained wetted powder was dried under N2 flow at 80 oC, and then calcined at 800 oC for 1 hour in a regular muffle furnace with a ramp rate of 5 oC/min. 
+4. The as-prepared Ru/Ceria powders were pressed, crushed and sieved to 60-80 mesh, and subsequently used as catalysts.

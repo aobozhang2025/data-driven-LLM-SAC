@@ -1,0 +1,18 @@
+question
+Preparation of Pd single atoms supported on N-doped Carbon
+
+answer
+The catalyst is prepared in a framework of ZIF-8 synthesis
+
+The synthesis procedures are as followed:
+1. Dissolve 34 mg KI and 100 mg PVP (Mw ~55,000) in 10 ml formamide and heated the solution at 120 °C. 
+2. Then, 59 mg Na2PdCl4 powder was added and the temperature was maintained for 10 min with vigorous stirring. 
+3. After the mixture was cooled down to room temperature, 120 ml acetone was added and the dispersion was collected by centrifugation at 15,000 r.p.m. for 5 min. 
+4. The obtained Pd nanoparticles were dispersed in 21 ml mixed solvent (volume ratio DMF:methanol is 4:1).
+5. 1,069 mg Zn(NO3)2·6H2O was dissolved in 15 ml mixed solvent (volume ratio DMF:methanol is 4:1) under ultrasound for 5 min to form a clear solution in flask A. 
+6. Then 0.5 ml as-prepared Pd nanoparticles dispersed in DMF and methanol solution (~1 mgPd ml–1) was added into flask A. 
+7. 1,161 mg 2-methylimidazole was dissolved in 10 ml mixed solvent (DMF:methanol, 4:1.) under ultrasound for 5 min to form a clear solution in flask B. 
+8. Then, we added the contents of flask B into flask A at room temperature and maintained the temperature for 12 h without stirring. 
+9. The obtained product was collected by centrifugation at 15,000 r.p.m. for 5 min and washed with methanol three times and finally dried at 70 °C for 5 h.  
+10. We transferred Pd nanoparticles supported on ZIF-8 powder into a ceramic boat and placed it in a tube furnace. 
+11. The sample was heated to 900 °C with a heating rate of 5 °C min–1 and kept at 900 °C for 3 h under flowing nitrogen gas and then cooled to room temperature naturally.

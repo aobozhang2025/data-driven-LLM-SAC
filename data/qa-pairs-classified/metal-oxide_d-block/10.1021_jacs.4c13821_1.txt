@@ -1,0 +1,12 @@
+question
+Synthesis of Rh Supported on SrTiO3 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Rh(NO3)3·xH2O
+
+The synthesis procedures are as followed:
+1. 500 mg SrTiO3 prepared according to the above-mentioned hydrothermal synthesis was massed into an evaporation dish with 39.0 mg Rh(NO3)3·xH2O (∼14 mg Rh). 
+2. 1.0 mL deionized water was added and mixed for 10 min with a glass rod until homogeneous. 
+3. The solid was then dried at 363 K for 8 h. 
+4. The powder was collected and calcined in air in a zirconia boat in a horizontal tube furnace (Carbolite) at 673 K (ramp rate = 3 K min−1) for 4 h.
+5. The collected solid was then heated in H2 (>99.99%, Airgas) at 573 K for 1 h to yield metallic Rh

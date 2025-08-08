@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Pd doped by O supported on Fe2O3, denoted by Pd1-O/Fe2O3
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Na2PdCl6 and support Fe2O3
+
+The synthesis procedures are as followed:
+1. α-Fe2O3 without specific facet expose was synthesized by co-precipitation of an aqueous solution of ferric nitrate (Fe(NO3)3 9H2O, 1 M) and  sodium carbonate (Na2CO3, 1 M) at 50 oC, with the pH value of the resulting solution controlled at  ~8. 
+2. The recovered solid was filtrated and dried and finally calcined at 500 oC for 5 h. 
+3.160 mg of Fe2O3 was suspended in a mixed solvent of 30 mL H2O and 10 mL methanol at room temperature. 
+4. After Na2PdCl6 (0.02 M)  was added, the solution was degassed with Ar gas for 30 min and then irradiated for 3 h by Xe  lamp. 
+5. Then the catalysts were centrifuged off, washed with water, and freeze-dried.

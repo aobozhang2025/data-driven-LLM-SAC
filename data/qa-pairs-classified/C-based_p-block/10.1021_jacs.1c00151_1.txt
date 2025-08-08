@@ -1,0 +1,15 @@
+question
+Synthesis of single atom In doped by N supported on carbon 
+
+answer
+the catalyst is synthesized by impregnation with precursor In-MOF
+
+The In-MOF precursor is prepared as followed:
+1. H3BTC (750 mg) and In(NO3)3·5H2O (150 mg) were added in a solution of DMF (48  mL) and MeOH (12 mL) at room temperature. 
+2. The transparent mixture was transfered into the reactor after the powder was dissolved. 
+3. Then the reactor was sealed and heated to 120 oC for 24 h. 
+4. The as-obtained precipitates were centrifuged and washed with methanol for several times and dried in vacuum at 60 oC overnight.  
+
+the synthesis procedures are as followed:
+1. The 100 mg In-MOF precursor and 300 mg dicyandiamide in two porcelain boats were placed at two separate positions in a big porcelain boat covered by a lid. 
+2. Then the porcelain boat was transferred to the tube furnace and heated to 1000 °C (heating rate 2 °C min-1) for 3 h in a stream of Ar (10 sccm)

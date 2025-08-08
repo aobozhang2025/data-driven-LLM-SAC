@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Au supported on RP, denoted by Au1/RP
+
+answer
+The catalyst is synthesized by impregnation with metal precursor HAuCl4 and support Red Phosphorus (RP) 
+
+The Red Phosphorus (RP) is prepared as followed:
+1. 1.5 g of commercial red P and 20 mL of ultrapure water was mixed and transferred to a 25 mL hydrothermal reactor. 
+2. After the hydrothermal reaction 200 oC for 16 hours, the samples in the reactor are washed with ultrapure water and ethanol. 
+3. Subsequently, the sample was dried in a vacuum oven at 80 oC overnight.  
+
+The catalyst is synthesized after preparation of RP:
+1. RP (200 mg) and HAuCl4 (Mass percentage of Au: 0.1%, 0.5%, and 1%) were added with  25 mL methanol. 
+2. Then, the mixture was sonicated for 30 minutes, then stirred at 300 rpm for 5 hours, and died by a freeze-drying process. 
+3. The obtained solid sample was calcined in a tube furnace at 125 °C for 2 hours under an H2 atmosphere (2 mL/min),  and this sample is referred to as Au/RP.

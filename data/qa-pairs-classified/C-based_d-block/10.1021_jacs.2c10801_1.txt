@@ -1,0 +1,22 @@
+question
+Synthesis of metal single atom Pt supported on Pd-PCN-222(Hf)-NH2, denoted by M-SAs@Pd-PCN-222(Hf)-NH2 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Pt-ABA and support Pd-PCN-222(Hf)-NH2
+
+Pd-PCN-222(Hf) is prepared as followed:
+1. A reaction mixture of Pd(II) 5,10,15,20-tetrakis(4-carboxyphenyl)porphyrin (Pd-TCPP, 80 mg, 89.6  μmol), HfCl4 (160 mg, 0.50 mmol) and trifluoroacetic acid (2.4 mL,0.03 mol) in N,N-dimethylformamide  (DMF, 40 mL) is heated at 120 °C for 25 min in a microwave reactor. 
+2. The crude products are washed with DMF (30 mL × 3), and then immersed in a DMF: acetone = 1: 1 (v/v) mixture (40 mL) for one day. 
+3. The pure product of Pd-PCN-222(Hf) (115 mg, 63% yield based on the starting material of Pd-TCPP) is obtained via centrifugation and then dried under vacuum at 135 °C for 24 h for further characterizations and uses. 
+
+After the preparation of Pd-PCN-222(Hf), the support Pd-PCN-222(Hf)-NH2 is prepared as followed:
+1. To a vial loaded with activated Pd-PCN-222(Hf) (10 mg, 0.016 mmol) is added a DMF (2 mL) solution  of 4-aminobenzoic acid (ABA, 8 mg, 0.058 mmol). 
+2. The resulting reaction mixture is heated at 90 °C for 24 h with constant stirring. 
+3. The crude products are washed sequentially with DMF and acetone, and then  immersed in a DMF: acetone = 1: 1 (v/v) mixture (8 mL) for 8 h, which is repeated for three times. 
+4. The pure product of Pd-PCN-222(Hf)-NH2 (7.8 mg, 78% yield based on the starting material of Pd-PCN-222(Hf)) is obtained via centrifugation and then dried under vacuum at 135 °C for 24 h
+
+After the preparation of support Pd-PCN-222(Hf)-NH2, the catalyst synthesis procedures are as followed:
+1. Firstly, the metal precursor Pt-ABA is prepared by the reaction of chloroplatinic acid (H2PtCl6, 10 mg, 0.020 mmol) and 4-aminobenzoic acid (10  mg, 0.072 mmol) in DMF (1 mL) for direct use without isolation. 
+2. And then, 30 μL solution of Pt-ABA is added to a DMF (2 mL) solution of activated Pd-PCN-222(Hf)-NH2 (10 mg). 
+3. The resulting reaction mixture is heated at 90 oC for 12 h with stirring to undergo metal grafting through coordination exchange to anchor Pt-SAs onto the surface of Hf-oxo clusters, which are stabilized by N and O atoms from the introduced ABAs and the framework Hf-oxo clusters in the pore-spaces. 
+4. After the reaction mixture is cooled down to room temperature, the solid is collected via centrifugation, washed sequentially with DMF and EtOH for 3 times, and dried under vacuum at 135 °C for 24 h for further characterizations and uses.

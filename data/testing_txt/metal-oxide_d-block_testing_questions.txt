@@ -1,0 +1,11 @@
+Synthesis of single atom Pt supported on Y zeolite',
+'synthesis of single atom Rh supported on MgO',
+'Synthesis of single atom Pd supported on ZSM-5, denoted by Pd1@ZSM-5',
+'The synthesis of Ru array supported on Co3O4',
+'Preparation of single atom Pt supported on TiO2',
+'Synthesis of single atom Ru supported on Fe2O3, denoted by Ru1/Fe2O3',
+'synthesis of single atom Pt supported on Fe-O',
+'synthesis of isolated Pt atoms on TiO2',
+'Synthesis of diverse dynamically stabilized atomic Ir supported on ZnO',
+'Synthesis of single atom Ta supported on RuO2',
+'Synthesis of single atom Pt supported on TiO2 nanoparticles

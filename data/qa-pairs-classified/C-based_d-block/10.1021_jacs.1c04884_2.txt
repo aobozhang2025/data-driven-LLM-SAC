@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe doped by N supported on carbon
+
+answer
+The catalyst is synthesized with metal precursor FeCl3 
+
+The catalyst synthesis procedures are as followed:
+1. 0.7 g of 1,2-dicyanobenzene and 16 mg of FeCl3 was mixed with 7 g of a 60 mol% LiCl/ZnCl2  mixture in a Ar-filled glovebox. 
+2. The resulting powder was placed in an alumina crucible and heated  with a heating rate of 10 K/min to 800 °C in a tube furnace with a constant Ar flow. 
+3. After 1 h at 800  °C, the sample was let to cool down to room temperature. 
+4. The obtain material was ground, washed  with 0.1 M HCl for several hours and dried.

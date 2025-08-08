@@ -1,0 +1,23 @@
+question
+chemical properties of Rhodium (Rh)
+
+answer
+Rhodium, with the atomic number 45, resides in Group 9 of the periodic table. Its electron configuration, [Kr] 4d⁸5s¹, deviates from the expected trend and contributes to its diverse chemical behavior. A key feature of rhodium is its ability to exist in a wide range of oxidation states, from -1 to +6, with +1 and +3 being the most prevalent in its compounds. This versatility in oxidation states is a cornerstone of its catalytic prowess, allowing it to readily participate in redox cycles essential for many chemical transformations.
+
+question
+chemical properties of Rhodium(III) chloride (RhCl₃)
+
+answer
+This is a widely used and relatively inexpensive Rh precursor. Its solubility in water and some organic solvents allows for uniform impregnation onto various support materials. The chloride ligands can be subsequently removed through thermal treatment or reduction, leaving behind rhodium atoms that can strongly interact with the support.
+
+question
+chemical properties of Rhodium(III) acetylacetonate (Rh(acac)₃)
+
+answer
+This organometallic compound is favored for its good solubility in organic solvents, which is beneficial for achieving a high dispersion of rhodium on the support. The acetylacetonate ligands can be removed at relatively low temperatures through calcination or reduction, minimizing the risk of rhodium atom agglomeration into nanoparticles.
+
+question
+chemical properties of Rhodium Nitrate (Rh(NO₃)₃)
+
+answer
+Similar to the chloride, rhodium nitrate is soluble in water, making it a convenient precursor for aqueous impregnation methods. The nitrate groups decompose upon heating, although the decomposition temperature and byproducts can influence the final state of the rhodium atoms.

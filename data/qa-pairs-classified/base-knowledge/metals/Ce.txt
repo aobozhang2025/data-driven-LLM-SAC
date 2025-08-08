@@ -1,0 +1,15 @@
+question
+chemical properties of Cerium (Ce)
+
+answer
+Cerium (Ce), a rare-earth element with atomic number 58, possesses a unique set of chemical properties that make it a cornerstone in the development of single-atom catalysts. Its ability to readily switch between +3 and +4 oxidation states is a key attribute, underpinning its catalytic prowess. In the realm of single-atom catalysis, where individual metal atoms are dispersed on a support material, cerium compounds serve as crucial precursors for creating both the catalytically active sites and the supportive framework.
+
+Cerium is a soft, ductile, and silvery-white metal that is highly reactive. Its electron configuration, [Xe] 4f¹5d¹6s², allows for the relatively easy removal of electrons, leading to its characteristic dual valence states. The +3 state (cerous) and +4 state (ceric) are the most common and stable. This facile redox transition between Ce³⁺ and Ce⁴⁺ is central to its catalytic activity, as it enables the storage and release of oxygen, facilitating a variety of chemical reactions.
+
+Cerium readily tarnishes in air and reacts with water. A significant chemical property is its affinity for oxygen, forming a highly stable oxide, cerium dioxide (CeO2), commonly known as ceria. Ceria itself is a critical material in catalysis, often serving as a support for other catalytically active metals.
+
+question
+chemical properties of Cerium(III) nitrate hexahydrate (Ce(NO₃)₃·6H₂O)
+
+answer
+This salt is widely employed due to its good solubility in various solvents, making it suitable for wet-chemical synthesis methods. It serves as a source of cerium ions that can be precisely deposited onto a support material or used in the formation of cerium-based frameworks.

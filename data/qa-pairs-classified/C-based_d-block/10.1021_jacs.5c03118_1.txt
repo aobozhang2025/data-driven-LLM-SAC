@@ -1,0 +1,23 @@
+question
+Synthesis of single atom Ni supported on N and O doped hollow carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor nickel nitrate hydrate and temlate silica nanoparticles
+
+The template Silica nanoparticles are prepared as followed:
+1. a solution containing 100 mL of ammonia, 350 mL of ethanol, and 150 mL of deionized (DI) water was stirred at room temperature (700 rpm) for 30 min. 
+2. Thereafter, 50 mL of TEOS was added to the abovementioned solution and stirred (700 rpm) for 3 h. 
+3. After the reaction, the stirred solution was centrifuged (7000 rpm, 10 min) and washed with IPA three times. 
+4. The silica nanoparticles were dried in a vacuum oven at 60 °C for 24 h.
+
+After the preparation of template Silica nanoparticles, the catalyst is synthesized as followed:
+1. dopamine (250 mg) was dissolved in 3 mL of ethanol and 6 mL of DI water under stirring at 700 rpm. 
+2. Subsequently, a nickel nitrate hydrate (0.5 mmol) aqueous solution was added to the solution. 
+3. Afterward, 3 mL of a THF solution containing PS-b-PEO was added dropwise to the resulting solution. 
+4. Next, 25 mL of a DI water solution containing 250 mg of silica nanoparticles and 30 mg of tris buffer were added to this solution under stirring.
+5. After 20 h of reaction , the product was washed with DI water three times, collected through centrifugation (8000 rpm, 10 min), and dried in a vacuum oven at 60 °C. 
+6. The obtained powder was placed in a quartz boat and heated under a flow of nitrogen gas. 
+7. The temperature was increased  from 25 to 100 °C at a rate of 2 °C min−1 and maintained at 100 °C for 2 h. 
+8. The temperature was also increased to 800 °C at a rate of 2  °C min−1 and maintained at 800 °C for 3 h. 
+9. The obtained black powder was further treated with a 4 M NaOH solution at 50 °C for 20 h under stirring to remove the silica template. 
+10. It was then washed with DI water until its pH reached 7 and dried in a vacuum oven at 60 °C.

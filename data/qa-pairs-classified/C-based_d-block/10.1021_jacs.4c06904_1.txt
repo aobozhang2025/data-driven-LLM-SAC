@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe doped by N supported on carbon
+
+answer
+The catalyst is synthesized by a framework of ZIF-8 synthesis.
+
+The synthesis procedures are as followed:
+1. 2.83 g of Zn(NO3)2·6H2O and 0.139 g of FeSO4·6H2O were dissolved in 1000 mL of methanol. 
+2. 82 g of 2-methylimidazole was dissolved in another 1000 mL methanol. 
+3. Then the two solutions were mixed and stirred vigorously for 24 h at room temperature to form Fe-ZIF8. 
+4. After centrifugation and  washing with methanol, Fe-ZIF8 underwent pyrolysis at 1000 °C for 2 h under Ar atmosphere to collect Fe-N-C.

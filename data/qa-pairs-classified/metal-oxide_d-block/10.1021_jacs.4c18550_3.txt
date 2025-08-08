@@ -1,0 +1,11 @@
+question
+Synthesis of single atom metal Co tetrahedron coordinated supported on ZnO
+
+answer
+The catalyst is synthesized by the following procedures:
+1. 0.0355 mol Zn(NO3)2•6H2O (Macklin, 99.9%) and 0.045 mol CO(NH2)2 (Macklin, 99%) were dissolved in 60 ml deionized water.
+2. 0.1 mmol Co(NO3)2 (Aladdin, 99%) was added with stirring. 
+3. It was then transferred into 100 ml Teflon-lined autoclaves and reacted at 140 °C for 3 hours. 
+4. After cooling to room temperature, the powder precipitate was filtered and washed three times with deionized water and ethanol and then dried at 60 °C for 12 hours. 
+5. At last, the powder was calcined in a muffle furnace at 500 °C for 3 h and the zinc oxide catalyst was obtained by naturally cooling. 
+6. The obtained powder was calcined in a muffle furnace at 420 °C for 4 h.

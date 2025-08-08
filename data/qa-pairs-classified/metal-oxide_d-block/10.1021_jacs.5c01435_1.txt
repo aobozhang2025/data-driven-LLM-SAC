@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Pd supported on Fe-O
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Pd(NO3)3·2H2O and support Fe-O
+
+The support Fe-O is prepared as followed:
+1. 100 mmol Fe (NO3)3·9H2O was dissolved in deionized water with stirring and sonication at room temperature. 
+2. The above solution was dripped into the 150 mL NaOH (0.2 mol/L) solution with a certain velocity (3 mL/min) at a water-bath of 80 °C, until the pH value decreased to 9~10. 
+3. After stirring for 3 hours and aging 3 hours, the colorless supernatant was carefully poured out, and the dispersion system was filtrated with deionized water of ~70 °C by the suction filter (c.a.  5 times). 
+4. Afterward, the sediment was separated and kept at 80 °C for ~12 hrs.  
+
+After the preparation of support Fe-O, the catalyst is synthesized as followed:
+1. 100 mmol Fe(NO3)3·9H2O and a certain amount ( ω (Pd)=0.05 %) of Pd(NO3)3·2H2O were dissolved in deionized water with stirring and sonication at room temperature.  
+2. The above solution was dripped into the 150 mL NaOH (0.2 mol/L) solution with a certain velocity  (3 mL/min) at a water-bath of 80 °C, until the pH value decreased to 9~10. 
+3. After stirring for 3 hours and aging 3 hours, the colorless supernatant was carefully poured out, and the dispersion system was filtrated with deionized water of ~70 °C by the suction filter (c.a. 5 times). 
+4. Afterward, the sediment was separated and kept at 80 °C for ~12 hrs.

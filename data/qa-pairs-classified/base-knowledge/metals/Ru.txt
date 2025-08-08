@@ -1,0 +1,31 @@
+question
+chemical properties of Ruthenium (Ru)
+
+answer
+At the heart of ruthenium's catalytic prowess is its electron configuration: [Kr] 4d⁷5s¹. This configuration, with a half-filled s-orbital and a nearly half-filled d-orbital, contributes to its ability to readily form bonds with adsorbates and facilitate electron transfer during catalytic cycles.
+
+Ruthenium's most common oxidation states in catalytic applications are **+2, +3, and +4**, although it can exhibit a wide range from -2 to +8. This flexibility allows a single ruthenium atom to participate in diverse reaction mechanisms, including redox reactions where the oxidation state of the metal center changes.
+
+question
+chemical properties of Ruthenium(III) chloride (RuCl3) 
+
+answer
+A widely used and cost-effective Ru precursor. It is often used in aqueous or alcoholic solutions for impregnation onto various supports. 
+
+question
+chemical properties of Ruthenium(III) acetylacetonate (Ru(acac)3)
+
+answer
+An organometallic complex Ru precursor that is soluble in organic solvents, making it suitable for synthesis methods requiring non-aqueous media. The acetylacetonate ligands can be removed by thermal treatment. 
+
+question
+chemical properties of Triruthenium dodecacarbonyl (Ru3(CO)12) 
+
+answer
+A metal carbonyl cluster that can be deposited onto supports and then thermally decomposed to yield well-dispersed ruthenium atoms or small clusters. The carbonyl ligands are readily removed.
+
+question
+chemical properties of Hexammineruthenium(III) chloride (Ru(NH3)6Cl3)
+
+answer
+A coordination complex as Ru precursor that provides a stable source of ruthenium(III) ions. The ammine ligands can be removed through calcination.

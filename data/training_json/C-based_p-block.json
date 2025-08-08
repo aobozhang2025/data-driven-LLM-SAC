@@ -1,0 +1,114 @@
+[
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Pb doped by S and N supported on carbon, denoted by Pb SAC/N-S-C",
+        "output": "The synthesis in of this catalyst involves the preparation of CdS nanorods, CdS/PbS nanorods and CdS/PbS nanorods coated by 3-AF in sequence, single atom Pb is loaded by impregnation with CdS/PbS as precursor. \n\nThe procedures to synthesize CdS in nanorods are as followed:\n1. 4.50 g sodium diethyldithiocarbamate trihydrate and 2.28 g cadmium chloride were added to 20 mL deionized water and stirred for 10 min. \n2. The white products (denoted as cadmium  diethyldithiocarbamate (Cd(S2CNEt2)2)) were obtained via centrifugation at 11000 rpm for 1 min  and dried at 60°C under vacuum. \n3. Then 2.25 g Cd(S2CNEt2)2) and 70 mL of ethylenediamine were added to a 100 mL Teflon-lined stainless steel autoclave. \n4. After Cd(S2CNEt2)2) completely dissolved, the autoclave was maintained at 180oC for 24 h and cooled down to room temperature.  \n5. A yellowish precipitate was washed with deionized water and ethanol three times and collected by centrifugation. \n6. After dried at 60°C in a vacuum for 12 h, the CdS nanorods were obtained. \n\nAfter the synthesis of CdS nanorods, the procedures to synthesize CdS combined with PbS in nanorods (denoted by CdS/PbS) are as followed:\n1. 100 mg CdS nanorods were dipped in N2H4/HCl solution (pH ≈ 7). \n2. Then, 2 mg CuCl in 5mL N2H4/HCl solution was added at room temperature and stirred for a  certain of time (0~30 s). \n3. Immediate color changed from bright yellow to deep yellow and dark brown was observed after dipping. \n4. The product was washed with deionized water and ethanol two times and collected by centrifugation. \n5. After dried at 60°C in a vacuum for 12 h, the  CdS/Cu2S nanorods were obtained.  \n6. Then 100 mg the obtained CdS/Cu2S and 1.868 g tri-n- butylphosphine (TBP) were dispersed in 25 mL toluene. \n7. After stirring for 5 min, 3 mg Pb(OA)2 in 25 mL methanol was injected and kept stirring at room temperature for 2 h. \n8. The product CdS/PbS was obtained by repeated sonication and centrifugation with water and dried at 60°C in a vacuum for 6 h.  \n\nAfter the synthesis of CdS/PbS, the procedures to synthesize CdS combined with PbS coated by 3-AF (denoted by CdS/PbS@3-AF) are as followed:\n1. 150 mg 3-aminophenol (3-AP), formaldehyde solution (100μL, 37 wt %), and CdS/PbS (100  mg) were dispersed in 50 mL ethanol/water solution (v/v 1:1) with ethanediamine (100 μL, 5  mg/mL) as catalyst. \n2. After that, the solution was stirred at room temperature for 24 h. \n3. Finally, the obtained CdS/PbS@3-AF was collected and purified with distilled water by centrifugation and  dried at 60°C in a vacuum for 6 h.  \n\nAfter the CdS/PbS@3-AF are prepared, the procedures to synthesize the catalyst are as followed:\n1. The CdS/PbS@3-AF powder was transferred into a ceramic boat and placed in a tube furnace. \n2. The sample was annealed at 900 °C for 3 h under N2 atmosphere with a heating rate of 5°C min-1. \n3. After cooling down to room temperature, Pb SAC/S-N can be obtained."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom In doped by N supported on carbon",
+        "output": "the catalyst is synthesized by impregnation with precursor In-MOF\n\nThe In-MOF precursor is prepared as followed:\n1. H3BTC (750 mg) and In(NO3)3·5H2O (150 mg) were added in a solution of DMF (48  mL) and MeOH (12 mL) at room temperature. \n2. The transparent mixture was transfered into the reactor after the powder was dissolved. \n3. Then the reactor was sealed and heated to 120 oC for 24 h. \n4. The as-obtained precipitates were centrifuged and washed with methanol for several times and dried in vacuum at 60 oC overnight.  \n\nthe synthesis procedures are as followed:\n1. The 100 mg In-MOF precursor and 300 mg dicyandiamide in two porcelain boats were placed at two separate positions in a big porcelain boat covered by a lid. \n2. Then the porcelain boat was transferred to the tube furnace and heated to 1000 °C (heating rate 2 °C min-1) for 3 h in a stream of Ar (10 sccm)"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Sn supported on N-doped carbon, denoted by SnNC",
+        "output": "The catalyst is synthesized by impregnation with metal precursor SnCl2·2H2O\n\nThe synthesis procedures are as followed:\n1. 2 mL aniline (Sigma-Aldrich) was first dissolved in 500 mL 0.5 M HCl solution. \n2. Thereafter, 5 g ammonium peroxydisulfate (APS, (NH4)2S2O8, Sigma-Aldrich) was added to the solution for in situ polymerization of aniline while the mixture was kept at room temperature. \n3. The polymer suspension was kept at low temperature as long as no color change was observed. \n4. 0.4 g of the  pretreated carbon (Ketjen EC 600JC) was mixed with de-ionized water for 30 min, \n5. then it was added with PANI and stirred for 48 h to achieve a uniform suspension. \n6. Carbon supported PANI  was refluxed for 5 hours at 80-90°C and then dried at 80 °C overnight by using an oil bath. \n7. Then Tin(II) chloride dehydrate (2.5 g SnCl2·2H2O, Sigma-Aldrich) was added to the dried carbonsupported PANI powder, and ball milling was performed for half an hour. pouring the powder inside a ZrO2 vial along with 10 ZrO2 beads of 5 mm diameter, at a rotation of 875 rpm. \n8. The milled powder was then pyrolyzed at 900 °C for 1 h in N2. \n9. The quartz tube was purged with N2 for 2 h before ramping the temperature at 5 °C/min up to 900 °C. \n10. The oven temperature was held at 900°C for 1 h under N2 flow, then let to cool down overnight under N2 flow. \n11. The powder was then twice  acid leached for 7-8 h at 80-90°C in 4.0 M HCl solution\n12. the powder was pyrolyzed again after each acid washing, with the same pyrolysis protocol as described above, except that the pyrolysis duration was increased to 3 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "synthesis of single atom Sn doped by Li supported on C",
+        "output": "The catalyst is synthesized with precursor Sn-Li amalgam.\n\nThe precursor is prepared as followed:\n1. dissolving 5 mg Sn metal  (99.9% Alfa-Aesar) into 2.0 g molten Li (99.9% Sigma-Aldrich) inside the glovebox. \n2. A horn  sonicator was used to homogenize the Sn in the molten Li from bulk wires to single atoms and to prevent Sn from precipitation at 200 °C for 3 hours. \n3. The molten mixture was then quickly quenched to room temperature over a clean 316-stainless steel plate to form Sn-Li amalgamate while Sn remained atomically dispersed in the solid. \n\nAfter the precursor is prepared, the catalyst is synthesized with the following procedures:\n1. The prepared Sn-Li amalgam solution was taken from the glovebox and cut into small pieces. \n2. The lithium in the Sn/Li was slowly converted to LiOH under humidified air at  ambient temperature. \n3. The Sn single atoms embedded LiOH powder were uniformly mixed with 2.50 g carbon black (Vulcan XC-72) by grinding the mixture with agate mortar and pestle. \n4. The resulting mixture was then filtered with copious amounts of de-ionized water to leach off LiOH.  \n5. Finally, the remaining solid was separated and dried in vacuum at 60 °C for 24 hours, forming the  catalyst with designed Sn loading."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Confined synthesis of single atom Bi supported on NC@GF, denoted by Bi SAs/NC@GF",
+        "output": "The catalyst is synthesized by impregnation with metal precursor BiCl3 and support N-doped carbon grown on graphite felt (NC@GF)\n\nThe support is prepared as followed:\n1. Zn(NO3)2·6H2O (12 mmol) was dissolved in 75 ml methanol, \n2. then 2-methylimidazole (85 mmol) in 75 ml methanol was subsequently poured into the above solution. \n3. The mixture was stirred vigorously for 1 minute at room temperature. \n4. After that, four pieces of graphite felt (GF) with a thickness of 2 mm (3×4 cm2) were put into the mixture solution and aged for 12 h.\n5. Subsequently, the GF was withdrawn and washed with methanol thoroughly, then dried in an oven at  60 °C for 3 h, the obtained sample is defined as ZIF-8@GF. \n6. The NC@GF was  synthesized through pyrolysis of ZIF-8@GF in an N2 atmosphere at 1100 °C for 1 h  with a heating rate of 5 °C min−1. \n\nAfter the support is prepared, the catalyst is synthesized as followed:\n1. BiCl3 (500 mg) was dropped in 100 ml isopropanol. \n2. Then, four pieces of NC@GF were suspended in the above solution under stirring for 6 h to make the Bi3+ adsorbed. \n3. Subsequently, the obtained Bi3+/NC@GF was withdrawn and  washed with ethanol thoroughly, and dried in an oven at 60 °C for 3 h. \n4. After that, the Bi  SAs/NC@GF were synthesized through annealing of the Bi3+/NC@GF in an N2  atmosphere at 800 °C for 1 h with a heating rate of 5 °C min−1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Bi supported on NC, denoted by Bi SAs/NC",
+        "output": "1. the powdery N-doped carbon (200 mg) obtained from ZIF-8 was dispersed in isopropanol (100 ml) under stirring. \n2. After forming a homogeneous solution, BiCl3 (500 mg) was added into the above solution. \n3. The mixed solution was under vigorous stirring for 6 h. \n4. Subsequently, the obtained Bi3+/NC was withdrawn and washed with ethanol thoroughly, and dried in an oven at 60 °C for 3 h. \n5. After that, the Bi SAs/NC were synthesized through annealing of the Bi3+/NC in an N2  atmosphere at 800 °C for 1 h with a heating rate of 5 °C min−1."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Al doped by N supported on carbon",
+        "output": "The catalyst is prepared by impregnation with metal precursor Al(phen)3 complex and support N-doped carbon (NC)\n\nThe support N-doped carbon (NC) is prepared as followed:\n1. 3.06 g 2-methylimidazole (MeIM) was dissolved in 70 ml methanol, which was subsequently added into140 ml methanol containing 2.77 g  Zn(NO3)2·6H2O and stirred for 20 min. \n2. The mixture was then transferred to a reactor and  heated at 120°C for 4 hours to form the ZIF-8. \n3. The as-obtained precipitates were  centrifuged and washed with methanol three times and dried under a vacuum condition at 60 °C overnight.\n4. Finally, the powder was placed in a tube furnace and heated to 950 °C  with a heating rate of 5 °C min-1 and held at that temperature for 5 h under the Ar atmosphere to yield NC.  \n\nThe metal precursor is prepared as followed:\n1. 0.5 mmol of Al(NO3)3·9H2O was dissolved in 15 ml of de-ionized (DI) water and 1.5  mmol of 1,10-phenanthroline was dissolved in 15 mL of ethanol, respectively. \n2. Then, two solutions were mixed under stirring to form a light pink Al(phen)3 solution. \n\nAfter the preparation of N-doped carbon (NC), the catalyst is synthesized as followed:\n1. 100 mg NC was added into 50 mL ethanol and dispersed by ultrasound to obtain a black suspension solution. \n2. Then, a 4.5 mL of Al(phen)3 complex solution was added into the above black suspension and stirred for 3 h at room temperature. \n3. After that, the  suspension was centrifuged and the precipitate was dried at 60°C overnight. \n4. Finally, the asobtained black powder was heated at 950 °C for 1 h with a heating rate of 5 °C min-1 in an  Ar atmosphere."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Al supported on carbon nitride nanotubes (CNNT)",
+        "output": "The catalyst is synthesized by impregnation and freeze-drying with metal precursor Al(NO3)3 and support carbon nitride nanotubes (CNNT)\n\nThe support carbon nitride nanotubes (CNNT) is prepared as followed:\n1. 12 mmol (1.5 g) of melamine was first dissolved in 80 mL of deionized water at 80 °C, and stirred for 1 h with a speed of 400 rpm. \n2. Then, the transparent solution was transferred to a 100 mL stainless steel reactor and heated at 180 °C for 24 h. \n3. After the solution was cooled down, the white precipitate was collected and washed with deionized water three times. \n4. Then, the precipitate was freeze-dried for 12 h. \n5. Finally, the white sediment was heated in a tube furnace under argon to 500 °C at 5 °C min-1 ramp for 1.5 h.  \n\nAfter the preparation of support carbon nitride nanotubes (CNNT), the catalyst is synthesized as followed:\n1. 100 mg CNNT was first dispersed in 5 mL of Al(NO3)3 (4.2 mg) aqueous solution under ultrasonication for 10 min, followed by its frozen in liquid nitrogen. \n2. After being freeze-dried, the product was heated in a tube furnace under argon to 300 °C at 5 °C min-1 ramp for 1.5 h."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Se doped by N supported by Carbon",
+        "output": "The catalyst is synthesized by impregnation and freeze-drying with metal precursors Se powders\n\nThe synthesis process are as followed:\n1. FSe powders (10 mg), glucose (0.8 g), DICY (0.2 g) were co-dissolved into 5 mL H2O. \n2. After the freeze-drying, the pyrolysis of obtained powders at 900 °C under N2 flow with a heating rate of 5 °C min-1"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Sb supported on N-doped carbon",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Sb(CH3COO)3 and support ZIF-8\n\nThe ZIF-8 is prepared as followed:\n1. 2-methylimidazole (1314 mg) was dissolved in 15 mL methanol in flask A.  \n2. Zn(NO3)2·6H2O (1190 mg) was dissolved in 30 mL methanol under ultrasound for 15 min to form a clear solution in flask B. \n3. Then, flask B was subsequently added into flask A with ultrasound for 30 min and vigorous stirring for 12 h at room temperature. \n4. The obtained product was separated by centrifugation and washed subsequently with methanol for thrice and finally dried at 60 °C under vacuum for overnight. \n\nAfter the preparation of ZIF-8, the catalyst is synthesized as followed:\n1. ZIF-8 (200 mg) was dispersed in 20 mL of hexane by sonication for 1 h at  room temperature. \n2. 100 μL of Sb(CH3COO)3 (25 mg mL-1, dissolved in methanol) was added dropwise to the above solution under ultrasound for 10 min. \n3. The vial containing the  slurry was stirred at room temperature for 4 h. \n4. The impregnated ZIF-8 sample was centrifuged and dried in vacuum at 60 °C overnight. \n5. The powder of the impregnated ZIF8 sample was placed in a tube furnace and then heated to 950 °C for 3 h at the heating rate  of 5 °C min-1 under flowing Ar gas and then naturally cooled to room temperature."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of single atom Sb doped by N and Cl supported on N-doped carbon",
+        "output": "The catalyst is synthesized by impregnation with metal precursor Sb(CH3COO)3 and support ZIF-8\n\nThe ZIF-8 is prepared as followed:\n1. 2-methylimidazole (1314 mg) was dissolved in 15 mL methanol in flask A.  \n2. Zn(NO3)2·6H2O (1190 mg) was dissolved in 30 mL methanol under ultrasound for 15 min to form a clear solution in flask B. \n3. Then, flask B was subsequently added into flask A with ultrasound for 30 min and vigorous stirring for 12 h at room temperature. \n4. The obtained product was separated by centrifugation and washed subsequently with methanol for thrice and finally dried at 60 °C under vacuum for overnight. \n\nAfter the preparation of ZIF-8, the catalyst is synthesized as followed:\n1. ZIF-8 (200 mg) was dispersed in 20 mL of hexane by sonication for 1 h at  room temperature. \n2. 100 μL of Sb(CH3COO)3 (25 mg mL-1) was added dropwise to the above solution under ultrasound for 10 min. \n3. The vial containing the slurry was stirred at room  temperature for 4 h. \n4. The impregnated ZIF-8 sample was centrifuged and dried in vacuum  at 60 °C overnight. \n5. The powder of the impregnated @ZIF-8 sample was mixed with 400  mg NaCl through grinding method. \n6. Afterwards, the powder was placed in a tube furnace  and then heated to 950 °C for 3 h at the heating rate of 5 °C min-1 under flowing Ar gas and  then naturally cooled to room temperature. \n7. The as-prepared products were washed with  deionized water to remove recrystallized NaCl, centrifuged and dried in vacuum at 60 °C  overnight."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single atom Ga supported on N-doped carbon",
+        "output": "The catatyst is synthesized by impregnation with Ga acetylacetonates and support carbon\n\nThe synthesis procedures are as followed:\n1. A solution of  Zn(NO3)2·6H2O (1.069 g, 3.6 mmol) and Ga acetylacetonates (0.22–0.36 mmol) were dissolved in 15 ml methanol at 30–55 °C\n2. the resulting solution was subsequently added to10 ml of methanol containing 2-methylimidazole (1.161 g, 14.2 mmol). \n3. After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. \n4. The solid products were collected by centrifugation and washed four times with methanol and dried in vacuum overnight. \n5. The powders of the metal acetylacetonates @ZIF-8 were placed in a tube furnace and heated to 800/900 °C for 3 h at a heating rate of 5 °C min–1 under argon gas (200 ml min–1). \n6. After calcination, the samples were cooled to room temperature"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Preparation of single-Sn atom supported on carbon matrix",
+        "output": "The catalyst is prepared by impregnation with support 3D carbon\n\nThe support 3D carbon is prepared as followed:\n1. HY zeolite was first heated to 600 °C under a dry N2 flow in a fused quartz reactor. \n2. Then, a mixture of ethylene gas and N2 (volume ratio = 50:50) was passed through a water bubbler and fed into the zeolite bed at 600 °C for 30 min. \n3. The gas flow was switched to dry N2 when carbon deposition was completed. \n4. Afterwards, the temperature was increased to 950 °C and maintained there for 2 h. \n5. The resulting product was washed in a 0.5 M HF/0.2 M HCl solution to release carbon from the template. \n6. Finally, the as-prepared 3D carbon was dried in a vacuum oven for 24 h at 60 °C for further utilization.  \n\nAfter 3D carbon is prepared, the catalyst is synthesized as followed:\n1. 2 mmol SnBr2 and 2 mmol thiourea were added into a mixed solution containing 20 ml of oleic acid and 2.5 ml of oleyamine under magnetic stirring at 80 °C for 8 h (SnS2 precursor solution). \n2. Meanwhile, 20 mg 3D carbon was dispersed into10 ml of isopropanol under magnetic stirring at room temperature, followed by addition into the SnS2 precursor solution under magnetic stirring at room temperature for 2 h. \n3. Then, the obtained solution was transferred to a 100 ml Teflon-lined stainless steel autoclave to perform solvothermal reaction at 200 °C for 20 h. \n4. After cooling down to room temperature, the solid product was washed with ethanol and deionized water, collected by centrifugation and dried in a vacuum oven for 24 h at 40 °C for further utilization\n5. The product was successively leached at 80 °C in 2 M HCl for 24 h to remove SnS2 nanosheets and unstable species (Sn1-O3G)."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "input": "Synthesis of Ga-N5 atomic site on macroporous inverse-opal-type carbon nitride",
+        "output": "The catalyst is prepared impregnation with metal precursor gallium nitrate and template silica\n\nThe catalyst is prepared as followed:\n1. First, 800 mg of dicyandiamide was mixed with 500 μl of gallium nitrate aqueous solution of 1.6 g l–1and ground evenly until the solution was nearly dry. \n2. Then, the mixture was freeze-dried for 12 h. \n3. Afterwards, the product (∼0.8 g) was mixed with silica templates (1.33 g), and calcined in argon at 520 °C with a ramp rate of 5 °C min−1 for 2 h.\n4. The product was further heated to 550 °C with a ramp rate of 5 °C min −1 and kept at 550 °C for another 2 h. \n5. The as-obtained product was etched in NH4HF2 aqueous solution for 72 h to remove the silica template completely, before being washed with deionized water three times and dried under ambient conditions."
+      }
+    ]
+  }
+]

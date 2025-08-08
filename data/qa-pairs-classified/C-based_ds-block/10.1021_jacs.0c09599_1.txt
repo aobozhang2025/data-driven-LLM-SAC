@@ -1,0 +1,16 @@
+question
+Preparation of Cu single atom supported on UiO-66-NH2 
+
+answer
+The catalyst is synthesized by photoinduction with precursor Cu(NO3)2·3H2O and support UiO-66-NH2
+
+The support UiO-66-NH2 is prepared as followed:
+1. dissolve ZrCl4 (1.25 g), 2-amino-1,4-benzenedicarboxylic acid (H2N−H2BDC) (1.36 g), and 5 mL of HCl in DMF (100  mL) at room temperature in a three-necked flask. 
+2. The mixed solution was placed in a preheated oil bath pot at 393 K for 6 h. 
+3. After the solution cooled down to room temperature, the resulting suspension was filtered and washed with methanol and acetone three times and then dried at 393 K in vacuum overnight.  
+
+After the UiO-66-NH2 is prepared, the catalyst synthesis procedures are as followed:
+1. UiO-66-NH2 (0.20 g) was dispersed in 50 mL of water and then 0.01 g of Cu(NO3)2·3H2O was dissolved in the above suspension under 1 h of constant stirring. 
+2. After filtering, the pretreatment sample was dispersed again into a mixed solution (Vethanol:water = 1:4). 
+3. A 300 W Xe arc lamp (PLS-SXE300, Beijing Trusttech Co. Ltd.) was used as a cutoff filter (λ > 400 nm) as a visible light source, and the vertical distance between the suspension surface and the light source was set at about 15 cm. We measured the intensity of the light source, which was about 236 mW/cm2. 
+4. The suspension was filtered, washed, collected after 1.0 h of irradiation, and dried at 333 K for 12 h in a vacuum.

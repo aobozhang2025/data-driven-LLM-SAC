@@ -1,0 +1,14 @@
+question
+Preparation of single atom Ni doped by N supported on C under Low Pressure. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni(acac)2
+
+The synthesis procedures are as followed:
+1. The pyrolysis of ZIF-8  nanoparticles (50 nm) and NaCl at a mass ratio of 1.58 was carried out at 910 °C under an Ar atmosphere for 2 h. 
+2. To remove residual Zn, the NC supports were etched with 2 M HCl at 80 °C overnight, followed by washing with water and ethanol six times. 
+3. 50 mg of the NC powders was dispersed in 50 mL of methanol and sonicated for 2 h. 
+4. 10.5 mg of Ni(acac)2 was then added, and the mixture was stirred continuously overnight. 
+5. Methanol was then removed by using a rotary evaporator. 
+6. The  resulting mixture was heated to 900 °C (heating rate of 30 °C min−1) in a chemical vapor deposition system under a pressure of 0.87 mbar in an Ar atmosphere. 
+7. After 1 h, the sample was obtained

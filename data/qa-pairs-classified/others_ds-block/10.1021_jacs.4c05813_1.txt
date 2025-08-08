@@ -1,0 +1,10 @@
+question
+synthesis of single atom Cu supported on SnS2, denoted by Cu1/SnS2
+
+answer
+The catalyst is synthsized with metal precursor CuCl25H2O
+
+The synthesis procedures are as followed:
+1. 5 mg of CuCl25H2O,  211.2 mg of SnCl45H2O and 135.2 mg of thioacetamide were added to 25 mL of ethanol in a 50 mL Teflon-lined stainless-steel autoclave. 
+2. The autoclave was properly sealed and maintained at 150 oC for 12 h. 
+3. After reaction, the autoclave was cooled down naturally to room temperature, and the product was harvested by filtration, washed five times with ethanol and dried under vacuum at 70 oC overnight.

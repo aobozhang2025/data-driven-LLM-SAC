@@ -1,0 +1,13 @@
+question
+synthesis of single atom Au doped by Na and OH supported on TiO2
+
+answer
+The catatyst is synthesized by impregnation with metal precursor Au(OH)3 and support TiO2
+
+The synthesis procedures are as followed:
+1. Gold loadings of 0.5% were prepared by a single-step IWI of the designed amount of the gold solution. 
+2. To prepare the solution, the proper amount of Au(OH)3 powder was suspended in 30 ml of H2O with O2 sparging and heated to 80 °C. 
+3. NaOH powder (atomic ratio of Au:Na = 1:9) was added into the slurry at the same temperature. 
+4. The mixture was refluxed at 80 °C overnight to obtain a transparent solution (colourless at lower concentrations to light yellow at higher concentrations). 
+5. The solution was concentrated by heating followed by drying at 200 °C with N2 protection
+6. and then the sample was further dried in vacuum overnight at 80 °C.

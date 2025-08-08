@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Ag supported on α-MnO2, denoted by Ag1/α-MnO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor AgNO3 and support α-MnO2
+
+The support α-MnO2 is prepared as followed:
+1. an aqueous solution (225 mL) of KMnO4 (13.3 g) was added to an aqueous solution (67.5 mL) of MnSO4·H2O (19.8 g) and glacial acetic acid (5 mL). 
+2. The resulting mixture was hydrothermal at 100 oC for 24 h. 
+3. The product was filtered, washed several times with distilled deionized water, dried at 100 °C overnight, and finally calcinated in air at 500 °C for 6 h.
+
+After the preparation of α-MnO2, the catalyst synthesis procedures are as followed:
+1. 0.016g of AgNO3 was dissolved in 20 mL deionized water to form a solution, to which ammonia solution (25 wt.%) was slowly added under stirring until the solution became clear
+2. and then the mixture was added to another suspension (100 mL) containing the α-MnO2 (2.000 g) with H2O2 solution (30 wt.%) under stirring at 0 oC for 0.5 h. 
+3. The final suspension was filtered, washed with distilled water, and then dried at 100 oC for 24 h, followed by annealing at 500 oC in air for 6 h.

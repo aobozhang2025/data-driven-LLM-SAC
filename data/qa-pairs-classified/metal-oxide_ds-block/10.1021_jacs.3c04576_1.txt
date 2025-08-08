@@ -1,0 +1,18 @@
+question
+Synthesis of single atom Cu supported on Al2O3, denoted by Cu/Al2O3. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2·3H2O and support Al2O3
+
+The support Al2O3 is prepared as followed:
+1. 4.28  g (11.4 mmol) of Al(NO3)3·9H2O was added into 100 mL deionized water at room temperature in a 250 mL flask. 
+2. Then, 30 mL of Na2CO3 (2.71 g) solution was added dropwise into the solution under vigorous stirring and the mixture was stirred for a further 5 h at room temperature. 
+3. The reaction  mixture was centrifuged and washed with water to remove the base until the pH value of the aqueous solution was≈7. 
+4. Next, the solid was dried at 100 °C for 12 h, calcined at 350 °C for 5 h. 
+
+After the preparation of Al2O3, the catalyst is synthesized as followed:
+1. 0.15 g (0.6 mmol) of Cu(NO3)2·3H2O and 0.60 g Al2O3 were added into 100 mL deionized water at room temperature in a 250 mL flask. 
+2. Next, 10 mL of NaBH4 solution (0.023 g) was added dropwise into the solution. 
+3. After 10 minutes, 20 mL of Na2CO3 (0.076 g) solution was added dropwise into the solution under vigorous stirring and the mixture (pH≈13) was stirred for a further 5 h at room temperature. 
+4. The reaction mixture was centrifuged and washed with water to remove the base until the pH value of the aqueous solution was≈7. 
+5. Next, the solid was dried at 100 °C for 12 h, calcined at 350 °C for 5 h, and then reduced under hydrogen flow at 350 °C for 3 h.

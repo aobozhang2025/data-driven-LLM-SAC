@@ -1,0 +1,14 @@
+question
+Synthesis of Co single atom supported on N-doped Carbon
+
+answer
+The catalyst is prepared by calcination with support ZIF-8
+
+The support ZIF-8 is prepared as followed:
+1. 0.558 g Zn(NO3)2·6H2O was dissolved in 20 ml methanol and subsequently added to 20 ml methanol containing 0.616 g 2-methylimidazole under ultrasound for 10 min at room temperature. 
+2. The ZIF-8 was then grown under static at 308 K for 12 h. 
+3. The precipitates were centrifuged, washed with methanol and dried in a vacuum at 338 K for overnight.  
+
+After the support ZIF-8 is prepared, the catalyst is synthesized as followed:
+1. the cobalt foam and powder of ZIF-8 (100 mg) were separately placed on a porcelain boat. 
+2. The porcelain boat was heated in a tube furnace to 1,173 K (at 5 K min−1) in a stream of argon (10 ml min−1) for 1 h and then NH3 (10 ml min−1) for 1 h to yield CoSAs/N-C.

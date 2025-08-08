@@ -1,0 +1,21 @@
+question
+synthesis of single atom Cu supported on BIF-29, denoted by BIF-29(Cu)
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cu(NO3)2 and support Boron-Imidazolate Precursor (BIF-29)
+
+The support BIF-29 is prepared as followed:
+1. First, NaBH4 and Imidazole were both finely ground together using a mortar and pestle. 
+2. The mixture was then transferred to a 100 mL round bottom flask and heated to 215 oC for three hours under constant flow Ar until hydrogen evolution ceased. 
+3. The resulting solid mixture was collected and ground to a fine powder.  
+
+After the support is prepared, the catalyst is synthesized by the following procedures:
+1. dissolving Cu(NO3)2 (118 mg) and HB(Im)3 (46.5 mg) in a 3:2 Dimethylacetamide:MeOH (5 mL) solution. 
+2. The mixture was then transferred to a 20 mL vial and reacted at 80 oC for three days. 
+3. The resulting purple powder was transferred to a conical tube and diluted with MeOH before being centrifuged for five minutes. 
+4. The supernatant was removed and replaced with methanol; this step was repeated five times. 
+5. Then the washing solution was switched to acetone and repeated five more times. 
+6. The resulting solid was then dried in a vacuum oven at 50 oC and then stored for further use as BIF-29(Cu)  
+7. The 1 mg/mL MeOH dispersion solution was prepared by measuring 50 mg of the dried BIF-29(Cu) powder into a 100 mL media bottle, followed by the addition of approximately 50 mL MeOH. 
+8. The bottle was sealed with electrical tape and then placed in an oven at 65 oC overnight. 
+9. The resulting purple solution was then brought back to exactly 50 mL and stored for further use.

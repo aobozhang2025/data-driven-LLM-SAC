@@ -1,0 +1,11 @@
+question
+synthesis of single atom Fe doped by 4 N supported on N-doped Carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe2+ acetate and support ZIF-8
+
+The synthesis procedures are as followed:
+1. Fe2+ acetate (Fe(CH3CO2)2, 98%, Sigma-Aldrich), 1,10phenanthroline (C12H8N2, ≥99%, Sigma-Aldrich), and ZIF-8 (ZnN4C8H12, Basolite Z1200, BASF) precursors were mixed using a dry ball-mill (BML-2, DAIHAN Scientific) in four cycles of 30 min each at 400 rpm. 
+2. The ball-milling process was conducted in a ZrO2 crucible containing 100 zirconia balls (diameter = 5 mm). 
+3. The precursor mixture consisted of a 2:8 mass ratio of 1,10-phenanthroline to ZIF-8, with 0.5 wt % of each metal. 
+4. pyrolyze the precursor mixture at 1050 °C under Ar flow (200 mL min−1) for 1 h.

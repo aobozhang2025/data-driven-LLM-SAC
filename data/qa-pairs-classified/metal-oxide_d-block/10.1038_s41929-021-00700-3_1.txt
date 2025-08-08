@@ -1,0 +1,22 @@
+question
+Synthesis of single atom Ir supported on single-crystalline MgO(111) nanosheets
+
+answer
+The catalyst is prepared impregnation with metal precursor Ir(COD)(acac) and support single-crystalline MgO(111) nanosheets
+
+The support single-crystalline MgO(111) nanosheets is prepared as followed:
+1. A Na2CO3 aqueous solution (100 ml, 0.5 M) was rapidly added into 400 ml of a Mg(NO3)2 aqueous solution (0.125 M) under vigorous stirring at room temperature. 
+2. After 10 min, the precipitation was collected via filtration, washed with deionized water and ethanol, and then dried under a reduced pressure.
+3. The yielded white powder was transferred into an alumina crucible and calcined at 500 °C (the ramping rate was controlled at 2 °C min–1) for 2 h under an air atmosphere. 
+4. The MgO product was added into deionized water (1 mg ml–1) under stirring at room temperature. 
+5. After 1 h, the product was collected via filtration and dried under a reduced pressure. 
+6. the Mg(OH)2 product was heated to 600 °C for 12 h under a high vacuum. 
+7. During both the ramping and heating processes, the reactor was evacuated with pressure lower than 10–5 mbar. The ramping rate was 1 °C min–1. 
+8. The final product was collected and stored in an argon-filled glove box, denoted as MgO-NS and used as the support.  
+
+After the support single-crystalline MgO(111) nanosheets is prepared, the catalyst is prepared as followed:
+1. To MgO-NS (200 mg) dispersed in pentane (20 ml) in a 50 ml Schlenk flask was added a solution of Ir(COD)(acac) (4.15 mg) in pentane (2 ml) under stirring. The resulting suspension was stirred for 3 h at room temperature. 
+2. After removing the solvent in vacuo, the resulting material was washed with pentane and dried under a high vacuum (10–5 mbar) to give Ir(COD)(acac)/MgO (elemental analysis, Ir, 0.9%; Ir:C ≈ 1:15). 
+3. Ir(COD)(acac)/MgO was added to a tubular glass flow reactor supported by a frit. 
+4. The reactor was heated, ramping at 1 °C min–1 to 400 °C and kept at 400 °C for 12 h under a steady flow of synthetic air. 
+5. After cooling down to room temperature, the reactor was evacuated under a high vacuum to yield a light-yellow powder and denoted as Ir/MgO-cal (elemental analysis, Ir, 0.9%).

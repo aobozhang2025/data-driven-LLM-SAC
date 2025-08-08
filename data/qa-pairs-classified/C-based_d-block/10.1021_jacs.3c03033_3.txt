@@ -1,0 +1,12 @@
+question
+synthesis of single atom Co supported on N-doped carbon, denoted by CoNC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor cobalt(II) acetate
+
+The synthesis procedures are as followed:
+1. A mass of 0.8 g of a Zn(II) zeolitic imidazolate framework (ZIF-8, Sigma Aldrich) and 0.2 g of 1,10-phenanthroline were weighed, poured into a ZrO2 crucible, followed by adding cobalt(II) acetate, with the mass of cobalt acetate corresponding to 0.5 wt.% of cobalt to the total mass of ZIF-8, phenanthroline and cobalt acetate. 
+2. Then, one-hundred zirconium-oxide balls of 5 mm diameter were added and the ZrO2 crucible was sealed under air. 
+3. The precursors were homogenized in a planetary ball-miller (Fritsch Pulverisette 7 Premium, Fritsch, Idar-Oberstein,  Germany) with 4 cycles of 30 min at 400 rpm. 
+4. The resulting catalyst precursor was flash-pyrolyzed at 1050 °C in Ar flow for 1 h. 
+5. The pyrolysis was stopped by opening the split hinge oven, removing  the quartz tube and letting cool down the catalyst under Ar flow.

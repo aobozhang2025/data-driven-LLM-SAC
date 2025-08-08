@@ -1,0 +1,22 @@
+question
+Synthesis of single atom Fe supported on Al-RNC 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(Ac)2
+
+The support precursor is prepared as followed:
+1. NH2-BDC (1 mmol), Al2(SO4)3·xH2O (0.5 mmol), and HAc (1 mL) were dissolved in DMF (50 mL) at room temperature, transferred to a Teflonlined stainless-steel autoclave (100 mL), and heated to 130 oC for 12 h. 
+2. Finally, the Al-MOF powder was washed with DMF for 3 times and MeOH for 3 times, and activated under vacuum at 120 oC for 12 h. 
+
+The support Al-RNC is prepared by the following procedures:
+1. the core-shell rambutan-like Al-MOFs were transferred into a ceramic boat and heated in a tube furnace at temperatures of 800 oC for 2 h under an Ar atmosphere with the heating rate of 2 oC min-1. 
+2. The furnace was then allowed to cool naturally to room temperature under Ar. 
+3. The acquired black powder (named as MOF-NC) was then immersed in a dilute HCl solution (1 M) at room temperature for 6 h. 
+4. The final Al-RNC was obtained by washing the MOF-NC with deionized water until the supernatant was neutral, then dried at 60 oC overnight. 
+
+After the preparation of support, the synthesis procedures are as followed:
+1. Al-RNC was added to the water (10 mL) and ultrasonicated for 30 min. 
+2. Meantime, a Fe complex solution (EtOH/H2O, v/v = 1:2) containing Fe(Ac)2 (0.38 M) and 1,10 phenanthroline (1.14 M) was prepared by stirring for 2 h. 
+3. Then the Fe complex solution was added into Al-RNC dispersion (the mass ratio of Fe(Ac)2 to Al-RNC was 0.15), followed by ultra-sonication for another 2 h, and stirred at 60 oC overnight. 
+4. After rotary distillation, the resulting power was heated at 800 oC under an Ar atmosphere for 1 h, followed by heating in NH3 gas at 800 oC for another 30 min in a tube furnace. 
+5. After this ammonolysis step, the final product was obtained by cooling to room temperature under Ar flow.

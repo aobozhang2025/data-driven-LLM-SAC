@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Cu supported on Ni-1,4-benzenedipyrazolate (BDP), denoted by Cu1Ni-BDP
+
+answer
+The catalyst is synthesized with the following procedures:
+1. 260 mg of Ni(AcO)2·4H2O and 30 mg of  Cu(AcO)2·H2O and 50 mg of PVP were dissolved in  8 mL of H2O. 
+2. 200 mg of 1,4-bis(pyrazol-4-yl)benzene (H2BDP) was dissolved in 40 mL of DMF. 
+3. The two solutions were mixed and sealed in a 100 mL Teflon-lined stainless-steel autoclave, and then stirred for  20 h at 150 °C. 
+4. Upon cooling, the blue solid was collected by filtration and suspended in 50 mL of methanol for two days. 
+5. The MOFs were then centrifuged and washed with ethanol/diethyl ether mixture,  and finally dried in vacuum oven for 12 h to yield 320 mg (75%) of product.

@@ -1,0 +1,1278 @@
+question
+best practices in Pt SAC synthesis
+
+answer
+pH control is critical: acidic media favors stable Pt-chloride species; basic media may cause hydrolysis.
+Slow reduction helps isolate single atoms rather than clusters.
+Ligand assistance (e.g., using amine or phosphine ligands) can stabilize single Pt atoms on supports.
+Support pre-treatment enhances anchoring and dispersion (e.g., introducing oxygen vacancies or heteroatoms).
+Avoiding agglomeration is essential: control calcination and reduction conditions carefully.
+
+question
+key properties of Pt precursors in SAC synthesis
+
+answer
+| Name                             | Chemical Formula     | Form                  | Oxidation State | Common Solvent                                  | Notes                                                     |
+| -------------------------------- | -------------------- | --------------------- | --------------- | ----------------------------------------------- | --------------------------------------------------------- |
+| **Chloroplatinic acid**          | H₂PtCl₆·xH₂O         | Solid (hydrate)       | +4              | Water, ethanol                                  | Most widely used, soluble in water, corrosive             |
+| **Ammonium hexachloroplatinate** | (NH₄)₂PtCl₆          | Solid                 | +4              | Water                                           | Less soluble than H₂PtCl₆; used for controlled hydrolysis |
+| **Platinum(II) acetylacetonate** | Pt(acac)₂            | Solid                 | +2              | Organic solvents (e.g. toluene, ethanol)        | Used in non-aqueous systems; thermally stable             |
+| **Platinum(IV) nitrate**         | Pt(NO₃)₄             | Solid                 | +4              | Water, nitric acid                              | Less common; oxidizing agent                              |
+| **Platinum(II) chloride**        | PtCl₂                | Solid                 | +2              | Needs heating in HCl or other complexing agents | Poor solubility; often used with ligands                  |
+| **Platinum(IV) chloride**        | PtCl₄                | Solid                 | +4              | HCl, water (limited)                            | Hygroscopic and reactive with moisture                    |
+| **Platinum(0) carbonyl**         | Pt(CO)₄              | Gas/liquid (unstable) | 0               | Organic solvents (low use)                      | Toxic and unstable; rarely used in SAC                    |
+| **Platinum amine complexes**     | \[Pt(NH₃)₄]Cl₂, etc. | Solid                 | +2 or +4        | Water                                           | Used for ligand-controlled synthesis                      |
+
+
+question
+common Pt precursors in SAC synthesis
+
+answer
+Name	Chemical Formula	Form	Oxidation State	Common Solvent	Notes
+Chloroplatinic acid	H₂PtCl₆·xH₂O	Solid (hydrate)	+4	Water, ethanol	Most widely used, soluble in water, corrosive
+Ammonium hexachloroplatinate	(NH₄)₂PtCl₆	Solid	+4	Water	Less soluble than H₂PtCl₆; used for controlled hydrolysis
+Platinum(II) acetylacetonate	Pt(acac)₂	Solid	+2	Organic solvents (e.g. toluene, ethanol)	Used in non-aqueous systems; thermally stable
+Platinum(IV) nitrate	Pt(NO₃)₄	Solid	+4	Water, nitric acid	Less common; oxidizing agent
+Platinum(II) chloride	PtCl₂	Solid	+2	Needs heating in HCl or other complexing agents	Poor solubility; often used with ligands
+Platinum(IV) chloride	PtCl₄	Solid	+4	HCl, water (limited)	Hygroscopic and reactive with moisture
+
+question
+precautions when handling Pt precursors in SAC synthesis
+
+answer
+Precursor	Hazards / Precautions
+H₂PtCl₆	Corrosive, oxidizing. Avoid contact with skin and eyes. Use gloves, goggles, and fume hood.
+(NH₄)₂PtCl₆	Irritant. Avoid inhalation of dust. Handle under dry conditions if possible.
+Pt(acac)₂	Flammable organics. Store away from heat/sparks.
+Pt(NO₃)₄	Strong oxidizer. Avoid organic materials. Use fume hood.
+PtCl₂ / PtCl₄	Irritating to eyes and lungs. Moisture sensitive. Handle in dry, inert atmosphere if possible.
+
+question
+common Pd precursors in SAC synthesis
+
+answer
+| **Precursor Name**                         | **Formula**    | **Oxidation State** | **Solubility**                                                    | **Volatility** | **Notes & Precautions**                                               |
+| ------------------------------------------ | -------------- | ------------------- | ----------------------------------------------------------------- | -------------- | --------------------------------------------------------------------- |
+| **Palladium(II) chloride**                 | PdCl₂          | +2                  | Sparingly soluble in water; soluble in HCl (forms H₂PdCl₄)        | Low            | Must be acidified (HCl) to dissolve; sensitive to moisture; corrosive |
+| **Palladium(II) nitrate**                  | Pd(NO₃)₂       | +2                  | Soluble in water and ethanol                                      | Low            | Oxidizing; decomposes when heated; releases NOx gases                 |
+| **Palladium(II) acetate**                  | Pd(OAc)₂       | +2                  | Soluble in organic solvents (e.g., acetone, toluene, acetic acid) | Moderate       | Commonly used in wet impregnation; air-sensitive                      |
+| **Tetraamminepalladium(II) chloride**      | \[Pd(NH₃)₄]Cl₂ | +2                  | Soluble in water                                                  | Low            | Needs careful pH control; decomposition releases ammonia              |
+| **Palladium(II) acetylacetonate**          | Pd(acac)₂      | +2                  | Soluble in organic solvents                                       | Moderate       | Used in vapor-phase deposition; air-stable                            |
+| **Sodium tetrachloropalladate(II)**        | Na₂PdCl₄       | +2                  | Highly soluble in water                                           | Low            | Stable in acidic solutions; used for aqueous impregnation             |
+| **Potassium tetrachloropalladate(II)**     | K₂PdCl₄        | +2                  | Highly soluble in water                                           | Low            | Similar to Na₂PdCl₄; corrosive and light-sensitive                    |
+| **Palladium(0) bis(dibenzylideneacetone)** | Pd(dba)₂       | 0                   | Soluble in organic solvents                                       | Moderate       | Used in organometallic synthesis; unstable in air                     |
+
+
+question
+Precautions When Using Pd Precursors in SAC synthesis
+
+answer
+Toxicity: Many Pd salts are toxic or irritant; always use gloves and fume hoods.
+Moisture Sensitivity: Some compounds (e.g., PdCl₂) hydrolyze or degrade when exposed to air moisture.
+Light Sensitivity: Tetrachloropalladate compounds can decompose under light—store in amber containers.
+Strong Acids/Oxidizers: Nitrate-containing compounds are oxidizers; avoid contact with organics or reducing agents.
+Environmental Disposal: Palladium is a precious metal; waste should be collected for recovery or treated as hazardous waste.
+
+question
+common Cu precursors in SAC synthesis
+
+answer
+| Precursor                              | Chemical Formula | Properties                                                                           | Application Notes                                                                | Precautions                                                                                      |
+| -------------------------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Copper(II) nitrate trihydrate**      | Cu(NO₃)₂·3H₂O    | Water-soluble, decomposes to CuO upon calcination.                                   | Common in wet impregnation, strong oxidizing agent, provides uniform dispersion. | Hygroscopic, oxidizing agent—avoid heat or contact with organics. Use gloves and eye protection. |
+| **Copper(II) acetate monohydrate**     | Cu(CH₃COO)₂·H₂O  | Moderately soluble in water and organic solvents; releases acetic acid upon heating. | Used for coordination-assisted synthesis or MOF-based methods.                   | Store away from light and moisture. Can release irritating fumes.                                |
+| **Copper(II) chloride dihydrate**      | CuCl₂·2H₂O       | Soluble in water, acidic solution; chloride ions can affect support chemistry.       | Used in ion-exchange and electrochemical methods.                                | Corrosive, avoid skin contact, handle in well-ventilated areas.                                  |
+| **Copper(II) sulfate pentahydrate**    | CuSO₄·5H₂O       | Stable, water-soluble, decomposes to CuO and SO₂ on heating.                         | Often used in aqueous impregnation and co-precipitation.                         | Avoid inhalation of dust; harmful if ingested. Use gloves and dust mask.                         |
+| **Copper(I) oxide**                    | Cu₂O             | Poorly soluble, used in solid-state or thermolysis methods.                          | Useful in dry synthesis with reducing atmospheres.                               | Avoid exposure to acids—may release toxic gases. Thermally sensitive.                            |
+| **Copper(II) acetylacetonate**         | Cu(acac)₂        | Organometallic complex, soluble in organic solvents, thermally decomposes to Cu.     | Applied in atomic layer deposition (ALD), sol–gel, and vapor-phase methods.      | Flammable, handle in fume hood. Sensitive to light and heat.                                     |
+| **Copper(I) chloride**                 | CuCl             | Low solubility in water, more reactive under reducing conditions.                    | Used in electrochemical and low-temperature methods.                             | Air-sensitive, can oxidize to CuCl₂; store under inert gas.                                      |
+| **Copper(II) ethylenediamine complex** | \[Cu(en)₂]²⁺     | Water-soluble chelate; strong coordination to N-donor ligands.                       | Helps stabilize single Cu atoms via ligand anchoring on N-doped supports.        | Handle with care due to chelating agents; store in cool, dry conditions.                         |
+
+
+question
+precautions when using Cu precursors in SAC synthesis
+
+answer
+Selection criteria:
+Choose based on solubility, support compatibility, and target coordination environment.
+Avoid precursors with aggressive anions (e.g., Cl⁻) if they interfere with support or poison active sites.
+
+Precursor handling:
+Store in airtight, moisture-free conditions.
+Use in dilute concentrations to prevent cluster or nanoparticle formation.
+Apply slow drying and careful calcination (e.g., 150–300 °C) to maintain atom dispersion.
+
+Safety precautions:
+Always work in a fume hood.
+Wear PPE: gloves, lab coat, eye protection.
+Avoid mixing with reducing agents unless under controlled atmosphere.
+
+question
+common Ni precursors in SAC synthesis
+
+answer
+| Precursor Name                  | Chemical Formula | Common Form                         | Properties                                                                                                | Precautions                                                                             |
+| ------------------------------- | ---------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Nickel nitrate hexahydrate**  | Ni(NO₃)₂·6H₂O    | Solid, soluble in water and alcohol | - Highly soluble<br>- Releases NOx upon decomposition<br>- Often used in wet impregnation                 | - Hygroscopic<br>- Store in sealed container<br>- Handle with gloves; avoid inhalation  |
+| **Nickel chloride hexahydrate** | NiCl₂·6H₂O       | Solid, soluble in water             | - Strong coordination with Cl⁻<br>- Compatible with various supports<br>- Lower decomposition temperature | - Corrosive<br>- Hygroscopic<br>- May release toxic HCl gas during calcination          |
+| **Nickel acetate tetrahydrate** | Ni(CH₃COO)₂·4H₂O | Solid, water/alcohol soluble        | - Mild decomposition<br>- Less corrosive<br>- Forms Ni–O–C bonds easily                                   | - Sensitive to humidity<br>- Store in dry conditions<br>- Avoid skin contact            |
+| **Nickel carbonyl**             | Ni(CO)₄          | Volatile liquid (gas at RT)         | - Used in gas-phase deposition<br>- Decomposes to form Ni atoms<br>- High purity possible                 | - **Extremely toxic**<br>- Carcinogenic<br>- Requires gas handling system and fume hood |
+| **Nickel sulfate hexahydrate**  | NiSO₄·6H₂O       | Solid, water soluble                | - Acidic<br>- Used in ion exchange or impregnation<br>- Stable under ambient conditions                   | - Irritant<br>- Wear PPE<br>- Avoid release to environment                              |
+| **Nickelocene**                 | Ni(C₅H₅)₂        | Organometallic solid                | - Used in ALD/CVD methods<br>- Volatile under vacuum<br>- Thermally unstable                              | - Air/moisture sensitive<br>- Handle under inert gas<br>- Flammable                     |
+
+question
+common Ru precursors for SAC synthesis
+
+answer
+| Precursor Name                      | Formula       | Properties                                                                                                               | Common Use                                                              | Precautions                                                                                                        |
+| ----------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Ruthenium(III) chloride hydrate** | RuCl₃·xH₂O    | - Reddish-brown solid<br>- Soluble in water and ethanol<br>- Commonly exists as RuCl₃·3H₂O                               | Most widely used for wet impregnation and atomic layer deposition (ALD) | - Hygroscopic<br>- Corrosive<br>- Light-sensitive<br>- Can hydrolyze in aqueous media to form oxo-chloride species |
+| **Ruthenium(III) acetylacetonate**  | Ru(acac)₃     | - Dark green or black solid<br>- Soluble in organic solvents (e.g., acetone, toluene)<br>- Volatile at high temperatures | Used in thermal decomposition and atomic layer deposition (ALD)         | - Air-sensitive<br>- Avoid high temperatures in air due to decomposition<br>- Use glove box or Schlenk techniques  |
+| **Ruthenium(III) nitrosyl nitrate** | Ru(NO)(NO₃)₃  | - Orange-red solid<br>- Soluble in water and alcohols<br>- Contains NO ligand, sensitive to light and heat               | Precursor in solution-based synthesis or co-precipitation               | - Explosive under heat/light<br>- Toxic NO gas possible<br>- Store in dark, cold conditions                        |
+| **Ruthenium(IV) oxide hydrate**     | RuO₂·xH₂O     | - Blue-black powder<br>- Insoluble in water<br>- Thermally stable                                                        | Used for thermal decomposition routes                                   | - Inert but can form RuO₄ at high oxidation conditions (toxic and volatile)                                        |
+| **Ruthenium carbonyl**              | Ru₃(CO)₁₂     | - Orange crystalline solid<br>- Soluble in organic solvents<br>- Releases CO upon decomposition                          | Used in solution-based or vapor deposition methods                      | - Toxic CO release<br>- Air- and light-sensitive<br>- Handle under inert gas                                       |
+| **Ruthenium(III) 2-ethylhexanoate** | Ru(C₇H₁₅CO₂)₃ | - Liquid or viscous oil<br>- Soluble in organic solvents<br>- Used for high dispersion on supports                       | Common in sol–gel or solution impregnation                              | - Combustible<br>- Toxic on inhalation or skin contact                                                             |
+
+question
+selection considerations of Ru precursor in SAC synthesis
+
+answer
+Solubility: For solution-based methods, water-soluble precursors (e.g., RuCl₃, Ru(NO)(NO₃)₃) are preferred
+Thermal behavior: Must decompose cleanly to Ru(0) or RuOx without forming aggregates
+Ligand volatility: Ligands (e.g., CO, acac) must be easily removed without residue
+Metal dispersion: Chelated or organometallic precursors may improve dispersion as single atoms
+Safety: Some Ru compounds (e.g., RuO₄, NO-containing) are highly toxic and volatile
+
+question
+General Safety Precautions for Ru Precursors in SAC synthesis
+
+answer
+Always use glove box or Schlenk line for air-sensitive organometallics.
+Protect from light and heat (especially NO, CO containing species).
+Avoid exposure to moisture for hygroscopic chlorides.
+Ensure fume hood use to avoid inhalation of NO, CO, or RuO₄ vapors.
+Decompose Ru precursors in a controlled reducing/oxidizing atmosphere (H₂/Ar, O₂/air) to prevent sintering or unwanted oxide formation.
+
+question
+common Ir precursors in SAC synthesis
+
+answer
+| Precursor                                                  | Formula         | Physical Form                          | Key Properties                                                                                                                       | Precautions                                                               |
+| ---------------------------------------------------------- | --------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **IrCl₃·xH₂O** (Iridium(III) chloride hydrate)             | IrCl₃·xH₂O      | Reddish-brown solid                    | - Water-soluble<br>- Common in wet-impregnation and co-precipitation<br>- Easily hydrolyzes                                          | - Hygroscopic<br>- Use in fume hood (Cl⁻ vapors)<br>- Corrosive           |
+| **H₂IrCl₆·xH₂O** (Hydrochloroiridic acid hydrate)          | H₂IrCl₆·xH₂O    | Yellow to brown solid                  | - Soluble in water and ethanol<br>- Often used for uniform dispersion<br>- Precursor for Ir single atoms via wet impregnation or ALD | - Strong acid<br>- Corrosive and toxic<br>- Store in airtight containers  |
+| **Na₃IrCl₆** (Sodium hexachloroiridate)                    | Na₃IrCl₆        | Yellow crystalline solid               | - Good solubility<br>- Useful for ion-exchange and strong electrostatic adsorption (SEA) methods                                     | - Moisture-sensitive<br>- Toxic if ingested/inhaled                       |
+| **Ir(acac)₃** (Iridium(III) acetylacetonate)               | Ir(C₅H₇O₂)₃     | Yellow solid                           | - Organometallic<br>- Volatile at moderate temps<br>- Soluble in organic solvents<br>- Used in ALD, CVD, or thermal decomposition    | - Air-sensitive<br>- Flammable organics<br>- Store under inert atmosphere |
+| **Ir(COD)(acac)** (Iridium cyclooctadiene acetylacetonate) | Ir(C₈H₁₂)(acac) | Yellow to orange solid                 | - Highly soluble in organics<br>- Used in vapor-phase or ligand-exchange methods                                                     | - Light-sensitive<br>- Flammable<br>- Decomposes on heating               |
+| **(NH₄)₂IrCl₆** (Ammonium hexachloroiridate)               | (NH₄)₂IrCl₆     | Orange-yellow solid                    | - Soluble in water<br>- Useful in SEA or ion-exchange with ammonium supports                                                         | - Release of NH₃ gas possible<br>- Store in sealed containers             |
+| **Ir(CO)₂(acac)** (Iridium carbonyl acetylacetonate)       | Ir(CO)₂(acac)   | Pale solid                             | - Used in CO-assisted anchoring of Ir single atoms<br>- Source of both Ir and CO ligands                                             | - CO ligand can be toxic<br>- Handle under fume hood                      |
+| **Ir(NO₃)₃** (Iridium nitrate)                             | Ir(NO₃)₃        | Reddish liquid or powder (rarely used) | - Soluble in water<br>- Provides nitrate anions for weak coordination                                                                | - Oxidizer<br>- Light/heat sensitive<br>- Not very stable                 |
+
+question
+Key Considerations for Using Ir Precursors in SAC synthesis
+
+answer
+Stability: Organometallic precursors like Ir(acac)₃ are less stable than chlorides, but often give better dispersion.
+Volatility: Crucial for ALD/CVD methods (Ir(acac)₃, Ir(COD)(acac)).
+Solubility: Important for wet methods—chlorides and acids are water-soluble; organometallics dissolve in ethanol, acetone, etc.
+Decomposition: Need to decompose cleanly to Ir(0) or Irδ⁺; residual ligands can poison active sites.
+Anchorability: Ligand type affects metal-support interaction; Cl⁻ can compete with surface anchoring.
+Safety: Many Ir compounds are toxic, corrosive, and oxidizing; handle with gloves and in fume hoods.
+
+question
+common Rh precursors for SAC synthesis
+
+answer
+| Precursor                         | Formula                   | Properties                                                                                                                                               | Precautions                                                                                                                                                        |
+| --------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Rhodium(III) chloride hydrate** | RhCl₃·xH₂O                | - Most common Rh source in SACs<br>- Water-soluble<br>- Moderate stability<br>- Used in wet impregnation, incipient wetness, and atomic layer deposition | - Moisture sensitive<br>- Handle in glovebox if purity needed<br>- May hydrolyze, forming Rh-O-Rh clusters—control pH and drying conditions to prevent aggregation |
+| **Rhodium(III) nitrate**          | Rh(NO₃)₃ or Rh(NO₃)₃·xH₂O | - Soluble in water and alcohols<br>- Compatible with combustion and solution-phase methods<br>- Lower chloride contamination than RhCl₃                  | - Highly oxidizing<br>- Can be hygroscopic<br>- Avoid reducing agents before anchoring on support                                                                  |
+| **Rhodium(III) acetylacetonate**  | Rh(acac)₃                 | - Organometallic complex<br>- Soluble in organic solvents like acetone, toluene<br>- Good for non-aqueous synthesis or ALD                               | - Air/moisture sensitive<br>- Handle under inert atmosphere<br>- Use compatible solvent systems                                                                    |
+| **Rhodium(III) acetate**          | Rh₃(CH₃COO)₆ or Rh(OAc)₃  | - Water and ethanol soluble<br>- Used in colloidal and cluster synthesis<br>- Can help anchor Rh via carboxylate interaction                             | - Light-sensitive<br>- Limited shelf life when exposed to air                                                                                                      |
+| **Rhodium carbonyl complexes**    | Rh₄(CO)₁₂, etc.           | - Useful for gas-phase deposition, CVD<br>- Volatile, well-defined species<br>- Can lead to very uniform atomic dispersion                               | - Toxic CO-ligands<br>- Air-sensitive, requires sealed systems<br>- Thermal decomposition control is critical                                                      |
+| **Rhodium(III) sulfate**          | Rh₂(SO₄)₃·xH₂O            | - Water-soluble<br>- Less chloride contamination<br>- Useful in electrochemical and solution synthesis                                                   | - Corrosive<br>- Strong acid environment—requires corrosion-resistant containers                                                                                   |
+
+question
+Considerations in Using Rh Precursors for SAC synthesis
+
+answer
+Purity: Rh precursors should be high-purity (99.99%+) to avoid contamination in SAC
+Support Interaction: Choice depends on support (e.g., oxide, carbon, MOFs)—ligand exchange or anchoring may vary
+Stability: Hydrolysis or ligand exchange in solution may lead to nanoparticles if not well-controlled
+Volatility (for ALD/CVD): Organometallics or carbonyls offer good volatility but require vacuum or inert conditions
+Environmental Safety: Rh compounds are expensive and toxic—ensure waste is properly handled and stored
+
+question
+common Au precursors in SAC synthesis
+
+answer
+| **Precursor**                        | **Formula**                            | **Properties**                                                                                                                          | **Precautions**                                                                                           |
+| ------------------------------------ | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Chloroauric acid**                 | HAuCl₄·xH₂O                            | - Most widely used<br>- Soluble in water & ethanol<br>- Provides Au³⁺ ions<br>- Good interaction with oxide and carbon supports         | - Highly corrosive and oxidizing<br>- Light sensitive (store in dark)<br>- Handle with gloves and goggles |
+| **Gold(III) chloride**               | AuCl₃                                  | - Moisture-sensitive solid<br>- Soluble in chlorinated solvents<br>- Used in vapor-phase or dry impregnation methods                    | - Releases HCl vapors<br>- Air-sensitive, store under inert atmosphere                                    |
+| **Gold(I) chloride**                 | AuCl                                   | - Less common<br>- Insoluble in water<br>- Requires reducing atmosphere for activation                                                  | - Sensitive to light and air<br>- Use glovebox/inert gas if possible                                      |
+| **Tetrachloroaurate(III) salts**     | e.g., NaAuCl₄, KAuCl₄                  | - Water-soluble ionic gold precursors<br>- Provide Au³⁺ species<br>- Easier to dose and control pH                                      | - Corrosive and oxidizing<br>- Avoid strong bases/acids when not desired                                  |
+| **Gold(III) acetate**                | Au(OAc)₃                               | - Used in some organometallic and ALD-based SAC methods<br>- Soluble in organic solvents (e.g., toluene, THF)                           | - Decomposes on heating<br>- Light and moisture sensitive                                                 |
+| **Gold(III) oxalate**                | Au₂(C₂O₄)₃                             | - Rare, sometimes used for precise control<br>- Can be calcined to form isolated atoms on oxides                                        | - Requires controlled atmosphere<br>- Sensitive to moisture and decomposition                             |
+| **Organogold complexes**             | e.g., MeAuPPh₃, Au(PPh₃)Cl             | - Used in advanced synthesis (ALD, CVD, ligand-assisted methods)<br>- Allow controlled deposition of single atoms                       | - Expensive<br>- Thermally unstable<br>- Toxic and air-sensitive                                          |
+| **Gold nanoparticles as precursors** | Au NPs (for precursor trapping method) | - Not molecular but used in **trapping or atom migration strategies**<br>- NPs decompose or diffuse into isolated atoms on defect sites | - High-temperature calcination needed<br>- Risk of aggregation if not controlled                          |
+
+question
+General Handling Precautions for Au Precursors in SAC synthesis
+
+answer
+Wear PPE: Always use gloves, lab coat, and eye protection.
+Avoid light exposure: Many gold precursors are light-sensitive.
+Prevent reduction: Gold(III) easily reduces to metallic gold — handle in clean, non-reducing environments.
+Use inert gas: For air-sensitive compounds (e.g., AuCl, organogold complexes), use glovebox or inert gas (argon/nitrogen) protection.
+Avoid contamination: Gold precursors can strongly adsorb on surfaces or degrade in presence of organics.
+
+question
+Selection Considerations for Au precursors in SAC synthesis
+
+answer
+Use HAuCl₄ for wet impregnation, incipient wetness, or ion exchange with oxides or carbon.
+Use organogold complexes or gold acetates for ALD, CVD, or precise vapor deposition methods.
+Use NaAuCl₄/KAuCl₄ when better control of pH and solution stability is needed.
+Prefer AuCl₃ for vapor-phase deposition but handle with care due to volatility.
+
+question
+common Co precursors in SAC synthesis 
+
+answer
+| Precursor Name               | Chemical Formula | Common Oxidation State | Solubility                                      | Notes/Applications                                              |
+| ---------------------------- | ---------------- | ---------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
+| **Cobalt nitrate**           | Co(NO₃)₂·6H₂O    | +2                     | Soluble in water, ethanol                       | Commonly used in wet impregnation; releases NOx on calcination  |
+| **Cobalt acetate**           | Co(CH₃COO)₂·4H₂O | +2                     | Soluble in water, ethanol                       | Stable, easy to handle; used in many SAC routes                 |
+| **Cobalt chloride**          | CoCl₂·6H₂O       | +2                     | Soluble in water                                | Hygroscopic; corrosive; risk of Cl⁻ contamination               |
+| **Cobalt sulfate**           | CoSO₄·7H₂O       | +2                     | Soluble in water                                | Less volatile; less common due to SO₄²⁻ residuals               |
+| **Cobalt carbonyl**          | Co₂(CO)₈         | 0                      | Soluble in organic solvents                     | Used in gas-phase or vapor-assisted methods; toxic & pyrophoric |
+| **Cobalt acetylacetonate**   | Co(acac)₃        | +3                     | Soluble in organic solvents                     | Useful in sol-gel, CVD, MOF templating; thermally decomposable  |
+| **Cobalt phthalocyanine**    | CoPc             | +2                     | Insoluble in water, soluble in organic solvents | Used in MOF/porphyrin-like SACs                                 |
+| **Cobalt oxide (preformed)** | Co₃O₄ or CoO     | +2/+3                  | Insoluble                                       | Used in high-temp treatments or defect engineering              |
+
+question
+common precautions of Co precursors in SAC synthesis
+
+answer
+Toxicity	Cobalt salts and especially organometallics (like Co₂(CO)₈) are toxic. Handle with gloves and fume hood.
+Volatility & Reactivity	Co carbonyls are volatile, flammable, and pyrophoric—avoid exposure to air.
+Environmental Hazard	Cobalt compounds can be hazardous to aquatic life; dispose of waste properly.
+Chloride Contamination	CoCl₂ may introduce Cl⁻ ions that can corrode supports or affect catalytic behavior.
+Nitrate Decomposition	Co(NO₃)₂ releases NOx gases on decomposition; ensure proper ventilation.
+
+question
+Co Precursor Selection Tips for SAC synthesis
+
+answer
+High dispersion potential: Ligands that aid coordination with support (e.g., acac, nitrate).
+Clean decomposition: Avoid residues that block active sites (e.g., acetate over sulfate).
+Stability vs Reactivity: Balance storage stability with reactivity for single atom formation.
+Support compatibility: Choose precursors that anchor well with nitrogen-doped, oxygen-rich, or defect-engineered supports.
+
+question
+common Fe precursors in SAC synthesis
+
+answer
+| **Precursor**                     | **Formula**          | **Properties**                                                                                                     | **Precautions**                                                                                                            |
+| --------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Iron(III) nitrate nonahydrate** | Fe(NO₃)₃·9H₂O        | - Highly soluble in water<br>- Provides Fe³⁺ ions<br>- Often used in wet impregnation                              | - Hygroscopic<br>- Oxidizing agent—store away from organics or reducing agents<br>- Decomposes to toxic fumes upon heating |
+| **Iron(III) chloride**            | FeCl₃                | - Water-soluble<br>- Strong Lewis acid<br>- Enables strong interaction with N-rich supports                        | - Corrosive<br>- Hygroscopic<br>- Produces HCl vapors on contact with moisture                                             |
+| **Iron(II) sulfate heptahydrate** | FeSO₄·7H₂O           | - Mild reducing Fe²⁺ salt<br>- Used when lower oxidation states are preferred<br>- Moderately soluble in water     | - Oxidizes to Fe³⁺ in air—must be freshly prepared or stored in inert conditions<br>- Store in tightly closed containers   |
+| **Iron(III) acetylacetonate**     | Fe(acac)₃            | - Organic-soluble complex<br>- Used in organic solvents or sol-gel synthesis<br>- Enables uniform metal dispersion | - Sensitive to moisture and light<br>- Handle in dry or inert environment<br>- Flammable organic ligand                    |
+| **Iron(II) acetate**              | Fe(OAc)₂             | - Useful in mild conditions<br>- Can be dispersed easily on carbon/nitrogen-doped supports                         | - Air-sensitive<br>- May oxidize to Fe(III) upon exposure<br>- Requires inert atmosphere for solution stability            |
+| **Iron(III) oxalate**             | Fe₂(C₂O₄)₃·nH₂O      | - Can serve as both Fe source and sacrificial ligand during pyrolysis                                              | - Decomposes on heating—generate CO/CO₂<br>- Handle carefully to control carbon residues                                   |
+| **Iron pentacarbonyl**            | Fe(CO)₅              | - Fe⁰ precursor<br>- Enables atomic dispersion on surfaces<br>- Useful for CVD or ALD methods                      | - Extremely toxic and volatile<br>- Pyrophoric<br>- Requires strict inert conditions (glovebox or Schlenk line)            |
+| **Ferric citrate**                | Fe(C₆H₅O₇)           | - Biocompatible<br>- Used in hydrothermal or sol-gel methods                                                       | - Organic content can affect carbonization<br>- Moderate solubility in water                                               |
+| **Ammonium iron(III) citrate**    | (NH₄)₅\[Fe(C₆H₄O₇)₂] | - Water-soluble<br>- Useful for Fe-N-C catalyst precursors                                                         | - Sensitive to humidity<br>- Decomposes on heating—control calcination atmosphere                                          |
+
+question
+General Guidelines for Fe Precursor Use in SAC synthesis
+
+answer
+Support compatibility: Choose precursor oxidation state and ligand type based on affinity to N-doped, O-doped, or carbonaceous supports.
+Solubility: Important for uniform dispersion; aqueous precursors for hydrophilic supports, organic-soluble for porous carbons.
+Stability: Fe²⁺ salts tend to oxidize in air—store and handle under inert gas when needed.
+Toxicity and Handling: Many Fe precursors (like FeCl₃, Fe(CO)₅) are corrosive or toxic; handle with PPE and proper ventilation.
+Calcination/pyrolysis: Carefully control atmosphere (e.g., N₂, Ar) and temperature ramping to avoid Fe nanoparticle formation and maintain atomic dispersion.
+
+question
+common Mn precursors in SAC synthesis
+
+answer
+| Precursor Name                      | Chemical Formula | Properties                                                                                                     | Typical Uses in SACs                                                          | Precautions                                                                                         |
+| ----------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Manganese(II) acetate tetrahydrate  | Mn(CH3COO)2·4H2O | Pale pink crystals, soluble in water and ethanol. Moderate stability.                                          | Common for wet impregnation, coordination with supports.                      | Handle with gloves; avoid inhalation of dust; may cause irritation.                                 |
+| Manganese(II) nitrate tetrahydrate  | Mn(NO3)2·4H2O    | Pale pink to light brown crystals, highly soluble in water. Strong oxidizer due to nitrate ions.               | Used in impregnation; decomposes easily on heating, enabling good dispersion. | Oxidizing agent; avoid contact with combustible materials; toxic if ingested or inhaled.            |
+| Manganese(II) chloride tetrahydrate | MnCl2·4H2O       | Pink crystals, highly soluble in water, hygroscopic. Corrosive in nature.                                      | Common precursor for ion-exchange and wet impregnation.                       | Corrosive; wear protective gloves and eyewear; avoid inhalation or skin contact.                    |
+| Manganese(III) acetylacetonate      | Mn(acac)3        | Dark purple crystalline solid, soluble in organic solvents like ethanol, acetone. Stable coordination complex. | Used in organic solvent impregnation; suitable for vapor phase deposition.    | Toxic by ingestion and inhalation; flammable solvent risk; handle in fume hood with PPE.            |
+| Potassium permanganate              | KMnO4            | Dark purple crystalline solid, strong oxidizing agent, soluble in water.                                       | Sometimes used to introduce Mn and modify support surfaces.                   | Strong oxidizer; corrosive; may cause burns; avoid contact with organic material; handle carefully. |
+| Manganese(II) sulfate monohydrate   | MnSO4·H2O        | Pink crystals, soluble in water; relatively stable salt.                                                       | Used for wet impregnation methods.                                            | May cause skin and respiratory irritation; handle with protective equipment.                        |
+
+question
+Key Notes on Properties and Precautions of Mn precursors in SAC synthesis
+
+answer
+Oxidation States: Mn precursors often are Mn(II) or Mn(III) states; Mn(IV) species are less common as direct precursors but can form in situ after calcination.
+Solubility: Water-soluble salts (acetate, nitrate, chloride, sulfate) are widely used for aqueous impregnation methods. Organometallic complexes like acetylacetonate enable use of organic solvents.
+Thermal Stability: Nitrates decompose easily releasing gases (NOx), useful for dispersion but require ventilation.
+Toxicity: Mn compounds can be neurotoxic upon prolonged exposure; use good lab practices to avoid inhalation and skin contact.
+Handling: Use gloves, goggles, and work under fume hood especially for volatile or oxidizing precursors like nitrates and permanganate.
+
+question
+common Ti precursors in SAC synthesis
+
+answer
+| Precursor                        | State           | Reactivity                           | Solubility                           | Main Precautions                           |
+| -------------------------------- | --------------- | ------------------------------------ | ------------------------------------ | ------------------------------------------ |
+| Titanium(IV) Isopropoxide (TTIP) | Liquid          | Hydrolyzes with moisture             | Organic solvents                     | Moisture sensitive, flammable, irritant    |
+| Titanium Tetrachloride (TiCl₄)   | Liquid (fuming) | Violent hydrolysis, releases HCl gas | Insoluble in water, reacts violently | Corrosive, toxic fumes, moisture sensitive |
+| Titanium(IV) Butoxide            | Liquid          | Hydrolyzes with moisture             | Organic solvents                     | Moisture sensitive, flammable, irritant    |
+| Titanium(IV) Oxysulfate          | Solid / aqueous | Stable                               | Water soluble                        | Corrosive, irritant                        |
+
+question
+common V precursors in SAC synthesis
+
+answer
+| Precursor                                      | Properties                                                                                                                                                             | Precautions                                                                                                                                                      |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vanadium(V) oxytriisopropoxide** (VO(OiPr)3) | - Organometallic compound<br>- Volatile liquid<br>- Good for atomic dispersion due to volatility and reactivity<br>- Sensitive to moisture and air (hydrolyzes easily) | - Highly moisture sensitive: handle under inert atmosphere<br>- Flammable liquid and vapor<br>- Avoid skin and eye contact<br>- Use in fume hood with proper PPE |
+| **Vanadyl acetylacetonate** (VO(acac)2)        | - Solid powder<br>- Stable under ambient conditions<br>- Moderate volatility<br>- Soluble in organic solvents (e.g., ethanol, acetone)                                 | - Harmful if swallowed or inhaled<br>- Avoid inhalation of dust<br>- Use gloves and eye protection<br>- Handle in well-ventilated area                           |
+| **Vanadium(V) oxide (V2O5)**                   | - Solid, orange-red powder<br>- Low solubility in water but dispersible in acidic solutions<br>- Stable and commonly used for impregnation                             | - Harmful if inhaled or ingested<br>- Can cause skin and respiratory irritation<br>- Use dust mask and gloves<br>- Avoid inhalation of dust                      |
+| **Ammonium metavanadate** (NH4VO3)             | - Solid, white crystalline powder<br>- Water soluble<br>- Can be used as precursor in aqueous impregnation methods                                                     | - Toxic if ingested<br>- Irritant to eyes, skin, and respiratory tract<br>- Handle with gloves and eye protection<br>- Use in a fume hood                        |
+| **Vanadyl sulfate (VOSO4)**                    | - Blue-green crystalline solid<br>- Water soluble<br>- Often used in aqueous solutions for impregnation                                                                | - Harmful if swallowed<br>- May cause irritation<br>- Use gloves and avoid dust inhalation<br>- Handle in well-ventilated area                                   |
+
+question
+common Zr precursors in SAC synthesis
+
+answer
+| Precursor Name                | Chemical Formula         | Properties                                               | Precautions                                                  |
+| ----------------------------- | ------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
+| **Zirconium(IV) chloride**    | ZrCl₄                    | - White to pale yellow crystalline solid                 | - Highly hygroscopic and moisture sensitive                  |
+|                               |                          | - Sublimes at \~331 °C                                   | - Corrosive, releases HCl fumes on hydrolysis                |
+|                               |                          | - Soluble in water (hydrolyzes), organic solvents        | - Handle in dry conditions, avoid moisture                   |
+|                               |                          | - Used for atomic layer deposition (ALD) or impregnation | - Use appropriate PPE and fume hood                          |
+| **Zirconium(IV) oxychloride** | ZrOCl₂·8H₂O              | - Yellowish crystalline powder                           | - Moisture sensitive                                         |
+|                               |                          | - Water soluble                                          | - Corrosive; avoid inhalation and skin contact               |
+|                               |                          | - Common precursor for impregnation and sol-gel methods  | - Use gloves and goggles                                     |
+| **Zirconium(IV) nitrate**     | Zr(NO₃)₄                 | - White crystalline powder                               | - Strong oxidizer; may react with reducing agents            |
+|                               |                          | - Soluble in water and alcohols                          | - Avoid contact with combustible materials                   |
+|                               |                          | - Used for wet impregnation and solution processing      | - Use PPE, avoid ingestion and inhalation                    |
+| **Zirconium(IV) alkoxides**   | Zr(OR)₄ (e.g., Zr(OBu)₄) | - Clear to pale liquids                                  | - Highly moisture sensitive; hydrolyzes rapidly              |
+|                               |                          | - Soluble in organic solvents (alcohols, ethers)         | - Flammable, reactive with water, may release alcohol vapors |
+|                               |                          | - Used for sol-gel and chemical vapor deposition (CVD)   | - Handle under inert atmosphere (glovebox or drybox)         |
+| **Zirconium acetylacetonate** | Zr(acac)₄                | - Yellow crystalline powder                              | - Moderate toxicity                                          |
+|                               |                          | - Soluble in organic solvents                            | - Avoid inhalation and skin contact                          |
+|                               |                          | - Used for solution-phase synthesis and impregnation     | - Handle in well-ventilated areas                            |
+
+question
+key points of Zr precursors in SAC synthesis
+
+answer
+Hydrolysis Sensitivity: Most Zr precursors (especially chlorides, alkoxides) are sensitive to moisture and hydrolyze readily, which can lead to premature polymerization or precipitation. This is critical for controlled single-atom catalyst synthesis.
+Corrosiveness & Toxicity: ZrCl₄ and ZrOCl₂ release corrosive HCl fumes upon contact with water. Proper ventilation and protective equipment are necessary.
+Oxidizing Nature: Nitrates are strong oxidizers and should be handled away from flammable materials.
+Handling Requirements: Alkoxides require inert atmosphere to prevent rapid hydrolysis, typically handled inside gloveboxes or under dry nitrogen/argon flow.
+Solubility: Solubility varies: chlorides and nitrates are water soluble, alkoxides dissolve in organic solvents, influencing the choice depending on the synthesis route.
+
+question
+common W precursors in SAC synthesis
+
+answer
+| Precursor                             | Chemical Formula    | Properties                                                                                    | Precautions                                                                                                                     |
+| ------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Ammonium metatungstate**            | (NH₄)₆H₂W₁₂O₄₀·xH₂O | - Water-soluble polyoxometalate<br>- Stable, high tungsten content<br>- Yellow to brown solid | - Handle with care to avoid inhalation of dust<br>- May cause irritation on skin and eyes                                       |
+| **Tungsten hexachloride**             | WCl₆                | - Volatile, moisture sensitive<br>- Sublimes at room temperature<br>- Dark green solid        | - Highly reactive with moisture; releases HCl fumes<br>- Corrosive and toxic; use under inert atmosphere and proper ventilation |
+| **Tungsten(VI) oxide**                | WO₃                 | - Insoluble in water<br>- Yellow to blue-green solid<br>- Thermally stable                    | - Avoid inhalation of dust<br>- Can cause respiratory irritation                                                                |
+| **Tungsten(VI) chloride oxo complex** | WOCl₄               | - Reactive, moisture sensitive<br>- Used in some organometallic syntheses                     | - Handle under inert atmosphere<br>- Corrosive, irritant                                                                        |
+| **Sodium tungstate**                  | Na₂WO₄·2H₂O         | - Water-soluble salt<br>- Stable and easy to handle                                           | - Generally low toxicity but avoid ingestion and prolonged exposure                                                             |
+| **Tungsten carbonyl**                 | W(CO)₆              | - Organometallic complex<br>- Volatile, sublimates readily<br>- Used in CVD and impregnation  | - Toxic and volatile<br>- Handle in fume hood with gloves<br>- Flammable                                                        |
+
+question
+Notes on Usage of W precursors in SAC Synthesis
+
+answer
+Ammonium metatungstate (AMT) is one of the most widely used W precursors for SACs due to its water solubility and stable tungsten source.
+WCl₆ and WOCl₄ are highly reactive and often used when more reactive or organometallic tungsten species are needed, but require stringent moisture-free conditions.
+WO₃ is typically used as a support or tungsten oxide species rather than a direct precursor for impregnation.
+Sodium tungstate is sometimes used as a tungsten source in aqueous solutions.
+W(CO)₆ can be used in vapor phase deposition or organometallic approaches for preparing atomically dispersed W catalysts.
+
+question
+general precautions of W precursors in SAC synthesis
+
+answer
+Always handle tungsten precursors in well-ventilated areas or fume hoods.
+Use personal protective equipment (PPE) such as gloves, goggles, and lab coats.
+Store moisture-sensitive precursors (e.g., WCl₆, WOCl₄) under inert gas and in dry conditions.
+Be aware of toxic or corrosive nature of some precursors and avoid inhalation or skin contact.
+
+question
+common Nb precursors in SAC synthesis
+
+answer
+| Precursor Name                 | Formula                     | Properties                                                                                                         | Precautions                                                                                                 |
+| ------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| **Niobium(V) chloride**        | NbCl₅                       | - Yellow solid<br>- Highly reactive with moisture<br>- Volatile at high temp<br>- Soluble in THF, ethanol, toluene | - Corrosive and moisture sensitive<br>- Emits HCl when hydrolyzed<br>- Handle in glovebox or dry atmosphere |
+| **Niobium(V) ethoxide**        | Nb(OC₂H₅)₅                  | - Colorless to pale yellow liquid<br>- Soluble in alcohols and hydrocarbons<br>- Used for sol-gel processes        | - Flammable<br>- Moisture and air sensitive<br>- Store under inert gas                                      |
+| **Niobium(V) oxalate**         | NbO(C₂O₄)₂⁻                 | - Water-soluble<br>- Stable in aqueous solution<br>- Useful for wet impregnation                                   | - Avoid heating in closed containers (CO₂ evolution)<br>- Can cause skin/eye irritation                     |
+| **Niobium(V) isopropoxide**    | Nb(OCH(CH₃)₂)₅              | - Volatile, colorless liquid<br>- Common in ALD/sol-gel<br>- Soluble in organic solvents                           | - Highly moisture sensitive<br>- Reacts violently with water<br>- Use in dry conditions                     |
+| **Ammonium niobate oxalate**   | NH₄\[NbO(C₂O₄)₂(H₂O)₂]·nH₂O | - Water-soluble<br>- Stable under ambient conditions<br>- Suitable for aqueous routes                              | - Irritant to eyes/skin<br>- Avoid strong heating to prevent decomposition                                  |
+| **Niobium(V) pentafluoride**   | NbF₅                        | - White hygroscopic solid<br>- Strong Lewis acid<br>- Soluble in polar organic solvents                            | - Extremely corrosive<br>- Reacts with water forming HF<br>- Handle in fume hood with PPE                   |
+| **Niobium(V) citrate complex** | Nb–citrate                  | - Water soluble<br>- Biocompatible applications<br>- Often used for green synthesis                                | - Handle in cool, dark place<br>- May degrade in strong acid/base                                           |
+
+question
+Selection Considerations for Nb Precursors in SAC synthesis
+
+answer
+Volatility: Important for ALD/MLD and vapor-phase methods (e.g., Nb(OiPr)₅)
+Solubility: Affects solution-phase methods like wet impregnation (e.g., oxalates, citrates)
+Thermal Stability: Crucial during calcination and reduction steps
+Decomposition Behavior: Should decompose cleanly to avoid residue (e.g., organics vs halides)
+Compatibility with Support: Affects anchoring and dispersion (surface hydroxyl groups, pH)
+
+question
+General Precautions for Handling Niobium Precursors for SAC synthesis
+
+answer
+Air/moisture sensitivity: Store in sealed, inert (N₂ or Ar) atmosphere.
+Toxicity & corrosiveness: Use gloves, goggles, and fume hoods.
+Waste disposal: Follow chemical waste protocols, especially for halide- or fluoride-containing precursors.
+Heat decomposition: Avoid rapid heating of organics; some may release toxic vapors.
+
+question
+common Ag precursors in SAC synthesis
+
+answer
+| **Precursor**                      | **Chemical Formula** | **Properties**                                                                                                                         | **Precautions**                                                                                                              |
+| ---------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Silver nitrate**                 | AgNO₃                | – Water-soluble<br>– Common, easily available<br>– Decomposes to Ag⁰ upon heating or reduction<br>– Often used in impregnation methods | – Light-sensitive; store in amber bottles<br>– Strong oxidizer; avoid contact with organics<br>– Can stain skin              |
+| **Silver acetate**                 | AgC₂H₃O₂             | – Moderately soluble in water and organic solvents<br>– Releases Ag⁺ ions steadily<br>– Useful for anchoring onto oxygen-rich supports | – Decomposes on heating<br>– Avoid reducing environments before deposition<br>– Protect from light                           |
+| **Silver oxide**                   | Ag₂O                 | – Insoluble in water<br>– Thermally decomposes to metallic Ag<br>– Useful for thermal or reductive deposition methods                  | – Can release oxygen during decomposition<br>– Light sensitive<br>– Avoid strong acids                                       |
+| **Silver trifluoroacetate**        | AgTFA or Ag(CF₃COO)  | – Soluble in organic solvents<br>– Good for synthesis in non-aqueous media<br>– Used in MOF or COF-based supports                      | – Expensive<br>– Corrosive due to TFA<br>– Moisture sensitive                                                                |
+| **Silver perchlorate**             | AgClO₄               | – Highly soluble in water and alcohols<br>– Strong oxidizing character<br>– Used for uniform Ag⁺ dispersion                            | – Highly explosive, especially when dry<br>– Strictly avoid organic solvents or heat<br>– Store in tightly closed containers |
+| **Silver ethylenediamine complex** | \[Ag(en)₂]⁺          | – Water-soluble complex<br>– Stabilized Ag⁺ species<br>– Enables better control of Ag coordination and dispersion                      | – Light-sensitive<br>– Can degrade under heat or UV<br>– Handle with care under inert or low-light conditions                |
+| **Silver ammine complex**          | \[Ag(NH₃)₂]⁺         | – Common in Tollens’ reagent<br>– Good dispersibility<br>– Enables controlled deposition of Ag atoms                                   | – Forms explosive compounds upon drying<br>– Use fresh and handle under aqueous conditions only                              |
+
+question
+General Precautions of Ag precursors in SAC synthesis
+
+answer
+Light Sensitivity: Many Ag salts decompose or discolor in light.
+Toxicity: Some precursors are toxic or skin-staining (e.g., AgNO₃).
+Explosive Nature: Perchlorates and ammine complexes must be handled with extreme caution.
+Storage: Store in cool, dark, dry conditions; use amber glass and inert atmosphere where necessary.
+
+question
+common Sn precursors in SAC synthesis
+
+answer
+| Precursor Name            | Chemical Formula | Physical Form                          | Solubility                                       | Notes & Uses                                                            |
+| ------------------------- | ---------------- | -------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| **Tin(II) chloride**      | SnCl₂ · 2H₂O     | White crystalline solid                | Soluble in water, ethanol                        | Widely used for wet chemistry; strong reducing agent; hydrolyzes easily |
+| **Tin(IV) chloride**      | SnCl₄            | Colorless to pale yellow fuming liquid | Soluble in non-polar solvents; reacts with water | Used for Sn⁴⁺ doping; highly volatile and corrosive                     |
+| **Tin(II) acetate**       | Sn(CH₃COO)₂      | White solid                            | Slightly soluble in water, alcohol               | Used in sol-gel or impregnation; sensitive to oxidation                 |
+| **Tin(IV) tert-butoxide** | Sn(OC(CH₃)₃)₄    | Colorless liquid                       | Soluble in organic solvents                      | Organometallic precursor; used in ALD or vapor-phase techniques         |
+| **Tin(II) oxalate**       | SnC₂O₄           | White powder                           | Insoluble in water                               | Thermally decomposable; used for solid-state or pyrolysis routes        |
+| **Tin(IV) isopropoxide**  | Sn(OCH(CH₃)₂)₄   | Colorless liquid                       | Soluble in alcohols and ethers                   | ALD-compatible; decomposes to SnO₂ under heat                           |
+
+question
+Key Properties of Sn Precursors
+
+answer
+Oxidation State: Sn(II) and Sn(IV) precursors are both used; Sn(IV) is more stable in air
+Volatility: SnCl₄ and organotin alkoxides are volatile and suitable for vapor deposition or ALD
+Reactivity: Many Sn precursors hydrolyze or oxidize easily in moist air or water
+Decomposition: Most decompose to SnO or SnO₂, which are thermodynamically stable and catalytic under certain conditions
+
+question
+Precautions When Using Sn Precursors in SAC synthesis
+
+answer
+Moisture Sensitivity: SnCl₄, alkoxides, and acetates are sensitive to hydrolysis; handle under dry/inert conditions
+Corrosiveness: SnCl₄ is highly corrosive and releases HCl fumes upon contact with air or moisture
+Air Sensitivity: Sn(II) compounds oxidize to Sn(IV); store under inert gas
+Toxicity: Organotin compounds can be toxic; use gloves, goggles, and fume hood
+Thermal Decomposition: Solid-state precursors like oxalates require controlled pyrolysis to avoid nanoparticle formation
+
+question
+common Pb precursors in SAC synthesis
+
+answer
+| Precursor                   | Chemical Formula | Properties                                                                                                                                 | Precautions                                                                                                    |
+| --------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Lead(II) acetate**        | Pb(CH₃COO)₂·3H₂O | - Soluble in water & organic solvents  <br> - Often used in wet impregnation or sol–gel methods <br> - Provides moderate thermal stability | - Toxic and bioaccumulative <br> - Handle in fume hood <br> - Avoid inhalation or skin contact                 |
+| **Lead(II) nitrate**        | Pb(NO₃)₂         | - Highly soluble in water <br> - Decomposes to PbO on heating <br> - Common for pyrolysis and thermal activation                           | - Strong oxidizer <br> - Can emit toxic fumes (NOx, PbO) upon heating <br> - Must be stored away from organics |
+| **Lead(II) chloride**       | PbCl₂            | - Poorly soluble in water <br> - May form Pb-based complexes in aqueous/acidic solutions <br> - Used under controlled acidic pH            | - Corrosive <br> - Releases toxic HCl and Pb fumes if decomposed <br> - Avoid mixing with bases                |
+| **Lead(II) oxide**          | PbO              | - High melting point and low solubility <br> - Suitable for solid-state routes or high-temperature treatments                              | - Toxic dust hazard <br> - Wear respirators during grinding or calcining                                       |
+| **Lead(II) ethylhexanoate** | Pb(C₇H₁₅COO)₂    | - Oil-soluble organometallic <br> - Useful for non-aqueous impregnation on porous carbon or silica                                         | - Toxic and flammable <br> - Use gloves and fume hood <br> - Avoid open flames                                 |
+
+question
+Selection Guidelines for Pb Precursors in SAC synthesis
+
+answer
+Solubility: For aqueous synthesis, use Pb(NO₃)₂ or Pb(CH₃COO)₂; for organic solvents, use Pb(ethylhexanoate)
+Thermal behavior: Choose Pb(NO₃)₂ for generating PbO species upon calcination
+Metal–support interaction: Favor precursors that form stable Pb–O or Pb–C–O species on your chosen support (e.g., oxide or carbon)
+Safety & handling: Due to high toxicity, all Pb precursors require strict PPE use and waste management protocols
+
+question
+Safety Summary for Pb precursors in SAC synthesis
+
+answer
+Toxicity: Lead compounds are neurotoxic, carcinogenic, and hazardous to the environment.
+Exposure: Use fume hoods, double nitrile gloves, and lab coats. Avoid ingestion, inhalation, or direct contact.
+Waste disposal: Collect all Pb-containing waste in labeled hazardous waste containers for proper disposal. Do not dispose into drains.
+
+question
+common Sb precursors in SAC synthesis
+
+answer
+| Precursor                                       | Chemical Formula  | Properties                                                                             | Common Usage                                                              | Precautions                                                                           |
+| ----------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Antimony trichloride**                        | SbCl₃             | White crystalline solid; soluble in ethanol, slightly volatile; hydrolyzes in moisture | Solution impregnation; ALD; wet chemistry synthesis                       | Corrosive; reacts with water to form HCl; handle under dry conditions                 |
+| **Antimony pentachloride**                      | SbCl₅             | Yellow to red fuming liquid; strong oxidizer; volatile                                 | Gas-phase deposition (e.g., ALD or CVD)                                   | Strongly corrosive and oxidizing; moisture-sensitive; requires inert atmosphere       |
+| **Antimony acetate**                            | Sb(CH₃COO)₃       | White powder; soluble in organic solvents (e.g., ethanol, acetic acid)                 | Solution-based impregnation or sol-gel                                    | Decomposes upon heating; use fume hood and avoid skin contact                         |
+| **Antimony oxide (III)**                        | Sb₂O₃             | White solid; amphoteric; insoluble in water but soluble in acids                       | Often used in thermal treatments to form atomically dispersed sites       | Dust hazard; may convert to Sb₂O₅ at high temperature; respiratory protection advised |
+| **Antimony ethoxide**                           | Sb(OC₂H₅)₃        | Colorless to yellowish liquid; hydrolyzes in air; organometallic                       | Used for alkoxide routes or sol-gel synthesis                             | Flammable and moisture-sensitive; handle under inert conditions                       |
+| **Antimony potassium tartrate (Tartar emetic)** | K(SbO)C₄H₄O₆·½H₂O | Water-soluble crystalline solid                                                        | Aqueous solution methods; often in bio-inorganic or mild synthesis routes | Toxic; handle with gloves; ingestion/inhalation hazards                               |
+
+question
+Selection Considerations for Sb Precursors in SAC synthesis
+
+answer
+Volatility & Solubility: Chlorides are volatile and useful in vapor-phase synthesis (ALD/CVD), while acetates and alkoxides are used in wet chemistry routes.
+Stability & Reactivity: Moisture-sensitive compounds (e.g., SbCl₅, Sb ethoxide) require inert atmosphere handling.
+Oxidation State Control: Sb(III) and Sb(V) species can both be used, but their redox behavior impacts dispersion and catalytic activity.
+Support Compatibility: Precursor choice depends on interaction with oxide, carbon, or MOF supports.
+
+question
+common Re precursors in SAC synthesis
+
+answer
+| Precursor                          | Formula            | Properties                                                                                                                                                                | Precautions                                                                                                      |
+| ---------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Perrhenic acid**                 | HReO₄ or Re₂O₇·H₂O | - Most common Re precursor<br>- Soluble in water and alcohols<br>- Can be easily impregnated onto supports<br>- Forms Re(VII) species                                     | - Strong oxidizer<br>- Corrosive to skin and mucous membranes<br>- Should be handled in a fume hood with gloves  |
+| **Rhenium(VII) oxide**             | Re₂O₇              | - Volatile solid at room temperature<br>- Sublimes at moderate temperatures<br>- Reacts with water to form perrhenic acid<br>- Used in vapor-phase or solid-phase methods | - Hygroscopic and corrosive<br>- Reacts exothermically with water<br>- Store under inert atmosphere              |
+| **Ammonium perrhenate**            | NH₄ReO₄            | - Stable white crystalline solid<br>- Soluble in water<br>- Easy to handle and weigh<br>- Frequently used for impregnation                                                | - Mildly oxidizing<br>- Avoid contact with acids (may release toxic gases)<br>- Store in a dry, sealed container |
+| **Rhenium carbonyl**               | Re₂(CO)₁₀          | - Organometallic precursor<br>- Used in gas-phase deposition or solution-phase synthesis<br>- Allows fine dispersion of single atoms                                      | - Air-sensitive<br>- Decomposes on heating to toxic gases<br>- Handle in glovebox or under inert gas             |
+| **Rhenium chlorides** (e.g. ReCl₅) | ReCl₅, ReCl₃       | - Less common due to low stability in air and moisture<br>- Useful in reductive syntheses or coordination chemistry                                                       | - Moisture-sensitive<br>- Release HCl when hydrolyzed<br>- Require inert atmosphere handling                     |
+
+question
+common application notes for Re precursors in SAC synthesis
+
+answer
+Perrhenic acid and ammonium perrhenate are most frequently used for wet impregnation or incipient wetness techniques due to their solubility and ease of dispersion.
+Re₂O₇ is often used for vapor-phase infiltration due to its volatility.
+Organometallic Re complexes (like Re₂(CO)₁₀) are favored in atomic layer deposition (ALD) and surface grafting, providing atomic-level control.
+Rhenium is typically stabilized on oxygen-deficient supports (e.g. N-doped carbon, TiO₂, CeO₂) to prevent clustering. 
+
+question
+common Mo precursors in SAC synthesis
+
+answer
+| Precursor         | Ox. State | Solubility         | Common Use                   | Precautions                           |
+| ----------------- | --------- | ------------------ | ---------------------------- | ------------------------------------- |
+| (NH₄)₆Mo₇O₂₄·4H₂O | +6        | Water              | Wet impregnation, co-precip. | Hygroscopic, decomposes to MoO₃       |
+| MoO₃              | +6        | Insoluble (water)  | Calcination, CVD             | Inhalation hazard, high-temp needed   |
+| MoCl₅             | +5        | Organic solvents   | CVD, infiltration            | Moisture-sensitive, corrosive         |
+| H₂MoO₄            | +6        | Slight in water    | Acidic impregnation          | Unstable in neutral/alkaline media    |
+| Na₂MoO₄           | +6        | Water              | Aqueous impregnation         | Na contamination risk                 |
+| MoO₂(acac)₂       | +6        | Ethanol, acetone   | Organic impregnation         | Heat-sensitive, organics may burn off |
+| Mo(CO)₆           | 0         | Non-polar solvents | ALD, CVD                     | Toxic, light/air sensitive            |
+
+question
+common Ta precursors in SAC synthesis
+
+answer
+| Precursor                       | Chemical Formula              | Properties                                                                                                               | Notes & Precautions                                                                                                                |
+| ------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Tantalum(V) ethoxide**        | Ta(OC₂H₅)₅                    | - Volatile and hydrolyzable<br>- Soluble in alcohols and ethers<br>- Common in sol-gel synthesis                         | - Moisture-sensitive, can hydrolyze to form oxides<br>- Should be handled under inert atmosphere (e.g., glove box or Schlenk line) |
+| **Tantalum(V) chloride**        | TaCl₅                         | - Solid, highly reactive<br>- Good Ta source for halide-based chemistries<br>- Volatile upon heating                     | - Very hygroscopic and corrosive<br>- Produces HCl upon hydrolysis—handle with proper fume hood and PPE                            |
+| **Tantalum(V) isopropoxide**    | Ta(OiPr)₅                     | - Liquid at RT<br>- Reactive and easy to decompose thermally<br>- Used in atomic layer deposition (ALD) and impregnation | - Air/moisture sensitive<br>- Must be stored under dry inert gas                                                                   |
+| **Tantalum(V) nitrate**         | Ta(NO₃)₅                      | - Water-soluble<br>- Used in aqueous synthesis routes<br>- Can decompose to Ta₂O₅ at moderate temperatures               | - Decomposes upon heating, releasing NOx gases<br>- Use good ventilation and avoid contact with reducing agents                    |
+| **Tantalum(V) oxalate complex** | \[Ta(C₂O₄)ₓ]ⁿ⁻ (varied forms) | - Water-soluble<br>- Can provide good dispersion<br>- Moderate stability                                                 | - Less reactive than alkoxides<br>- Must avoid thermal decomposition to ensure uniformity of atom dispersion                       |
+
+question
+Precautions in Handling Ta Precursors in SAC synthesis
+
+answer
+Air/Moisture Sensitivity:
+Alkoxides and halides readily hydrolyze.
+Always use inert gas protection (e.g., N₂ or Ar) and store in sealed containers.
+
+Toxicity and Corrosiveness:
+TaCl₅ and Ta(NO₃)₅ are corrosive and can release toxic gases.
+Use PPE: gloves, goggles, lab coat, and conduct work in a fume hood.
+
+Storage:
+Store in tightly sealed containers under dry conditions.
+Alkoxides should be kept away from acids and water.
+
+Stability in Solution:
+Some precursors may degrade quickly in solution (especially aqueous).
+Prepare fresh solutions before impregnation or deposition steps.
+
+question
+common Cr precursors in SAC synthesis
+
+answer
+| Precursor                                  | Formula       | Properties                                                                                                                      | Precautions                                                                           |
+| ------------------------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Chromium(III) nitrate nonahydrate**      | Cr(NO₃)₃·9H₂O | - Water-soluble<br>- Common in wet impregnation<br>- Decomposes upon heating to form Cr₂O₃                                      | - Hygroscopic<br>- Oxidizing agent; avoid reducing environments unless intentional    |
+| **Chromium(III) chloride hexahydrate**     | CrCl₃·6H₂O    | - Soluble in water and ethanol<br>- Often used in coordination with N-doped carbon                                              | - Corrosive; handle with gloves<br>- Moisture-sensitive                               |
+| **Chromium(III) acetylacetonate**          | Cr(acac)₃     | - Organometallic complex<br>- Soluble in organic solvents (e.g., ethanol, acetone)<br>- Useful for thermal decomposition or ALD | - Flammable solvent use; avoid ignition sources<br>- Moderate toxicity                |
+| **Chromium(VI) oxide (chromium trioxide)** | CrO₃          | - Powerful oxidizer<br>- Used less frequently; for oxidic supports                                                              | - **Highly toxic and carcinogenic**<br>- Handle in fume hood with full PPE            |
+| **Chromium(III) isopropoxide**             | Cr(O-iPr)₃    | - Volatile, suitable for vapor-phase deposition (e.g., ALD)                                                                     | - Moisture-sensitive and flammable<br>- Store under inert atmosphere                  |
+| **Ammonium dichromate**                    | (NH₄)₂Cr₂O₇   | - Water-soluble, decomposes to Cr₂O₃<br>- Precursor for combustion synthesis                                                    | - Strong oxidizer<br>- Carcinogenic and toxic<br>- Explosive in dry state when heated |
+
+question
+Selection Considerations of Cr precursors for SAC synthesis
+
+answer
+Cr(III) precursors (e.g., nitrates, chlorides) are more common due to lower toxicity.
+Cr(VI) compounds are highly toxic but may be used under tightly controlled conditions for specific oxidation state control.
+Organometallics like Cr(acac)₃ offer better dispersion and compatibility with organic solvents and polymeric supports.
+
+Precursor choice depends on:
+Support compatibility (carbon, oxide, etc.)
+Desired oxidation state of Cr in final catalyst
+Synthesis method (e.g., wet impregnation, atomic layer deposition, sol-gel)
+
+question
+General Safety Precautions of Cr precursors for SAC synthesis
+
+answer
+Always work in a fume hood, especially with volatile or toxic Cr(VI) species.
+Use gloves, goggles, and lab coat.
+Dispose of Cr-containing waste as hazardous waste.
+Avoid inhalation or skin contact—especially for Cr(VI), which is carcinogenic and mutagenic.
+
+question
+common As precursors for SAC synthesis
+
+answer
+| Precursor                 | Chemical Formula | Physical Form            | Key Properties                                       | Application Notes                                |
+| ------------------------- | ---------------- | ------------------------ | ---------------------------------------------------- | ------------------------------------------------ |
+| **Arsenic trioxide**      | As₂O₃            | White crystalline powder | Slightly soluble in water; volatile at high T        | Used as a dopant or for vapor-phase deposition   |
+| **Arsine gas**            | AsH₃             | Toxic gas                | Highly toxic, pyrophoric; decomposes to elemental As | Chemical vapor deposition (CVD) precursor        |
+| **Sodium arsenite**       | NaAsO₂           | White powder             | Water-soluble, oxidizing                             | Aqueous processing of As incorporation           |
+| **Arsenic pentoxide**     | As₂O₅            | White solid              | Strong oxidizer, reacts with water                   | Less common, used in oxidizing conditions        |
+| **Triphenylarsine**       | As(C₆H₅)₃        | Crystalline solid        | Organometallic ligand, stable in air                 | Used in coordination SACs or MOF-based platforms |
+| **Arsenic(III) chloride** | AsCl₃            | Colorless liquid         | Volatile, hydrolyzes in moist air                    | Used in gas-phase or solution-phase synthesis    |
+
+question
+common properties of As precursors for SAC synthesis
+
+answer
+Volatility: Many As precursors (e.g. AsCl₃, AsH₃) are volatile, making them suitable for CVD or ALD-type approaches.
+Oxidation states: As exists in +3 and +5 states, influencing its interaction with supports (N-doped carbon, metal oxides).
+Coordination ability: Triphenylarsine can form complexes with transition metals, suitable for single-atom complex design.
+Solubility: Some As compounds (NaAsO₂) are water-soluble, enabling wet-chemistry approaches. 
+
+question
+common La precursors in SAC synthesis
+
+answer
+| Precursor                           | Formula            | Key Properties                                      | Usage Notes                                                  |
+| ----------------------------------- | ------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+| **Lanthanum nitrate**               | La(NO₃)₃·6H₂O      | Water-soluble, decomposes to La₂O₃ at \~500–700 °C  | Most common; used in wet impregnation and co-precipitation   |
+| **Lanthanum chloride**              | LaCl₃·7H₂O         | Hygroscopic, soluble in water and alcohols          | Used in ion-exchange and solvothermal synthesis              |
+| **Lanthanum acetate**               | La(CH₃COO)₃·xH₂O   | Mildly acidic, decomposes cleanly to La₂O₃          | Useful in flame spray pyrolysis and sol–gel                  |
+| **Lanthanum isopropoxide**          | La(O-iPr)₃         | Air/moisture-sensitive, soluble in organic solvents | Used in non-aqueous routes and atomic layer deposition (ALD) |
+| **Lanthanum oxide**                 | La₂O₃              | Refractory, poorly soluble, basic                   | Sometimes used directly as support or ground into precursors |
+| **Lanthanum carbonates/hydroxides** | La(OH)₃, La₂(CO₃)₃ | Low solubility, intermediate compounds              | Used in thermal decomposition routes                         |
+
+question
+typical properties of La precursors
+
+answer
+Stability: Most La precursors are stable at room temperature but hygroscopic (especially nitrates and chlorides).
+Solubility: Nitrates, chlorides, and acetates are water-soluble, which favors wet synthesis techniques.
+Thermal Behavior: Decompose to La₂O₃ or La(OH)₃ depending on precursor and atmosphere (air, inert, reducing).
+Coordination Behavior: La³⁺ has a large coordination sphere, favoring oxo-ligands and support anchoring (N, O functional groups).
+
+question
+notes on synthesis of La SAC
+
+answer
+Single-atom anchoring: La is often used to modulate support acidity/basicity, enhance defect sites, or stabilize other single atoms (e.g., Fe, Co).
+
+La as single atom: Although rare due to its size, single La atom catalysts have been explored using anchoring on N-doped carbon or metal–organic frameworks (MOFs).
+
+question
+common Ce precursors in SAC synthesis
+
+answer
+| **Precursor**                 | **Chemical Formula** | **Common Form**            | **Solubility**                          | **Notes/Use Case**                                               |
+| ----------------------------- | -------------------- | -------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
+| Cerium nitrate                | Ce(NO₃)₃·6H₂O        | Hydrated crystals          | Soluble in water and ethanol            | Most commonly used; easy to handle and dissolve                  |
+| Cerium ammonium nitrate (CAN) | (NH₄)₂Ce(NO₃)₆       | Orange-red crystals        | Soluble in water, alcohol               | Powerful oxidizing agent; used in oxidative SAC synthesis        |
+| Cerium acetate                | Ce(CH₃COO)₃·xH₂O     | Hygroscopic solid          | Moderately soluble in water and ethanol | Useful for low-temperature synthesis or organic media            |
+| Cerium chloride               | CeCl₃·xH₂O           | White/light yellow solid   | Soluble in water, ethanol               | Moisture-sensitive; reduces easily to Ce³⁺                       |
+| Cerium oxalate                | Ce₂(C₂O₄)₃·xH₂O      | Precipitated solid         | Insoluble in water                      | Used for calcination to CeO₂; suitable for atom trapping methods |
+| Cerium isopropoxide           | Ce(OCH(CH₃)₂)₃       | Air-sensitive liquid/solid | Soluble in organic solvents             | Useful for ALD or sol–gel approaches in organic media            |
+| Cerium(IV) sulfate            | Ce(SO₄)₂             | Yellow solid               | Soluble in acidic solutions             | Strong oxidizer, Ce⁴⁺ form—less common                           |
+
+question
+common properties of Ce precursors in SAC synthesis
+
+answer
+Redox activity: Ce can cycle between Ce³⁺ and Ce⁴⁺, which aids in oxygen activation and stabilizing SACs via strong metal-support interaction (SMSI).
+Oxygen storage capacity (OSC): CeO₂ derived from precursors can create oxygen vacancies, helping anchor single atoms and enhance catalytic activity.
+Thermal stability: Cerium precursors (especially oxalate and acetate) can be calcined to CeO₂, forming a thermally stable support.
+Surface interaction: Ce⁴⁺ species in CAN and sulfate can create strong electrostatic interactions with supports and atom precursors.
+
+question
+precautions of Ce precursors in SAC synthesis
+
+answer
+Ce(NO₃)₃: Oxidizing; hygroscopic—store in dry, cool place. Avoid contact with organics during drying/calcination.
+CAN: Strong oxidizer; avoid mixing with reducing agents, organics, or combustibles. Use with proper ventilation.
+CeCl₃: Moisture-sensitive; can hydrolyze in air to form hydroxides. Store under inert conditions if possible.
+Ce acetate: May absorb moisture; store in desiccator. Combustion can release acetic acid vapors.
+Ce isopropoxide: Highly air/moisture-sensitive; pyrophoric in air. Handle in glovebox or under inert gas.
+Ce oxalate: Stable, but decomposes to CeO₂ upon heating—evolves CO and CO₂. Handle decomposition products carefully.
+Ce(IV) sulfate: Strongly acidic and oxidizing; corrosive to skin and mucous membranes. Use PPE.
+
+question
+applications of Ce precursors in SAC synthesis
+
+answer
+Support preparation: Cerium oxide (CeO₂) derived from precursors is a widely used support due to high defect tolerance, oxygen mobility, and ability to trap single atoms.
+Co-precipitation or impregnation: Ce precursors are often co-impregnated with other metal salts to form atomically dispersed bimetallic SACs.
+Redox-assisted stabilization: CAN or Ce(NO₃)₃ can help in redox control during calcination to trap single atoms via oxygen vacancies.
+
+question
+common Y precursors in SAC synthesis
+
+answer
+| Precursor                       | Formula           | Properties                                                                                                         | Notes/Precautions                                                                                                                               |
+| ------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Yttrium nitrate hexahydrate** | Y(NO₃)₃·6H₂O      | - Water-soluble<br>- Decomposes to Y₂O₃ upon calcination<br>- Oxidizing agent                                      | - Hygroscopic; store in airtight containers<br>- Avoid mixing with organics due to oxidizing nature<br>- Common in wet impregnation and sol-gel |
+| **Yttrium chloride**            | YCl₃ or YCl₃·6H₂O | - Soluble in water and ethanol<br>- Provides Y³⁺ ions for coordination<br>- Sensitive to moisture (anhydrous form) | - Anhydrous YCl₃ is deliquescent and corrosive<br>- Use in inert atmosphere if handling dry                                                     |
+| **Yttrium acetate**             | Y(CH₃COO)₃·xH₂O   | - Moderately soluble in water and organic solvents<br>- Compatible with organic-inorganic hybrid systems           | - Decomposes to Y₂O₃ upon calcination<br>- Handle in dry conditions to avoid hydrolysis                                                         |
+| **Yttrium isopropoxide**        | Y(O-iPr)₃         | - Soluble in alcohols and hydrocarbons<br>- Used in atomic layer deposition (ALD) or solution-phase methods        | - Air- and moisture-sensitive<br>- Flammable; handle under inert gas (e.g., glovebox)                                                           |
+| **Yttrium oxalate**             | Y₂(C₂O₄)₃·xH₂O    | - Insoluble in water<br>- Converts to Y₂O₃ with controlled heating                                                 | - Often used in thermal decomposition or pyrolysis SAC synthesis<br>- Avoid excessive heating to prevent agglomeration                          |
+| **Yttrium 2-ethylhexanoate**    | Y(C₈H₁₅O₂)₃       | - Organometallic; soluble in organic solvents<br>- Used in wet chemical methods or surface grafting                | - Handle in fume hood due to VOC release<br>- Thermally decomposes to Y₂O₃ at \~400–600 °C                                                      |
+
+question
+key applications of Y in SAC synthesis
+
+answer
+Y as dopant or support modifier: Enhances oxygen storage capacity (OSC) or thermal stability in CeO₂ or TiO₂-supported systems.
+Y as SAC center: Limited cases—used where +3 valence and ionic radius benefit specific catalytic reactions like selective hydrogenations or alcohol oxidations.
+High-temperature resistance: Y-based supports or dopants often used in reactions needing thermal stability (e.g., dry reforming).
+
+question
+general precautions of Y precursors
+
+answer
+Moisture Sensitivity: Many Y compounds (especially alkoxides and chlorides) are highly sensitive to atmospheric moisture—store in desiccators or gloveboxes.
+Toxicity & Inhalation: Though yttrium has low toxicity, prolonged exposure (especially in powder form) can irritate lungs and skin—use proper PPE and work in a fume hood.
+Calcination Caution: Thermal decomposition (e.g., of acetates, nitrates, or oxalates) can release toxic gases like NOₓ or organic vapors—ventilate thoroughly.
+Oxidizing Nature: Nitrate salts can accelerate combustion—do not mix with organic fuels during preparation.
+
+question
+common Nd precursors in SAC synthesis
+
+answer
+| Precursor                          | Formula          | Physical Form                 | Solubility                          | Notes                                                |
+| ---------------------------------- | ---------------- | ----------------------------- | ----------------------------------- | ---------------------------------------------------- |
+| **Neodymium nitrate**              | Nd(NO₃)₃·6H₂O    | Pale violet crystalline solid | Water-soluble                       | Common for wet impregnation                          |
+| **Neodymium chloride**             | NdCl₃·6H₂O       | Violet powder                 | Water-soluble                       | Can be used in ion exchange or aqueous impregnation  |
+| **Neodymium acetate**              | Nd(CH₃COO)₃·xH₂O | Pale violet powder            | Soluble in water and polar solvents | Useful for better control of dispersion              |
+| **Neodymium isopropoxide**         | Nd(OiPr)₃        | Colorless to pale solid       | Soluble in organic solvents         | Moisture-sensitive, used in non-aqueous methods      |
+| **Neodymium(III) acetylacetonate** | Nd(acac)₃        | Purple solid                  | Soluble in alcohols and THF         | Useful in gas-phase or thermal decomposition methods |
+| **Neodymium ethoxide**             | Nd(OC₂H₅)₃       | Light powder                  | Soluble in alcohols                 | Used in sol-gel or colloidal synthesis               |
+
+question
+common properties of Nd precursors
+
+answer
+Thermal Behavior: Nd organometallic and nitrate precursors decompose at moderate temperatures (~300–500 °C), which is suitable for creating single-atom dispersion on supports.
+Electronic Properties: Nd³⁺ ions have high ionic radius and variable coordination geometry, which makes anchoring on supports like N-doped carbon or oxides favorable.
+Reactivity: Organometallic Nd compounds (e.g., isopropoxide or ethoxide) are moisture-sensitive and must be handled in inert conditions.
+
+question
+precautions for Nd precursors in SAC synthesis
+
+answer
+| Risk Factor              | Description                                                                     | Handling Advice                                                   |
+| ------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Moisture Sensitivity** | Organometallics (e.g., isopropoxide, ethoxide) react with water                 | Use under inert gas (N₂ or Ar); store in glovebox or desiccator   |
+| **Hygroscopicity**       | Nd salts like nitrates and chlorides absorb moisture                            | Seal tightly; dry before use                                      |
+| **Toxicity**             | Low acute toxicity, but rare earth dusts may cause **lung and skin irritation** | Wear gloves, dust mask, and goggles; work in fume hood            |
+| **Combustibility**       | Organometallics may be flammable                                                | Keep away from open flames and air exposure                       |
+| **Environmental Hazard** | Waste Nd salts should be treated as heavy metals                                | Follow institutional disposal procedures for REE-containing waste |
+
+question
+common supports for Nd SAC
+
+answer
+Graphitic carbon nitride (g-C₃N₄): Good anchoring of Nd via N coordination
+N-doped carbon: High affinity for Nd³⁺ ions
+Metal oxides (Al₂O₃, TiO₂): Provide oxygen coordination sites
+MOFs/COFs: Can serve as templates for single-atom dispersion
+
+question
+common Pr precursors in SAC synthesis
+
+answer
+| **Precursor**                 | **Formula**      | **Properties**                                                                                                                                     | **Precautions**                                                                              |
+| ----------------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Praseodymium nitrate**      | Pr(NO₃)₃·xH₂O    | - Water-soluble<br>- Easily decomposes to oxides upon heating<br>- Often used in wet impregnation and co-precipitation                             | - Hygroscopic<br>- Oxidizing agent (nitrate)<br>- Should be stored in dry conditions         |
+| **Praseodymium chloride**     | PrCl₃·xH₂O       | - Moderately soluble in water and ethanol<br>- Often used in solution-based synthesis<br>- Can coordinate with ligands                             | - Hygroscopic<br>- Corrosive<br>- Handle in inert/dry conditions to prevent hydrolysis       |
+| **Praseodymium acetate**      | Pr(CH₃COO)₃·xH₂O | - Soluble in polar solvents<br>- Mild precursor for low-temperature syntheses<br>- Useful for uniform dispersion                                   | - Decomposes at high temperatures with acetic acid release<br>- Store away from moisture     |
+| **Praseodymium oxide**        | Pr₆O₁₁ or Pr₂O₃  | - Thermally stable<br>- Used as solid source in thermal diffusion or high-temp pyrolysis<br>- Mixed-valent oxide (Pr³⁺/Pr⁴⁺) offers redox benefits | - Insoluble in water<br>- Requires high-temperature treatment to become catalytically active |
+| **Praseodymium isopropoxide** | Pr(O-iPr)₃       | - Used in sol–gel or atomic layer deposition (ALD)<br>- Highly reactive and volatile                                                               | - Pyrophoric and moisture-sensitive<br>- Handle under inert atmosphere (e.g., glovebox)      |
+
+question
+Pr precursors selection considerations in SAC synthesis
+
+answer
+For Wet Chemistry Methods (e.g., impregnation, co-precipitation):
+Use Pr(NO₃)₃ or Pr(CH₃COO)₃ for better solubility and compatibility with aqueous systems.
+
+For Vapor Phase or ALD:
+Use Pr(O-iPr)₃ due to volatility and reactivity.
+
+For Thermal Treatments:
+Pr₆O₁₁ or Pr₂O₃ can serve as a stable source under reductive/oxidative atmospheres.
+
+question
+common precautions of Pr precursors
+
+answer
+Moisture Sensitivity: Most praseodymium salts are hygroscopic and should be stored in desiccators.
+Reactivity: Nitrates and alkoxides can be reactive or even flammable—handle with care.
+Toxicity: Pr compounds are moderately toxic; avoid inhalation and prolonged skin contact.
+Waste Disposal: Dispose of rare-earth compounds following institutional and environmental guidelines.
+
+question
+common Sm precursors in SAC synthesis
+
+answer
+| Precursor                              | Formula          | Properties                                                                                | Typical Use                                      | Precautions                                                                  |
+| -------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| **Samarium(III) nitrate hexahydrate**  | Sm(NO₃)₃·6H₂O    | - Water-soluble<br>- Hygroscopic<br>- Decomposes to Sm₂O₃ upon heating                    | Wet impregnation, solution-based methods         | Oxidizing agent; keep dry; avoid heating with organics                       |
+| **Samarium(III) acetate hydrate**      | Sm(CH₃COO)₃·xH₂O | - Mildly acidic<br>- Soluble in water/alcohol<br>- Decomposes to Sm₂O₃                    | Impregnation, sol-gel                            | Avoid exposure to moisture; store in cool, dry conditions                    |
+| **Samarium(III) chloride hexahydrate** | SmCl₃·6H₂O       | - Soluble in water<br>- Hygroscopic<br>- Can form Lewis acid sites                        | Ion exchange, coordination anchoring             | Avoid moisture; corrosive; irritating to skin/eyes                           |
+| **Samarium(III) isopropoxide**         | Sm(OCH(CH₃)₂)₃   | - Highly reactive with water/air<br>- Soluble in organic solvents                         | Atomic layer deposition, organometallic routes   | Pyrophoric in air; handle under inert atmosphere                             |
+| **Samarium(III) acetylacetonate**      | Sm(acac)₃        | - Moderately volatile<br>- Stable in organic solvents<br>- Useful for vapor-phase methods | ALD, CVD, solvothermal synthesis                 | Flammable; avoid heating in air; handle with gloves                          |
+| **Samarium(III) oxide**                | Sm₂O₃            | - Insoluble in water<br>- High thermal stability<br>- Used as a solid precursor           | High-temp pyrolysis or mechanochemical synthesis | Inert but dust is irritant; wear respiratory protection when handling powder |
+
+question
+common properties of Sm precursors in SAC synthesis
+
+answer
+Oxidation state: Predominantly Sm³⁺; some processes may utilize Sm²⁺ species (e.g., SmI₂ in organic synthesis).
+Coordination chemistry: Readily forms complexes with oxygen/nitrogen donors.
+Thermal behavior: Most precursors decompose to Sm₂O₃ at >500 °C, which is relevant for calcination steps.
+Anchoring: Sm³⁺ can coordinate with surface functional groups (e.g., -COOH, -OH, -NH₂) in supports.
+
+question
+common precautions of Sm precursors in SAC synthesis
+
+answer
+Moisture sensitivity: Many Sm salts (e.g., chlorides, acetates, nitrates) are hygroscopic.
+Toxicity: Generally low, but lanthanide compounds can cause irritation and should not be inhaled or ingested.
+Environmental: Avoid release into water bodies; follow proper waste disposal protocols.
+Thermal decomposition: Nitrates can release toxic gases (NOx); always calcine under a fume hood.
+
+question
+common Gd precursors in SAC synthesis
+
+answer
+| Precursor                      | Formula          | Properties                                                                           | Notes & Precautions                                                                  |
+| ------------------------------ | ---------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| **Gadolinium nitrate**         | Gd(NO₃)₃·xH₂O    | Water-soluble, commonly used in wet impregnation                                     | Hygroscopic; decomposes to Gd₂O₃ upon heating; may produce NOx gases on calcination. |
+| **Gadolinium chloride**        | GdCl₃·xH₂O       | Soluble in water and alcohol; strong Lewis acid                                      | Corrosive; moisture-sensitive; ensure proper pH control to avoid hydrolysis.         |
+| **Gadolinium acetate**         | Gd(CH₃COO)₃·xH₂O | Moderate solubility in water/alcohol; used for organic-inorganic hybrid supports     | Releases acetic acid upon decomposition; can aid carbon coordination.                |
+| **Gadolinium isopropoxide**    | Gd(OC₃H₇)₃       | Used in sol-gel or ALD processes; reactive in alcohol solvents                       | Very moisture-sensitive; handle in inert atmosphere.                                 |
+| **Gadolinium acetylacetonate** | Gd(acac)₃        | Organometallic; soluble in nonpolar solvents; used in MOF and carbon supports        | Thermally stable; volatile above 200°C; low hydrolysis risk.                         |
+| **Gadolinium oxide**           | Gd₂O₃            | Solid-state precursor; used in high-temperature routes (e.g., molten salt synthesis) | Requires strong acid/base to dissolve; limited use in wet routes.                    |
+
+question
+Selection Considerations of Gd precursors for SAC Synthesis
+
+answer
+Solubility	Determines compatibility with impregnation and solution-based methods.
+Thermal behavior	Decomposition temperature affects metal dispersion and single-atom retention.
+Ligand nature	Affects interaction with supports and stability of the metal precursor.
+Toxicity and safety	Gd compounds can pose environmental and health hazards in large doses.
+
+question
+notes from literatures about Gd precursors for SAC synthesis
+
+answer
+Gd-based SACs are less common than transition-metal SACs but have emerging interest in magnetic catalysis, CO₂ activation, and oxidative reactions.
+
+Coordination of Gd with nitrogen-doped carbon (e.g., Gd–N₄) is a typical strategy to stabilize single atoms after pyrolysis.
+
+question
+common Eu precursors in SAC synthesis
+
+answer
+| Precursor                                | Formula          | Key Features                                                 | Notes                                                       |
+| ---------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Europium nitrate**                     | Eu(NO₃)₃·xH₂O    | Water-soluble, easy to handle, decomposes cleanly on heating | Commonly used in wet impregnation or sol-gel methods        |
+| **Europium chloride**                    | EuCl₃·xH₂O       | Hygroscopic, soluble in water and alcohols                   | Can introduce Cl⁻ contamination; drying required before use |
+| **Europium acetate**                     | Eu(CH₃COO)₃·xH₂O | Less acidic, moderate solubility                             | Good for mild impregnation techniques                       |
+| **Europium oxide**                       | Eu₂O₃            | Thermally stable, insoluble in water                         | Used as precursor via solid-state or carbothermal reduction |
+| **Europium triflate**                    | Eu(OTf)₃         | Soluble in polar organics, thermally stable                  | Useful in organometallic approaches                         |
+| **Eu(acac)₃** (Europium acetylacetonate) | Eu(C₅H₇O₂)₃      | Organometallic, soluble in non-polar solvents                | Applied in CVD, ALD, or MOF-based approaches                |
+
+question
+common properties of Eu precursors in SAC synthesis
+
+answer
+Valence States: Mainly +3, but +2 (Eu²⁺) can be stabilized under reducing conditions, useful for redox-active catalysts.
+Coordination Behavior: Eu³⁺ is large and prefers high coordination numbers (8–9).
+Thermal Decomposition: Most Eu salts decompose into Eu₂O₃ or metallic Eu at high temperatures.
+
+question
+common precautions of Eu precursors in SAC synthesis
+
+answer
+Moisture Sensitivity	Hydrated forms (e.g., EuCl₃·xH₂O, Eu(NO₃)₃·xH₂O) are highly hygroscopic. Store under dry conditions.
+Reactivity	Some Eu compounds (e.g., Eu metal or Eu²⁺ species) are highly reactive with air and moisture. Handle under inert atmosphere if necessary.
+Toxicity	Low toxicity, but chronic exposure should be avoided. Use gloves and fume hood.
+Thermal Decomposition	Nitrates release NOx gases—ensure good ventilation during calcination.
+Contamination	Avoid precursors that may leave unwanted anions (e.g., Cl⁻, which may poison active sites).
+
+question
+common Tb precursors in SAC synthesis
+
+answer
+Terbium(III) nitrate pentahydrate (Tb(NO₃)₃·5H₂O)
+
+Properties:
+Appearance: Light green crystalline solid
+Solubility: Highly soluble in water and polar solvents
+Chemical nature: Terbium in +3 oxidation state, nitrate salt
+
+Use in SACs:
+Commonly used as a soluble Tb source for wet impregnation, co-precipitation, or impregnation methods.
+The nitrate decomposes easily during calcination, helping to anchor Tb atoms on support materials.
+
+Precautions:
+Nitrate salts can be oxidizing and may react violently with reducing agents.
+Handle with gloves and eye protection; avoid inhalation and ingestion.
+Store in a cool, dry place, away from incompatible materials such as strong acids or bases.
+
+Terbium(III) chloride hexahydrate (TbCl₃·6H₂O)
+
+Properties:
+Appearance: Pale green crystalline solid
+Solubility: Very soluble in water, soluble in alcohols
+Chemical nature: Tb³⁺ salt with chloride anion
+
+Use in SACs:
+Used as a precursor in aqueous or alcoholic solution for impregnation or deposition methods.
+Chloride ligands can be removed during calcination or reduction to yield dispersed Tb atoms.
+
+Precautions:
+Corrosive to metals and tissues; can cause irritation to skin, eyes, and respiratory system.
+Handle with protective gear and in well-ventilated areas.
+Chloride salts may release HCl fumes upon decomposition—ensure proper ventilation.
+
+Terbium(III) acetate hydrate (Tb(CH₃COO)₃·xH₂O)
+
+Properties:
+Appearance: Usually a white to pale green powder
+Solubility: Soluble in water and some organic solvents
+Chemical nature: Tb³⁺ coordinated with acetate ligands
+
+Use in SACs:
+Used when organic solvents or mild conditions are preferred.
+Provides good dispersion and interaction with carbon-based or oxide supports.
+
+Precautions:
+May cause skin and eye irritation.
+Keep away from heat and ignition sources; handle in fume hood.
+Store away from strong oxidizers.
+Terbium(III) acetylacetonate (Tb(acac)₃)
+
+Properties:
+Appearance: Green powder
+Solubility: Soluble in organic solvents such as toluene, chloroform
+Chemical nature: Tb³⁺ chelated with acetylacetonate ligands
+
+Use in SACs:
+Commonly used in vapor deposition, atomic layer deposition (ALD), or solution-phase syntheses where controlled release of Tb atoms is required.
+Ligand decomposition upon heating yields Tb atoms dispersed on supports.
+
+Precautions:
+Flammable and may be harmful if inhaled or ingested.
+Use gloves and eye protection, work in well-ventilated environments or gloveboxes.
+Store in tightly closed containers, away from heat and flame.
+
+question
+common Dy precursors in SAC synthesis
+
+answer
+Dysprosium(III) Nitrate Pentahydrate
+Chemical formula: Dy(NO₃)₃·5H₂O
+
+Properties:
+Water-soluble, pale pink crystalline solid
+Good precursor for wet impregnation or deposition methods
+Provides Dy³⁺ ions that can be anchored on supports to form single atoms
+
+Precautions:
+Hygroscopic (absorbs moisture from air)
+Handle with gloves and eye protection to avoid irritation
+Toxic if inhaled or ingested, avoid dust formation
+
+Dysprosium(III) Chloride Hexahydrate
+Chemical formula: DyCl₃·6H₂O
+
+Properties:
+Water-soluble, colorless to pale green crystalline solid
+Commonly used for impregnation or solution-based synthesis
+Easily hydrolyzes; should be stored in a dry environment
+
+Precautions:
+Corrosive and irritant to skin and eyes
+Handle in well-ventilated areas or fume hood
+Avoid inhalation of dust or vapors
+
+Dysprosium(III) Acetylacetonate
+Chemical formula: Dy(acac)₃ (where acac = acetylacetonate)
+
+Properties:
+Organometallic complex, relatively stable and soluble in organic solvents (e.g., ethanol, acetone)
+Suitable for chemical vapor deposition (CVD) or solvothermal synthesis routes
+Can decompose upon heating, allowing for controlled deposition of Dy atoms
+
+Precautions:
+Flammable solvents often used for dissolution
+Handle with care to avoid inhalation or skin contact
+Store in a cool, dry place away from ignition sources
+
+Dysprosium(III) Oxide (Dy₂O₃)
+
+Properties:
+Solid oxide powder, high melting point
+Can be used as a precursor via solid-state methods or after dissolution in acid
+Less soluble; often requires conversion to soluble salts before SAC synthesis
+
+Precautions:
+Fine powders may cause respiratory irritation if inhaled
+Use dust masks and work in well-ventilated areas
+Avoid contact with skin and eyes
+
+question
+General Notes on Dy Precursors in SAC
+
+answer
+Solubility and Stability: Dy salts like nitrates and chlorides are generally water-soluble, making them suitable for wet impregnation and co-precipitation. Organometallic precursors like Dy(acac)₃ are used when organic solvents or vapor-phase deposition is preferred.
+
+Handling: Many Dy salts are hygroscopic and/or sensitive to moisture, so proper storage (airtight containers, desiccators) is important. Use personal protective equipment (PPE) to avoid exposure.
+
+Toxicity: While Dy compounds are not extremely toxic, they can cause irritation or sensitization. Avoid inhalation, ingestion, and prolonged skin contact.
+
+Thermal Treatment: Many SAC syntheses require calcination or reduction steps; Dy precursors should decompose cleanly without leaving undesirable residues.
+
+question
+common Ho precursors in SAC synthesis
+
+answer
+Holmium(III) nitrate pentahydrate — Ho(NO₃)₃·5H₂O
+
+Properties:
+Appearance: Pale pink crystalline solid
+Solubility: Highly soluble in water and polar solvents
+Stability: Stable under normal conditions, but hygroscopic
+Usage: Often used for impregnation or wet-chemical synthesis routes to introduce Ho ions into catalyst supports
+
+Precautions:
+Irritant to skin and eyes
+Avoid inhalation of dust or aerosols
+Handle with gloves and in a well-ventilated area
+Store in a dry place to prevent moisture absorption
+
+Holmium(III) acetate — Ho(CH₃COO)₃ or hydrated forms
+
+Properties:
+Appearance: Pink powder or crystalline solid
+Solubility: Soluble in water and some organic solvents
+Stability: Reasonably stable; used in solution or solid state for catalyst preparation
+Usage: Useful for precursor solutions in impregnation or co-precipitation methods
+
+Precautions:
+May cause irritation on contact
+Use personal protective equipment (PPE) such as gloves and eye protection
+Avoid inhalation of dust
+
+Holmium(III) chloride hexahydrate — HoCl₃·6H₂O
+
+Properties:
+Appearance: Pink crystalline solid
+Solubility: Highly soluble in water
+Stability: Hygroscopic; can hydrolyze if exposed to moisture
+Usage: Commonly used in solution-phase synthesis and deposition of Ho on supports
+
+Precautions:
+Corrosive and irritant to skin, eyes, and respiratory system
+Avoid contact and inhalation
+Store in airtight containers in a dry place
+
+question
+common Er precursors in SAC synthesis
+
+answer
+Erbium(III) nitrate pentahydrate (Er(NO₃)₃·5H₂O)
+
+Properties:
+Appearance: Light pink crystalline solid
+Solubility: Highly soluble in water and alcohols
+Commonly used due to its high solubility and ease of handling
+
+Usage:
+Widely used for impregnation and deposition methods in SAC synthesis.
+Provides Er³⁺ ions that can be anchored on supports.
+
+Precautions:
+Hygroscopic: absorbs moisture from air, so should be stored in a dry place.
+Toxic if ingested or inhaled.
+Avoid skin and eye contact; use gloves and goggles.
+Handle in a well-ventilated area or fume hood.
+
+Erbium(III) chloride hexahydrate (ErCl₃·6H₂O)
+
+Properties:
+Appearance: Light pink crystalline solid
+Solubility: Highly soluble in water, soluble in some alcohols
+Good for wet impregnation methods
+
+Usage:
+Used in wet chemical synthesis, deposition, or co-precipitation methods for SACs.
+Provides readily available Er³⁺ ions.
+
+Precautions:
+Corrosive to metals and tissue.
+Causes severe skin burns and eye damage.
+Use appropriate PPE (gloves, eye protection).
+Store in a moisture-free environment to prevent hydrolysis.
+
+Erbium(III) acetylacetonate (Er(acac)₃)
+
+Properties:
+Appearance: Pink powder
+Solubility: Soluble in organic solvents like ethanol, acetone, and toluene.
+Organometallic complex that can provide better control in vapor deposition or solvothermal methods.
+
+Usage:
+Used in chemical vapor deposition (CVD) or solvothermal synthesis of SACs.
+Offers volatility and better dispersion on supports.
+
+Precautions:
+Flammable and may be harmful if inhaled or ingested.
+Avoid exposure to heat and flames.
+Use in well-ventilated areas with PPE.
+
+question
+common Tm precursors in SAC synthesis
+
+answer
+Thulium(III) chloride (TmCl₃)
+
+Properties:
+Appearance: Pale green solid (anhydrous)
+Solubility: Soluble in water and some polar solvents
+Stability: Hygroscopic; absorbs moisture from air
+Commonly used as a metal source due to availability and ease of handling
+
+Precautions:
+Handle in a dry atmosphere to avoid hydrolysis
+Can cause irritation to skin, eyes, and respiratory tract
+Use gloves and protective eyewear
+Avoid inhalation of dust or aerosols
+
+Thulium(III) nitrate pentahydrate (Tm(NO₃)₃·5H₂O)
+
+Properties:
+Appearance: Light green crystalline solid
+Solubility: Highly soluble in water and polar solvents
+Often used because nitrates decompose cleanly upon heating, leaving behind metal oxides or isolated metal atoms
+
+Precautions:
+Oxidizing agent — keep away from combustible materials
+Can cause irritation to eyes and skin
+Use gloves, eye protection, and work in a well-ventilated area
+Thulium(III) acetate (Tm(CH₃COO)₃)
+
+Properties:
+Appearance: White to pale green solid
+Solubility: Soluble in water and organic solvents like ethanol
+Useful for impregnation and wet-chemical synthesis due to solubility and organic ligands that can be removed by calcination
+
+Precautions:
+Handle with gloves to prevent skin irritation
+Avoid inhalation of powders or vapors during processing
+
+Organometallic precursors (e.g., Thulium cyclopentadienyl complexes)
+
+Properties:
+Usually volatile, organometallic compounds (e.g., Tm(Cp)₃)
+Useful in vapor-phase deposition or atomic layer deposition (ALD)
+Require inert atmosphere for storage and handling
+
+Precautions:
+Air- and moisture-sensitive — handle in glovebox or under inert gas
+Potentially toxic and flammable
+Use appropriate protective gear and ventilation
+
+question
+common Lu precursors in SAC synthesis
+
+answer
+Lutetium(III) chloride (LuCl₃)
+
+Properties:
+White to pale yellow crystalline powder.
+Highly hygroscopic (absorbs moisture from air).
+Soluble in water and some polar organic solvents.
+Stable under dry conditions but hydrolyzes in moist air.
+
+Applications in SAC:
+Used as a Lu source for impregnation or ion-exchange to anchor single Lu atoms on supports.
+
+Precautions:
+Handle under inert atmosphere or dry conditions to prevent hydrolysis.
+Avoid inhalation and skin contact; corrosive to eyes and mucous membranes.
+Store in airtight containers with desiccants.
+
+Lutetium(III) nitrate hexahydrate (Lu(NO₃)₃·6H₂O)
+
+Properties:
+Pale pink to colorless crystalline solid.
+Highly soluble in water.
+Decomposes upon heating, releasing nitrogen oxides.
+
+Applications in SAC:
+Commonly used for wet impregnation methods to load Lu on supports.
+Nitrate ions assist in dispersion but must be removed by calcination.
+
+Precautions:
+Oxidizing agent; handle away from combustible materials.
+Toxic if ingested or inhaled; avoid direct contact.
+Store in cool, dry place.
+
+Lutetium(III) acetylacetonate (Lu(acac)₃)
+
+Properties:
+Organometallic complex, usually pale yellow solid.
+Moderately soluble in organic solvents (e.g., ethanol, acetone).
+Thermally stable up to moderate temperatures.
+
+Applications in SAC:
+Used in chemical vapor deposition (CVD) or atomic layer deposition (ALD) techniques.
+Provides controlled and uniform deposition of Lu atoms.
+
+Precautions:
+Handle with gloves and in well-ventilated areas due to organic solvents.
+Flammable solvents may be used; keep away from ignition sources.
+Store in cool, dark place to avoid decomposition.

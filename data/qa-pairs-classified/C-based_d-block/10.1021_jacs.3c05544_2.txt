@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Fe supported on N-doped Carbon, denoted by Fe-NC
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(NO3)3·9H2O and support ZIF-8
+
+The synthesis procedures are as followed:
+1. 2-Methylimidazole (2.24 g) was dissolved in deionized water (10 mL), and Zn(OAc)2∙2H2O (0.6 g) was dissolved in deionized water (10 mL). 
+2. The solutions were mixed and stirred at 500 rpm for 2 h, then allowed to stand at room temperature for 24 h to form rhombic dodecahedral ZIF-8 crystals. 
+3. The as-prepared ZIF-8 (100 mg) and Fe(NO3)3·9H2O (2 mg) were stirred and sonicated in ethanol for 2 h at room temperature. 
+4. After filtration and drying at 60 °C for 8 h, FeXO@ZIF-8 was obtained. 
+5. FeXO@ZIF-8 was then pyrolyzed under flowing N2 at 1000 °C for 2 h with a heating rate of 5 °C min−1 and then washed with 0.5 M H2SO4 to obtain a single-atom Fe catalyst (Fe-NC).

@@ -1,0 +1,12 @@
+question
+synthesis of single atom Co doped by N supported on graphene and TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support TiO2
+
+The synthesis procedures are as followed:
+1. In a 100 mL round bottom flask, Cobalt(II) acetate tetrahydrate (249.1 mg, 1.0 mmol) and 1,10-phenanthroline (367 mg, 2.0 mmol) were stirred in EtOH (50 mL) at 80 °C for approximately 3 h until orange transparent solution was obtained. 
+2. Then, carbon powder (1.38 g) (CAS No. 1333-864) and TiO2 power (400 mg) were added, successively. 
+3. The resulting reaction mixture was further stirred vigorously at 80 °C for 4 h, the solvent was then removed under vacuum. 
+4. The solid sample obtained was dried at 60 °C overnight, after which it was grinded to a fine powder. 
+5. The grinded powder was heated to 700 °C for 2 h with a heating rate of 5 °C/min under Ar flow, then cooled  down to room temperature naturally

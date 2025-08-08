@@ -1,0 +1,10 @@
+question
+synthesis of single atom Pt supported by carbon nanotubes (CNT), denoted by Pt-CNT 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor K2PtCl4 and support carbon nanotubes (CNT)
+
+The synthesis procedures are as followed:
+1. 90 mg of K2PtCl4 was dissolved in 20 mL of water to prepare a 3 mg/mL Pt stock solution. 
+2. A 40 mg amount of CNT was then dispersed in 25 mL of water, followed by tip sonication (SCIENTZ) for 30 min. 
+3. Thereafter, 400 μL of Pt stock solution was added dropwise to the CNT suspension under vigorous stirring for a 1.05 wt % Pt target loading and was freezedried in a vacuum, which was denoted as the Pt−CNT precursor.

@@ -1,0 +1,17 @@
+question
+synthesis of single atom Fe support on N-doped carbon with a high FeN4 active site density 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe2O3 nanoparticles
+
+The synthesis procedures are as followed:
+1. Fe2O3 nanoparticles (Alfa-Aesar) with a size of ~5 nm (10 mg) and zinc nitrate hexahydrate (6.78 g) were dispersed and dissolved into a methanol solution (150 ml). 
+2. The other methanol solution (150 ml) containing 2-methylimidazole (7.92 g) was prepared. 
+3. Then both solutions were mixed and heated at 60 °C for 24 h. 
+4. The resulting precipitant was collected and washed with ethanol, then dried at 60 °C in a vacuum oven to obtain Fe2O3@ZIF-8 composite precursor. 
+5. the composite precursors were subjected to a heating treatment at 800 °C for 30 min under flowing Ar gas to obtain a sample denoted as Fe–N–C-800. We found that Fe2O3 nanoparticles can gradually release Fe contents during thermal activation, which are captured by surrounding defected nitrogen ligands from ZIF-8s, increasing atomically dispersed FeN4 site density, superior to the typically used Fe3+ ion precursors such as FeCl3 and Fe(NO3)3. 
+6. Then the Fe–N–C-800 (100 mg) were ground with NH4Cl salts (300 mg) thoroughly, followed by a heating treatment at 1,100 °C (taking 30 mins to rapidly increase the temperature to 1,100 °C) under Ar flow for 1 h to obtain the first catalyst, denoted as Fe–AC (AC: ammonia chloride) catalyst. NH4Cl decomposes to NH3 and HCl gas at high temperatures, which produce substantial internal stress and etch the carbon, thus creating a multitude of micropores and carbon defects. The HCl probably further dissociates at high temperatures to form H2 and Cl2 gases, the Cl2 gas reacts with residual Fe aggregates in catalysts and facilitates the formation of atomically dispersed Fe sites. 
+7. the Fe–AC catalyst was subjected to deposition of a thin layer of nitrogen-doped carbon via a CVD approach. ZIF-8 nanocrystals were discovered as optimal carbon and nitrogen sources to release N/C species at high temperatures and gradually deposit them onto the Fe–AC catalyst located downstream of the tube furnace. 
+8. 150 mg pristine ZIF-8 nanocrystals and 50 mg Fe–AC were separately placed on two high-temperature alumina combustion boats located at the up and downstream places in a tube furnace, respectively. 
+9. The tube furnace was heated to 1,100 °C under an optimal Ar flow rate of 10 ml min−1 for 1 h. 
+10. The CVD conditions, such as the amount of ZIF-8 precursors, flow rates, temperatures and duration, were carefully optimized. The resulting catalyst was denoted as Fe–AC–CVD.

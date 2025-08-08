@@ -1,0 +1,67 @@
+question
+how to prepare support in wet impregnation for SACs
+
+answer
+Drying: The support material (e.g., activated carbon, silica, alumina, MOFs) is typically pre-dried at elevated temperatures (e.g., 100–150 °C for 2–6 hours) to remove surface moisture that could affect precursor uptake.
+
+Cooling: Allow the support to cool to room temperature in a desiccator or under inert atmosphere to avoid moisture absorption.
+
+question
+how to select container in wet impregnation for SACs
+
+answer
+Use an inert vessel (glass, Teflon, or quartz) like a beaker, round-bottom flask, or reactor with stirring capability.
+
+The vessel should accommodate both the volume of the support and the metal precursor solution while allowing effective mixing.
+
+question
+the impregnation procedure of conventional wet impregnation
+
+answer
+Solution Preparation:
+Dissolve the desired amount of metal precursor in a selected solvent (commonly water, ethanol, isopropanol, or a mixed solvent).
+Adjust pH (if required) using acids or bases to ensure metal precursor solubility and support compatibility.
+
+Impregnation:
+Place the pre-treated support in the vessel.
+Slowly add the metal precursor solution, typically dropwise or in small aliquots, to prevent local oversaturation.
+Add an excess volume of solution relative to the total pore volume of the support.
+
+Soaking and Contact Time:
+Stir gently with a magnetic stirrer or overhead mechanical stirrer for uniform distribution.
+Allow the suspension to stand or continue stirring for a few hours to overnight (6–24 h), depending on metal diffusion and support wettability.
+
+Optional Treatments:
+Ultrasonication: Can be applied during or after solution addition to improve infiltration into micropores.
+Temperature Control: Some protocols involve gentle heating (e.g., 40–60 °C) to increase precursor mobility.
+
+question
+the impregnation procedure of Incipient Wetness Impregnation (IWI)
+
+answer
+Pore Volume Measurement:
+Accurately determine the total pore volume of the support using techniques such as N₂ adsorption/desorption (BET method) or Hg porosimetry.
+Example: For 1 g of support with a pore volume of 0.5 cm³/g, use exactly 0.5 mL of precursor solution.
+
+Solution Preparation:
+Prepare a highly concentrated precursor solution to achieve the desired metal loading within the limited volume.
+
+Impregnation:
+Place the dry support in a beaker.
+Slowly add the precursor solution in small portions (dropwise or via micropipette) with continuous stirring.
+Allow each addition to fully absorb before adding the next. Avoid forming a slurry or excess liquid phase.
+
+Mixing:
+Use a spatula or mechanical stirrer to mix thoroughly, ensuring uniform contact between the solution and the internal pore surface.
+Alternatively, use vacuum-assisted impregnation to draw the solution into micropores.
+
+Optional Aging:
+Some protocols allow the impregnated support to "age" for 1–2 hours to improve metal-support interaction and redistribution before drying.
+
+question
+the drying procedure of wet impregnation
+
+answer
+After the impregnation step, the solution is evaporated to remove the solvent, typically under reduced pressure or using a rotary evaporator. This results in the precursor being left behind in the pores of the support material.
+
+The drying process is important to avoid the aggregation of metal ions and to ensure a good dispersion of metal precursors on the support surface. The material is typically dried at 60-120°C.

@@ -1,0 +1,13 @@
+question
+Synthesis of Pt single atom supported on TiO2
+
+answer
+The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor anatase TiO2
+
+The catalyst is prepared as followed:
+1. Commercial anatase TiO2 (50 mg) was dispersed in 10 ml H2O in a 20 ml vial under sonication for 10 min. 
+2.  A fixed amount of H2PtCl6 (50.0, 37.5, 25.0 and 12.5 μl for Pt-DSA and 0.70, 0.60, 0.50 and 0.25 wt% TiO2, respectively) are diluted with H2O to make 1 ml of aqueous Pt precursor solutions.  
+3. The Pt precursor solution was purged with Ar gas for 10 min
+4. 0.5 ml of the Pt precursor solution was injected into the TiO2 dispersion and vigorously stirred. 
+5. After 20 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. 
+6. The product was dried in an electric oven at 50 °C overnight and used for the photocatalytic HER reaction.

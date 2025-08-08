@@ -1,0 +1,19 @@
+question
+Confined synthesis of single atom Bi supported on NC@GF, denoted by Bi SAs/NC@GF 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor BiCl3 and support N-doped carbon grown on graphite felt (NC@GF)
+
+The support is prepared as followed:
+1. Zn(NO3)2·6H2O (12 mmol) was dissolved in 75 ml methanol, 
+2. then 2-methylimidazole (85 mmol) in 75 ml methanol was subsequently poured into the above solution. 
+3. The mixture was stirred vigorously for 1 minute at room temperature. 
+4. After that, four pieces of graphite felt (GF) with a thickness of 2 mm (3×4 cm2) were put into the mixture solution and aged for 12 h.
+5. Subsequently, the GF was withdrawn and washed with methanol thoroughly, then dried in an oven at  60 °C for 3 h, the obtained sample is defined as ZIF-8@GF. 
+6. The NC@GF was  synthesized through pyrolysis of ZIF-8@GF in an N2 atmosphere at 1100 °C for 1 h  with a heating rate of 5 °C min−1. 
+
+After the support is prepared, the catalyst is synthesized as followed:
+1. BiCl3 (500 mg) was dropped in 100 ml isopropanol. 
+2. Then, four pieces of NC@GF were suspended in the above solution under stirring for 6 h to make the Bi3+ adsorbed. 
+3. Subsequently, the obtained Bi3+/NC@GF was withdrawn and  washed with ethanol thoroughly, and dried in an oven at 60 °C for 3 h. 
+4. After that, the Bi  SAs/NC@GF were synthesized through annealing of the Bi3+/NC@GF in an N2  atmosphere at 800 °C for 1 h with a heating rate of 5 °C min−1.

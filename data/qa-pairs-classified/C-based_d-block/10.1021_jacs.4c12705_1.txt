@@ -1,0 +1,16 @@
+question
+Synthesis of Co dual atom doped by N supported on Carbon
+
+answer
+1. First, the macrocyclic ligand was synthesized via a condensation reaction between o-phenylenediamine and 2-hydroxy-5-methylisophthalaldehyde. 
+2. In detail, 2-hydroxy5-methylisophthalaldehyde (3 mmol) was added into a flask containing 30 mL of dry  methanol, and the mixture was stirred for 10 minutes. 
+3. o-phenylenediamine (3 mmol) was dissolved in 30 mL of methanol simultaneously. 
+4. Then, the o-phenylenediamine solution was dropwise added into the flask under magnetic stirring, and refluxed at  80 °C under Ar atmosphere for 4 hours. 
+5. After the reaction mixture naturally cooling down to room temperature, orange precipitates were collected by filtration, washed with  methanol three times, and dried at 60 °C under vacuum overnight. The ligand of Co2 complex was obtained
+6. the as-obtained ligand (1 mmol) was dissolved in 20  mL of DMF at ambient temperature, followed by adding 2 mmol of cobalt acetate  tetrahydrate with continuously being stirred. 
+7. Afterward, the reaction flask was attached  to a condenser, purged with Ar gas, and heated at 80 °C in an oil bath. 
+8. After a 4-hour reaction, the resulting solid was collected by vacuum filtration, washed with diethyl  ether three times, and finally dried in a vacuum oven. 
+9. 6 mg of Co2 complex was first dissolved in 15 mL of dry  methanol, followed by filtration with filter paper to obtain a transparent solution. 
+10. 25 mg of Ketjen black was dispersed in the above solution through ultrasonication for  10 minutes, after which the reaction mixture was refluxed at 60 °C for 4 hours. 
+11. The resulting mixture was kept at 60 °C overnight to allow the methanol evaporate
+12. the product was transferred into a ceramic boat, and heated at 300 °C for 2 hours under Ar flow, with a heating rate of 5 °C·min−1.

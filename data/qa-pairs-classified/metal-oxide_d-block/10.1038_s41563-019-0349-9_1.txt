@@ -1,0 +1,9 @@
+question
+synthesis of isolated Pt atoms on TiO2
+
+answer
+The catalyst is prepared by impregnation with metal precursor tetraammineplatinum(II) nitrate and support TiO2
+
+The catalyst is prepared as followed:
+1. a pH-adjusted solution (12.2) containing tetraammineplatinum(II) nitrate was slowly injected into a solution containing TiO2 (anatase, 5 nm diameter, 290 m2 g−1, US Research Nanomaterials). 
+2. After drying, the catalyst was calcined in a tube furnace at 450 °C for 4 h in flowing air after ramping up the temperature at a rate of 10 °C min−1.

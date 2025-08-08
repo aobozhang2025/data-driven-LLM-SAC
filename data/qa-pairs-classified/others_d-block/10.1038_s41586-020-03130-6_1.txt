@@ -1,0 +1,21 @@
+question
+Synthesis of single atom Pt supported on α-MoC 
+
+answer
+The catalyst is prepared by impregnation with metal precursor H2PtCl6·6H2O and support α-MoC
+
+The support α-MoC is prepared as followed:
+1. Ammonium molybdate tetrahydrate (AMT, (NH4)6Mo7O24·4H2O) was purchased from Sinopharm Chemical Reagent. 
+2. The grinded powder of AMT was calcined in the muffle oven to 773 K at a rate of 10 K min−1 to synthesize the precursor MoO3. 
+3. 1 g MoO3 was loaded into the tubular quartz reactor and placed in a vertical furnace. 
+4. The powder was heated to 973 K in ammonia (160 ml min−1; pre-purified gas) at a rate of 5 K min−1 and kept at 973 K for 2h. 
+5. After the sample was cooled to room temperature, the gas was switched to a methane (CH4)/H2 mixture (150 ml min−1; 20/80 v/v) and the temperature was increased to 973 K at 5 K min−1 and held at 973 K for 2 h. 
+6. Finally, the sample was passivated at room temperature using a 1% oxygen/Ar gas mixture.  
+
+After the support is prepared, the catalyst synthesis are as followed:
+1. the α-MoC substrate was reduced in 10% H2/nitrogen (N2) (20mlmin−1) at 523K for 60 min, which is expected to create more surface anchoring sites for Pt species 
+2. Appropriate amounts of H2PtCl6·6H2O (Sigma-Aldrich) were dissolved in 200 μl deaerated deionized water. 
+3. The Pt precursor solution was finely mixed with 50mg α-MoC powder, followed by drying in a vacuum oven at 323 K. 
+4. Before catalytic evaluation, the samples were mildly reduced at 623 K for 1 h under H2 flow at a flow rate of 60 ml min−1 first. 
+5. Then the stream was switched to 15% CH4/H2 (100mlmin−1), and the temperature was increased at 5Kmin−1 to 863K and then held at this temperature for 2h to reactivate the samples. 
+6. The samples were then cooled to room temperature in 15% CH4/H2.

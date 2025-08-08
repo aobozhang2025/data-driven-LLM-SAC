@@ -1,0 +1,17 @@
+question
+Synthesis of ultra high density Ni supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation and freeze-drying with metal precursor NiCl2·6H2O and support precursor carbon dots (CDs)
+
+The support precursor is prepared as followed:
+In our strategy, CDs with small sizes and high surface-to-volume ratios were critical to achieve a high loading of atomically dispersed metal atoms. As such, we modified the reaction temperature and time to adjust the size distributions of CDs. Finally, CDs with particle size ranging from 5 to 10 nm (measured by HR-TEM) were obtained after hydrothermal crystallization, cooling, centrifugation, filtering and freeze-drying.  
+
+After the support is prepared, the catalyst is synthesized with the following procedures:
+1. 0.40 g of NiCl2·6H2O was added into 25 ml of CD solution (15 mg ml−1, with deionized water as the solvent) under continuous stirring to obtain a homogeneous solution. 
+2. The obtained solution was quickly frozen in liquid nitrogen, followed by freeze-drying for 8 h. 
+3. Next, the as-prepared solid powders were mixed with urea and thiourea, then ground into a homogeneous precursor. 
+4. The optimized masses of urea and thiourea (mass ratio, 7:1) were determined based on many investigations. 
+5. The powders were placed in a tubular quartz tube and heated at a rate of 5 °C min−1 to 800 °C in flowing Ar gas. 
+6. After heating at 800 °C for 2 h, the solid product was allowed to naturally cool to room temperature. 
+7. Finally, the obtained UHDNi–N–C SACs powders were collected

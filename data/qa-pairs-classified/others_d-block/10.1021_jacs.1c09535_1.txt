@@ -1,0 +1,12 @@
+question
+synthesis of single atom Pt supported on Y, denoted by Pt/Y
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6
+
+The synthesis procedures of the catalyst are as followed:
+1. 10~15 mL  H2PtCl6 aqueous solution was dissolved in 40 mL water under stirring followed by addition of 300~500 μL trimethoxysilyl propanethiol dropwise. 
+2. The mixture was stirred at room temperature for 2 h and then 0.7 g NaAlO2, 4.15 g NaOH, 7.2 mL colloidal silica were added to the mixture successively, followed by an additional  stirring for 4 h. 
+3. The as-formed mixture was then transferred into an autoclave for crystallizing at 373 K for 48 h. 
+4. The resultant mixture was thoroughly washed with deionized water and dried at 373 K for 6 h. 
+5. The dehydration sample was calcined in an air flow at 823 K for 6 h with heating rate of 2 K/min.

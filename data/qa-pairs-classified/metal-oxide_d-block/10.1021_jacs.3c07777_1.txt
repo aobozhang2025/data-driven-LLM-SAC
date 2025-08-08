@@ -1,0 +1,13 @@
+question
+Preparation of single atom Ru supported on Co3O4, denoted by Ru-Co3O4 
+
+answer
+The catalyst is synthesized by impregnation with presurcor cobalt glycerol
+
+The synthesis procedures are as followed:
+1. 1.0 g cobalt acetate tetra-hydrate was added into a 50  mL Teflon-lined autoclave containing 30 mL glycerol under 5 h magnetic stirring to give a  uniform slurry. 
+2. Then the reactor was heated to 180 °C and maintained for 4 h. 
+3. After that, the  obtained viscous mixture was washed with ethanol repeatedly and dried at 60 °C.  
+4. 50 mg of cobalt glycerol was stirred with 1 mM of RuCl3 alcohol solution for 14 h at room temperature
+5. washed by centrifugation, 
+6. dried under vacuum and calcined at 300 °C for 4 h in air

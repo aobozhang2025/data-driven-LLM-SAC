@@ -1,0 +1,33 @@
+question
+chemical properties of Bismuth (Bi)
+
+answer
+Bismuth is the heaviest stable element in Group 15 of the periodic table, positioned below arsenic and antimony. Its chemical behavior is largely dictated by its electron configuration: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³.
+
+Oxidation States: Bismuth most commonly exhibits +3 and +5 oxidation states. The +3 state is the more stable and prevalent, a consequence of the "inert pair effect," where the two 6s electrons are reluctant to participate in bonding. The +5 state is a powerful oxidizing agent. This ability to cycle between different oxidation states is fundamental to its role in many catalytic reactions.
+
+Electronegativity: With a Pauling electronegativity of 2.02, bismuth is moderately electronegative. This value is comparable to other metals used in catalysis, influencing its interaction with reactants and support materials.
+
+Atomic Radius: Bismuth has a significant atomic radius, which affects its coordination environment and the steric accessibility of active sites in a catalytic system.
+
+Reactivity: Bismuth is a relatively unreactive metal that is stable in air and water under normal conditions. It dissolves in strong oxidizing acids like nitric acid. Its compounds, particularly in the +3 oxidation state, are generally stable.
+
+Lewis Acidity: Bismuth(III) compounds can act as Lewis acids, accepting electron pairs. This property is vital for activating substrate molecules in various catalytic transformations.
+
+question
+chemical properties of Bismuth Nitrate (Bi(NO₃)₃)
+
+answer
+Bismuth Nitrate (Bi(NO₃)₃) is a widely used Bi precursor due to its solubility in various solvents, which facilitates its uniform distribution on the support material. The nitrate an ion can be easily removed through thermal decomposition (calcination).
+
+question
+chemical properties of Bismuth Chloride (BiCl₃)
+
+answer
+Another common and cost-effective Bi precursor, bismuth chloride, can be used in different solvent systems. The nature of the halide can sometimes influence the final interaction between the bismuth atom and the support.
+
+question
+common properties of Bi precursors
+
+answer
+In the synthesis of bismuth single-atom catalysts, these precursors are typically deposited onto a high-surface-area support, such as activated carbon, graphene, or a metal oxide. The choice of both the precursor and the support is critical in determining the final coordination environment and, consequently, the catalytic activity and selectivity of the bismuth single atoms.

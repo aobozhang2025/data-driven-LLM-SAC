@@ -1,0 +1,18 @@
+question
+Synthesis of single atom Co dope by 4 N supported on C
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Co(OAc)2·4H2O, support TIPP and template SiO2
+
+The synthesis procedures are as followed:
+1. 0.6 mL of TEOS was quickly injected into a stirred mixture of deionized water (5 mL), absolute ethanol (15 mL), and 28% NH 3·H2O (0.7 mL). 
+2. After continuous stirring for 10 h, precipitates were collected by centrifugation, washed with ethanol for three times and dried. The silica spheres were obtained
+3. Co(OAc)2·4H2O (150 mg) and TIPP (175 mg) were dissolved in 100 mL DMF
+4. the solution was heated to reflux at 175 °C for 3 h. 
+5. As the excess solvent was evaporated to give a final volume of 20 mL, the solution left was cooled down to room temperature, added into 200 mL frozen deionized water,  and let stand for 1 h. 
+6. Formed precipitates were collected by centrifugation, washed with deionized water for several times and dried in vacuum at 120 °C for 4 h.  The Co-TIPP was obtained
+7.a mixture of Co-TIPP (20 mg, 0.02 mmol),  TIPP (280 mg, 0.32 mmol) and silica spheres (500 mg) in 100 mL DMF was prepared in a 250 mL round-bottom flask.  
+8. After injection of α,α'-dibromo-p-xylene (179.5 mg, 0.68 mmol) dissolved in 20 ml DMF, the mixture was heated at 110 °C under stirring for 24 h. 
+9. The product was collected by centrifugation, washed by DMF and ethanol, and dried at 80 °C under vacuum for 12 h. 
+10. Resulting powder (SiO2@Co-TIPP/TIPP-polymer) was collected into a tube furnace and gradually heated to 800 °C in 3 h (5 °C min -1) under H2/Ar (5:95) gas flow. 
+11. Then the powder was cooled to room temperature and etched by 6 M NaOH aqueous solution at 60 °C for 24 h to remove the SiO2 template. The final product was centrifuged, washed by water and ethanol, and dried at 30 °C  in vacuum overnight.

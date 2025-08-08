@@ -1,0 +1,14 @@
+question
+Synthesis of single atom Ru doped by S supported by N-doped carbon, denoted by Ru-SAS/SNC
+
+answer
+The catalyst is synthesized based on the synthesis framework of ZIF-8
+
+The synthesis proceduress are as followed:
+1. 952 mg Zn(NO3)2·6H2O and 100 mg Ru(acac)3 were dissolved in 12 mL of methanol with stirring for 10 min
+2. and then 24 mL methanol containing1050 mg 2-Methylimidazole was added under vigorous stirring for another 10 min at room temperature. 
+3. Subsequently, the mixture was transferred into a 50 mL of Teflon-lined stainless-steel autoclave for reaction at 120 °C for 4 h. 
+4. After cooling to room temperature, the product was collected by centrifugation and washed with methanol four times, and finally dried at 60 °C in a vacuum oven. 
+5. The dried powder was mixed with sulfur powder in 20 mL of mixture solvent (the volume ratio of carbon disulfide and ethanol is 4:1) under constant stirring, the mass ratio of sulfur powder and Ru/ZIF-8 is 1: 20. 
+6. Then, the homogeneous dispersion was heated at 45 °C under vigorous stirring until drying. 
+7. Afterward, the samples were pyrolyzed at 450 °C for 2 h firstly and then heated to  950 °C for 2 h in the Ar atmosphere with a heating rate of 5 °C min-1.

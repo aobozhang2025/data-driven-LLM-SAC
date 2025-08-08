@@ -1,0 +1,12 @@
+question
+synthesis of single site Au supported on C
+
+answer
+The catatyst is synthesized by impregnation with metal precursor H[AuCl4]·3H2O and support activated carbon
+
+The synthesis procedures are as followed:
+1. Activated carbon was initially ground to obtain a powder (150–200 mesh). 
+2. The gold precursor, H[AuCl4]·3H2O (Alfa Aesar, 20 mg, assay 49%), was dissolved in the required solvent (2.7 ml). 
+3. The gold precursor solution was then added dropwise, with stirring, to the activated carbon (0.99 g) to obtain a catalyst with a final metal loading of 1 wt.%. 
+4. The resulting powder was dried at a temperature 5–10 °C higher than the boiling point of the solvent used for 16 h under a flow of N2. 
+5. Wherever possible, extra dry solvents sealed under nitrogen were used.

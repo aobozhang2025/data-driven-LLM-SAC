@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Ni supported on C3N4
+
+answer
+The catalyst is synthesized by impregnation with metal precursor NiCl2
+
+The synthesis procedures are as followed:
+1. 0.02 g C3N4 nanosheets and 0.04 g CNT-1 were added to 30 mL DI  water. 
+2. C3N4 nanosheets were spread out and shattered uniformly through 60 min  ultrasound. 
+3. 0.05 mL of 0.1 M NiCl2 was added dropwise to the mixture followed by  stirring for 2h. 
+4. The liquid nitrogen was poured directly into the mixed solution until  icing totally. 
+5. After freeze-dried for 72h, the aerogel was obtained. 
+6. Then the aerogel was heated to 750 oC with a 5 oC/min heating rate at Ar atmosphere, immediately followed by colling at 10 oC/min to room temperature.

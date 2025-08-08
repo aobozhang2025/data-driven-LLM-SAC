@@ -1,0 +1,11 @@
+question
+synthesis of single atom Ru supported on SiO2, denoted by Ru1/SiO2
+
+answer
+The catalyst is prepared by impregnation with metal precursor hexaammineruthenium (III) chloride solution and support SiO2 nanopowder
+
+The synthesis procedures are as followed:
+1. 200 μL of hexaammineruthenium (III) chloride solution (Ru content of 2.5 mg/mL) was added into 10 mL ammonia solution (concentration of 5 mol/L), followed by the addition of 500 mg of SiO2 nanopowder. 
+2. After stirring at room temperature for one hour, the mixture was filtered and washed with DI water to pH neutral. 
+3. Then the product was dried at 60 °C in a vacuum oven for 12 hours. 
+4. Finally, the as-prepared sample was reduced in 10 vol% H2/He for 1 h at 300 °C, with a theoretical Ru loading of 0.1 wt.%.

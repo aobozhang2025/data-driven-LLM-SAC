@@ -1,0 +1,14 @@
+question
+Preparation of single atom Ir doped by N supported on Carbon
+
+answer
+The catatyst is synthesized by impregnation with metal precursor Ir(acac)3 and support carbon
+
+The synthesis procedures are as followed:
+1. Zn(NO3)2·6H2O (1.069 g, 3.6 mmol) and Ir(acac)3 (176 mg, 0.36 mmol) were dissolved in 15 ml methanol
+2. the resulting solution was then added into 10 ml of methanol containing 1.161 g (14.2 mmol) 2-methylimidazole. 
+3. After vigorously stirring for 5 min, the mixed solutions were kept at room temperature without stirring for 20 h. 
+4. The Ir(acac)3@ZIF-8 nanocrystal was collected by centrifugation, washed four times with methanol and dried in vacuum overnight. 
+5. The powder of Ir(acac)3@ ZIF-8 was then placed in a tube furnace and heated to 900 °C for 3 h at the heating rate of 5 °C min–1 under argon gas (200 ml min–1). 
+6. The result powder was calcined twice again with the same condition as above. 
+7. After calcination, the samples were cooled to room temperature

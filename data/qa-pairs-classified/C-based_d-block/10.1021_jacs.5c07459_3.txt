@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Fe supported on N-doped carbon 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Fe(acac)3
+
+The syntheis procedures are as followed:
+1. 2-methylimidazole (1314 mg) was dissolved in 15 mL methanol in flask A.  
+2. Zn(NO3)2·6H2O (1190 mg) and Fe(acac)3 (141 mg) was dissolved in 30 mL methanol under ultrasound for 15 min to form a clear solution in flask B. 
+3. Then, flask B was subsequently added  into flask A with ultrasound for 30 min and vigorous stirring for 12 h at room temperature. 
+4. The  obtained product was separated by centrifugation and washed subsequently with methanol for twice and finally dried at 60 °C under vacuum for overnight. 
+5. The power of Fe(acac)3@ZIF-8  was transferred into a ceramic boat and placed in a tube furnace. 
+6. The sample was heated to 950  °C with a heating rate of 5 °C min-1 and kept at 900 °C for 3h under flowing Ar gas and then  naturally cooled to room temperature.

@@ -1,0 +1,15 @@
+question
+chemical properties of lead (Pb)
+
+answer
+Located in Group 14 of the periodic table with an atomic number of 82, lead's chemical behavior is largely dictated by its electron configuration: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p². It most commonly exhibits two oxidation states: +2 and +4. The +2 state is generally more stable due to the "inert pair effect," where the two 6s electrons are less inclined to participate in bonding.
+
+Reactivity: Lead is relatively unreactive and resistant to corrosion. Upon exposure to air, it forms a thin protective layer of lead(II) oxide (PbO). It is soluble in nitric acid but reacts only slowly with sulfuric and hydrochloric acids due to the formation of insoluble lead sulfate (PbSO₄) and lead chloride (PbCl₂) layers.
+Amphoteric Nature: Lead and its oxides can react with both acids and strong bases.
+Compound Formation: Lead forms a variety of inorganic and organometallic compounds. Common inorganic compounds include oxides (PbO, PbO₂), sulfides (PbS), and various salts.
+
+question
+chemical properties of Lead(II) nitrate (Pb(NO₃)₂)
+
+answer
+A water-soluble salt that can provide lead ions (Pb²⁺) which then chelate or adsorb onto the support material. For instance, in the synthesis of atomically dispersed lead on polydopamine, a soluble lead salt is used to introduce the lead ions that bind to the polymer support.

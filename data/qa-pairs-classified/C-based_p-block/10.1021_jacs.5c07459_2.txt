@@ -1,0 +1,20 @@
+question
+Synthesis of single atom Sb doped by N and Cl supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Sb(CH3COO)3 and support ZIF-8
+
+The ZIF-8 is prepared as followed:
+1. 2-methylimidazole (1314 mg) was dissolved in 15 mL methanol in flask A.  
+2. Zn(NO3)2·6H2O (1190 mg) was dissolved in 30 mL methanol under ultrasound for 15 min to form a clear solution in flask B. 
+3. Then, flask B was subsequently added into flask A with ultrasound for 30 min and vigorous stirring for 12 h at room temperature. 
+4. The obtained product was separated by centrifugation and washed subsequently with methanol for thrice and finally dried at 60 °C under vacuum for overnight. 
+
+After the preparation of ZIF-8, the catalyst is synthesized as followed:
+1. ZIF-8 (200 mg) was dispersed in 20 mL of hexane by sonication for 1 h at  room temperature. 
+2. 100 μL of Sb(CH3COO)3 (25 mg mL-1) was added dropwise to the above solution under ultrasound for 10 min. 
+3. The vial containing the slurry was stirred at room  temperature for 4 h. 
+4. The impregnated ZIF-8 sample was centrifuged and dried in vacuum  at 60 °C overnight. 
+5. The powder of the impregnated @ZIF-8 sample was mixed with 400  mg NaCl through grinding method. 
+6. Afterwards, the powder was placed in a tube furnace  and then heated to 950 °C for 3 h at the heating rate of 5 °C min-1 under flowing Ar gas and  then naturally cooled to room temperature. 
+7. The as-prepared products were washed with  deionized water to remove recrystallized NaCl, centrifuged and dried in vacuum at 60 °C  overnight.

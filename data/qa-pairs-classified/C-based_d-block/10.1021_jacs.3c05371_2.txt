@@ -1,0 +1,12 @@
+question
+synthesis of single atom Co supported on carbon nanotubes, denoted by Co-CNTs
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CoPc
+
+The synthesis procedures are as followed:
+1. carbon nanotubes (CNTs) (100 mg) and a certain amount of CoPc powders were separately dispersed in DMF, and both solutions were ultrasonicated for 30 min. 
+2. Then the CoPc DMF solution was added into the CNTs DMF solution dropwise under vigorous stirring. 
+3. The mixed suspension was sonicated for another 30 min and further stirred for 24 h at room temperature in dark. 
+4. Then the solid was separated via vacuum filtration, and washed with DMF for three times. 
+5. Finally, the Co-CNTs was obtained after lyophilization for 24 h.

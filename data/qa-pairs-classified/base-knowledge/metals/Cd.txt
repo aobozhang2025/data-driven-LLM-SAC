@@ -1,0 +1,21 @@
+question
+The Chemical Identity of a Cadmium Atom in Catalysis
+
+answer
+The catalytic potential of a single cadmium atom is rooted in its fundamental chemical properties. With an electron configuration of [Kr] 4d¹⁰ 5s², cadmium most commonly exhibits a +2 oxidation state by losing its two 5s electrons. This stable oxidation state is central to its catalytic activity, allowing it to readily interact with reactant molecules and facilitate chemical transformations.
+
+The relatively large atomic radius of cadmium allows for flexible coordination with various support materials, such as metal oxides (e.g., TiO₂) and carbon-based structures. This interaction is crucial for stabilizing the individual cadmium atoms and preventing their aggregation, a key requirement for effective single-atom catalysis. Furthermore, its electronegativity influences the nature of its bonding with the support and reactants, impacting the electronic structure of the active site and, consequently, its catalytic performance.
+
+question
+chemical properties of Cadmium Chloride (CdCl₂) 
+
+answer
+This is a widely used Cd precursor due to its good solubility in water and other polar solvents. This property is advantageous for wet-chemistry impregnation methods, where the support material is soaked in a solution containing the precursor. Subsequent thermal treatment then decomposes the cadmium chloride, leaving behind dispersed cadmium atoms on the support surface.
+
+question
+chemical properties of Cadmium Nitrate (Cd(NO₃)₂)
+
+answer
+cadmium nitrate as Cd precursor is highly soluble in aqueous solutions, making it another popular choice for impregnation techniques. The nitrate anions can be readily removed during the calcination process, facilitating the formation of well-dispersed cadmium oxide or metallic cadmium species that can be further transformed into single atoms.
+
+The primary advantage of these inorganic salts lies in their cost-effectiveness and straightforward application. However, residual chloride or nitrate ions can sometimes negatively affect the catalytic performance or the environment.

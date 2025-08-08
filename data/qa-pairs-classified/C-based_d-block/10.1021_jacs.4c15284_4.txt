@@ -1,0 +1,11 @@
+question
+Preparations of single atom Co supported on ZIF-67, denoted by Co-ZIF-67
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Cobalt(II) acetate tetrahydrate and support ZIF-67
+
+The synthesis procedures are as followed:
+1. At first, Cobalt(II) nitrate hexahydrate (3A, ≥ 98%, 0.5 g) was dissolved in 3 mL of deionized water. 
+2. Another solution of 2-methylimidazole (5.5 g) in 20 mL H2O was added into the above solution and the resulting mixture was stirred at room temperature for 6 h. 
+3. The purple precipitate was collected by  centrifugation and washed with methanol for three times and water for three times, which was then dried under vacuum at 80 °C overnight. 
+4. The dried Co-ZIF-67 power was heated to 800 °C with a heating rate of 3 °C/min and then pyrolyzed at 800 °C for 8 h under flowing argon atmosphere.

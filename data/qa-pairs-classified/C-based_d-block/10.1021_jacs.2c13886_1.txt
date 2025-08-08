@@ -1,0 +1,13 @@
+question
+Synthesis of single atom Fe and single atom Cu supported on N-doped carbon, denoted by FeCu/NC
+
+answer
+The catalyst is synthesized by the framework of ZIF-8 synthesis with metal precursors iron (III) nitrate nonahydrate and copper nitrate trihydrate
+
+The synthesis procedures are as followed:
+1. Zinc nitrate hexahydrate (0.84 g, 2.8 mmol), iron (III) nitrate nonahydrate (0.007 g, 0.017 mmol), copper nitrate trihydrate (0.005 g, 0.017 mmol) and CTAB (0.028 g,  0.077 mmol) were dissolved in deionized water (28 mL) followed by sonication until a solution rich in foam was formed. This solution was labeled as A. 
+2. 2-methylimidazole (12.712 g, 0.15 mmol) was dissolved in deionized water (196 mL) under sonication to form a transparent solution B.
+3. Solution A was added dropwise into solution B under vigorous stirring. 
+4. The mixture was kept under stirring at room temperature for 12 hours. 
+5. Subsequently, the resulting pale yellow powder was collected via centrifugation, washed with deionized water for five times and then methanol for another five times to remove any physically adsorbed complexes, and dried in vacuum overnight. 
+6. The as-obtained powder (200 mg) was thoroughly grinded and placed in a porcelain boat, followed by thermal treatment at 900 °C for 2 h (ramping rate 5 °C  min-1) under flowing nitrogen.

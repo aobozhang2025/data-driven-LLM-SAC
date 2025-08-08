@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Ir supported on NC, denoted by Ir-NC. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3·3H2O
+
+The synthesis procedures are as followed
+1. 4.4 mL formaldehyde (37 wt% solution) and 5 g dicyandiamide and 5mg IrCl3·3H2O were mixed in 40 mL deionized water. 
+2. After vigorous stirring  for 10 min, the mixed solution was heated to 80 °C and kept for 24 h to evaporate the water. 
+3. The resulting yellowish solid powder was then placed in a tubular carbonization furnace and carbonized at 900 °C for 2 h under argon gas with a heating rate of 5 °C min-1.

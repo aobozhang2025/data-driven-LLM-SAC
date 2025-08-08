@@ -1,0 +1,10 @@
+question
+synthesis of single atom Ir supported on Al2O3 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3 and support Al2O3
+
+The synthesis procedures are as followed:
+1. IrCl3 at the corresponding mass ratio in aqueous solution was diluted to 400 mL, then Al2O3 (2.0 g) was added.  
+2. After vigorous stirring for 24 h at room temperature, the obtained solid was separated by suction filtration and subsequently washed with water. 
+3. After dried at 60 °C under vacuum for 24 h, the  sample was heated to 350 °C with a heating rate of 2 °Cmin–1, and kept at 350 °C for 2 h in flowing 5% H2 in argon gas and then for about 90 min naturally cooled to room temperature.

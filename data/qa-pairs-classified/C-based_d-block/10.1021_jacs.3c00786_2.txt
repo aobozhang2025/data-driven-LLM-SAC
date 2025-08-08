@@ -1,0 +1,13 @@
+question
+synthesis of single atom Ru supported on P-doped Carbon, denoted by Ru1/PC 
+
+answer
+The catalyst is synthesized impregnation and freeze drying. 
+
+The synthesis procedures are as followed:
+1. 2 g of melamine, 2 g of cyanuric acid, 1 g of L-alanine, and 400 μL of phytic acid  (50 wt%) were dispersed in 100 mL of deionized (DI) water. 
+2. After that, the suspension was strongly stirred at 100 oC to get a homogenous white polymeric precursors. 
+3. In the meantime, 200 mg of RuCl3 was dissolved into 50 mL of DI water to prepare the RuCl3 stock solution with a concentration of 4 mg per milliliter. 
+4. 2 mL of RuCl3 stock solution was slowly added into the above precursors under stirring for 12 h. 
+5. The resultant slurry was quickly frozen in liquid nitrogen. 
+6. After freeze drying, the collected powder was pyrolyzed at 800 °C for 2 h under Ar gas to obtain the final sample without further treatment.

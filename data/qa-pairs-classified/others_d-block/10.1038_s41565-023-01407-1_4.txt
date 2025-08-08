@@ -1,0 +1,12 @@
+question
+Synthesis of singlea atom metal Ni supported on MoS2
+
+answer
+The catalyst is prepared by impregnation with metal precursor Ni(CH3COO)2·4H2O)
+
+The synthesis procedures are as followed:
+1. First, 1 mmol Mo source (176 mg, (NH4)6Mo7O24·4H2O), a certain amount of metal salts Ni(CH3COO)2·4H2O and 750 mg CH3CSNH2 (10.0 mmol) were dissolved in 70 ml distilled water. 
+2. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). 
+3. Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. 
+4. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. 
+5. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min−1 and kept there for 2 hours in a furnace, and then cooled to room temperature.

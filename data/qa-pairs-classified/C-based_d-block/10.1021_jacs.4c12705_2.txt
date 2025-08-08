@@ -1,0 +1,12 @@
+question
+synthesis of Co single atom doped by N supported on Carbon
+
+answer
+1. First, the ligand of Co complex was synthesized by refluxing o-phenylenediamine and 2-hydroxy-5-methylisophthalaldehyde with a molar ratio of 1:2 in methanol at  80 °C for 4 hours. 
+2. Next, 2 mmol of the ligand and 1 mmol of cobalt acetate were added  in 20 mL of dry methanol in sequence under stirring. 
+3. Then, the flask was coupled with a condenser, and refluxed at 80 °C for 4 hours with the protection of Ar gas. 
+4. The resulting solid was collected by vacuum filtration, washed with diethyl ether three times,  and finally dried in a vacuum oven, denoted as Co complex.  
+5. 6 mg of Co complex was first dissolved in 15 mL of dry  methanol, followed by filtration with filter paper to obtain a transparent solution. 
+6. 25 mg of Ketjen black was dispersed in the above solution through ultrasonication for  10 minutes, after which the reaction mixture was refluxed at 60 °C for 4 hours. 
+7. The resulting mixture was kept at 60 °C overnight to allow the methanol evaporate 
+8. the product was transferred into a ceramic boat, and heated at 300 °C for 2 hours under Ar flow, with a heating rate of 5 °C·min−1.

@@ -1,0 +1,15 @@
+question
+Synthesis of diverse dynamically stabilized atomic Pt supported on CeO2
+
+answer
+The catalyst is prepred by impregnation with metal precursor H2PtCl6 and support precursor CeO2
+
+The catalyst is prepared as followed:
+1. 50 mg of commercial CeO2 was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. 
+2. 5.4 mg of H2PtCl6 are diluted with H2O to make 1 ml of aqueous Pt precursor solutions. 
+3. The CeO2 dispersion and Pt precursor solution were purged with Ar gas for 10 min. 
+4. The CeO2 dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm–2 using a xenon lamp light source (Newport). 
+5. The light was irradiated for 20 min for each sample.  
+6. After the CeO2 dispersion turned bluish, 0.5 ml of the Pt precursor solution was injected into the CeO2 dispersion and vigorously stirred. 
+7. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. 
+8. The product was dried in an electric oven at 50 °C overnight

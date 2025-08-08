@@ -1,0 +1,12 @@
+question
+Preparation of Ru single atoms supported on nitrogen-doped carbon, denoted by Ru SAs/NC.  
+
+answer
+The catalyst is synthesized by a framework of ZIF synthesis with metal precursor Ruthenium acetylacetonate
+
+The synthesis procedures are as followed:
+1. Ruthenium acetylacetonate (0.3 mmol) and Zn(NO3)2·6H2O (1.069 g) were dissolved in 15 ml methanol. 
+2. 10 ml of methanol containing 2-methyl imidazole (1.161 g) was added  to the above solution. 
+3. After stirring, the mixed solutions were transferred to a Teflon-lined stainlesssteel autoclave and maintained at 120°C for 4 hours. 
+4. The solid products were collected by centrifugation and washed with methanol. 
+5. After drying, the obtained powder was further pyrolyzed in an Ar atmosphere at 900 °C for 3 h.

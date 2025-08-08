@@ -1,0 +1,9 @@
+question
+synthesis of single atom Fe supported on Ru-O nanosheets
+
+answer
+The catalyst is synthesized with the following procedures:
+1. 8 mg Ru(acac)3, 0.35 mg Fe(acac)3 and 30 mg KBr were dissolved into the mixed solution of ethanol and deionized water under magnetic stirring.  
+2. The mixture solution was dried at 60 oC to obtain the mixed powder. 
+3. The obtained powder was placed in an alumina boat and heated to 260 oC for 90 min under Air in a tube furnace and then naturally cooled to room temperature to obtain the representative samples. 
+4. The as-obtained  products were washed several times with DI water-ethanol mixture.

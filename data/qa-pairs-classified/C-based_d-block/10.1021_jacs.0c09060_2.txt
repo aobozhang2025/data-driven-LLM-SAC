@@ -1,0 +1,14 @@
+question
+synthesis of single Fe incorporated on N-rich carbon
+
+answer
+The catalyst is synthesized by impregnation with precursor iron(III) acetylacetonate and support ZIF-8
+
+The synthesis procedures are as followed:
+1. 100 mg ZIF-8 powder was dispersed into 30 mL of ethanol. 
+2. The suspension was sonicated to form a homogeneous dispersion. 
+3. Ethanol containing 3.8 mg iron(III) acetylacetonate was added into the ZIF-8 dispersion under stirring. 
+4. The obtained suspension was stirred in the fume hood and naturally dried. 
+5. The dried powder was ground and placed into a porcelain boat, which was heated up to 900 °C for 3 h at a rate of 5 °C/min under Ar atmosphere. 
+6. After cooling down to the room temperature, the obtained black product was leached with 1 M HCl to remove metal particles and unstable species and successively washed using distilled water. 
+7. The as-obtained black solid was dried in vacuum at 70°C

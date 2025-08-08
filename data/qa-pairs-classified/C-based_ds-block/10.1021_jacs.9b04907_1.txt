@@ -1,0 +1,29 @@
+question
+Synthesis of single atom Cu supported on through-hole carbon nanofibers
+
+answer
+The catalyst is synthesized with precursor Cu/ZIF-8 nanoparticles
+
+The preparation of precursor Cu/ZIF-8 nanoparticles:
+1. 1.17 g of Zn(NO3)2•6H2O (3.95 mmol) in 8g deionized water was poured into a solution of 22.70 g 2-methylimidazole (276.50 mmol)  in 80 g deionized water (molar ratio of 2-methylimidazole and zinc was 70:1). 
+2. This mixture solution was magnetically stirred at room temperature for about 5 min. 
+3. The products were collected by repeated centrifugation and washed by deionized water for at least three times.  
+4. The products were dried at 60 oC overnight in a drying oven.
+5. 0.6g produced powder was dispersed in 50 ml n-hexane for 8 min ultrasound at room temperature. 
+6. Then this solution,  300 μL Cu(NO3)2 aqueous solution (100 mg ml-1) was slowly injected into ZIF-8 solution  by peristaltic pump under ultrasound for 2 min. 
+7. Then, the mix solution was under magnetically stirring for 2 h at room temperature. 
+8. Then the subsidence was separated by centrifugation and dried in vacuum at 60 oC overnight. 
+
+After the preparation of Cu/ZIF-8 nanoparticles, the catalyst is synthesized as followed:
+1. Firstly, 1.8 g polyacrylonitrile (PAN, Mw=130000) powder was dissolved in 20 mL N,N-Dimethylfor mamide (DMF) in a three-neck bottle by magnetically stirring the mixture solution for 2 hours in a water bath kettle under 65 °C to obtain a homogenous solution. 
+2. Then, 0.6 g of Cu/ZIF8 nanoparticles were dropped into the PAN/DMF mixed solution and the mixture solution was magnetically stirred at 60 °C for 2 hours. 
+3. Then, this mixture was stirred for another 12 hours to yield a homogenous precursor solution.  
+4. The precursor solution was electrospun to polymer fiber by a parallel-plate apparatus. 
+5. The precursor solution was firstly transferred into a syringe with a stainless needle at the tip. 
+6. The stainless needle was linked to a high voltage power equipment. 
+7. The solution flow,  rate applied potential, and spin distance were 0.7 mL/h, 21 kV, and 12 cm, respectively. All  experiments were carried out at room temperature.  
+8. The as-spun nanofibers were pre-oxidated in air at 220 °C for 1 hour, and then carbonized under Ar at 900 °C for 1 hour to achieve a very high graphitization. 
+9. The samples were cooled to room temperature under Ar. 
+10. The heating rate of carbonization was 5 °C/min  from room temperature (about 20 °C) to 900 °C. 
+11. After carbonization, the resultants were  washed thoroughly in a 4.0 M H2SO4 aqueous solution for 10 hours to remove Cu nanoparticles (if exist) and the residual Zn species. 
+12. drying in vacuum at 60 oC overnight

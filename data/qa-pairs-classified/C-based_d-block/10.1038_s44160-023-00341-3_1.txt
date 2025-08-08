@@ -1,0 +1,11 @@
+question
+synthesis of Ni single atom supported on N-doped carbon
+
+answer
+The catalyst is prepared impregnation with metal precursor Ni(NO3)2·6H2O
+
+The catalyst is prepared as followed:
+1. first featuring the polymerization of dicyanamide (by heating 10 g, under air, at 550 °C for 3 h, at a heating rate of 10 °C min−1) yielded gCNx,
+2. and the resultant yellow powder then subjected to another heating step in air, in which 750 mg of gCNx was calcined at 520 °C for 4.5 h, using a heating rate of 2 °C min−1, to afford the nCNx scaffold. 
+3. The following step involved the impregnation of the photoactive nanosheet support with the nickel single atoms; Ni(NO3)2·6H2O in water (140 mg, 14 ml) was added to nCNx (350 mg), followed by sonication, addition of NaBH4 (1.05 g dissolved in 5 ml of Millipore water), stirring, heating (12 h at 80 °C) and rapid microwave heating. 
+4. The resulting solid was filtered, washed and dried

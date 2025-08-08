@@ -1,0 +1,16 @@
+question
+preparation of single atom Ni supported on N-doped carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni(NO3)2·6H2O and support ZIF-8.
+
+The support ZIF-8 is prepared as followed:
+1. 558 mg Zn(NO3)2·6H2O was dissolved in 15 ml methanol, which was subsequently added into 15 ml methanol containing 616 mg 2-methylimidazole under ultrasound for10 min at room temperature. 
+2. The ZIF-8 was then grown at room temperature for 12 h. 
+3. The as-obtained precipitates were centrifuged and washed with methanol three times and dried in vacuum at 60 oC for overnight.  
+
+After the preparation of ZIF-8, the catalyst is synthesized as followed:
+1. 300 mg ZIF-8 was ultrasonic dispersed in 50 ml methanol for 30 min
+2. then 15 mg Ni(NO3)2·6H2O dissolved in 5 ml methanol added dropwise into above solution under vigorously stirring.  
+3. After 24 h stirring, the almost white product was centrifuged and washed with methanol three times and dried in vacuum at 60 oC for overnight.  
+4. the product was placed in a tube furnace and heated to 900 oC (heating rate 5 oC/min) for 60 minutes in a stream of N2

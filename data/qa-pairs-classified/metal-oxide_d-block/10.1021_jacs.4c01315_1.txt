@@ -1,0 +1,10 @@
+question
+synthesis of Silicalite-1 zeolite-encapsulated Rh single atoms (Rh1@S-1) 
+
+answer
+The catalyst is synthesized with metal precursor RhCl3·3H2O with the following procedures:
+1. 13 g of tetrapropyl ammonium hydroxide (TPAOH, 25 wt %) was added into 15 g of deionized water containing 1.2 mL of [Rh(NH2CH2CH2NH2)3]Cl3 solution, which was prepared by dissolving 0.03 g of RhCl3·3H2O in 0.6 mL of ethylenediamine, followed by the addition of 0.6 mL of deionized water. 
+2. After stirring for 10 min, 8.32 g of tetraethylorthosilicate (TEOS) was added, and the mixture was stirred for another 6 h. The composition of SiO2/TPAOH/H2O was 1:0.4:35 (molar ratio). 
+3. The mixture was added to a 100 mL Teflonlined stainless steel autoclave and was allowed to stand at 170 °C for 3 days under hydrothermal conditions. 
+4. The solid product was collected by centrifugation, washed with deionized water several times, and then dried at 80 °C overnight. 
+5. The obtained powder was denoted as “Rh1@S-1 uncal”. The organic templates were removed by temperature-programmed calcination in 10 vol %H2/N2 (RT to 300 °C, 5 °C/min; 300−400 °C, 1 °C/min; and held at 400 °C for 2 h).

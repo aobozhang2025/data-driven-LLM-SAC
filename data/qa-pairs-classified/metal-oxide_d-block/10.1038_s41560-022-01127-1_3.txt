@@ -1,0 +1,8 @@
+question
+Preparation of single atom Pt supported on TiO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6 and support TiO2
+
+the catalyst is synthesized as followed:
+Pt was introduced via a wet impregnation of substrates (50 mg) with a certain concentration of H2PtCl6 aqueous solution (0.1 ml), followed by the calcination at 513 K for 2 h in vacuum (< 0.1 Pa). The prepared catalyst was stored in vacuum.

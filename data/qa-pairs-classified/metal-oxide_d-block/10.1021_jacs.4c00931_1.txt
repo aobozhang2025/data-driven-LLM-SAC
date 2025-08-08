@@ -1,0 +1,12 @@
+question
+synthesis of single atom Pt supported on SiO2
+
+answer
+The catalyst is prepared by impregnation with metal precursor tetraamine platinum nitrate (TAPN, Sigma-Aldrich) and support SiO2
+
+The synthesis procedures are as followed:
+1. 2 g of spherical, nonporous SiO2 with an average particle size of 20−30 nm (USNano) was suspended in 100 mL of deionized water (Sigma-Aldrich) with magnetic stirring. 
+2. The suspension was adjusted to pH 10 using an appropriate amount of NH4OH (Sigma-Aldrich), monitored by an electronic pH meter. 
+3. After reaching pH 10, it was left stirring for 10 min, and 10 mL of a solution of tetraamine platinum nitrate (TAPN, Sigma-Aldrich) was added dropwise under vigorous stirring. 
+4. The resulting suspension was left to stir for 30 min before increasing the temperature to 70 °C until all water evaporated from the dish. 
+5. The collected solids were further dried at 120 °C overnight prior to calcination in a tube furnace at 600 °C for 6 h in 50 sccm dry air (Airgas).

@@ -1,0 +1,10 @@
+question
+Synthesis of single atom Zr supported on SiO2 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor zirconium (IV) acetylacetonate (Zr(acac)4) and support SiO2
+
+The synthesis procedures are as followed:
+1. 50 mL cyclohexane was mixed with 16 mL IGEPAL® CO-630 and 2.0 mL aqueous ammonia solution in a three-neck flask and stirred for 10 min, followed by adding 50 mL cyclohexane containing 0.66 mmol zirconium (IV) acetylacetonate (Zr(acac)4), 2.0 mL tetramethyl orthosilicate (TMOS, 98%)  and 2.0 mL octadecyltrimethoxysilane (C18TMS, 90%). 
+2. After being stirred for 1 h at 30°C, the solid  product was separated via centrifuging and washed thoroughly with ethanol. 
+3. After drying at 80°C for 10  h, the sample was calcined in air for 2 h at 400°C

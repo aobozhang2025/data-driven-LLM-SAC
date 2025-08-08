@@ -1,0 +1,28 @@
+question
+Preparation of single atom Au doped by S and N supported on carbon, denoted by Au SAC/N-S-C  
+
+answer
+The synthesis in of this catalyst involves the preparation of CdS nanorods, CdS/Au2S nanorods and CdS/Au2S nanorods coated by 3-AF in sequence, single atom Au is loaded by impregnation with CdS/Au2S as precursor. 
+
+The procedures to synthesize CdS in nanorods are as followed:
+1. 4.50 g sodium diethyldithiocarbamate trihydrate and 2.28 g cadmium chloride were added to 20 mL deionized water and stirred for 10 min. 
+2. The white products (denoted as cadmium  diethyldithiocarbamate (Cd(S2CNEt2)2)) were obtained via centrifugation at 11000 rpm for 1 min  and dried at 60°C under vacuum. 
+3. Then 2.25 g Cd(S2CNEt2)2) and 70 mL of ethylenediamine were added to a 100 mL Teflon-lined stainless steel autoclave. 
+4. After Cd(S2CNEt2)2) completely dissolved, the autoclave was maintained at 180oC for 24 h and cooled down to room temperature.  
+5. A yellowish precipitate was washed with deionized water and ethanol three times and collected by centrifugation. 
+6. After dried at 60°C in a vacuum for 12 h, the CdS nanorods were obtained. 
+
+After the synthesis of CdS nanorods, the procedures to synthesize CdS combined with Au2S in nanorods (denoted by CdS/Au2S) are as followed:
+1. 50 mg CdS nanorods were dispersed in 50 mL deionized water. 
+2. The solution was heated at 80oC and HAuCl4 solution (2 mg in 5 mL deionized water) was added to vigorously stirring for 20 min. 
+3. The product CdS/Au2S was obtained by repeated sonication and centrifugation with water and dried at 60°C in a vacuum for 6 h.  
+
+After the synthesis of CdS/Au2S, the procedures to synthesize CdS combined with PdS coated by 3-AF (denoted by CdS/Au2S@3-AF) are as followed:
+1. 150 mg 3-aminophenol (3-AP), formaldehyde solution (100μL, 37 wt %), and CdS/Au2S (100  mg) were dispersed in 50 mL ethanol/water solution (v/v 1:1) with ethanediamine (100 μL, 5  mg/mL) as catalyst. 
+2. After that, the solution was stirred at room temperature for 24 h. 
+3. Finally, the obtained CdS/Au2S@3-AF was collected and purified with distilled water by centrifugation and  dried at 60°C in a vacuum for 6 h.  
+
+After the CdS/Au2S@3-AF are prepared, the procedures to synthesize the catalyst are as followed:
+1. The CdS/Au2S@3-AF powder was transferred into a ceramic boat and placed in a tube furnace. 
+2. The sample was annealed at 900 °C for 3 h under N2 atmosphere with a heating rate of 5°C min-1. 
+3. After cooling down to room temperature, Au SAC/S-N can be obtained.

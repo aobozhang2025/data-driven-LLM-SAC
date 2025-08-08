@@ -1,0 +1,16 @@
+question
+synthesis of single atom Pt doped by S and X supported on carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor H2PtCl6-5.5H2O with NaX zeolite template
+
+The synthesis procedures are as followed:
+1. 5 g of NaX zeolite was introduced into a plugflow quartz reactor and heated to 823 K (ramp: 2 K min−1) under He flow. 
+2. At the target temperature, acetylene/H2S (1.4%/1.4% in He) mixed gas at a flow rate of 280 mL min−1 was introduced into the reactor for 24 h. 
+3. After the CVD, the sample was further heat-treated at 1073 K (ramp: 2 K min−1) for 3 h under 5% H2S/He flow (80 mL  min−1). 
+4. The resultant carbon/zeolite composite was etched with an aqueous HF/HCl solution (1.1/0.8 wt %, 800 mL) twice in order to remove the zeolite template. 
+5. The HSC sample was collected by filtration, thoroughly washed with deionized water and dried at 373 K overnight. 
+6. 0.3 g of the carbon support was dispersed in 100 mL of deionized water. 
+7. Subsequently, 0.042 g of H2PtCl6-5.5H2O (Kojima Chemicals, Japan) was added to the solution. 
+8. The water was evaporated at 353 K under 300 mbar pressure and the resultant sample was dried at 373 K overnight. 
+9. After drying, the sample was reduced at 523 K (ramp: 5 K  min−1) for 3 h under H2 flow (200 mL min−1).

@@ -1,0 +1,11 @@
+question
+synthesis of single atom Cr supported on N-doped graphene, denoted by Cr1/NC
+
+answer
+The catalyst is synthesized by ball-milling and pyrolysis
+
+The synthesis procedures are as followed:
+1. a mixture of melamine (C3H6N6) (8 g), L-alanine (C3H7NO2) (1.5 g) and chromium(III) nitrate nonahydrate (Cr(NO3)3·9H2O) (35 mg) were first ground into a uniform precursor by ball-milling for 1 h in a nylon jar. 
+2. Subsequently, 12 mL of hydrochloric acid (HCl) and 3 mL of ethanol (C2H6O) were added and dried in an oven at 60 °C until the complete evaporation of ethanol. 
+3. Then the fine powder mixture underwent a two-stage pyrolysis under Ar atmosphere. The first stage  was from 25 to 600 °C at a ramping rate of 2.5 °C min−1 and held at 600 °C for 2 h, while the second stage was from 600 to 900 °C at a  ramping rate of 2.5 °C min−1 and held at 900 °C for 1 h. 
+4. After cooling to room temperature, the product was washed with 2 M HCl solution at 80 °C for 24 h to remove possible metal particles and annealed again at 900 °C under Ar.

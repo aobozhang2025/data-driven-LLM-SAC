@@ -1,0 +1,21 @@
+question
+synthesis of single atom Fe supported on ZSM-5 without TPA
+
+answer
+The catalyst is synthesized by seeded growth template-free method. 
+
+ZSM-5 seeds are first prepared:
+1. In the first step, 15 g of colloidal silica (Ludox HS40) was dissolved in 7 mL of a NaOH solution (1 M) under stirring at 100 °C for 1 h. 
+2. A separate solution was prepared by dissolving 0.45 g of sodium aluminate in 7 mL of a NaOH solution (1 M). 
+3. The two solutions were mixed to obtain a synthetic aluminosilicate gel with a molar composition of 4Na2O:1Al2O3:36SiO2:460H2O. 
+4. The gel was stirred vigorously at 100 °C for 2 h and transferred to a stainless-steel autoclave for crystallization at 180 °C for 48 h. 
+5. The obtained crystals were collected by filtration, washed with deionized water, and dried at 100 °C to produce the ZSM-5 seeds.  
+
+After ZSM-5 seed are prepared, the catalyst is synthesized with the following procedures:
+1. 15 g of colloidal silica (Ludox HS40) was dissolved in 7 mL of a NaOH solution (1 M) under stirring at 100 °C for 1 h. 
+2. A separate solution was prepared by dissolving 0.45 g of sodium aluminate in 7 mL of a NaOH solution (1 M). 
+3. The two solutions were mixed to obtain a synthetic aluminosilicate gel with a molar composition of 4Na2O:1Al2O3:36SiO2:460H2O. 
+4.1.5 mL of an aqueous solution containing 0.165 g of iron oxalate (Fe loading: 0.40 wt% in the  final product) and 0.06 g of ZSM-5 seeds were added sequentially to the gel. 
+5. After stirring for 30 min, the mixture was transferred to an autoclave for crystallization at 180 °C for 48 h. 
+6. The obtained crystals were collected by filtration, washed with deionized water, and dried at 80 °C. 
+7. ion exchange with ammonium nitrate followed by calcination in air at 550 °C for 6 h.

@@ -1,0 +1,17 @@
+question
+Synthesis of single atom Co doped by 4 P supported on N-doped carbon
+
+answer
+The catalyst is synthesized by a framework of ZIF synthesis
+
+The synthesis procedures are as followed:
+1. 36.7 mg of Co(NO3)2·6H2O and 293.3 mg Zn(NO3)2·6H2O were dissolved in 90 mL deionized water under stirring to prepare solution 1 
+2. 985 mg of 2-methylimidazole was dissolved in 90 mL deionized with bath sonication assistance for 3 min to prepare solution 2
+3. Then, solution 1 was rapidly  poured into solution 2 and homogenized via ultrasonication for 20 min. 
+4. The mixed  solution was then transferred into a 250 ml flask and stirred for another 12 h at room temperature. 
+5. The as-acquired solid precipitate (marked as CoZn-ZIF) was separated by centrifugation at 7000 rpm and washed with 70% aqueous ethanol solution under ultrasonication for 8 min. 
+6. The centrifugation and ultrasonic washing were repeated four times to remove the residual 2-methylimidazole ligand, and the final product was dried at 65 °C in a vacuum oven for 12h.  
+7. the product was thermally annealed in a tube furnace at 800 °C for 2 h at a ramping rate of 3.3 oC min-1 under the argon protection (150 sccm).
+8. After that, the tube furnace was naturally cooled to room temperature to collect the solid product
+9. the product was placed downstream of the tube furnace and were phosphided by pH3 generated from sufficient amounts of NaH2PO2 (placed upstream) at different temperatures (220 to 500 °C) for 2 h at a ramping rate of 2.5 oC min-1 under the argon protection. 
+10. After that, the tube furnace was cooled to room temperature naturally, and the final product  was obtained.

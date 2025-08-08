@@ -1,0 +1,10 @@
+question
+Synthesis of Rh Supported on γ-Al2O3 (0.2 wt % Rh/γAl2O3)
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Rh(NO3)3·xH2O
+
+The synthesis procedures are as followed:
+1. An appropriate amount of Rh(NO3)3· xH2O precursor was dissolved in HPLC grade water with a volume greater than the pore volume of γ-Al2O3 (SASOL, 574101). 
+2. The precursor solution was introduced to the dry γ-Al2O3 powder dropwise while stirring until a slurry was obtained, indicating that the pore volume of the Al2O3 had been filled. 
+3. The slurry was then left to dry in an isothermal oven overnight at 373 K before being calcined in dry air at 723 K (ramp rate = 10 K min−1) for 4 h to remove precursor counterions.

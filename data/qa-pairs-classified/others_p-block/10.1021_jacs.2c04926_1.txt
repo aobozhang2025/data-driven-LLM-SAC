@@ -1,0 +1,11 @@
+question
+preparation of single atom In supported on HY, denoted by In@HY
+
+answer
+The catalyst is synthesized by impregnation with metal precursor In and support HY zeolite
+
+The synthesis procedures are as followed:
+1. In(NO3)3·xH2O (1.33 g) was dissolved in ultrapure water (3 mL) and then mixed with HY zeolite (3.56 g) calcined at 993 K for 6 h with a molar ratio of SiO2/Al2O3 of 5.4 (Nankai university). 
+2. The resulting slurry was evenly dispersed by the aid of ultrasonic and then dried overnight at room temperature. 
+3. After dried at 333 K and 393 K for 12 h, respectively, the samples were transferred to muffle furnace calcined at 993 K for 6 h. 
+4. Then they were ground  and sieved into 40-60 mesh for reactivity evaluation.

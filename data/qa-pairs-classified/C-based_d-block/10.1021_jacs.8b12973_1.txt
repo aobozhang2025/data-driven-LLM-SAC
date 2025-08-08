@@ -1,0 +1,11 @@
+question
+synthesis of single atom Co doped by N supported on graphene 
+
+answer
+The catalyst is synthesized by impregnation and freeze-drying with metal precursor CoCl2·6H2O and support Graphene oxide (GO)
+
+The synthesis procedures are as followed:
+1. Graphene oxide (GO) suspension was prepared by mixing 100 mg of GO powder with 100 mL of deionized water and sonicating for 3 h to obtain a homogeneous dispersion.  
+2. CoCl2·6H2O (1 mL; 3 mg mL−1) aqueous solution was added dropwise into the GO suspension under vigorous sonication and sonicated for another 30 min, followed by rapid freezing in liquid nitrogen. 
+3. The precursor was freeze-dried at −70 °C. 
+4. The dried precursor was then heated at the rate of 20 °C min−1 to 750 °C under a gas flow of 150 sccm Ar + 50 sccm NH3 and kept at this  temperature for 1 h

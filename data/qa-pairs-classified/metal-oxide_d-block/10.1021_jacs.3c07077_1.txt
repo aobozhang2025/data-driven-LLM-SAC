@@ -1,0 +1,13 @@
+question
+sythesis of single atom Ni supported on CeO2
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ni(NO3)2·6H2O and support CeO2
+
+The synthesis procedures are as followed:
+1. The sodium hydroxide solution (0.01 mol L−1, 35 mL) was added to cerium nitrate solution (0.868 g of Ce(NO3)3·6H2O in 5 mL of deionized H2O) by drops and stirred for 30 min
+2. then the white precipitates were transferred into a 100 mL Teflonlined stainless-steel autoclave and hydrothermally heated for 24 h at 100 °C.
+3. After centrifugation and drying, the obtained samples were calcined at 600 °C for 2 h in an air atmosphere, to get CeO2
+4. 1.0 g of CeO2 was added into 50.0 mL of an aqueous solution of 0.049 gof Ni(NO3)2·6H2O
+5. Then, the extra water was evaporated at 80 °C until dryness.0
+6. After that, the mixture was calcined at 400 °C for 2 h under air.

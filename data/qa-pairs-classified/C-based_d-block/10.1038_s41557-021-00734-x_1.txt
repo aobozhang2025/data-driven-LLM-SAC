@@ -1,0 +1,22 @@
+question
+synthesis of single atom Ir doped by N supported on bulk carbon
+
+answer
+The catalyst is synthesized by impregnation with metal precursor IrCl3∙xH2O and support precursor GQDs–NH2 (graphene quantum dots functionalized with amine)
+
+The support precursor GQDs–NH2 (graphene quantum dots functionalized with amine) are prepared as followed:
+1. 8 grams of pyrene (Sigma, purity >98%) was nitrated into trinitropyrene in 640 millilitres of concentrated HNO3 (70%, Sigma) at 80 °C under refluxing and stirring for 12 h. 
+2. After cooling to room temperature, the mixture was washed to neutral pH using deionized (DI) water (18.2 MΩ) by centrifuging. 
+3. The resultant yellow 1,3,6-trinitropyrene was then dried under vacuum at room temperature. 
+4. Next, 1.2 grams of dried 1,3,6-trinitropyrene powder were dispersed into a solution containing 220 millilitres of DI water and 20 millilitres of concentrated ammonia solution (30%, Sigma). 
+5. The above mixture was ultrasonicated in ice water using a batch sonicator for 4 h. 
+6. Sixty millilitres of the homogeneous suspension were transferred into a Teflon-lined autoclave (100 millilitres). 
+7. The four autoclaves (total 240 millilitres mixture solution) were heated at 200 °C for 10 h. 
+8. After natural cooling to room temperature, all the product-containing solution was filtered through a 0.22 μm microporous membrane to remove insoluble carbon product and further concentrated to ~90 millilitres by rotation drying.  
+
+After the preparation of GQDs–NH2 (graphene quantum dots functionalized with amine), the synthesis procedures are as followed:
+1. First, 1 gram of IrCl3∙xH2O (Alfa Aesar) was dissolved into 200 millilitres of DI water to prepare the IrCl3 stock solution with a concentration of ~5 milligrams per millilitre. 
+2. 7 millilitres of IrCl3 stock solution were added to ~30 millilitres of purified GQDs–NH2 solution (~30 milligrams of GQDs–NH2). 
+3. Then, the mixture solution was sonicated in ice water for 15 min, followed by being quickly frozen in liquid nitrogen. 
+4. After freeze drying, the as-prepared aerogel-like powder was mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and kept at the same temperature for another 2 h before cooling to room temperature. 
+5. Finally, the powder was collected.

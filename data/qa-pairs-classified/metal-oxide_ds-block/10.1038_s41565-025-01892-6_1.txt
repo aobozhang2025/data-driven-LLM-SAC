@@ -1,0 +1,16 @@
+question
+preparation of single atom Cu supported on ZSM-5
+
+answer
+The catalyst is prepared by impregnation with metal precursor CuSO4·5H2O and support ZSM-5
+
+The synthesis procedures are as followed:
+1. 1 g of ZSM-5 was dispersed in 50 ml of ethanol by magnetic stirring. 
+2. Subsequently, 10 mg of CuSO4·5H2O (Sinopharm Chemical Reagent) was ultrasonically dissolved in 50 ml of deionized water, and this solution was added into the ZSM-5 suspension. 
+3. After vigorous stirring for 12 h, CuZSM SA was successfully obtained. 
+4. The obtained products were thoroughly washed with deionized water and ethanol, followed by centrifugation. 
+5. Subsequently, they were dried in an oven at 60 °C to remove any residual solvents, resulting in the final CuZSM SA product. 
+6. The dried product was meticulously ground into a fine powder for further use. 
+7. Subsequently, the porcelain boat-containing CuZSM SA was gradually heated to 550 °C at a heating rate of 5 °C min−1 in a 5% H2/Ar atmosphere. 
+8. The sample was maintained at this temperature for 6 h to ensure complete reduction. 
+9. natural cooling to room temperature

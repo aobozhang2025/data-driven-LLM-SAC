@@ -1,0 +1,12 @@
+question
+synthesis of single atom Ru doped by N supported on carbon
+
+answer
+The catalyst is synthesized by a framework of ZIF-8 synthesis
+
+The catalyst is prepared as followed:
+1. 79.2 mmol of 2-methylimidazole was dissolved in 80 mL of methanol with vigorous stirring
+2. then 10.1 mmol Zn(NO3)3·6H2O with 0.52 mmol of Ru(acac)3 in 40 mL  methanol was poured into above solution with vigorous stirring for 24 h at room temperature. 
+3. The obtained precipitates were separated by centrifugation and washed with methanol for several times and finally dried in vacuum at 50 °C for overnight. 
+4. The as-obtained precursor was transferred into a quartz boat and placed in a tube furnace, then heated to the desired temperature (950 °C) for 1 h at the heating rate of  5 °C·min-1 under flowing10% H2/Ar mix gas and then naturally cooled to room temperature, 
+5. then prebleached in 1 M HNO3 to remove unstable species.

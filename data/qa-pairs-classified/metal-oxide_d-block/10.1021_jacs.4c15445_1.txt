@@ -1,0 +1,12 @@
+question
+Synthesis of single atom Rh supported on MFI
+
+answer
+The catalyst is synthesized as followed:
+1. Firstly, a tetrapropylammonium hydroxide (TPAOH) solution was prepared by mixing 8.12 g of TPAOH (40 wt%) and 20.12 g of distilled water at room temperature. 
+2. Then, 8.24 g of tetraethyl orthosilicate (TEOS) were hydrolyzed with TPAOH solution at room temperature for 6 h under stirring
+(500 r.p.m.). 
+3. 300 μL of RhCl3 aqueous solution (0.4 mol/L) and 300 μL of ethylenediamine were added to the mixture of TEOS-TPAOH-water while stirring was kept for 20 min. 
+4. The resultant yellow solution was then transferred to Teflon-lined autoclave and heated in an electric oven at 100 oC for 24  h under static conditions. 
+5. After the hydrothermal process, the solid product was isolated by centrifugation and washed with distilled water and acetone and then dried at 60 °C. 
+6. Then the solid  sample was calcined in static air at 560 °C for 8 h and then reduced by H2 (5% H2 in argon) at 600 °C  for 2 h.

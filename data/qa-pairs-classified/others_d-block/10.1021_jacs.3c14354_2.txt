@@ -1,0 +1,15 @@
+question
+Synthesis of single atom Fe supported on WxC, denoted by Fe-WxC. 
+
+answer
+The catalyst is synthesized by impregnation with metal precursor hydroxydiacetyl iron hydrate
+
+The synthesis procedures are as followed:
+1. Firstly, 0.142 g of ammonium tungstate was stirred in 40 mL of deionized water for 30 min and the pH of solution was adjusted to be 8 with ammonia hydroxide. 
+2. 0.189 g of dopamine hydrochloride was then added and stirred for 30 min following with the addition of ethanol and stirring for 12 h. 
+3. The powder collected after centrifugation was washed completely with deionized water and ethanol, respectively, and dried at 60 °C. 
+4. The obtained product denoted as DA-W was used as the precursor for synthesizing tungsten carbide.  
+5. The DA-W powder was mixed with 0.05 mmol hydroxydiacetyl iron hydrate in 50 ml of deionized water. 
+6. After fully mixing, the resulting dried powder after centrifugation was denoted as Fe-DA-W. 
+7. The Fe-DA-W powder was then heated to 850 °C  with a ramping rate of 5 °C/min under N2 and maintained for 4 h. 
+8. The final powder was denoted as Fe-WxC.

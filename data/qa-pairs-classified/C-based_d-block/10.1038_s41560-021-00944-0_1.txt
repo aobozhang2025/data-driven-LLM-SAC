@@ -1,0 +1,12 @@
+question
+Preparation of single atom Ti supported on reduced graphite oxide
+
+answer
+The catalyst is synthesized by impregnation with metal precursor Ti salt (titanium diisopropoxide bis(acetylacetonate)) and support reduced graphite oxide
+
+The synthesis procedures are as followed:
+1. First, 400 mg of graphite oxide was dispersed into 120 ml of isopropanol. 
+2. Then, 20 μl of organic Ti salt (titanium diisopropoxide bis(acetylacetonate)) was added into the above solution with continuous magnetic stirring, followed by ultrasonic dispersion for 1 h and magnetic stirring for 20 h. 
+3. Afterwards, the above dispersion solution was centrifuged and the resulting precipitation was dried at 85 °C in vacuum for 24 h. 
+4. Thereafter, the obtained powder was calcinated at 550 °C for 2 h in a high-purity N2 atmosphere. 
+5. After cooling to room temperature, the fluffy black powder was obtained

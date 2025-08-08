@@ -1,0 +1,8 @@
+question
+synthesis of single atom Pt supported on nanozyme, denoted by Pt-SAzyme
+
+answer
+1. 1.33  mg H2PtCl6·6H2O dispersed in 1.33 mL methanol was added into 100 mL methanol containing 100 mg NPS-HC and stirred for 24 h. 
+2. Then the powder was collected, washed and finally dried in vacuum at 80 °C for 12 h. 
+3. Subsequently, the powder was placed in quartz boat and maintained 200 °C for 2 h in a tube furnace with a heating rate of  2.5 °C min-1 under flowing nitrogen atmosphere. 
+4. When it finished, the as-prepared sample marked as Pt-SAzyme, was collected and used without any post-treatment.

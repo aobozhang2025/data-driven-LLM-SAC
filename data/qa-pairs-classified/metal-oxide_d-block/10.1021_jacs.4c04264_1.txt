@@ -1,0 +1,10 @@
+question
+Preparation of single atom Mn supported on Co3O4, denoted by Mn/Co3O4  
+
+answer
+The catalyst is synthesized by impregnation with metal precursor CoCl2·6H2O
+
+The synthesis procedures are as followed:
+1. CoCl2·6H2O (0.85 g), NaCl (0.34 g) and hexamethylenetetramine (2 g) were dispersed in the 200 mL aqueous solution containing 180 mL of H2O and 20 mL of ethanol. 
+2. Then, a certain amount of MnCl2 was added to the above homogeneous solution under stirring, followed by conducting the oil bath under 90 °C for 3 h, next dried at 80 °C for 24 h. 
+3. Finally,  the powder was calcined at 450 °C for 2 h with a heating rate of 5 °C/min in an air atmosphere
