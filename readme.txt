@@ -24,6 +24,6 @@ To simiplify the code validation process, we write each method in Python in a se
 
 11. in the SAC_metrics folder, there is a test.xslx file as the mode file to calculate the SAC metrics of each generated answers manually
 
-12. Save those excel files in different folders named by model names in folder SAC-metrics
+12. Save those excel files in different folders named by weight combinations for each LLM
 
 13. run calculate_SAC_metric.py to get the average scores of those SAC metrics
